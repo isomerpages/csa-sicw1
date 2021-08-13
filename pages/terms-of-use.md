@@ -2,7 +2,6 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-
 ### **Terms of Use**
 
 Thank you for visiting the Singapore International Cyber Week  website. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.
@@ -23,7 +22,7 @@ Click [here](/privacy/) to review this website's Privacy Statement.
 
 Except as otherwise provided, the Contents of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of CSA.
 
-Modification of any of the Contents or use of the Contents for any other purpose will be a violation of CSA's copyright and other intellectual property rights. Graphics and images on this website are protected by copyright and may not be reproduced or appropriated in any manner without written permission of CSA.
+Modification of any of the Contents or use of the Contents for any other purpose will be a violation of CSA's copyright and other intellectual property rights. Graphics and images on this website, are protected by copyright and may not be reproduced or appropriated in any manner without written permission of CSA.
 
 #### Disclaimer
 
