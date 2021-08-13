@@ -4,7 +4,7 @@ permalink: /terms-of-use/
 ---
 ### **Terms of Use**
 
-Thank you for visiting the Cyber Security Agency (CSA) of Singapore website. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.
+Thank you for visiting the Singapore International Cyber Week  website. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.
 
 #### General
 
@@ -12,7 +12,7 @@ These Terms of Use may be changed from time to time. Changes will be posted on t
 
 #### Proprietary Rights
 
-This website is maintained by CSA. The materials located on this website including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by CSA.
+This website is maintained by Cyber Security Agency (CSA) of Singapore. The materials located on this website including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by CSA.
 
 #### Privacy Policy
 
@@ -39,7 +39,7 @@ CSA reserves all rights to deny or restrict access to this website to any partic
 
 #### Links from this website to other websites
 
-This website contains hyperlinks to websites which are not maintained by CSA. CSA is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
+This website contains hyperlinks to websites which are not maintained by CSA. CSA is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to hose websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
 
 Hyperlinks to other websites are provided as a convenience. In no circumstances shall CSA be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this website is linked.
 
