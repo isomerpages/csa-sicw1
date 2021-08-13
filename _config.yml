@@ -2,8 +2,8 @@ title: Singapore International Cyber Week
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#1a1d39"
-  secondary-color: "#0074b6"
+  primary-color: "#0074b6"
+  secondary-color: "#1a1d39"
   media-colors:
     - title: media-color-one
       color: "#49759a"
