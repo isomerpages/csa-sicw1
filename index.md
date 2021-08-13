@@ -7,5 +7,5 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/SICW_HomeBanner.jpg
+      background: /images/SICW_HomeBanner_v210813-1.jpg
 ---
