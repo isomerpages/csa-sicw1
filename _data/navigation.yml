@@ -1,13 +1,2 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
-links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Test
-    url: /test/
+logo: /images/logo_sicw.png
+links: []
