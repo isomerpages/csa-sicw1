@@ -2,6 +2,8 @@
 title: Events Calendar
 permalink: /events-calendar
 ---
+# Calendar V1
+
 #### **4 October 2021** (Monday)
 
 | 9am to 5pm     | International Advisory Panel - TBC     |
@@ -15,7 +17,7 @@ permalink: /events-calendar
 | 8.25pm to 9.45pm     | SICW Ministerial Roundtable (Opening Session) *[Hybrid]*     |
 | 9.45pm to 10.45pm     | SICW Conversations (Tech) *[Virtual]*     |
 
-# V2
+# Calendar V2
 
 | **4 October 2021**     |      |
 | 9am to 5pm     | International Advisory Panel - TBC     |
@@ -29,7 +31,7 @@ permalink: /events-calendar
 | **6 October 2021**     |      |
 | TBC     | Lorem Ipsum     |
 
-# V3
+# Calendar V3
 
 #### **4 October 2021** (Monday)
 
