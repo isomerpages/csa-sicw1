@@ -2,7 +2,7 @@
 title: David Koh
 permalink: /david-koh
 ---
-![David Koh](/images/speakers/speaker-full-left-test.jpg)
+![David Koh](/images/speakers/speaker-full-left-test-2.jpg)
 
 #### DAVID KOH
 
