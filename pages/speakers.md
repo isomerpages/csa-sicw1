@@ -5,7 +5,7 @@ permalink: /speakers
 #### V1
 
 | Hubert Le Van Gong     | Senior Cryptography Strategist / PayPal     |
-| Jonathan Nguyen-Duy     | Vice President, Strategy & Analytics / Fortinet     |
+| [Jonathan Nguyen-Duy](/test-about)     | Vice President, Strategy & Analytics / Fortinet     |
 | Apichet Chayabejara     | Solutions Architect, Asia Pacific & Japan / CyberArk     |
 | Text     | Text     |
 
@@ -15,4 +15,3 @@ permalink: /speakers
 | Jonathan Nguyen-Duy     | Vice President, Strategy & Analytics     | Fortinet     |
 | Apichet Chayabejara     | Solutions Architect, Asia Pacific & Japan     | CyberArk     |
 | Text     | Text     | Text     |
-
