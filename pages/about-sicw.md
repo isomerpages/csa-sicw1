@@ -1,7 +1,8 @@
 ---
 title: About SICW
-permalink: /about-sicw
+permalink: /test-about
 ---
+
 ![SICW](/images/logos/logo-sicw-full.png)
 
 ![SICW](/images/logos/logo-sicw-full-wspace.png)
