@@ -26,7 +26,7 @@ permalink: /events-calendar
 
 8pm to 9.30pm  
 **SICW Kick-off Fireside Chat**  
-*[Virtual] *
+*[Virtual]*
 
 #### **5 October 2021** *(Tuesday)*
 
