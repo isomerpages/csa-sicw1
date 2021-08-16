@@ -39,3 +39,9 @@ TEST LOGOS TABLE
 
 | Held in     | Organised by     |
 | ![SG](/images/logos/logo-singapore.png)     | ![CSA SG](/images/logos/logo-csa-sg.png)     |
+
+TEST LOGOS TABLE 2 
+
+| Held in  
+![SG](/images/logos/logo-singapore.png) | Organised by  
+![CSA SG](/images/logos/logo-csa-sg.png) |
