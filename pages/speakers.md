@@ -2,16 +2,26 @@
 title: Speakers
 permalink: /speakers
 ---
-#### V1
+#### Day 1
 
-| Hubert Le Van Gong     | Senior Cryptography Strategist / PayPal     |
-| [Jonathan Nguyen-Duy](/test-about)     | Vice President, Strategy & Analytics / Fortinet     |
-| Apichet Chayabejara     | Solutions Architect, Asia Pacific & Japan / CyberArk     |
-| Text     | Text     |
+| [Hubert Le Van Gong](/david-koh)     | Senior Cryptography Strategist / PayPal     |
+| [Jonathan Nguyen-Duy](/david-koh)     | Vice President, Strategy & Analytics / Fortinet     |
+| [Apichet Chayabejara](/david-koh)     | Solutions Architect, Asia Pacific & Japan / CyberArk     |
+| [Hubert Le Van Gong](/david-koh)     | Senior Cryptography Strategist / PayPal     |
+| [Jonathan Nguyen-Duy](/david-koh)     | Vice President, Strategy & Analytics / Fortinet     |
+| [Apichet Chayabejara](/david-koh)     | Solutions Architect, Asia Pacific & Japan / CyberArk     |
+| [Hubert Le Van Gong](/david-koh)     | Senior Cryptography Strategist / PayPal     |
+| [Jonathan Nguyen-Duy](/david-koh)     | Vice President, Strategy & Analytics / Fortinet     |
+| [Apichet Chayabejara](/david-koh)     | Solutions Architect, Asia Pacific & Japan / CyberArk     |
 
-#### V2
+#### Day 2
 
-| Hubert Le Van Gong     | Senior Cryptography Strategist     | PayPal     |
-| Jonathan Nguyen-Duy     | Vice President, Strategy & Analytics     | Fortinet     |
-| Apichet Chayabejara     | Solutions Architect, Asia Pacific & Japan     | CyberArk     |
-| Text     | Text     | Text     |
+| [Hubert Le Van Gong](/david-koh)     | Senior Cryptography Strategist / PayPal     |
+| [Jonathan Nguyen-Duy](/david-koh)     | Vice President, Strategy & Analytics / Fortinet     |
+| [Apichet Chayabejara](/david-koh)     | Solutions Architect, Asia Pacific & Japan / CyberArk     |
+| [Hubert Le Van Gong](/david-koh)     | Senior Cryptography Strategist / PayPal     |
+| [Jonathan Nguyen-Duy](/david-koh)     | Vice President, Strategy & Analytics / Fortinet     |
+| [Apichet Chayabejara](/david-koh)     | Solutions Architect, Asia Pacific & Japan / CyberArk     |
+| [Hubert Le Van Gong](/david-koh)     | Senior Cryptography Strategist / PayPal     |
+| [Jonathan Nguyen-Duy](/david-koh)     | Vice President, Strategy & Analytics / Fortinet     |
+| [Apichet Chayabejara](/david-koh)     | Solutions Architect, Asia Pacific & Japan / CyberArk     |
