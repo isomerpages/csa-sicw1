@@ -1,7 +1,8 @@
 ---
 title: Events Calendar
-permalink: /events-calendar
+permalink: /events-calendar-test
 ---
+
 # Calendar V1
 
 #### **4 October 2021** (Monday)
