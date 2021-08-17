@@ -6,9 +6,9 @@ permalink: /fireside-chat
 
 **4 October 2021, 8pm to 9.30pm**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. 
+The Fireside Chat will set the stage for the rest of the events at SICW 2021 by kicking off a lively session on the intricacies of digital adjacencies, and strategies to advance cyber stability and resilience, as well as augment the potentials of public-private partnerships.
 
-Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+Digital transformation, brought forth by new technologies and accelerated by COVID-19, has changed the operating landscape for countries and societies across the world. Global connectivity and interdependency have increased our reliance on shared digital infrastructure, tools and applications, the entanglement of businesses and supply chain, as well as the ease of social connections. These developments bring along new and enhanced risks on national security, unequal economic development, business continuity and social resilience. What then, does this mean, to the stakeholders of the digital future? How can we traverse the digital terrain for a more prosperous, secure and safer world? Join our esteemed panellists for an exciting conversation on the macro-trends of technology, how these trends are causing shifts in global power dynamics, and how nations and corporations can collaborate to navigate the risks and challenges together. 
 
 *Format: Virtual*
 
