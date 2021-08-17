@@ -45,7 +45,7 @@ Alongside the shift of business meetings towards a hybrid model, CSA will be org
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-| ![Alt text for image on Isomer site](/images/logos/logo-sg-half-wspace.png)     |<h3>Lorem ipsum</h3> dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. <br><br>Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad l    | Text     |
+| ![Alt text for image on Isomer site](/images/logos/logo-sg-half-wspace.png)     |<b>Lorem ipsum</b> dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. <br><br>Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad l    | Text     |
 
 
 
