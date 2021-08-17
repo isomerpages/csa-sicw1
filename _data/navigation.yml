@@ -1,2 +1,4 @@
 logo: /images/logo_sicw.png
-links: []
+links:
+  - title: Articles
+    resource_room: true
