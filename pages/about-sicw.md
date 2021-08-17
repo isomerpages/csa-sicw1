@@ -59,4 +59,4 @@ Alongside the shift of business meetings towards a hybrid model, CSA will be org
 ##### LOGO WITH SIDE SPACE
 
 | Held in     | Organised by     |
-| ![SG](/images/logos/logo-sg-half-wspace.png)     | ![CSA SG](/images/logos/logo-csa-sg-half-wspace.png)     |
+|      | ![SG](/images/logos/logo-sg-half-wspace.png) |     |   | ![CSA SG](/images/logos/logo-csa-sg-half-wspace.png)     |    |
