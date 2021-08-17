@@ -4,7 +4,8 @@ permalink: /fireside-chat
 ---
 #### Fireside Chat
 
-**4 October 2021, 8pm to 9.30pm**
+**4 October 2021 (Monday)**  
+*8pm to 9.30pm*
 
 The Fireside Chat will set the stage for the rest of the events at SICW 2021 by kicking off a lively session on the intricacies of digital adjacencies, and strategies to advance cyber stability and resilience, as well as augment the potentials of public-private partnerships.
 
