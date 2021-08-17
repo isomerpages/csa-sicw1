@@ -10,4 +10,4 @@ The sixth edition of SICW will take place from 4 to 8 October 2021, under the th
 
 Alongside the shift of business meetings towards a hybrid model, CSA will be organising SICW 2021 as a combination of inter-linked physical and virtual meetings that will allow key leaders from governments, industry, academia and non-government organisations to explore the future of cyberspace cooperation from a broader range of perspectives.
 
-|      ![SG](/images/logos/logo-sg-half-wspace-h150.png)  | ![Alt text for image on Isomer site](/images/logos/logo-csa-sg-half.png)  |
+|      ![SG](/images/logos/logo-sg-half-wspace-h150.png)  | ![Alt text for image on Isomer site](/images/logos/logo-csa-sg-half-wspace-h150.png)  |
