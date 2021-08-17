@@ -58,7 +58,7 @@ Alongside the shift of business meetings towards a hybrid model, CSA will be org
 
 ##### FULL LOGO WITH EMPTY COLS
 
-|               | ![SG](/images/logos/logo-sg-half.png)|               | ![CSA SG](/images/logos/logo-csa-sg-half.png) |                    |
+|   &nbsp;  &nbsp;  &nbsp;  | ![SG](/images/logos/logo-sg-half.png)|   &nbsp;  &nbsp;  &nbsp;  | ![CSA SG](/images/logos/logo-csa-sg-half.png) |   &nbsp;  &nbsp;  &nbsp; |
 
 ##### LOGO WITH SIDE SPACE
 
