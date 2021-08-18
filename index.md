@@ -16,11 +16,13 @@ sections:
           description: Lorem ipsum dolor sit amet
           url: /about-sicw
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
-      url: /#
+      title: SICW
+      subtitle: About
+      description: "Held annually, SICW is the region’s most established cybersecurity
+        event. An ideal platform to network, strategise and form partnerships in
+        the cybersecurity.. "
+      button: read more
+      url: /about-sicw
   - infopic:
       title: Mr TEO Chee Hean
       subtitle: Guest of Honor
