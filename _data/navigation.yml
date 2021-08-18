@@ -6,3 +6,5 @@ links:
     collection: events
   - title: Media
     collection: media
+  - title: Resources
+    resource_room: true
