@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - calendar-of-events.md
+      - calendar-of-events-test.md
       - fireside-chat.md
       - global-forum-on-cyber-expertise-gfce.md
       - govware-2021.md
@@ -10,4 +11,3 @@ collections:
       - ministerial-roundtable-opening-session.md
       - sicw-conversation-policy.md
       - sicw-conversation-tech.md
-      - calendar-of-events-test.md
