@@ -8,4 +8,11 @@ notification: ""
 sections:
   - hero:
       background: /images/SICW_HomeBanner_v210813-2.jpg
+      key_highlights:
+        - title: Registration
+          description: Key Highlight description
+          url: /#
+        - title: Virtual Platform
+          description: ""
+          url: /about-sicw
 ---
