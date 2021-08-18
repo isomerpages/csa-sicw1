@@ -10,7 +10,7 @@ The media accreditation principles below are intended to give the media as much 
 
 Media accreditation will commence on **8 September 2021 and close on noon of 22 September 2021**. All media accreditation applications will be subject to the approval of Cyber Security Agency of Singapore (CSA) and Hill+Knowlton Strategies (H+K Strategies).
 
-To access the online accreditation form, please email sicw2020media@hkstrategies.com. 
+To access the online accreditation form, please email [sicw2020media@hkstrategies.com](mailto:sicw2020media@hkstrategies.com). 
 
 #### 1.2 Accreditation Principles
 
@@ -76,4 +76,4 @@ viii.	The media pass is **NON-TRANSFERABLE**. It may only be used by the person 
 **Natalie Phay**  
 Hill+Knowlton Strategies  
 Contact: [+65 6390 3357](tel:+6563903357)  
-Email:
+Email:[ sicw2020media@hkstrategies.com](mailto:sicw2020media@hkstrategies.com)
