@@ -76,4 +76,4 @@ viii.	The media pass is **NON-TRANSFERABLE**. It may only be used by the person 
 **Natalie Phay**  
 Hill+Knowlton Strategies  
 Contact: [+65 6390 3357](tel:+6563903357)  
-Email: 
+Email:
