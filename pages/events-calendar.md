@@ -11,14 +11,14 @@ Event dates and timings below are in Singapore time (GMT +8), and are accurate a
 | **4 October 2021** *(Monday)*     |      |
 | 9.00am - 5pm     | International Advisory Panel     |
 | 8.00pm - 9.30pm     | [SICW Fireside Chat](/fireside-chat)     |
-| <br><br> **5 October 2021** *(Tuesday)*     |      |
+| <br> **5 October 2021** *(Tuesday)*     |      |
 | 9.00am - 5.00pm     | GovWare 2021     |
 | 9.00am – 5.00pm     | ASEAN CERT Incident Drill    |
 | 9.00am – 7.30pm     | International Advisory Panel     |
 | 8.00pm - 8.25pm     | SICW Opening Ceremony     |
 | 8.25pm - 9.45pm     | [SICW Ministerial Roundtable Opening Session](/ministerial-roundtable-opening) *[By Invitation Only]*     |
 | 9.45pm - 10.45pm     | [SICW Conversations 1 (Tech)](/sicw-conversation-tech)     |
-| <br><br> **6 October 2021** *(Wednesday)*  <br><br>    |      |
+| <br><br> **6 October 2021** *(Wednesday)*     |      |
 | 9.00am - 5.00pm     | GovWare 2021     |
 | 1.30pm – 2.00pm     | AMCC Opening Ceremony     |
 | 2.00pm - 3.45pm     | ASEAN Ministerial Conference on Cybersecurity (AMCC) *[By Invitation Only]*     |
