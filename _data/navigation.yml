@@ -8,3 +8,14 @@ links:
     collection: media
   - title: Resources
     resource_room: true
+  - title: Contact
+    url: /#
+    sublinks:
+      - title: FAQs
+        url: /faq
+      - title: Enquiry
+        url: /contact-us
+  - title: Register
+    url: /#
+  - title: Virtual Platform
+    url: https://www.google.com/
