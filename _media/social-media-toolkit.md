@@ -2,8 +2,7 @@
 title: Social Media Toolkit
 permalink: /media/social-media-toolkit
 ---
-#### **Singapore International Cyber Week 2021  
-Social Media Toolkit**
+#### **Singapore International Cyber Week 2021 - Social Media Toolkit**
 
 Help us spread the word about #SICW2021! This toolkit contains background information and suggested social media posts you can use to let your networks know that you are participating in the event. 
 
@@ -17,18 +16,17 @@ SICW 2021 will be held from 4 to 8 October 2021 through a combination of inter-l
 
 For more information on SICW 2021, please visit [https://www.csa.gov.sg/sicw2020/about](https://www.csa.gov.sg/sicw2020/about). 
 
-
-##### Social Media Handles
+##### **Social Media Handles**
 
 We are using LinkedIn, Facebook and Twitter  to spread the word about the event. Help us by posting updates and shout-outs about your participation in SICW on your own social media channels. Remember to tag our social media channels too: 
-+ @SICWSG LinkedIn: https://www.linkedin.com/company/SICWSG
-+ @SICWSG on Facebook: https://www.facebook.com/SICWSG/
-+ @SICWSG Twitter: https://twitter.com/SICWSG/ 
++ @SICWSG LinkedIn: [https://www.linkedin.com/company/SICWSG](https://www.linkedin.com/company/SICWSG)
++ @SICWSG on Facebook: [https://www.facebook.com/SICWSG/](https://www.facebook.com/SICWSG/)
++ @SICWSG Twitter: [https://twitter.com/SICWSG/ ](https://twitter.com/SICWSG/ )
 
-**Official 2021 SICW Hashtag**
+##### **Official 2021 SICW Hashtag**
 + #SICW2021
 
-Suggested Posts
+##### **Suggested Posts**
 
 + I look forward to participating in this year’s [tag @SICWSG] that will be held from 4 – 8 Oct 2021! Register for #SICW2021 and join me at the [SICW event name] on [Insert date] Oct: https://go.gov.sg/sicw2020-registration
 + Join me at this year’s [tag @SICWSG], where I will be speaking on [Insert Presentation Title/Topic] on [Insert date] Oct. Register now: https://go.gov.sg/sicw2020-registration   #SICW2021
