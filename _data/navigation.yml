@@ -2,3 +2,5 @@ logo: /images/logo_sicw.png
 links:
   - title: About SICW
     url: /about-sicw
+  - title: Events
+    collection: events
