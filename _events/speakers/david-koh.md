@@ -5,7 +5,7 @@ third_nav_title: Speakers
 ---
 ![David Koh](/images/speakers/speaker-full-left-test-2.jpg)
 
-#### DAVID KOH
+#### **DAVID KOH**
 
 *Commissioner of Cybersecurity & Chief Executive*  
 Cyber Security Agency of Singapore
