@@ -6,6 +6,7 @@ permalink: /speakers
 
 | [Hubert Le Van Gong](/david-koh)     | Senior Cryptography Strategist / PayPal     |
 |      | 	[Operational Technology (OT) Cybersecurity Competency Workshop](/#)     |
+|      | 	[SICW Conversations 2 (Operations)](/#)     |
 | [Jonathan Nguyen-Duy](/david-koh)     | Vice President, Strategy & Analytics / Fortinet     |
 |      | [SICW Fireside Chat](/fireside-chat)     |
 | [Apichet Chayabejara](/david-koh)     | Solutions Architect, Asia Pacific & Japan / CyberArk     |
