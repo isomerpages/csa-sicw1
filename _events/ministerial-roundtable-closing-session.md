@@ -2,7 +2,7 @@
 title: Ministerial Roundtable (Closing Session)
 permalink: /ministerial-roundtable-closing
 ---
-#### Ministerial Roundtable (Closing Session)
+#### **Ministerial Roundtable (Closing Session)**
 
 **7 October 2021 (Thursday)**  
 *8pm to 9.30pm*
