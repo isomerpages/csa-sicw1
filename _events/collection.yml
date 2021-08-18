@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - calendar-of-events.md
+      - fireside-chat.md
