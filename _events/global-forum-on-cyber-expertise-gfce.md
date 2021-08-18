@@ -2,7 +2,7 @@
 title: Global Forum on Cyber Expertise (GFCE)
 permalink: /gfce
 ---
-#### Global Forum on Cyber Expertise (GFCE)
+#### **Global Forum on Cyber Expertise (GFCE)**
 
 **7 October 2021 (Thursday)**  
 *9am to 1pm*
