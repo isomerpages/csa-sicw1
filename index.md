@@ -10,10 +10,10 @@ sections:
       background: /images/SICW_HomeBanner_v210813-2.jpg
       key_highlights:
         - title: Registration
-          description: Key Highlight description
+          description: Lorem ipsum dolor sit amet
           url: /#
         - title: Virtual Platform
-          description: ""
+          description: Lorem ipsum dolor sit amet
           url: /about-sicw
   - infobar:
       title: Infobar Title
@@ -34,4 +34,8 @@ sections:
         Event: SICW Fireside Chat | Date/Time: 4 October 2021, 8.00pm - 9.30pm"
       button: Button Text
       alt: Image alt text
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
