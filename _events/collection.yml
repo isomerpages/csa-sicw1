@@ -2,5 +2,5 @@ collections:
   events:
     output: true
     order:
-      - calendar-of-events.md
       - fireside-chat.md
+      - calendar-of-events.md
