@@ -2,8 +2,6 @@ collections:
   events:
     output: true
     order:
-      - speakers/.keep
-      - speakers/david-koh.md
       - calendar-of-events.md
       - calendar-of-events-test.md
       - 4-october-2021/.keep
@@ -15,3 +13,5 @@ collections:
       - global-forum-on-cyber-expertise-gfce.md
       - ministerial-roundtable-closing-session.md
       - sicw-conversation-policy.md
+      - speakers/.keep
+      - speakers/david-koh.md
