@@ -20,18 +20,20 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
+      url: /#
   - infopic:
       title: Mr TEO Chee Hean
       subtitle: Guest of Honor
-      description: "Senior Minister and Coordinating Minister for National
-        Security<br>Event: SICW Opening Ceremony  <p>Date/Time: 5 October 2021,
-        8.00pm – 8.25pm</p>"
+      description: "SeniorMinister and Coordinating Minister for National
+        Security<br><br>Event: SICW Opening Ceremony<br>Date/Time: 5 October
+        2021, 8.00pm – 8.25pm"
       alt: Image alt text
   - infopic:
       title: "Dr Rebecca Fatima "
       subtitle: Guest of Honor
-      description: "Sta Maria, Executive Director, APEC Secretariat, Singapore |
-        Event: SICW Fireside Chat | Date/Time: 4 October 2021, 8.00pm - 9.30pm"
+      description: "Sta Maria, Executive Director, APEC Secretariat,
+        Singapore<br><br>Event: SICW Fireside Chat<br>Date/Time: 4 October 2021,
+        8.00pm - 9.30pm"
       button: Button Text
       alt: Image alt text
   - resources:
