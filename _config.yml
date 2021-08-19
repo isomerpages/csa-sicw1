@@ -52,4 +52,4 @@ plugins:
 staging: https://csa-sicw1-staging.netlify.app
 prod: https://csa-sicw1-prod.netlify.app
 google_analytics: "277915721"
-resources_name: articles
+resources_name: resources
