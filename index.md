@@ -30,7 +30,7 @@ sections:
         Security<br><br>Event: SICW Opening Ceremony<br>Date/Time: 5 October
         2021, 8.00pm – 8.25pm"
       alt: Image alt text
-      image: /images/Mr%20TEO%20Chee%20Hean.jpg
+      image: /images/MrTeoCheeHean.png
   - infopic:
       title: Mrs Josephine TEO
       subtitle: Guest of Honor
