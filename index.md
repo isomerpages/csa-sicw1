@@ -26,7 +26,7 @@ sections:
   - infopic:
       title: Mr TEO Chee Hean
       subtitle: Guest of Honor
-      description: "SeniorMinister and Coordinating Minister for National
+      description: "Senior Minister and Coordinating Minister for National
         Security<br><br>Event: SICW Opening Ceremony<br>Date/Time: 5 October
         2021, 8.00pm – 8.25pm"
       alt: Image alt text
@@ -34,11 +34,11 @@ sections:
   - infopic:
       title: Mrs Josephine TEO
       subtitle: Guest of Honor
-      description: "Sta Maria, Executive Director, APEC Secretariat,
-        Singapore<br><br>Event: SICW Fireside Chat<br>Date/Time: 4 October 2021,
-        8.00pm - 9.30pm"
+      description: "Minister for Communications and Information and Second Minister
+        for Home Affairs "
       button: Button Text
       alt: Image alt text
+      image: /images/MrsJosephineTeo.png
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
