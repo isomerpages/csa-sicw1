@@ -4,6 +4,7 @@ permalink: /fireside-chat
 third_nav_title: 4 October 2021
 ---
 #### **Fireside Chat**
+![Alt text for image on Isomer site](/images/EventBanner_AMCC.jpg)
 
 **4 October 2021 (Monday)**  
 *8pm to 9.30pm*
