@@ -1,9 +1,10 @@
 ---
 title: Remarks by Mr S Iswaran
 date: 2020-10-09
-permalink: /articles/article-or-publications/s-iswaran
+permalink: /resources/article-or-publications/s-iswaran
 layout: post
 ---
+
 
 #### Remarks by Mr S Iswaran, Minister for Communications and Information and Minister-in-charge of Cybersecurity at SICW 2020 Joint Press Conference
 
