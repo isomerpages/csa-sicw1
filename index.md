@@ -37,7 +37,7 @@ sections:
       alt: Image alt text
       image: /images/MrsJosephineTeo_650.png
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
+      title: SICW Happenings
+      subtitle: Explore
       button: Resources Button Name
 ---
