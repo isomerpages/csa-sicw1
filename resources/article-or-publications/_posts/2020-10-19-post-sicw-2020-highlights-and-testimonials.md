@@ -6,7 +6,7 @@ layout: post
 ---
 #### **Singapore International Cyber Week 2020 - Highlights and Testimonials**
 
-![Alt text for image on Isomer site](/images/logos/logo-sicw-full-wspace-lr-h300.png)
+![SICW](/images/logos/logo-sicw-full-wspace-lr-h300.png)
 
 The fifth edition of the Singapore International Cyber Week (SICW), the region’s most established cybersecurity event, successfully concluded with more than 6,000 participants from across 60 countries. This was Singapore’s first hybrid MICE event held in a physical-virtual format at the Sands Expo & Convention Centre from 5 to 9 October 2020. Organised by the Cyber Security Agency of Singapore (CSA), SICW 2020 featured 138 speakers from across governments, industry and academia.
 
