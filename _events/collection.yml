@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - calendar-of-events.md
-      - calendar-of-events-test.md
       - 4-october-day-1/.keep
       - 4-october-day-1/fireside-chat.md
       - 5-october-2021/.keep
