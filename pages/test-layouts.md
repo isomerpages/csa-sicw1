@@ -54,11 +54,9 @@ Alongside the shift of business meetings towards a hybrid model, CSA will be org
 --- 
 ##### TESTING 
 
-|     testa1    |     testb1    |   |   |   |
-|:-------------:|:-------------:|---|---|---|
-| testa2testing | testb2testing |   |   |   |
-|               |               |   |   |   |
-|               |               |   |   |   |
+|     testa1    |     testb1    |
+|:-------------:|:-------------:|
+| testa2testing | testb2testing |
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
