@@ -12,4 +12,6 @@ Two panel discussions on:
 1. Impact of COVID-19 on Cybersecurity and 
 2. Cybersecurity and the Next Generation, were held, and comprised sharing by female leaders and cybersecurity practitioners from various countries.
 
+##### **Watch Video:**
+
 * [Singapore International Cyber Week 2020 Women in Cyber](https://www.youtube.com/watch?v=-pjyOS6Zh_s)
