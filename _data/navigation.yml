@@ -6,7 +6,7 @@ links:
     collection: events
   - title: Media
     collection: media
-  - title: Resources
+  - title: News & Happening
     resource_room: true
   - title: Contact
     url: /#
