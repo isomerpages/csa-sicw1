@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - 8-october-2021/.keep
+      - 8-october-2021/test-women-in-cyber.md
       - calendar-of-events.md
       - 4-october-day-1/.keep
       - 4-october-day-1/fireside-chat.md
