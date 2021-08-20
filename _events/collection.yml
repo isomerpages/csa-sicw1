@@ -16,3 +16,4 @@ collections:
       - speakers/.keep
       - speakers/speakers-list.md
       - speakers/david-koh.md
+      - test-amcc.md
