@@ -1,7 +1,8 @@
 ---
-title: Calendar of Events Test
+title: Calendar of Events - Test
 permalink: /events-calendar-test
 ---
+
 # Calendar V1
 
 #### **4 October 2021** (Monday)
