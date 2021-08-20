@@ -2,10 +2,9 @@
 title: Calendar of Events - Test
 permalink: /events-calendar-test
 ---
-
 # Calendar V1
 
-#### **4 October 2021** (Monday)
+#### **4 October 2021** ( Monday )
 
 | 9.00am - 5pm     | International Advisory Panel     |
 | 8.00pm - 9.30pm     | [SICW Fireside Chat](/fireside-chat)     |
