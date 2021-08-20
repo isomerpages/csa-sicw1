@@ -2,8 +2,6 @@ collections:
   events:
     output: true
     order:
-      - 8-october-2021/.keep
-      - 8-october-2021/test-women-in-cyber.md
       - calendar-of-events.md
       - 4-october-day-1/.keep
       - 4-october-day-1/fireside-chat.md
@@ -17,6 +15,8 @@ collections:
       - 7-october-2021/global-forum-on-cyber-expertise-gfce.md
       - 7-october-2021/ministerial-roundtable-closing-session.md
       - 7-october-2021/sicw-conversation-policy.md
+      - 8-october-2021/.keep
+      - 8-october-2021/test-women-in-cyber.md
       - speakers/.keep
       - speakers/speakers-list.md
       - speakers/david-koh.md
