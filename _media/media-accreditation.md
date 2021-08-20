@@ -8,9 +8,9 @@ permalink: /media-accreditation
 
 The media accreditation principles below are intended to give the media as much access as possible while ensuring the safety, security and comfort of all participants of the Singapore International Cyber Week (SICW) 2021.
 
-Media accreditation will commence on **8 September 2021 and close on noon of 22 September 2021**. All media accreditation applications will be subject to the approval of Cyber Security Agency of Singapore (CSA) and Hill+Knowlton Strategies (H+K Strategies).
+Media accreditation will commence on **15 September 2021 and close on noon of 22 September 2021**. All media accreditation applications will be subject to the approval of Cyber Security Agency of Singapore (CSA) and Hill+Knowlton Strategies (H+K Strategies).
 
-To access the online accreditation form, please email [sicw2020media@hkstrategies.com](mailto:sicw2020media@hkstrategies.com). 
+To access the online accreditation form, please email [sicw2021media@hkstrategies.com](mailto:sicw2021media@hkstrategies.com). 
 
 #### 1.2 Accreditation Principles
 
@@ -63,7 +63,7 @@ iii. If any change of representative(s) is(are) to be made, please notify the or
 
 iv. If the representative(s) is(are) not able to attend the event, the organiser must be notified as early as possible. Failure to inform the organisers of non-attendance may result in future accreditation requests being refused.
 
-v. All successful applicants will be issued an email confirmation with accompanying terms and conditions. There will be an attached e-pass with your name, organization and USN (unique serial number) for access to media events / press conferences. **NO MEDIA PASS WILL BE ISSUED WITHOUT PROPER DOCUMENTATION.**
+v. All successful applicants will be issued an email confirmation with accompanying terms and conditions. **NO MEDIA PASS WILL BE ISSUED WITHOUT PROPER DOCUMENTATION.**
 
 vi.	If an applicant does not receive an email five (5) working days after registration, he/she is requested to contact the representatives stated below.
 
@@ -73,7 +73,7 @@ viii.	The media pass is **NON-TRANSFERABLE**. It may only be used by the person 
 
 #### 4.   For further queries, please contact:
 
-**Natalie Phay**  
+**Trinisha Sunil**  
 Hill+Knowlton Strategies  
-Contact: [+65 6390 3357](tel:+6563903357)  
-Email:[ sicw2020media@hkstrategies.com](mailto:sicw2020media@hkstrategies.com)
+Contact: [+65 9648 4572](tel:+6596484572)  
+Email:[ sicw2021media@hkstrategies.com](mailto:sicw2021media@hkstrategies.com)
