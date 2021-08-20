@@ -12,9 +12,6 @@ sections:
         - title: Registration
           description: Lorem ipsum dolor sit amet
           url: https://go.gov.sg/sicw2020-registration
-        - title: Virtual Platform
-          description: Lorem ipsum dolor sit amet
-          url: /about-sicw
   - infobar:
       title: SICW
       subtitle: About
