@@ -4,8 +4,7 @@ date: 2021-08-20
 permalink: /resources/video-gallery/sicw2020-opening-ceremony
 layout: post
 ---
-
-#### **SICW 2020 Opening Ceremony**
+#### **SICW 2020 - Opening Ceremony**
 
 Guest-of-Honour, , Mr Heng Swee Keat, Singapore’s Deputy Prime Minister and Coordinating Minister for Economic Policies, delivered the Opening Address at the SICW Opening Ceremony on 6 October 2020
 
