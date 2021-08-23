@@ -52,19 +52,15 @@ Keynote speakers at GovWare 2019 include:
 
 Please see [Annex A](https://www.csa.gov.sg/-/media/Csa/Documents/SICW_2019/SICW2019_AnnexA.pdf) for more information about the keynote speakers.
 
-For the latest information on the track synopses and respective speakers, please visit https://www.govware.sg/.
-
-
+For the latest information on the track synopses and respective speakers, please visit [https://www.govware.sg/](https://www.govware.sg/).
 
 Key highlights at GovWare 2019 include:
 
-• CXO Plenary – By invitation only
+* **CXO Plenary** – *By invitation only*  
 The CXO Plenary, jointly organised by CSA and Temasek Foundation, will bring together up to 180 C-suite executives and top decision-makers from public and private sectors to exchange views on key strategic developments and trends in cybersecurity. Themed Cyber Resilience: The New Boardroom Priority, this year’s CXO Plenary will discuss ways that organisations can adopt to improve their cyber defences and build up resilience to mitigate cybersecurity threats. Senior Minister of State for Ministry of Communications and Information and Ministry of Culture, Community & Youth, Ms Sim Ann, will deliver the opening remarks.
-
-• Singapore Cyber Conquest
+* **Singapore Cyber Conquest**  
 The Singapore Cyber Conquest is open to students of Institutes of Higher Learning in Singapore and ASEAN to test their cybersecurity capabilities in a near real-world cyber range. Participants will race against time to complete a diverse range of cybersecurity challenges that will put their cybersecurity skills and knowledge to the ultimate test.
-
-• Cybersecurity Challenge Singapore – Face-to-Face (F2F) Competition
+* Cybersecurity Challenge Singapore – Face-to-Face (F2F) Competition
 Top players from the Singapore Floor in the UK-Developed CyPhinx, a Massive Multiplayer Online Game have been invited to compete in this exciting F2F competition. Players will embark on a series of real-life cyber incident response scenarios, where they will demonstrate their cybersecurity proficiencies to deal with the incidents.
 
 4. International Common Criteria Conference 2019
