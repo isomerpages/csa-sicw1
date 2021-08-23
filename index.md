@@ -20,22 +20,6 @@ sections:
         the cybersecurity.. "
       button: read more
       url: /about-sicw
-  - infopic:
-      title: Mr TEO Chee Hean
-      subtitle: Guest of Honor
-      description: "Senior Minister and Coordinating Minister for National
-        Security<br><br>Event: SICW Opening Ceremony<br>Date/Time: 5 October
-        2021, 8.00pm – 8.25pm"
-      alt: Image alt text
-      image: /images/MrTeoCheeHean_650.png
-  - infopic:
-      title: Mrs Josephine TEO
-      subtitle: Guest of Honor
-      description: "Minister for Communications and Information and Second Minister
-        for Home Affairs "
-      button: Button Text
-      alt: Image alt text
-      image: /images/MrsJosephineTeo_650.png
   - resources:
       title: SICW Happenings
       subtitle: Explore
