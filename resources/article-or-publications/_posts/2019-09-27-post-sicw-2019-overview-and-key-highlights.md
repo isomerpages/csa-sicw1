@@ -34,24 +34,27 @@ The Opening Plenary brings together policy makers, influential business leaders 
 
 The AMCC complements the various cybersecurity collaborations amongst the ASEAN countries and provides a platform for discussion on ways to strengthen cybersecurity in the region. The event brings together ASEAN Ministers and senior officials from all 10 ASEAN member states to work towards greater cyber capacity and building across borders for our collective security.
 
-3. **GovWare Conference & Exhibition 2019**  
-1 – 3 October 2019, Suntec Singapore Convention & Exhibition Centre
+**3. GovWare Conference & Exhibition 2019**
+
+*1 – 3 October 2019, Suntec Singapore Convention & Exhibition Centre*
 
 Into its 28th showing, GovernmentWare (GovWare) is the region’s most established premier conference and exhibition for cybersecurity and serves as the cornerstone event for SICW. Highlights at GovWare this year include participation by Country Pavilions from the UK, Singapore and for the first time, Israel, which will demonstrate a broad range of cybersecurity applications and technologies. Besides showcasing the latest developments and technologies from established companies around the globe, other interesting displays include the Startup Pavilion, which focuses on promising local companies and the IHL Pavilion where Institutes of Higher Learning will demonstrate a wide range of innovative applications and cybersecurity projects.
 
 Keynote speakers at GovWare 2019 include:
-• Tim Hwang, Executive Director, The Cognitive Security Institute
-• George Kurtz, Chief Executive Officer, CrowdStrike
-• Fook Sun Lee, Chairman, Ensign InfoSecurity
-• Kevin Mandia, Chief Executive Officer, FireEye
-• Conrad Prince CB, Senior Advisor, Cyber Security, BAE Systems Applied Intelligence
-• Jeff Reed, Senior Vice President, Product, Security Business Group, Cisco Systems
-• Ravinder Singh, President, ST Engineering
-• John Suffolk, Senior Vice President and Global Cyber Security & Privacy Officer, Huawei
+* Tim Hwang, Executive Director, The Cognitive Security Institute
+* George Kurtz, Chief Executive Officer, CrowdStrike
+* Fook Sun Lee, Chairman, Ensign InfoSecurity
+* Kevin Mandia, Chief Executive Officer, FireEye
+* Conrad Prince CB, Senior Advisor, Cyber Security, BAE Systems Applied Intelligence
+* Jeff Reed, Senior Vice President, Product, Security Business Group, Cisco Systems
+* Ravinder Singh, President, ST Engineering
+* John Suffolk, Senior Vice President and Global Cyber Security & Privacy Officer, Huawei
 
-Please see Annex A for more information about the keynote speakers.
+Please see [Annex A](https://www.csa.gov.sg/-/media/Csa/Documents/SICW_2019/SICW2019_AnnexA.pdf) for more information about the keynote speakers.
 
 For the latest information on the track synopses and respective speakers, please visit https://www.govware.sg/.
+
+
 
 Key highlights at GovWare 2019 include:
 
