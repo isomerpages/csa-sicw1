@@ -7,7 +7,7 @@ links:
   - title: Resources
     resource_room: true
   - title: Contact
-    url: /#
+    url: /contact-us
     sublinks:
       - title: Enquiry
         url: /contact-us
