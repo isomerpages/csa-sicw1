@@ -16,7 +16,7 @@ SICW 2021 will be held from 4 to 8 October 2021 through a combination of inter-l
 
 For more information on SICW 2021, please visit [https://www.csa.gov.sg/sicw2020/about](https://www.csa.gov.sg/sicw2020/about). 
 
-<a href="https://www.csa.gov.sg/sicw2020/about" target="_blank">1</a>
+<a href="https://www.csa.gov.sg/sicw2020/about" target="_blank" style="color:red;">1.</a>
 
 ##### **Social Media Handles**
 
