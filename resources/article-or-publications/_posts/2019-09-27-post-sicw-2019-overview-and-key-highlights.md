@@ -60,22 +60,24 @@ Key highlights at GovWare 2019 include:
 The CXO Plenary, jointly organised by CSA and Temasek Foundation, will bring together up to 180 C-suite executives and top decision-makers from public and private sectors to exchange views on key strategic developments and trends in cybersecurity. Themed Cyber Resilience: The New Boardroom Priority, this year’s CXO Plenary will discuss ways that organisations can adopt to improve their cyber defences and build up resilience to mitigate cybersecurity threats. Senior Minister of State for Ministry of Communications and Information and Ministry of Culture, Community & Youth, Ms Sim Ann, will deliver the opening remarks.
 * **Singapore Cyber Conquest**  
 The Singapore Cyber Conquest is open to students of Institutes of Higher Learning in Singapore and ASEAN to test their cybersecurity capabilities in a near real-world cyber range. Participants will race against time to complete a diverse range of cybersecurity challenges that will put their cybersecurity skills and knowledge to the ultimate test.
-* Cybersecurity Challenge Singapore – Face-to-Face (F2F) Competition
+* **Cybersecurity Challenge Singapore – Face-to-Face (F2F) Competition**  
 Top players from the Singapore Floor in the UK-Developed CyPhinx, a Massive Multiplayer Online Game have been invited to compete in this exciting F2F competition. Players will embark on a series of real-life cyber incident response scenarios, where they will demonstrate their cybersecurity proficiencies to deal with the incidents.
 
-4. International Common Criteria Conference 2019
-Opening speech by Dr Janil Puthucheary, Senior Minister of State for Communications and Information and SMS-in-Charge of Cybersecurity
-1 – 3 October 2019, Suntec Singapore Convention & Exhibition Centre
+**4. International Common Criteria Conference 2019**
+
+*Opening speech by Dr Janil Puthucheary, Senior Minister of State for Communications and Information and SMS-in-Charge of Cybersecurity  
+1 – 3 October 2019, Suntec Singapore Convention & Exhibition Centre*
 
 For the first time, SICW 2019 will be hosting the flagship international forum for the Common Criteria industry – International Common Criteria Conference (ICCC). The ICCC is an annual event for the international IT security product evaluation and certification industry. Themed “Common Criteria in the Era of Global Digital Transformation”, the conference will bring together global thought-leaders, certification bodies, evaluation labs, product developers and policy makers to focus on the specification, development, evaluation, certification and approval of Common Criteria in IT security products. Previous host countries include Netherlands, United Kingdom, India and the United States of America.
 
-5. Women in Cyber
-3 October 2019, Suntec Singapore Convention & Exhibition Centre
+**5. Women in Cyber**
+
+*3 October 2019, Suntec Singapore Convention & Exhibition Centre*
 
 Co-organised by CSA and the High Commission of Canada, Women in Cyber aims to promote best practices and career opportunities to attract more females to the industry and expand the talent pool. Guest-of-Honour, Senior Minister of State for Ministry of Communications and Information and Ministry of Culture, Community & Youth, Ms Sim Ann, will deliver a welcome address. There will be a panel discussion with female cybersecurity experts from Canada, Australia, Japan and Singapore. Networking opportunities with the cybersecurity community including partner agencies and local cybersecurity communities such as industry associations and interest groups are available after the panel session.
 
 Please refer to the following annexes for more information:
 
-• Annex A: GovWare 2019 Keynote Speakers [PDF, 555KB] 
-• Annex B: Quotes from Key Spokespersons [PDF, 446KB]
-• Annex C: SICW 2019 Partners, Sponsors and Pavilions [PDF, 507KB]
+* [Annex A: GovWare 2019 Keynote Speakers](https://www.csa.gov.sg/-/media/Csa/Documents/SICW_2019/SICW2019_AnnexA.pdf) [PDF, 555KB] 
+* [Annex B: Quotes from Key Spokespersons](https://www.csa.gov.sg/-/media/Csa/Documents/SICW_2019/SICW2019_AnnexB.pdf) [PDF, 446KB]
+* [Annex C: SICW 2019 Partners, Sponsors and Pavilions](https://www.csa.gov.sg/-/media/Csa/Documents/SICW_2019/SICW2019_AnnexC.pdf) [PDF, 507KB]
