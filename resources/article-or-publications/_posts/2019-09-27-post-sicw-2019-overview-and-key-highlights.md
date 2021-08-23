@@ -20,19 +20,19 @@ Showcasing the latest trends, innovations and solutions in cybersecurity, the 28
 
 ##### **KEY COMPONENTS**
 
-1. **SICW 2019 Opening Plenary**
-*Opening address by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security
+1. **SICW 2019 Opening Plenary**  
+*Opening address by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security  
 1 October 2019, Suntec Singapore Convention & Exhibition Centre*
 
 The Opening Plenary brings together policy makers, influential business leaders and industry experts engaged in capacity building in the region. Public and private sector agencies and organisations gather at this event to discuss key cybersecurity issues, strategies and solutions.
 
-2. **ASEAN Ministerial Conference on Cybersecurity (AMCC)**
-*Opening address by Mr S Iswaran, Minister for Communications and Information and Minister-in-Charge of Cybersecurity
+2. **ASEAN Ministerial Conference on Cybersecurity (AMCC)**  
+*Opening address by Mr S Iswaran, Minister for Communications and Information and Minister-in-Charge of Cybersecurity  
 2 October 2019, Shangri-La Hotel*
 
 The AMCC complements the various cybersecurity collaborations amongst the ASEAN countries and provides a platform for discussion on ways to strengthen cybersecurity in the region. The event brings together ASEAN Ministers and senior officials from all 10 ASEAN member states to work towards greater cyber capacity and building across borders for our collective security.
 
-3. **GovWare Conference & Exhibition 2019**
+3. **GovWare Conference & Exhibition 2019**  
 1 – 3 October 2019, Suntec Singapore Convention & Exhibition Centre
 
 Into its 28th showing, GovernmentWare (GovWare) is the region’s most established premier conference and exhibition for cybersecurity and serves as the cornerstone event for SICW. Highlights at GovWare this year include participation by Country Pavilions from the UK, Singapore and for the first time, Israel, which will demonstrate a broad range of cybersecurity applications and technologies. Besides showcasing the latest developments and technologies from established companies around the globe, other interesting displays include the Startup Pavilion, which focuses on promising local companies and the IHL Pavilion where Institutes of Higher Learning will demonstrate a wide range of innovative applications and cybersecurity projects.
