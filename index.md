@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/SICW_HomeBanner_v210813-2.jpg
+      background: /images/SICW_HomeBanner_v210823.jpg
       key_highlights:
         - title: Registration
           description: ""
