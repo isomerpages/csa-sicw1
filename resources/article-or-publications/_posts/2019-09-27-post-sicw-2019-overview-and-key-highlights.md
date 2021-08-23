@@ -20,13 +20,15 @@ Showcasing the latest trends, innovations and solutions in cybersecurity, the 28
 
 ##### **KEY COMPONENTS**
 
-1. **SICW 2019 Opening Plenary**  
+**1. SICW 2019 Opening Plenary**
+
 *Opening address by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security  
 1 October 2019, Suntec Singapore Convention & Exhibition Centre*
 
 The Opening Plenary brings together policy makers, influential business leaders and industry experts engaged in capacity building in the region. Public and private sector agencies and organisations gather at this event to discuss key cybersecurity issues, strategies and solutions.
 
-2. **ASEAN Ministerial Conference on Cybersecurity (AMCC)**  
+**2. ASEAN Ministerial Conference on Cybersecurity (AMCC)**
+
 *Opening address by Mr S Iswaran, Minister for Communications and Information and Minister-in-Charge of Cybersecurity  
 2 October 2019, Shangri-La Hotel*
 
