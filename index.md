@@ -19,5 +19,5 @@ sections:
   - resources:
       title: SICW Happenings
       subtitle: Explore
-      button: Resources Button Name
+      button: See All
 ---
