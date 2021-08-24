@@ -5,10 +5,10 @@ permalink: /contact-us/
 agency_name: SICW
 contacts:
   - content:
-      - phone: +65 6590 6005
+      - phone: ""
       - email: contactus@image-engine.biz
       - other: ""
-    title: General Enquiries
+    title: Please send your enquiries to
   - content:
       - phone: ""
       - email: registration@govware.sg
