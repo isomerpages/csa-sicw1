@@ -53,3 +53,4 @@ staging: https://csa-sicw1-staging.netlify.app
 prod: https://csa-sicw1-prod.netlify.app
 google_analytics: "277915721"
 resources_name: resources
+shareicon: /images/logo_sicw.jpg
