@@ -14,4 +14,4 @@ The theme for this year’s SICW is **“Living with COVID19 – Reimagining dig
 
 SICW 2021 will be held from 4 to 8 October 2021 through a combination of inter-linked physical and virtual meetings that will allow key leaders from governments, industry, academia and non-government organisations to explore the future of cyberspace cooperation from a broad range of perspectives. 
 
-For more information on SICW 2021, please visit <a href="https://www.csa.gov.sg/sicw2020/about">https://www.csa.gov.sg/sicw2020/about</a>.
+For more information on SICW 2021, please visit <a>https://www.csa.gov.sg/sicw2020/about</a>.
