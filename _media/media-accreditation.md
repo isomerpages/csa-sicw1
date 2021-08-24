@@ -73,7 +73,7 @@ viii.	The media pass is **NON-TRANSFERABLE**. It may only be used by the person 
 
 #### 4.   For further queries, please contact:
 
-**Trinisha Sunil**  
+**Natalie Phay**  
 Hill+Knowlton Strategies  
-Contact: [+65 9648 4572](tel:+6596484572)  
+Contact: [+65 9068 2279](tel:+6590682279)  
 Email:[ sicw2021media@hkstrategies.com](mailto:sicw2021media@hkstrategies.com)
