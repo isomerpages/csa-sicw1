@@ -1,9 +1,10 @@
 ---
 title: SICW 2020 - Highlights and Testimonials
 date: 2020-10-19
-permalink: /resources/article-or-publications/2020highlights
+permalink: /resources/publications/2020highlights-testimonial
 layout: post
 ---
+
 #### **Singapore International Cyber Week 2020 - Highlights and Testimonials**
 
 ![SICW](/images/logos/logo-sicw-full-wspace-lr-h300.png)
