@@ -11,9 +11,9 @@ sections:
   - infobar:
       title: SICW
       subtitle: About
-      description: "Held annually, SICW is the region’s most established cybersecurity
-        event. An ideal platform to network, strategise and form partnerships in
-        the cybersecurity.. "
+      description: Singapore International Cyber Week (SICW) is Asia-Pacific’s most
+        established cybersecurity event for global policy makers, thought
+        leaders and industry experts.
       button: read more
       url: /about-sicw
   - resources:
