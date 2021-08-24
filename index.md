@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: ""
+title: Singapore International Cyber Week 2021
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
