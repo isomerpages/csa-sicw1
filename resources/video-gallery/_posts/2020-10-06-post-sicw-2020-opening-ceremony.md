@@ -14,4 +14,4 @@ Guest-of-Honour, , Mr Heng Swee Keat, Singapore’s Deputy Prime Minister and Co
 
 * [SICW 2020 Opening Ceremony](https://www.youtube.com/watch?v=MsXZBxbDtr0)
 
-<iframe src="https://www.youtube.com/embed/MsXZBxbDtr0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" src="https://www.youtube.com/embed/-pjyOS6Zh_s" width="560" height="315" frameborder="0"></iframe>
