@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/SICW_HomeBanner_v210823.jpg
-      key_highlights:
-        - title: Registration
-          description: ""
-          url: https://go.gov.sg/sicw2020-registration
   - infobar:
       title: SICW
       subtitle: About
