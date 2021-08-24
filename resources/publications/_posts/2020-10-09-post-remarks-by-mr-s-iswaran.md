@@ -1,9 +1,10 @@
 ---
 title: Remarks by Mr S Iswaran
 date: 2020-10-09
-permalink: /resources/article-or-publications/s-iswaran
+permalink: /resources/publications/s-iswaran-remarks
 layout: post
 ---
+
 
 
 
