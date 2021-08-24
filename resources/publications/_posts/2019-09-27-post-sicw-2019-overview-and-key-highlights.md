@@ -1,9 +1,10 @@
 ---
 title: SICW 2019 - Overview and Key Highlights
 date: 2019-09-27
-permalink: /resources/article-or-publications/2019overview
+permalink: /resources/publications/2019overview
 layout: post
 ---
+
 #### **Singapore International Cyber Week 2019 Overview and Key Highlights**
 
 ![SICW](/images/logos/logo-sicw-full-wspace-lr-h300.png)
