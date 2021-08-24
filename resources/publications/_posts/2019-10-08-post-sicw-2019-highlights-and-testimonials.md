@@ -1,9 +1,10 @@
 ---
 title: SICW 2019 - Highlights and Testimonials
 date: 2019-10-08
-permalink: /resources/article-or-publications/2019highlights
+permalink: /resources/publications/2019highlights-testimonial
 layout: post
 ---
+
 #### **Singapore International Cyber Week 2019 - Highlights and Testimonials**
 
 The fourth edition of the Singapore International Cyber Week (SICW), the region’s most established cybersecurity event, successfully concluded with a record 10,000 participants from over 60 countries. The visitorship numbers saw a two-fold increase from the 5,000 participants in the inaugural 2016 edition. Organised by the Cyber Security Agency of Singapore (CSA), SICW 2019 saw the participation of over 170 speakers, 300 sponsors and exhibitors.
