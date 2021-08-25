@@ -1,9 +1,10 @@
 ---
-title: SICW 2020 -<br>Event Highlights.
+title: SICW 2020 -<br>Event Highlights
 date: 2020-10-21
 permalink: /resources/video-gallery/sicw2020-highlights
 layout: post
 ---
+
 
 #### **SICW 2020 - Event Highlights**
 
