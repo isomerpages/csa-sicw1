@@ -8,8 +8,8 @@ third_nav_title: Speakers
 ##### 4 October 2021
 
 | [John Smith](/david-koh)     | Senior Cryptography Strategist / Organisation 1     |
-|      | 	[Operational Technology (OT) Cybersecurity Competency Workshop](/#)     |
-|      | 	[SICW Conversations 2 (Operations)](/#)     |
+|      | 	[Operational Technology (OT) Cybersecurity Competency Workshop](/fireside-chat)     |
+|      | 	[SICW Conversations 2 (Operations)](/fireside-chat)     |
 | [Jane Smith](/david-koh)     | Vice President, Strategy & Analytics / Organisation 2     |
 |      | [SICW Fireside Chat](/fireside-chat)     |
 | [Robert Tan](/david-koh)     | Solutions Architect, Asia Pacific & Japan / Organisation 3     |
