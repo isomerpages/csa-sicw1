@@ -20,7 +20,7 @@ For more information on SICW 2021, please click [here](/about-sicw).
 ##### **Social Media Handles**
 
 We are using LinkedIn, Facebook and Twitter  to spread the word about the event. Help us by posting updates and shout-outs about your participation in SICW on your own social media channels. Remember to tag our social media channels too: 
-+ @SICWSG LinkedIn: [https://www.linkedin.com/company/SICWSG](https://www.linkedin.com/company/SICWSG)
++ @SICWSG LinkedIn: [https://www.linkedin.com/company/SICWSG/](https://www.linkedin.com/company/SICWSG/)
 + @SICWSG on Facebook: [https://www.facebook.com/SICWSG/](https://www.facebook.com/SICWSG/)
 + @SICWSG Twitter: [https://twitter.com/SICWSG/](https://twitter.com/SICWSG/)
 
