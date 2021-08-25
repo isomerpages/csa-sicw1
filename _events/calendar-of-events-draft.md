@@ -2,8 +2,7 @@
 title: Calendar of Events (Draft)
 permalink: /events-calendar
 ---
-
-#### **Overview**
+#### **Overview (Draft)**
 
 Singapore International Cyber Week 2021 is taking place from 4 to 8 October 2021 as a combination of inter-linked physical and virtual meetings. To find out more about each event, click on the links below.
 
