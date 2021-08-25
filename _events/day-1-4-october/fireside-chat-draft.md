@@ -17,6 +17,6 @@ Digital transformation, brought forth by new technologies and accelerated by COV
 
 ##### **Speakers**
 
-| [Hubert Le Van Gong](/david-koh)     | Senior Cryptography Strategist / PayPal     |
-| [Jonathan Nguyen-Duy](/david-koh)     | Vice President, Strategy & Analytics / Fortinet     |
-| [Apichet Chayabejara](/david-koh)     | Solutions Architect, Asia Pacific & Japan / CyberArk     |
+| [John Smith](/david-koh)     | Senior Cryptography Strategist / Organisation 1     |
+| [Jane Smith](/david-koh)     | Vice President, Strategy & Analytics / Organisation 2     |
+| [Robert Tan](/david-koh)     | Solutions Architect, Asia Pacific & Japan / Organisation 3     |
