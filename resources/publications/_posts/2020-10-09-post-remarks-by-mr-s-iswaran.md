@@ -4,12 +4,7 @@ date: 2020-10-09
 permalink: /resources/publications/s-iswaran-remarks
 layout: post
 ---
-
-
-
-
-
-#### Remarks by Mr S Iswaran, Minister for Communications and Information and Minister-in-charge of Cybersecurity at SICW 2020 Joint Press Conference
+#### **Remarks by Mr S Iswaran, Minister for Communications and Information and Minister-in-charge of Cybersecurity at SICW 2020 Joint Press Conference**
 
 **MINISTER ISWARAN’S REMARKS AT THE SICW 2020 JOINT PRESS CONFERENCE WITH UN UNDER-SECRETARY-GENERAL IZUMI NAKAMITSU ON 9 OCTOBER 2020, 8.30AM**
 
