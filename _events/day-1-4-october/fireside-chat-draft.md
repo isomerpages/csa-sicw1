@@ -3,7 +3,7 @@ title: Fireside Chat (Draft)
 permalink: /fireside-chat
 third_nav_title: Day 1 4 October
 ---
-#### **Fireside Chat (Draft)**
+#### **Fireside Chat(Draft)**
 ![Alt text for image on Isomer site](/images/EventBanner_IoT.jpg)
 
 **4 October 2021 (Monday)**  
