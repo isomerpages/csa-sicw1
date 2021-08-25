@@ -7,27 +7,27 @@ third_nav_title: Speakers
 
 ##### 4 October 2021
 
-| [Hubert Le Van Gong](/david-koh)     | Senior Cryptography Strategist / PayPal     |
+| [John Smith](/david-koh)     | Senior Cryptography Strategist / Organisation 1     |
 |      | 	[Operational Technology (OT) Cybersecurity Competency Workshop](/#)     |
 |      | 	[SICW Conversations 2 (Operations)](/#)     |
-| [Jonathan Nguyen-Duy](/david-koh)     | Vice President, Strategy & Analytics / Fortinet     |
+| [Jane Smith](/david-koh)     | Vice President, Strategy & Analytics / Organisation 2     |
 |      | [SICW Fireside Chat](/fireside-chat)     |
-| [Apichet Chayabejara](/david-koh)     | Solutions Architect, Asia Pacific & Japan / CyberArk     |
-| [Hubert Le Van Gong](/david-koh)     | Senior Cryptography Strategist / PayPal     |
-| [Jonathan Nguyen-Duy](/david-koh)     | Vice President, Strategy & Analytics / Fortinet     |
-| [Apichet Chayabejara](/david-koh)     | Solutions Architect, Asia Pacific & Japan / CyberArk     |
-| [Hubert Le Van Gong](/david-koh)     | Senior Cryptography Strategist / PayPal     |
-| [Jonathan Nguyen-Duy](/david-koh)     | Vice President, Strategy & Analytics / Fortinet     |
-| [Apichet Chayabejara](/david-koh)     | Solutions Architect, Asia Pacific & Japan / CyberArk     |
+| [Robert Tan](/david-koh)     | Solutions Architect, Asia Pacific & Japan / Organisation 3     |
+| [John Smith](/david-koh)     | Senior Cryptography Strategist / Organisation 1     |
+| [Jane Smith](/david-koh)     | Vice President, Strategy & Analytics / Organisation 2     |
+| [Robert Tan](/david-koh)     | Solutions Architect, Asia Pacific & Japan / Organisation 3     |
+| [John Smith](/david-koh)     | Senior Cryptography Strategist / Organisation 1     |
+| [Jane Smith](/david-koh)     | Vice President, Strategy & Analytics / Organisation 2     |
+| [Robert Tan](/david-koh)     | Solutions Architect, Asia Pacific & Japan / Organisation 3     |
 
 ##### 5 October 2021
 
-| [Hubert Le Van Gong](/david-koh)     | Senior Cryptography Strategist / PayPal     |
-| [Jonathan Nguyen-Duy](/david-koh)     | Vice President, Strategy & Analytics / Fortinet     |
-| [Apichet Chayabejara](/david-koh)     | Solutions Architect, Asia Pacific & Japan / CyberArk     |
-| [Hubert Le Van Gong](/david-koh)     | Senior Cryptography Strategist / PayPal     |
-| [Jonathan Nguyen-Duy](/david-koh)     | Vice President, Strategy & Analytics / Fortinet     |
-| [Apichet Chayabejara](/david-koh)     | Solutions Architect, Asia Pacific & Japan / CyberArk     |
-| [Hubert Le Van Gong](/david-koh)     | Senior Cryptography Strategist / PayPal     |
-| [Jonathan Nguyen-Duy](/david-koh)     | Vice President, Strategy & Analytics / Fortinet     |
-| [Apichet Chayabejara](/david-koh)     | Solutions Architect, Asia Pacific & Japan / CyberArk     |
+| [John Smith](/david-koh)     | Senior Cryptography Strategist / Organisation 1     |
+| [Jane Smith](/david-koh)     | Vice President, Strategy & Analytics / Organisation 2     |
+| [Robert Tan](/david-koh)     | Solutions Architect, Asia Pacific & Japan / Organisation 3     |
+| [John Smith](/david-koh)     | Senior Cryptography Strategist / Organisation 1     |
+| [Jane Smith](/david-koh)     | Vice President, Strategy & Analytics / Organisation 2     |
+| [Robert Tan](/david-koh)     | Solutions Architect, Asia Pacific & Japan / Organisation 3     |
+| [John Smith](/david-koh)     | Senior Cryptography Strategist / Organisation 1     |
+| [Jane Smith](/david-koh)     | Vice President, Strategy & Analytics / Organisation 2     |
+| [Robert Tan](/david-koh)     | Solutions Architect, Asia Pacific & Japan / Organisation 3     |
