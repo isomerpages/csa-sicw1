@@ -1,0 +1,6 @@
+collections:
+  media:
+    output: true
+    order:
+      - media-accreditation.md
+      - social-media-toolkit.md

@@ -1,4 +1,4 @@
-title: ""
+title: Singapore International Cyber Week
 url: ""
 favicon: /images/favicon-sicw.ico
 colors:
@@ -6,11 +6,11 @@ colors:
   secondary-color: "#1a1d39"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
-    - title: media-color-two
-      color: "#744d9f"
-    - title: media-color-three
       color: "#00838f"
+    - title: media-color-two
+      color: "#1a1d39"
+    - title: media-color-three
+      color: "#0074b6"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
@@ -52,3 +52,5 @@ plugins:
 staging: https://csa-sicw1-staging.netlify.app
 prod: https://csa-sicw1-prod.netlify.app
 google_analytics: "277915721"
+resources_name: resources
+shareicon: /images/logo_sicw.jpg

@@ -1,2 +1,13 @@
 logo: /images/logo_sicw.png
-links: []
+links:
+  - title: About SICW
+    url: /about-sicw
+  - title: Media
+    collection: media
+  - title: Resources
+    resource_room: true
+  - title: Contact
+    url: /contact-us
+    sublinks:
+      - title: Enquiry
+        url: /contact-us
