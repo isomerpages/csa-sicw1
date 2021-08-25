@@ -3,8 +3,7 @@ title: SICW Conversation (Tech)  (Draft)
 permalink: /sicw-conversation-tech
 third_nav_title: 5 October 2021
 ---
-
-#### **SICW Conversation (Tech)**
+#### **SICW Conversation (Tech) (Draft)**
 
 **5 October 2021 (Tuesday)**  
 *9.45pm to 10.45pm*
