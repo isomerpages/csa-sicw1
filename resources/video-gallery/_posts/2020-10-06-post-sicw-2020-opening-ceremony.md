@@ -10,4 +10,4 @@ Guest-of-Honour, Mr Heng Swee Keat, Singapore’s Deputy Prime Minister and Coor
 
 **Keynote Speaker:** Ms Izumi Nakamitsu, Under-Secretary-General and High Representative for Disarmament Affairs, United Nations
 
-<iframe src="https://www.youtube.com/embed/MsXZBxbDtr0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="100%" height="445" frameborder="0"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" src="https://www.youtube.com/embed/MsXZBxbDtr0" width="100%" height="445" frameborder="0"></iframe>
