@@ -17,7 +17,7 @@ sections:
       button: read more
       url: /about-sicw
   - resources:
-      title: SICW Happenings
+      title: Past SICW Highlights
       subtitle: Explore
       button: See All
 ---
