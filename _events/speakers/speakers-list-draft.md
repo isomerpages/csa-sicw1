@@ -3,8 +3,7 @@ title: Speakers List (Draft)
 permalink: /speakers
 third_nav_title: Speakers
 ---
-
-#### **Speakers**
+#### **Speakers (Draft)**
 
 ##### 4 October 2021
 
