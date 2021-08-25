@@ -3,8 +3,7 @@ title: Global Forum on Cyber Expertise (GFCE) (Draft)
 permalink: /gfce
 third_nav_title: 7 October 2021
 ---
-
-#### **Global Forum on Cyber Expertise (GFCE)**
+#### **Global Forum on Cyber Expertise (GFCE) (Draft)**
 
 **7 October 2021 (Thursday)**  
 *9am to 1pm*
