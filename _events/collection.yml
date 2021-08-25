@@ -2,7 +2,7 @@ collections:
   events:
     output: true
     order:
-      - calendar-of-events.md
+      - calendar-of-events-draft.md
       - day-1-4-october/.keep
       - day-1-4-october/fireside-chat.md
       - 5-october-2021/.keep
