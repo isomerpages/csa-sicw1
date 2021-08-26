@@ -3,8 +3,7 @@ title: Women in Cyber (Draft)
 permalink: /events/women-in-cyber
 third_nav_title: 8 October 2021
 ---
-
-#### **Women in Cyber**
+#### **Women in Cyber (Draft)**
 
 **8 October 2021 (Friday)**  
 *8pm to 10pm*
