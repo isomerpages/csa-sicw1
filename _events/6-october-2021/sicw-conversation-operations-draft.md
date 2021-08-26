@@ -3,8 +3,7 @@ title: SICW Conversation (Operations) (Draft)
 permalink: /events/sicw-conversation-ops
 third_nav_title: 6 October 2021
 ---
-
-#### **SICW Conversation (Operations)**
+#### **SICW Conversation (Operations) (Draft)**
 
 **6 October 2021 (Wednesday)**  
 *7pm to 8pm*
