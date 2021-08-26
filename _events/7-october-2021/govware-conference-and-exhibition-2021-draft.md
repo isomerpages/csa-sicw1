@@ -3,7 +3,7 @@ title: GovWare Conference and Exhibition 2021 (Draft)
 permalink: /events/govware3
 third_nav_title: 7 October 2021
 ---
--#### **GovWare Conference and Exhibition 2021 (Draft)**
+#### **GovWare Conference and Exhibition 2021 (Draft)**
 
 **5-7 October 2021 (Tuesday - Thursday)**  
 *9am – 5pm*
