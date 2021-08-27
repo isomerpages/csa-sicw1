@@ -6,8 +6,9 @@ third_nav_title: Speakers
 #### **Speakers (Draft)**
 
 
+
 ![Alt text for image on Isomer site](/images/speakers/banner-speakers-test.jpeg)
-##### 4 October 2021 (Test Version)
+##### 4 October 2021 (Test Version.)
 
 | [John Smith](/david-koh)                                                 | [Operational Technology (OT) Cybersecurity Competency Workshop](/fireside-chat) |
 | Senior Cryptography Strategist / Organisation 1            | [SICW Conversations 2 (Operations)](/fireside-chat)                             |
