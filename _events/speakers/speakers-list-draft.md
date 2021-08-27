@@ -4,9 +4,7 @@ permalink: /speakers
 third_nav_title: Speakers
 ---
 #### **Speakers (Draft)**
-<br>
 
-![Alt text for image on Isomer site](/images/speakers/banner-speakers-test.jpeg)
 ##### 4 October 2021 (Test Version)
 
 | [John Smith](/david-koh)                                                 | [Operational Technology (OT) Cybersecurity Competency Workshop](/fireside-chat) |
@@ -17,8 +15,6 @@ third_nav_title: Speakers
 | [Robert Tan](/david-koh)                                                 | [SICW Conversations 2 (Operations)](/fireside-chat)                             |
 | Solutions Architect, Asia Pacific & Japan / Organisation 3 | [SICW Fireside Chat](/fireside-chat)                                            |
 
-<br><br>
-![Alt text for image on Isomer site](/images/speakers/banner-speakers-test.jpeg)
 ##### 4 October 2021
 
 | [John Smith](/david-koh)     | Senior Cryptography Strategist / Organisation 1     |
@@ -34,9 +30,6 @@ third_nav_title: Speakers
 | [Jane Smith](/david-koh)     | Vice President, Strategy & Analytics / Organisation 2     |
 | [Robert Tan](/david-koh)     | Solutions Architect, Asia Pacific & Japan / Organisation 3     |
 
-<br><br>
-
-![Alt text for image on Isomer site](/images/speakers/banner-speakers-test.jpeg)
 ##### 5 October 2021
 
 | [John Smith](/david-koh)     | Senior Cryptography Strategist / Organisation 1     |
