@@ -1,8 +1,9 @@
 ---
 title: Fireside Chat (Draft)
-permalink: /fireside-chat
+permalink: /events/fireside-chat
 third_nav_title: 4 October 2021
 ---
+
 
 #### **Fireside Chat: Whither the Digital Frontier – Tame or Game? (Draft)**
 ![Alt text for image on Isomer site](/images/EventBanner_IoT.jpg)
