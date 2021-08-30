@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - calendar-of-events-draft.md
-      - day-1-4-october/.keep
-      - day-1-4-october/fireside-chat-draft.md
+      - 4-october-2021/.keep
+      - 4-october-2021/fireside-chat-draft.md
       - 5-october-2021/.keep
       - 5-october-2021/opening-ceremony-draft.md
       - 5-october-2021/ministerial-roundtable-opening-session-draft.md
