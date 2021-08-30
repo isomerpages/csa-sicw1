@@ -5,7 +5,7 @@ third_nav_title: Speakers
 ---
 #### **Speakers (Draft)**
 
-##### 4 October 2021 (Test Version 2 )
+##### 4 October 2021 (Test Version 2)
 
 | [**John Smith**](/david-koh) <br> *Senior Cryptography Strategist* <br> Organisation 1                                                 | &bull; [Operational Technology (OT) Cybersecurity Competency Workshop](/fireside-chat) <br> &bull; [SICW Conversations 2 (Operations)](/fireside-chat) <br> &bull; [SICW Fireside Chat](/fireside-chat) |
 | [**Jane Smith**](/david-koh) <br> *Vice President, Strategy & Analytics* <br> Organisation 2                                                 | &bull;  [Operational Technology (OT) Cybersecurity Competency Workshop](/fireside-chat) |
