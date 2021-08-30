@@ -8,7 +8,7 @@ Singapore International Cyber Week 2021 is taking place from 4 to 8 October 2021
 
 Event dates and timings below are in Singapore time (GMT +8), and are accurate at time of publication.
 
-| **4 October 2021** *(Monday)*    |                                                                                                |
+| **4 October 2021** *(Monday )*    |                                                                                                |
 |----------------------------|------------------------------------------------------------------------------------------------|
 | 8pm to 9.30pm              | [Fireside Chat](/fireside-chat)                                                                                  |
 | <br> **5 October 2021** *(Tuesday)*   |                                                                                                |
