@@ -1,8 +1,9 @@
 ---
 title: SICW Conversation (Policy) (Draft)
-permalink: /sicw-conversation-policy
+permalink: /events/sicw-conversation-policy
 third_nav_title: 7 October 2021
 ---
+
 #### **SICW Conversation (Policy) (Draft)**
 
 **7 October 2021 (Thursday)**  
