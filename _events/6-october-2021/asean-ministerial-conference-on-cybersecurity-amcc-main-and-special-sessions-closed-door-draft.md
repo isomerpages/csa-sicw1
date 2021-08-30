@@ -1,9 +1,10 @@
 ---
 title: ASEAN Ministerial Conference On Cybersecurity (AMCC) Main and Special
   Sessions [Closed-Door] (Draft)
-permalink: /events/amcc-main-and-special-sessions
+permalink: /events/amcc
 third_nav_title: 6 October 2021
 ---
+
 #### **ASEAN Ministerial Conference On Cybersecurity (AMCC) Main and Special Sessions [Closed-Door] (Draft)**
 
 **6 October 2021 (Wednesday)**  
