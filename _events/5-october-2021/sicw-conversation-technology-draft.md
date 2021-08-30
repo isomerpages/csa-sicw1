@@ -1,8 +1,9 @@
 ---
 title: SICW Conversation (Technology)  (Draft)
-permalink: /sicw-conversation-tech
+permalink: /events/sicw-conversation-technology
 third_nav_title: 5 October 2021
 ---
+
 #### **SICW Conversation (Technology) (Draft)**
 
 **5 October 2021 (Tuesday)**  
