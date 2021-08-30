@@ -8,31 +8,27 @@ Singapore International Cyber Week 2021 is taking place from 4 to 8 October 2021
 
 Event dates and timings below are in Singapore time (GMT +8), and are accurate at time of publication.
 
-| **4 October 2021** *(Monday)*     |      |
-| 9.00am - 5pm     | International Advisory Panel     |
-| 8.00pm - 9.30pm     | [SICW Fireside Chat](/fireside-chat)     |
-| <br> **5 October 2021** *(Tuesday)*     |      |
-| 9.00am - 5.00pm     | [GovWare Conference and Exhibition 2021](/govware2021)     |
-| 9.00am – 5.00pm     | ASEAN CERT Incident Drill    |
-| 9.00am – 7.30pm     | International Advisory Panel     |
-| 8.00pm - 8.25pm     | SICW Opening Ceremony     |
-| 8.25pm - 9.45pm     | [SICW Ministerial Roundtable Opening Session](/ministerial-roundtable-opening) *[By Invitation Only]*     |
-| 9.45pm - 10.45pm     | [SICW Conversations 1 (Tech)](/sicw-conversation-tech)     |
-| <br> **6 October 2021** *(Wednesday)*     |      |
-| 9.00am - 5.00pm     | [GovWare Conference and Exhibition 2021](/govware2021)     |
-| 1.30pm – 2.00pm     | AMCC Opening Ceremony     |
-| 2.00pm - 3.45pm     | ASEAN Ministerial Conference on Cybersecurity (AMCC) *[By Invitation Only]*     |
-| 4.00pm - 5.30pm     | AMCC Special Session *[By Invitation Only]*     |
-| 8.00pm - 11.00pm     | International IoT Security Roundtable Day 1     |
-| 7.00pm - 8.00pm     | SICW Conversations 2 (Operations)     |
-| <br> **7 October 2021** *(Thursday )*     |      |
-| 9.00am - 5.00pm     | [GovWare Conference and Exhibition 2021](/govware2021)     |
-| 9.00am – 1.00pm     | [Global Forum on Cyber Expertise (GFCE)](/gcfe)     |
-| 9.00am - 12.00pm     | Operational Technology (OT) Cybersecurity Competency Workshop     |
-| 10.00am to 11.00am     | Launch of SG Cyber Expertise     |
-| 11.00am – 12.00pm     | Panel on Safer Cyberspace for Enterprise     |
-| 3.00pm - 5.00pm     | International IoT Security Roundtable Day 2     |
-| 8.00pm - 9.30pm     | [SICW Ministerial Roundtable Closing Session](/ministerial-roundtable-closing) *[By Invitation Only]*     |
-| 9.45pm - 10.45pm     | [SICW Conversations 3 (Policy)](/sicw-conversation-policy)     |
-| <br> **8 October 2021** *(Friday)*     |      |
-| 8.00pm to 10.00pm     | Women in Cyber     |
+| **4 October 2021** *(Monday)*    |                                                                                                |
+|----------------------------|------------------------------------------------------------------------------------------------|
+| 8pm to 9.30pm              | Fireside Chat                                                                                  |
+| <br> **5 October 2021** *(Tuesday)*   |                                                                                                |
+| 8pm to 8.25pm              | SICW Opening Ceremony                                                                          |
+| 8.25pm to 9.45pm           | SICW Ministerial Roundtable Opening Session (By Invitaiton Only)                               |
+| 9.50pm to 10.50pm          | SICW Conversation (Technology)                                                                 |
+| 9.00am to 5.00pm           | GovWare Conference and Exhibition 2021                                                         |
+| <br> **6 October 2021** *(Wednesday)* |                                                                                                |
+| 1.30pm to 5.30pm           | ASEAN Ministerial Conference On Cybersecurity (AMCC) Main and   Special Sessions - Closed-Door |
+| 8pm to 11pm                | International IoT Security Roundtable                                                          |
+| 6.45pm to 7.45pm           | SICW Conversation (Operations)                                                                 |
+| 9.00am to 5.00pm           | GovWare Conference and Exhibition 2021                                                         |
+| <br> **7 October 2021** *(Thursday)*  |                                                                                                |
+| 9am to 11.30am             | Global Forum on Cyber Expertise (GFCE) Southeast Asia Regional   Meeting                       |
+| 9am to 12pm                | Operational Technology (OT) Cybersecurity Competency   Framework                               |
+| 10am to 11pm               | Launch of SG Cyber Safe Partnership Programme                                                  |
+| 11pm to 12pm               | SG Cyber Safe for Enterprises Panel Discussion                                                 |
+| 3pm to 5pm                 | International IoT Security Roundtable                                                          |
+| 8pm to 9.30pm              | Ministerial Roundtable Closing Session - By Invitaiton Only                                    |
+| 9.45pm to 10.45pm          | SICW Conversation (Policy)                                                                     |
+| 9.00am to 5.00pm           | GovWare Conference and Exhibition 2021                                                         |
+| <br> **8 October 2021** *(Friday)*    |                                                                                                |
+| 8pm to 10pm                | Women in Cyber                                                                                 |
