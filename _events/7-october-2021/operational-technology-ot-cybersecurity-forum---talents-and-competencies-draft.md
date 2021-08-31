@@ -11,7 +11,7 @@ third_nav_title: 7 October 2021
 
 *Format: Virtual*
 
-The forum will bring together industry leaders, Operational Technology (OT) practitioners, human resources professionals and educators to discuss solutions to address on the talent crunch in, and the relevant skillsets needed for fresh and mid-career talents to join the emerging OT cybersecurity sector.  needed in the emerging OT Cybersecurity sector.  CSA will share the new  OT Cybersecurity Competency Framework (OTCCF) which will provide career advancement clarity and help organisations to attract talents to join the sector.  Specifically, the OTCCF will enable:
+The forum will bring together industry leaders, Operational Technology (OT) practitioners, human resources professionals and educators to discuss solutions to address the talent crunch in, and the relevant skillsets needed for fresh and mid-career talents to join the emerging OT cybersecurity sector.  CSA will share the new  OT Cybersecurity Competency Framework (OTCCF) which will provide career advancement clarity and help organisations to attract talents to join the sector.  Specifically, the OTCCF will enable:
 
 a.	Critical Information Infrastructure (CII) operators to identify skillsets and training for their engineers;  
 b.	Training providers to develop best-in-class courses and certifications catering to local training needs;  
