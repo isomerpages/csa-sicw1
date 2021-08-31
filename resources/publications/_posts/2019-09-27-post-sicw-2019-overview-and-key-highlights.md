@@ -4,7 +4,6 @@ date: 2019-09-27
 permalink: /resources/publications/2019overview
 layout: post
 ---
-
 #### **Singapore International Cyber Week 2019 Overview and Key Highlights**
 
 ![SICW](/images/logos/logo-sicw-full-wspace-lr-h300.png)
@@ -82,3 +81,5 @@ Please refer to the following annexes for more information:
 * [Annex A: GovWare 2019 Keynote Speakers](https://www.csa.gov.sg/-/media/Csa/Documents/SICW_2019/SICW2019_AnnexA.pdf) [PDF, 555KB] 
 * [Annex B: Quotes from Key Spokespersons](https://www.csa.gov.sg/-/media/Csa/Documents/SICW_2019/SICW2019_AnnexB.pdf) [PDF, 446KB]
 * [Annex C: SICW 2019 Partners, Sponsors and Pavilions](https://www.csa.gov.sg/-/media/Csa/Documents/SICW_2019/SICW2019_AnnexC.pdf) [PDF, 507KB]
+
+<a href="https://www.csa.gov.sg/-/media/Csa/Documents/SICW_2019/SICW2019_AnnexA.pdf" target="_blank">--</a>
