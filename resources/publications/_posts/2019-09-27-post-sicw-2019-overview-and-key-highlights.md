@@ -50,9 +50,9 @@ Keynote speakers at GovWare 2019 include:
 * Ravinder Singh, President, ST Engineering
 * John Suffolk, Senior Vice President and Global Cyber Security & Privacy Officer, Huawei
 
-Please see [Annex A](https://www.csa.gov.sg/-/media/Csa/Documents/SICW_2019/SICW2019_AnnexA.pdf) for more information about the keynote speakers.
+Please see <a href="https://www.csa.gov.sg/-/media/Csa/Documents/SICW_2019/SICW2019_AnnexA.pdf" target="_blank">Annex A</a> for more information about the keynote speakers.
 
-For the latest information on the track synopses and respective speakers, please visit [https://www.govware.sg/](https://www.govware.sg/).
+For the latest information on the track synopses and respective speakers, please visit <a href="https://www.govware.sg/" target="_blank">https://www.govware.sg/</a>.
 
 Key highlights at GovWare 2019 include:
 
@@ -78,6 +78,6 @@ Co-organised by CSA and the High Commission of Canada, Women in Cyber aims to pr
 
 Please refer to the following annexes for more information:
 
-* [Annex A: GovWare 2019 Keynote Speakers](https://www.csa.gov.sg/-/media/Csa/Documents/SICW_2019/SICW2019_AnnexA.pdf) [PDF, 555KB] 
-* [Annex B: Quotes from Key Spokespersons](https://www.csa.gov.sg/-/media/Csa/Documents/SICW_2019/SICW2019_AnnexB.pdf) [PDF, 446KB]
+* <a href="https://www.csa.gov.sg/-/media/Csa/Documents/SICW_2019/SICW2019_AnnexA.pdf" target="_blank">Annex A: GovWare 2019 Keynote Speakers</a> [PDF, 555KB] 
+* <a href="https://www.csa.gov.sg/-/media/Csa/Documents/SICW_2019/SICW2019_AnnexB.pdf" target="_blank">Annex B: Quotes from Key Spokespersons</a> [PDF, 446KB]
 * <a href="https://www.csa.gov.sg/-/media/Csa/Documents/SICW_2019/SICW2019_AnnexC.pdf" target="_blank">Annex C: SICW 2019 Partners, Sponsors and Pavilions</a> [PDF, 507KB]
