@@ -16,4 +16,4 @@ Alongside the shift of business meetings towards a hybrid model, CSA will be org
 
 ##### Testing 
 
-<img src="/images/logos/logo-csa-sg-half-wspace-text-v3.png">
+<a href="https://www.csa.gov.sg" target="_blank"><img src="/images/logos/logo-csa-sg-half-wspace-text-v3.png"></a>
