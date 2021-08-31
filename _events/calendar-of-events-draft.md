@@ -21,7 +21,7 @@ Singapore International Cyber Week 2021 is taking place from 4 to 8 October 2021
 | <br> **7 October 2021** *(Thursday)*  |                                                                                                |
 | 9.00am to 5.00pm           | [GovWare Conference and Exhibition 2021](/events/govware3)                                                         |
 | 9.00am to 11.30am             | [Global Forum on Cyber Expertise (GFCE) Southeast Asia Regional   Meeting](/events/gfce)                       |
-| 9.00am to 12.00pm                | Operational Technology (OT) Cybersecurity Competency   Framework                               |
+| 9.00am to 12.00pm                | [Operational Technology (OT) Cybersecurity Competency Framework](/events/ot-cybersecurity)                               |
 | 10.00am to 11.00pm               | [Launch of SG Cyber Safe Partnership Programme](/events/launch-of-sg-cyber-safe)                                                  |
 | 11.00pm to 12.00pm               | [SG Cyber Safe for Enterprises Panel Discussion](/events/sg-cyber-safe-enterprises)                                                 |
 | 3.00pm to 5.00pm                 | [International IoT Security Roundtable](/events/iot2)                                                          |
