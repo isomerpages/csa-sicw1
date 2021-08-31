@@ -14,11 +14,12 @@ Singapore International Cyber Week 2021 is taking place from 4 to 8 October 2021
 | 8.25pm to 9.45pm           | [SICW Ministerial Roundtable Opening Session](/events/ministerial-roundtable-opening) *[By Invitation Only]*                               |
 | 9.50pm to 10.50pm          | [SICW Conversation (Technology)](/events/sicw-conversation-technology)                                                                 |
 | <br> **6 October 2021** *(Wednesday)* |                                                                                                |
+| 9.00am to 5.00pm           | [GovWare Conference and Exhibition 2021](/events/govware2)                                                         |
 | 1.30pm to 5.30pm           | [ASEAN Ministerial Conference On Cybersecurity (AMCC) Main and   Special Sessions](/events/amcc) *[Closed-Door]* |
 | 8.00pm to 11pm                | [International IoT Security Roundtable](/events/iot1)                                                          |
 | 6.45pm to 7.45pm           | [SICW Conversation (Operations)](/events/sicw-conversation-operations)                                                                 |
-| 9.00am to 5.00pm           | [GovWare Conference and Exhibition 2021](/events/govware2)                                                         |
 | <br> **7 October 2021** *(Thursday)*  |                                                                                                |
+| 9.00am to 5.00pm           | [GovWare Conference and Exhibition 2021](/events/govware3)                                                         |
 | 9.00am to 11.30am             | [Global Forum on Cyber Expertise (GFCE) Southeast Asia Regional   Meeting](/events/gfce)                       |
 | 9.00am to 12.00pm                | Operational Technology (OT) Cybersecurity Competency   Framework                               |
 | 10.00am to 11.00pm               | [Launch of SG Cyber Safe Partnership Programme](/events/launch-of-sg-cyber-safe)                                                  |
@@ -26,6 +27,5 @@ Singapore International Cyber Week 2021 is taking place from 4 to 8 October 2021
 | 3.00pm to 5.00pm                 | [International IoT Security Roundtable](/events/iot2)                                                          |
 | 8.00pm to 9.30pm              | [Ministerial Roundtable Closing Session](/events/ministerial-roundtable-closing) *[By Invitation Only]*                                    |
 | 9.45pm to 10.45pm          | [SICW Conversation (Policy)](/events/sicw-conversation-policy)                                                                     |
-| 9.00am to 5.00pm           | [GovWare Conference and Exhibition 2021](/events/govware3)                                                         |
 | <br> **8 October 2021** *(Friday)*    |                                                                                                |
 | 8.00pm to 10.00pm                | [Women in Cyber](/events/women-in-cyber)                                                                                 |
