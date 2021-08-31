@@ -6,7 +6,7 @@ third_nav_title: 6 October 2021
 #### **SICW Conversation (Operations) (Draft)**
 
 **6 October 2021 (Wednesday)**  
-*6.45pm to 7.45pm*
+*7.00pm to 7.55pm*
 
 *Format: Virtual*
 
