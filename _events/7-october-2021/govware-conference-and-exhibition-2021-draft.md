@@ -6,7 +6,7 @@ third_nav_title: 7 October 2021
 #### **GovWare Conference and Exhibition 2021 (Draft)**
 
 **5-7 October 2021 (Tuesday - Thursday)**  
-*9am – 5pm*
+*9.00am – 5.00pm*
 
 | Programme: | Expert industry Insights and cutting-edge innovations showcase   |
 | Format:     | Hybrid (conference delivered both online and in-person) + Live in-person exhibition showcase     |
