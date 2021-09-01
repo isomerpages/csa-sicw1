@@ -3,9 +3,9 @@ title: Ministerial Roundtable (Opening Session) (Draft)
 permalink: /events/ministerial-roundtable-opening
 third_nav_title: 5 October 2021
 ---
-
 #### **Ministerial Roundtable Opening Session (Draft)**
 
+[By Invitation Only]
 **5 October 2021 (Tuesday)**  
 *8.25pm to 9.45pm*
 
