@@ -8,7 +8,7 @@ third_nav_title: 7 October 2021
 **7 October 2021 (Thursday)**  
 *8.00pm – 9.30pm*
 
-*Format: Virtual*
+*Format: Virtual / By Invitation Only*
 
 The Ministerial Roundtable Closing Session brings together Ministers, Cybersecurity Coordinators/Heads of Cybersecurity Agencies, and top industry players to discuss how we can navigate the opportunities and risks presented by living in the new normal of COVID-19. 
 
