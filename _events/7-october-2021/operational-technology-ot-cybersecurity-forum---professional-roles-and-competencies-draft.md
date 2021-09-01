@@ -7,7 +7,7 @@ third_nav_title: 7 October 2021
 #### **Operational Technology (OT) Cybersecurity Forum – Professional Roles and Competencies (Draft)**
 
 **7 October 2021 (Thursday)**  
-*9am – 12pm*
+*9.00am – 12.00pm*
 
 *Format: Virtual*
 
