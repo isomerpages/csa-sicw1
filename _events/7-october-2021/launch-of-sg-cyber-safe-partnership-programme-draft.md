@@ -3,14 +3,12 @@ title: Launch of SG Cyber Safe Partnership Programme (Draft)
 permalink: /events/launch-of-sg-cyber-safe
 third_nav_title: 7 October 2021
 ---
-
-
 #### **Launch of SG Cyber Safe Partnership Programme (Draft)**
 
 **7 October 2021 (Thursday)**  
-*10am to 11am*
+*10.00am to 11.00am*
 
-*Format: Hybrid*
+*Format: Virtual*
 
 While the Government takes a key role in leading cybersecurity efforts, cybersecurity is also everyone’s business and thus, a collective responsibility. For this reason, CSA is working closely with industry to co-develop cybersecurity content or products that complement our efforts to drive cybersecurity awareness and adoption.
 
