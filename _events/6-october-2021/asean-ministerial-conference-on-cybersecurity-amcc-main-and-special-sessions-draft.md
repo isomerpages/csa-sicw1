@@ -4,7 +4,7 @@ title: ASEAN Ministerial Conference On Cybersecurity (AMCC) Main and Special
 permalink: /events/amcc
 third_nav_title: 6 October 2021
 ---
-#### **ASEAN Ministerial Conference On Cybersecurity (AMCC) Main and Special Sessions (Draft)**
+#### **Opening Ceremony of the ASEAN-Singapore Cybersecurity Centre of Excellence (ASCCE), ASEAN Ministerial Conference On Cybersecurity (AMCC) Main and Special Sessions (Draft)**
  
 **6 October 2021 (Wednesday)**  
 *1.30pm – 5.30pm*
