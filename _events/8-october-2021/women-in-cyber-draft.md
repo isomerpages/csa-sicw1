@@ -7,7 +7,7 @@ third_nav_title: 8 October 2021
 ![Alt text for image on Isomer site](/images/EventBanner_WomenInCyber.jpg)
 
 **8 October 2021 (Friday)**  
-*8pm to 10pm*
+*8.00pm to 10.00pm*
 
 *Format: Virtual*
 
