@@ -30,4 +30,4 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 8.00pm to 9.30pm              | [Ministerial Roundtable Closing Session](/events/ministerial-roundtable-closing)                                    |
 | 9.45pm to 10.45pm          | [SICW Conversation (Policy)](/events/sicw-conversation-policy)                                                                     |
 | <br> **8 October 2021** *(Friday)*    |                                                                                                |
-| 8.00pm to 10.00pm                | [Women in Cyber](/events/women-in-cyber)                                                                                 |
+| 8.00pm to 10.00pm                | [SICW Women in Cyber: Women X Leaders X Youth](/events/women-in-cyber)                                                                                 |
