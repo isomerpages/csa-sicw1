@@ -7,7 +7,7 @@ third_nav_title: 4 October 2021
 ![Alt text for image on Isomer site](/images/EventBanner_IoT.jpg)
 
 **4 October 2021 (Monday)**  
-*8pm to 9.30pm*
+*8.00pm – 9.30pm*
 
 *Format: Virtual*
 
