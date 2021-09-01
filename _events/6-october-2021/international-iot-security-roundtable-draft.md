@@ -8,7 +8,7 @@ third_nav_title: 6 October 2021
 **6 October 2021 (Wednesday)**  
 *8.00pm – 11.00pm*  
 **7 October 2021 (Thursday)**  
-* 3.00pm – 5.00pm*
+*3.00pm – 5.00pm*
 
 *Format: Virtual*
 
