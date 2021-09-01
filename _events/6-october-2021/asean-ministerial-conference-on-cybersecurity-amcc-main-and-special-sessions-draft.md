@@ -4,13 +4,13 @@ title: ASEAN Ministerial Conference On Cybersecurity (AMCC) Main and Special
 permalink: /events/amcc
 third_nav_title: 6 October 2021
 ---
-#### **ASEAN Ministerial Conference On Cybersecurity (AMCC) Main and Special Sessions (Draft)**
+#### **Opening Ceremony of the ASEAN-Singapore Cybersecurity Centre of Excellence (ASCCE), ASEAN Ministerial Conference On Cybersecurity (AMCC) Main and Special Sessions (Draft)**
  
 **6 October 2021 (Wednesday)**  
 *1.30pm – 5.30pm*
 
 *Format: Hybrid / Closed-Door*
 
-The AMCC Sessions are ministerial-level dialogues that bring together ASEAN Information and Communications Technology (ICT) and Cybersecurity Ministers as well as with the ASEAN Dialogue Partners, to discuss key cyber issues in the region and means to enhance regional cybersecurity cooperation among member states.
+Minister in-charge of Cybersecurity, Mrs. Josephine Teo, will deliver the Opening Address at the 6th ASEAN Ministerial Conference on Cybersecurity (AMCC) and officiate the opening of the ASEAN-Singapore Cybersecurity Centre of Excellence (ASCCE) campus together with ASEAN Ministers. 
 
-Both the AMCC Main and Special Sessions will be held as a hybrid session on 6 October 2021. **<u>Attendance is strictly by invitation.</u>**
+The 6th AMCC Main and Special Sessions areministerial-level dialogues that bring together ASEAN Information and Communications Technology (ICT) and Cybersecurity Ministers as well as with the ASEAN Dialogue Partners, to discuss key cyber issues in the region and means to enhance regional cybersecurity cooperation among member states. These sessions are by invitation only.  
