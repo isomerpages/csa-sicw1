@@ -8,7 +8,7 @@ third_nav_title: 5 October 2021
 **5 October 2021 (Tuesday)**  
 *8.25pm to 9.45pm*
 
-*Format: Hybrid / By Invitation Only*
+*Format: Hybrid*
 
 The Ministerial Roundtable Opening Session brings together Ministers, Cybersecurity Coordinators/Heads of Cybersecurity Agencies, and top industry players to discuss a multi-stakeholder approach to cybersecurity amidst the pandemic.
 
