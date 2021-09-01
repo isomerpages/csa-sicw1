@@ -3,6 +3,7 @@ title: AMCC Opening Ceremony, AMCC Main and Special Sessions (Closed Door) (Draf
 permalink: /events/ascce-amcc
 third_nav_title: 6 October 2021
 ---
+
 #### **Opening Ceremony of ASCCE and AMCC Main and Special Sessions (Draft)**
  
 **6 October 2021 (Wednesday)**  
