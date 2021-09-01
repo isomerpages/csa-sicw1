@@ -18,7 +18,7 @@ sections:
       title: Mr TEO Chee Hean
       subtitle: Guest of Honor
       description: Senior Minister and Coordinating Minister for National Security
-      image: /images/GOH%20-%20Teo%20Chee%20Hean.png
+      image: /images/GOH%20-%20Teo%20Chee%20Hean%20v2.png
       alt: Mr TEO Chee Hean
   - infopic:
       title: Mrs Josephine TEO
