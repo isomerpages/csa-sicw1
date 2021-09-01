@@ -48,7 +48,7 @@ Registration for SICW is free. Do note that registration on the event does not s
 
 **2.	If I registered for and could not attend the event, can I transfer my registration – virtual and/or physical – to someone else?**
 
-Request for transfer is subject to the Organiser's review and approval. Please submit your request to <a href="mailto:registration@govware.sg">registration@govware.sg</a> before 27 September 2021.
+Request for transfer is subject to the Organiser's review and approval. Please submit your request to <a href="mailto:contactus@image-engine.biz">contactus@image-engine.biz</a> before 27 September 2021.
 
 #### **Programme**
 
