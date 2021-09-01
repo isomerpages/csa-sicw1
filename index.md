@@ -28,6 +28,13 @@ sections:
         Nation and Cybersecurity SG
       image: /images/GOH%20-%20Josephine%20Teo.png
       alt: Mrs Josephine TEO
+  - infopic:
+      title: Dr. Janil Puthucheary
+      subtitle: Guest of Honor
+      description: Senior Minister of State, Ministry of Communications and
+        Information, and Ministry of Health
+      image: /images/GOH%20-%20Janil%20P.png
+      alt: Dr. Janil Puthucheary
   - infobar:
       title: SICW
       subtitle: About
