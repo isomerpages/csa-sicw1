@@ -11,8 +11,8 @@ sections:
   - hero:
       background: /images/SICW_HomeBanner_v210823.jpg
       key_highlights:
-        - title: Registration
-          description: Get your virtual access now
+        - title: Register Now
+          description: Get your virtual access
           url: https://www.gevme.com/singapore-international-cyber-week-2021
   - infopic:
       title: Mr TEO Chee Hean
