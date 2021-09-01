@@ -16,14 +16,14 @@ Singapore International Cyber Week 2021 is taking place from 4 to 8 October 2021
 | <br> **6 October 2021** *(Wednesday)* |                                                                                                |
 | 9.00am to 5.00pm           | [GovWare Conference and Exhibition 2021](/events/govware2)                                                         |
 | 1.30pm to 5.30pm           | [ASEAN Ministerial Conference On Cybersecurity (AMCC) Main and   Special Sessions](/events/amcc) *[Closed-Door]* |
-| 8.00pm to 11pm                | [International IoT Security Roundtable](/events/iot1)                                                          |
+| 8.00pm – 11.00pm                | [International IoT Security Roundtable](/events/iot1)                                                          |
 | 7.00pm to 7.55pm           | [SICW Conversation (Operations)](/events/sicw-conversation-operations)                                                                 |
 | <br> **7 October 2021** *(Thursday)*  |                                                                                                |
 | 9.00am to 5.00pm           | [GovWare Conference and Exhibition 2021](/events/govware3)                                                         |
 | 9.00am to 11.30am             | [Global Forum on Cyber Expertise (GFCE) Southeast Asia Regional   Meeting](/events/gfce)                       |
 | 9.00am to 12.00pm                | [Operational Technology (OT) Cybersecurity Forum – Professional Roles and Competencies](/events/ot-cybersecurity)                               |
-| 10.00am to 11.00pm               | [Launch of SG Cyber Safe Partnership Programme](/events/launch-of-sg-cyber-safe)                                                  |
-| 11.00pm to 12.00pm               | [SG Cyber Safe for Enterprises Panel Discussion](/events/sg-cyber-safe-enterprises)                                                 |
+| 10.00am to 11.00am               | [Launch of SG Cyber Safe Partnership Programme](/events/launch-of-sg-cyber-safe)                                                  |
+| 11.00am to 12.00pm               | [SG Cyber Safe for Enterprises Panel Discussion](/events/sg-cyber-safe-enterprises)                                                 |
 | 3.00pm to 5.00pm                 | [International IoT Security Roundtable](/events/iot2)                                                          |
 | 8.00pm to 9.30pm              | [Ministerial Roundtable Closing Session](/events/ministerial-roundtable-closing) *[By Invitation Only]*                                    |
 | 9.45pm to 10.45pm          | [SICW Conversation (Policy)](/events/sicw-conversation-policy)                                                                     |
