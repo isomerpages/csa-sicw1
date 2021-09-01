@@ -12,7 +12,7 @@ sections:
       background: /images/SICW_HomeBanner_v210823.jpg
       key_highlights:
         - title: Registration
-          description: Lorem ipsum dolor sit amet con
+          description: Get your virtual access now
           url: https://www.gevme.com/singapore-international-cyber-week-2021
   - infobar:
       title: SICW
