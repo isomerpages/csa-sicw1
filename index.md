@@ -18,8 +18,16 @@ sections:
       title: Mr TEO Chee Hean
       subtitle: Guest of Honor
       description: Senior Minister and Coordinating Minister for National Security
-      image: /images/MrTeoCheeHean_650.png
-      alt: Image alt text
+      image: /images/GOH%20-%20Teo%20Chee%20Hean.png
+      alt: Mr TEO Chee Hean
+  - infopic:
+      title: Mrs Josephine TEO
+      subtitle: Guest of Honor
+      description: Minister for Ministry of Communications and Information, 2nd
+        Minister for Ministry of Home Affairs, and Minister-in-charge of Smart
+        Nation and Cybersecurity SG
+      image: /images/GOH%20-%20Josephine%20Teo.png
+      alt: Mrs Josephine TEO
   - infobar:
       title: SICW
       subtitle: About
