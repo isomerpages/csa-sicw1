@@ -23,9 +23,9 @@ sections:
   - infopic:
       title: Mrs Josephine TEO
       subtitle: Guest of Honor
-      description: Minister for Ministry of Communications and Information, 2nd
-        Minister for Ministry of Home Affairs, and Minister-in-charge of Smart
-        Nation and Cybersecurity SG
+      description: Minister, Ministry of Communications and Information, 2nd Minister
+        for Ministry of Home Affairs, Minister-in-charge of Smart Nation and
+        Cybersecurity, Singapore
       image: /images/GOH%20-%20Josephine%20Teo.png
       alt: Mrs Josephine TEO
   - infopic:
