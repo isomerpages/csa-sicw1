@@ -1,8 +1,9 @@
 ---
 title: AMCC Opening Ceremony, AMCC Main and Special Sessions (Closed Door) (Draft)
-permalink: /events/ascce-amcc
+permalink: /events/amcc
 third_nav_title: 6 October 2021
 ---
+
 #### **ASEAN Ministerial Conference On Cybersecurity (AMCC) Opening Ceremony and AMCC Main and Special Sessions (Draft)**
  
 **6 October 2021 (Wednesday)**  
