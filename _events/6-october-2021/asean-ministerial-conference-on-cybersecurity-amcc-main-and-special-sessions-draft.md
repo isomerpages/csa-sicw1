@@ -5,12 +5,11 @@ permalink: /events/amcc
 third_nav_title: 6 October 2021
 ---
 #### **ASEAN Ministerial Conference On Cybersecurity (AMCC) Main and Special Sessions (Draft)**
-
-[Closed-Door]  
+ 
 **6 October 2021 (Wednesday)**  
 *1.30pm – 5.30pm*
 
-*Format: Hybrid*
+*Format: Hybrid / Closed-Door*
 
 The AMCC Sessions are ministerial-level dialogues that bring together ASEAN Information and Communications Technology (ICT) and Cybersecurity Ministers as well as with the ASEAN Dialogue Partners, to discuss key cyber issues in the region and means to enhance regional cybersecurity cooperation among member states.
 
