@@ -14,6 +14,12 @@ sections:
         - title: Registration
           description: Get your virtual access now
           url: https://www.gevme.com/singapore-international-cyber-week-2021
+  - infopic:
+      title: Mr TEO Chee Hean
+      subtitle: Guest of Honor
+      description: Senior Minister and Coordinating Minister for National Security
+      image: /images/MrTeoCheeHean_650.png
+      alt: Image alt text
   - infobar:
       title: SICW
       subtitle: About
