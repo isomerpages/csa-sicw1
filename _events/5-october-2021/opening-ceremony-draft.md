@@ -6,7 +6,7 @@ third_nav_title: 5 October 2021
 #### **Opening Ceremony (Draft)**
 
 **5 October 2021 (Tuesday)**  
-*8pm – 8.25pm*
+*8.00pm – 8.25pm*
 
 *Format: Hybrid*
 
