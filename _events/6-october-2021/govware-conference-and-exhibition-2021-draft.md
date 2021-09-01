@@ -8,8 +8,7 @@ third_nav_title: 6 October 2021
 **5-7 October 2021 (Tuesday - Thursday)**  
 *9.00am – 5.00pm*
 
-| Programme: | Expert industry Insights and cutting-edge innovations showcase   |
-| Format:     | Hybrid (conference delivered both online and in-person) + Live in-person exhibition showcase     |
+Format: Hybrid (Conference) + In-Person Exhibition
 
 Disruptions have taken centre stage as key factors in just about every facet of the human condition. In technology, healthcare, communications, travel, even social norms and modes of behaviour, the recent past has seen unprecedented pace and impact of change in our lives. Growing and adapting to meet the emerging challenges, and identifying developing opportunities, are keys to establishing resilient and successful communities of the future.
 
