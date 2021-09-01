@@ -6,9 +6,9 @@ third_nav_title: 6 October 2021
 #### **International IoT Security Roundtable (Draft)**
 
 **6 October 2021 (Wednesday)**  
-*8pm – 11pm*  
+*8.00pm – 11.00pm*  
 **7 October 2021 (Thursday)**  
-*3pm – 5pm*
+* 3.00pm – 5.00pm*
 
 *Format: Virtual*
 
