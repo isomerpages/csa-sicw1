@@ -3,8 +3,7 @@ title: Global Forum on Cyber Expertise (GFCE) Southeast Asia Regional Meeting
 permalink: /events/gfce
 third_nav_title: 7 October 2021
 ---
-
-#### **Global Forum on Cyber Expertise (GFCE) Southeast Asia Regional Meeting (Draft)**
+#### **Global Forum on Cyber Expertise (GFCE) Southeast Asia Regional Meeting**
 
 **7 October 2021 (Thursday)**  
 *9.00am – 11.30am*
