@@ -3,7 +3,7 @@ title: Events Listing (Draft)
 permalink: /events/day1
 third_nav_title: 4 October 2021
 ---
-#### **Events Listing (Draft)**
+#### **List of Events - 4 October 2021 (Draft)**
 
 Event dates and timings below are in Singapore time (GMT +8). 
 
