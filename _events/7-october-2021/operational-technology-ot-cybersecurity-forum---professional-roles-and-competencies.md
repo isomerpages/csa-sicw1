@@ -4,8 +4,7 @@ title: Operational Technology (OT) Cybersecurity Forum – Professional Roles an
 permalink: /events/ot-cybersecurity
 third_nav_title: 7 October 2021
 ---
-
-#### **Operational Technology (OT) Cybersecurity Forum – Professional Roles and Competencies (Draft)**
+#### **Operational Technology (OT) Cybersecurity Forum – Professional Roles and Competencies**
 
 **7 October 2021 (Thursday)**  
 *9.00am – 12.00pm*
