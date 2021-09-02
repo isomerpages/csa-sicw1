@@ -30,12 +30,12 @@ sections:
       image: /images/GOH%20-%20Josephine%20Teo.png
       alt: Mrs Josephine TEO
   - infopic:
-      title: Dr. Janil PUTHUCHEARY
+      title: Dr Janil PUTHUCHEARY
       subtitle: GUEST OF HONOUR
       description: Senior Minister of State, Ministry of Communications and
         Information, and Ministry of Health, Singapore
       image: /images/GOH%20-%20Janil%20P.png
-      alt: Dr. Janil PUTHUCHEARY
+      alt: Dr Janil PUTHUCHEARY
   - infobar:
       title: SICW
       subtitle: About
