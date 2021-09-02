@@ -3,9 +3,7 @@ title: "SICW Women in Cyber: Women X Leaders X Youth"
 permalink: /events/women-in-cyber
 third_nav_title: 8 October 2021
 ---
-
-
-#### **SICW Women in Cyber: Women X Leaders X Youth (Draft)**
+#### **SICW Women in Cyber: Women X Leaders X Youth**
 
 **8 October 2021 (Friday)**  
 *8.00pm to 10.00pm*
