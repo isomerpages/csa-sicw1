@@ -35,9 +35,9 @@ The AMCC complements the various cybersecurity collaborations amongst the ASEAN 
 
 *1 – 3 October 2019, Suntec Singapore Convention & Exhibition Centre*
 
-Into its 28th showing, GovernmentWare (GovWare) was the region’s most established premier conference and exhibition for cybersecurity and served as the cornerstone event for SICW. Highlights at GovWare in 2019included participation by Country Pavilions from the UK, Singapore and for the first time, Israel, which demonstrated a broad range of cybersecurity applications and technologies. Besides showcasing the latest developments and technologies from established companies around the globe, other interesting displays included the Startup Pavilion, which focused on promising local companies and the IHL Pavilion where Institutes of Higher Learning demonstrated a wide range of innovative applications and cybersecurity projects.
+Into its 28th showing, GovernmentWare (GovWare) was the region’s most established premier conference and exhibition for cybersecurity and served as the cornerstone event for SICW. Highlights at GovWare in 2019 included participation by Country Pavilions from the UK, Singapore and for the first time, Israel, which demonstrated a broad range of cybersecurity applications and technologies. Besides showcasing the latest developments and technologies from established companies around the globe, other interesting displays included the Startup Pavilion, which focused on promising local companies and the IHL Pavilion where Institutes of Higher Learning demonstrated a wide range of innovative applications and cybersecurity projects.
 
-Keynote speakers at GovWare 2019 include:
+Keynote speakers at GovWare 2019 included:
 * Tim Hwang, Executive Director, The Cognitive Security Institute
 * George Kurtz, Chief Executive Officer, CrowdStrike
 * Fook Sun Lee, Chairman, Ensign InfoSecurity
@@ -51,12 +51,12 @@ Please see <a href="https://www.csa.gov.sg/-/media/Csa/Documents/SICW_2019/SICW2
 
 For the other information on the track synopses and respective speakers, please visit <a href="https://www.govware.sg/" target="_blank">https://www.govware.sg/</a>.
 
-Key highlights at GovWare 2019 include:
+Key highlights at GovWare 2019 included:
 
 * **CXO Plenary** – *By invitation only*  
 The CXO Plenary, jointly organised by CSA and Temasek Foundation, brought together up to 180 C-suite executives and top decision-makers from public and private sectors to exchange views on key strategic developments and trends in cybersecurity. Themed Cyber Resilience: The New Boardroom Priority, this year’s CXO Plenary discussed ways that organisations could adopt to improve their cyber defences and build up resilience to mitigate cybersecurity threats. Senior Minister of State for Ministry of Communications and Information and Ministry of Culture, Community & Youth, Ms Sim Ann, delivered the opening remarks.
 * **Singapore Cyber Conquest**  
-The Singapore Cyber Conquest was open to students of Institutes of Higher Learning in Singapore and ASEAN to test their cybersecurity capabilities in a near real-world cyber range. Participants raced against time to complete a diverse range of cybersecurity challenges thatput their cybersecurity skills and knowledge to the ultimate test.
+The Singapore Cyber Conquest was open to students of Institutes of Higher Learning in Singapore and ASEAN to test their cybersecurity capabilities in a near real-world cyber range. Participants raced against time to complete a diverse range of cybersecurity challenges that put their cybersecurity skills and knowledge to the ultimate test.
 * **Cybersecurity Challenge Singapore – Face-to-Face (F2F) Competition**  
 Top players from the Singapore Floor in the UK-Developed CyPhinx, a Massive Multiplayer Online Game were invited to compete in this exciting F2F competition. Players embarked on a series of real-life cyber incident response scenarios, where they demonstrated their cybersecurity proficiencies to deal with the incidents.
 
