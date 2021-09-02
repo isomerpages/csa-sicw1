@@ -3,8 +3,7 @@ title: International IoT Security Roundtable
 permalink: /events/iot2
 third_nav_title: 7 October 2021
 ---
-
-#### **International IoT Security Roundtable (Draft)**
+#### **International IoT Security Roundtable**
 
 **6 October 2021 (Wednesday)**  
 *8.00pm – 11.00pm*  
