@@ -10,6 +10,6 @@ Event dates and timings below are in Singapore time (GMT +8).
 
 * [4 October 2021](/events/day1)
 * [5 October 2021](/events/day2)
-* [6 October 2021](/events/day2)
-* [7 October 2021](/events/day2)
-* [8 October 2021](/events/day2)
+* [6 October 2021](/events/day3)
+* [7 October 2021](/events/day4)
+* [8 October 2021](/events/day5)
