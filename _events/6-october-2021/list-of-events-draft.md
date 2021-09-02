@@ -10,5 +10,5 @@ Event dates and timings below are in Singapore time (GMT +8).
 | **6 October 2021** *(Wednesday)* |                                                                                                |
 | 9.00am to 5.00pm           | [GovWare Conference and Exhibition 2021](/events/govware2)                                                         |
 | 1.30pm to 5.30pm           | [ASEAN Ministerial Conference on Cybersecurity (AMCC) Opening Ceremony and AMCC Main and Special Sessions](/events/amcc) *[Closed-Door]* |
-| 8.00pm – 11.00pm                | [International IoT Security Roundtable](/events/iot1)                                                          |
 | 7.00pm to 7.55pm           | [SICW Conversation (Operations)](/events/sicw-conversation-operations)                                                                 |
+| 8.00pm – 11.00pm                | [International IoT Security Roundtable](/events/iot1)                                                          |
