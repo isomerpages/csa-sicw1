@@ -4,7 +4,6 @@ date: 2020-10-19
 permalink: /resources/publications/2020highlights-testimonial
 layout: post
 ---
-
 #### **Singapore International Cyber Week 2020 - Highlights and Testimonials**
 
 ![SICW](/images/logos/logo-sicw-full-wspace-lr-h300.png)
@@ -22,6 +21,8 @@ Other key announcements at SICW 2020 were:
 **Establishment of the Operational Technology Cybersecurity Expert Panel (OTCEP)** to enhance the cyber resilience of Singapore’s Operational Technology (OT) sector. Comprising local and international OT cybersecurity experts, the OTCEP will discuss key global OT technologies and emerging trends and recommend best practices to address cybersecurity challenges and gaps. They will also share insights, based on their experience in handling global cybersecurity incidents, with incident response teams from the Government, Critical Information Infrastructure sectors and industry stakeholders in Singapore. The first OTCEP meeting is scheduled in the first half of 2021.
 
 **Launch of a joint second grant call with Tel Aviv University under the National Cybersecurity R&amp;D (NCR) Programme.** Open to all researchers from Institutes of Higher Learning and Research Institutes, the grant call aims to build upon ongoing research collaboration in areas such as security of smart cities and IoT, behavioural studies and social science of cybersecurity, and policy and governance of cybersecurity. In addition, the management of the NCR Programme will be transferred from the National Research Foundation (NRF) to CSA by March 2021. NRF has also appointed CSA as the Implementing Agency for cybersecurity R&amp;D. This will allow CSA, as the domain lead agency for cybersecurity, to better coordinate the entire cybersecurity R&amp;D and innovation process, as well as achieve greater synergies between government agencies, industry and research partners.
+
+---
 
 ##### **Testimonials**
 
@@ -45,4 +46,4 @@ Other key announcements at SICW 2020 were:
 
 Established in 2015, the Cyber Security Agency of Singapore (CSA) seeks to keep Singapore’s cyberspace safe and secure to underpin our Nation Security, power a Digital Economy and protect our Digital Way of Life. It maintains an oversight of national cybersecurity functions and works with sector leads to protect Singapore’s Critical Information Infrastructure. CSA also engages with various stakeholders to heighten cyber security awareness, build a vibrant cybersecurity ecosystem supported by a robust workforce, pursue international partnerships and drive regional cybersecurity capacity building programmes.
 
-CSA is part of the Prime Minister’s Office and is managed by the Ministry of Communications and Information. For more news and information, please visit <a href="https://www.csa.gov.sg/">https://www.csa.gov.sg/</a>.
+CSA is part of the Prime Minister’s Office and is managed by the Ministry of Communications and Information. For more news and information, please visit <a href="https://www.csa.gov.sg/" target="_blank">https://www.csa.gov.sg/</a>.

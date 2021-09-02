@@ -2,6 +2,8 @@ logo: /images/logo_sicw.png
 links:
   - title: About SICW
     url: /about-sicw
+  - title: Events
+    collection: events
   - title: Media
     collection: media
   - title: Resources
@@ -11,3 +13,7 @@ links:
     sublinks:
       - title: Enquiry
         url: /contact-us
+      - title: FAQs
+        url: /faq
+  - title: Registration
+    url: https://www.gevme.com/singapore-international-cyber-week-2021
