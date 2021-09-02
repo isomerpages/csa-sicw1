@@ -4,7 +4,7 @@ permalink: /events/day2
 third_nav_title: 5 October 2021
 ---
 #### **Events - 5 October 2021 (Draft)**
-
+ 
 | **5 October 2021** *(Tuesday)*   |                                                                                                |
 | 9.00am to 5.00pm           | [GovWare Conference and Exhibition 2021](/events/govware1)                                                         |
 | 8.00pm to 8.25pm              | [SICW Opening Ceremony](/events/opening-ceremony)                                                                          |
