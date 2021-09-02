@@ -3,8 +3,7 @@ title: SG Cyber Safe for Enterprises Panel Discussion
 permalink: /events/sg-cyber-safe-enterprises
 third_nav_title: 7 October 2021
 ---
-
-#### **SG Cyber Safe for Enterprises Panel Discussion (Draft)**
+#### **SG Cyber Safe for Enterprises Panel Discussion**
 
 **7 October 2021 (Thursday)**  
 *11.00am to 12.00pm*
