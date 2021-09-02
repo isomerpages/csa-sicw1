@@ -17,7 +17,8 @@ sections:
   - infopic:
       title: Mr TEO Chee Hean
       subtitle: GUEST OF HONOUR
-      description: Senior Minister and Coordinating Minister for National Security
+      description: Senior Minister and Coordinating Minister for National Security,
+        Singapore
       image: /images/GOH%20-%20Teo%20Chee%20Hean%20v2.png
       alt: Mr TEO Chee Hean
   - infopic:
@@ -32,7 +33,7 @@ sections:
       title: Dr. Janil PUTHUCHEARY
       subtitle: GUEST OF HONOUR
       description: Senior Minister of State, Ministry of Communications and
-        Information, and Ministry of Health
+        Information, and Ministry of Health, Singapore
       image: /images/GOH%20-%20Janil%20P.png
       alt: Dr. Janil PUTHUCHEARY
   - infobar:
