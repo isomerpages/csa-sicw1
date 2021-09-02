@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - events-overview.md
       - calendar-of-events-draft.md
       - 4-october-2021/.keep
       - 4-october-2021/list-of-events-draft.md
