@@ -11,6 +11,6 @@ Main and Special Sessions: 2.00pm - 5.30pm *(Closed)*
 
 *Format: Hybrid / Closed-Door*
 
-Minister in-charge of Cybersecurity, Mrs. Josephine Teo, will deliver the Opening Address at the 6<sup>th</sup> ASEAN Ministerial Conference on Cybersecurity (AMCC) and officiate the opening of the ASEAN-Singapore Cybersecurity Centre of Excellence (ASCCE) campus together with ASEAN Ministers. 
+Minister in-charge of Cybersecurity, Mrs Josephine Teo, will deliver the Opening Address at the 6<sup>th</sup> ASEAN Ministerial Conference on Cybersecurity (AMCC) and officiate the opening of the ASEAN-Singapore Cybersecurity Centre of Excellence (ASCCE) campus together with ASEAN Ministers. 
 
 The 6<sup>th</sup> AMCC Main and Special Sessions are ministerial-level dialogues that bring together ASEAN Information and Communications Technology (ICT) and Cybersecurity Ministers as well as with the ASEAN Dialogue Partners, to discuss key cyber issues in the region and means to enhance regional cybersecurity cooperation among member states. These sessions are by invitation only.
