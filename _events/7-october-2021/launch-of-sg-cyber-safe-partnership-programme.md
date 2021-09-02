@@ -3,8 +3,7 @@ title: Launch of SG Cyber Safe Partnership Programme
 permalink: /events/launch-of-sg-cyber-safe
 third_nav_title: 7 October 2021
 ---
-
-#### **Launch of SG Cyber Safe Partnership Programme (Draft)**
+#### **Launch of SG Cyber Safe Partnership Programme**
 
 **7 October 2021 (Thursday)**  
 *10.00am to 11.00am*
