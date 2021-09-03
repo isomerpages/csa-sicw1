@@ -10,4 +10,4 @@ third_nav_title: 5 October 2021
 
 *Format: Hybrid*
 
-Singapore’s Senior Minister, Mr Teo Chee Hean, will officiate the opening of SICW 2021.
+Singapore’s Senior Minister and Coordinating Minister for National Security, Mr Teo Chee Hean, will officiate the opening of SICW 2021.
