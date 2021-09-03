@@ -36,6 +36,13 @@ sections:
         Information, and Ministry of Health, Singapore
       image: /images/GOH%20-%20Janil%20P.png
       alt: Dr Janil PUTHUCHEARY
+  - infopic:
+      title: Mr TAN Kiat How
+      subtitle: GUEST OF HONOUR
+      description: Minister of State, Ministry of Communications and Information &
+        Ministry of National Development, Singapore
+      image: /images/GOH%20-%20Tan%20K%20H.png
+      alt: Mr TAN Kiat How
   - infobar:
       title: SICW
       subtitle: About
