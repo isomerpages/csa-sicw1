@@ -8,7 +8,7 @@ permalink: /faq
 
 **1.	What is SICW?**
 
-The Singapore International Cyber Week (SICW) is Asia-Pacific’s most established cybersecurity event since its inception in 2016. SICW brings together prominent global policy makers, thought leaders and industry experts to discuss, network, strategise and form partnerships in the cybersecurity space, as well as advance knowledge exchanges on key cybersecurity issues and solutions. It is a week where governments, industry and academia converge, bringing together elements such as international law, cyber norms of behaviour and capacity building efforts that make up a secure, trusted and resilient cyberspace.
+The Singapore International Cyber Week (SICW) is Asia-Pacific’s most established cybersecurity event since its inception in 2016. As countries continue to adapt and manage the pandemic, SICW 2021 will focus on how countries can work together to leverage the new opportunities that did not exist prior to the pandemic, and to deal with the growing cyber threats by building a secure and resilient cyberspace that serves as an enabler of economic progress in the digital future. SICW 2021 continues the momentum of conversations among top policy makers, industry leaders and domain experts from ASEAN and across the world on key areas of cybersecurity, including emerging digital opportunities and threats, evolution of cyberspace and cybersecurity policies, implementation of cyber norms, Internet of Things (IoT) and Operational Technology (OT) security, and coordinated cyber capacity-building.
 
 **2.	What is a hybrid event and how do I attend?**
 
