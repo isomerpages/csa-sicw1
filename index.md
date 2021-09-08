@@ -14,6 +14,14 @@ sections:
         - title: Register Now
           description: Get your virtual access
           url: https://www.gevme.com/singapore-international-cyber-week-2021
+  - infobar:
+      title: SICW
+      subtitle: About
+      description: Singapore International Cyber Week (SICW) is Asia-Pacific’s most
+        established cybersecurity event for global policy makers, thought
+        leaders and industry experts.
+      button: read more
+      url: /about-sicw
   - infopic:
       title: Mr TEO Chee Hean
       subtitle: GUEST OF HONOUR
@@ -24,9 +32,9 @@ sections:
   - infopic:
       title: Mrs Josephine TEO
       subtitle: GUEST OF HONOUR
-      description: Minister, Ministry of Communications and Information, 2nd Minister
-        for Ministry of Home Affairs, Minister-in-charge of Smart Nation and
-        Cybersecurity, Singapore
+      description: Minister for Communications and Information, Second Minister for
+        Home Affairs, Minister-in-charge of Smart Nation and Cybersecurity,
+        Singapore
       image: /images/GOH%20-%20Josephine%20Teo.png
       alt: Mrs Josephine TEO
   - infopic:
@@ -39,18 +47,10 @@ sections:
   - infopic:
       title: Mr TAN Kiat How
       subtitle: GUEST OF HONOUR
-      description: Minister of State, Ministry of Communications and Information &
+      description: Minister of State, Ministry of Communications and Information and
         Ministry of National Development, Singapore
       image: /images/GOH%20-%20Tan%20K%20H.png
       alt: Mr TAN Kiat How
-  - infobar:
-      title: SICW
-      subtitle: About
-      description: Singapore International Cyber Week (SICW) is Asia-Pacific’s most
-        established cybersecurity event for global policy makers, thought
-        leaders and industry experts.
-      button: read more
-      url: /about-sicw
   - resources:
       title: Past SICW Highlights
       subtitle: Explore
