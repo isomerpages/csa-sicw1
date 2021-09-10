@@ -10,6 +10,8 @@ The sixth edition of SICW will take place from 4 to 8 October 2021, under the th
 
 Alongside the shift of business meetings towards a hybrid model, CSA will be organising SICW 2021 as a combination of inter-linked physical and virtual meetings that will allow key leaders from governments, industry, academia and non-government organisations to explore the future of cyberspace cooperation from a broader range of perspectives.
 
+All SICW in-person events will take place at the Sands Expo and Convention Centre, Marina Bay Sands, Singapore.
+
 ![SG](/images/logo-sg-half-wspace-text-v3-850width.png)
 
 |      <a href="https://www.csa.gov.sg" target="_blank"><img src="/images/logos/logo-csa-sg-half-wspace-text-v3.png"></a>  | <a href="http://www.image-engine.biz/" target="_blank"><img src="/images/logos/logo-IE-sg-half-wspace-text-v3.png"></a>  |
