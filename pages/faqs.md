@@ -16,6 +16,10 @@ It is a combination of inter-linked physical and virtual meetings that will allo
 
 To attend an event virtually, please click on the Registration link <a href="https://www.gevme.com/singapore-international-cyber-week-2021" target="_blank">here</a>.
 
+**3.	Where will the in-person events of SICW be taking place?**  
+
+All SICW in-person events will take place at the Sands Expo and Convention Centre, Marina Bay Sands, Singapore.
+
 **3.	I am not fully vaccinated, so am I able to attend the event?**
 
 If you are not fully vaccinated, you will be required to go through pre-event testing (PET) on a daily basis. The cost of the testing shall be borne by the attendee.
