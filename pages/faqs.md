@@ -12,7 +12,7 @@ The Singapore International Cyber Week (SICW) is Asia-Pacific’s most establish
 
 **2.	What is a hybrid event and how do I attend?**
 
-It is a combination of inter-linked physical and virtual meetings that will allow key leaders from governments, industry, academia and non-government organisations to explore the future of cyberspace cooperation from a broader range of perspectives.  All in-person attendees are by-invitation only.
+It is a combination of inter-linked physical and virtual meetings that will allow key leaders from governments, industry, academia and non-government organisations to explore the future of digital and cyber security cooperation from a broader range of perspectives.  All in-person attendees are by-invitation only.
 
 To attend an event virtually, please click on the Registration link <a href="https://www.gevme.com/singapore-international-cyber-week-2021" target="_blank">here</a>.
 
