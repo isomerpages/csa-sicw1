@@ -3,8 +3,7 @@ title: SICW Conversations (Policy)
 permalink: /events/sicw-conversation-policy
 third_nav_title: 7 October 2021
 ---
-
-#### **SICW Conversation (Policy)**
+#### **SICW Conversations (Policy)**
 
 **7 October 2021 (Thursday)**  
 *9.45pm to 10.45pm*
