@@ -1,9 +1,10 @@
 ---
-title: SICW Conversation (Technology)
+title: SICW Conversations (Technology)
 permalink: /events/sicw-conversation-technology
 third_nav_title: 5 October 2021
 ---
-#### **SICW Conversation (Technology)**
+
+#### **SICW Conversations (Technology)**
 
 **5 October 2021 (Tuesday)**  
 *9.50pm to 10.50pm*

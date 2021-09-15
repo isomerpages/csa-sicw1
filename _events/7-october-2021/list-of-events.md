@@ -15,4 +15,4 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 11.00am to 12.00pm               | [SG Cyber Safe for Enterprises Panel Discussion](/events/sg-cyber-safe-enterprises)                                                 |
 | 3.00pm to 5.00pm                 | [International IoT Security Roundtable](/events/iot2)                                                          |
 | 8.00pm to 9.30pm              | [Ministerial Roundtable Closing Session](/events/ministerial-roundtable-closing)                                    |
-| 9.45pm to 10.45pm          | [SICW Conversation (Policy)](/events/sicw-conversation-policy)                                                                     |
+| 9.45pm to 10.45pm          | [SICW Conversations (Policy)](/events/sicw-conversation-policy)                                                                     |
