@@ -21,9 +21,9 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 7.00pm to 7.55pm           | [SICW Conversations (Operations)](/events/sicw-conversation-operations)                                                                 |
 | 8.00pm – 11.00pm                | [International IoT Security Roundtable](/events/iot1)                                                          |
 | <br> **7 October 2021** *(Thursday)*  |                                                                                                |
-| 9.30am to 5.00pm           | [GovWare Conference 2021](/events/govware3)                                                         |
 | 9.00am to 11.30am             | [Global Forum on Cyber Expertise (GFCE) Southeast Asia Regional   Meeting](/events/gfce)                       |
 | 9.00am to 12.00pm                | [Operational Technology (OT) Cybersecurity Forum – Professional Roles and Competencies](/events/ot-cybersecurity)                               |
+| 9.30am to 5.00pm           | [GovWare Conference 2021](/events/govware3)                                                         |
 | 10.00am to 11.00am               | [Launch of SG Cyber Safe Partnership Programme](/events/launch-of-sg-cyber-safe)                                                  |
 | 11.00am to 12.00pm               | [SG Cyber Safe for Enterprises Panel Discussion](/events/sg-cyber-safe-enterprises)                                                 |
 | 3.00pm to 5.00pm                 | [International IoT Security Roundtable](/events/iot2)                                                          |
