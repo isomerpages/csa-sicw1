@@ -2,7 +2,7 @@
 title: Speaker - Lanx Goh (Draft)
 permalink: /speaker-lanx-goh
 ---
-![David Koh](/images/speakers/speaker-full-left-test-2.jpg)
+![Lanx Goh](/images/speakers/Lanx-Goh.jpg)
 
 #### **Mr Lanx Goh (Draft)**
 
