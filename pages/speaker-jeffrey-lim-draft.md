@@ -2,6 +2,7 @@
 title: Speaker - Jeffrey Lim (Draft)
 permalink: /speaker-jeffrey-lim
 ---
+
 ![David Koh](/images/speakers/speaker-full-left-test-2.jpg)
 
 #### **Mr Jeffrey Lim (Draft)**
