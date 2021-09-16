@@ -2,7 +2,7 @@
 title: Speaker - Megan Stifel
 permalink: /speaker-megan-stifel
 ---
-![David Koh](/images/speakers/speaker-full-left-test-2.jpg)
+![Megan Stifel](/images/speakers/Megan-Stifel.jpg)
 
 #### **Ms Megan Stifel (Draft)**
 
