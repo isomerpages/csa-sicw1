@@ -9,8 +9,6 @@ permalink: /speaker-lanx-goh
 *Head of International Privacy & Global Data Protection Officer*  
 Ant Group
 
-Singapore
-
 ##### **Biography**
 
 Lanx Goh is the Head of International Privacy and Global Data Protection Officer with Ant Group. Lanx was formerly the Data Privacy & Cybersecurity Senior Counsel for TikTok Pte Ltd, Senior Legal Counsel and Privacy & Cybersecurity Lead for Klook Travel Technology Limited, and Head of Investigation at the Personal Data Protection Commission where he was involved in the review process of the revised Personal Data Protection Act. He is an Adjunct Associate Professor with the National University of Singapore, Faculty of Law and Adjunct Lecturer with the Singapore Management University, School of Law where he developed and continues to co-teach the Privacy & Data Protection Law courses. Lanx is also a Committee Member with the Singapore Law Society, Cybersecurity and Data Protection Committee, and Fellow of Information Privacy and Board Member with the International Association of Privacy Professional, Asia Advisory Board.
