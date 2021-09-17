@@ -13,6 +13,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praes
 
 ##### **Speakers**
 
-| [Mr Jeffrey Lim](/speaker-jeffrey-lim)  | Chairman, Cybersecurity Data Protection Committee<br>The Law Society of Singapore                  |
-| [Mr Lanx Goh](/speaker-lanx-goh)     | Head of International Privacy & Global Data Protection Officer<br>Ant Group     |
+| [Mr Jeffrey Lim](/speaker-jeffrey-lim)  | *Chairman, Cybersecurity Data Protection Committee*<br>The Law Society of Singapore                  |
+| [Mr Lanx Goh](/speaker-lanx-goh)     | Head of International Privacy & Global Data Protection Officer<br>*Ant Group*     |
 | [Ms Megan Stifel](/speaker-megan-stifel) | Global Policy Officer and Capacity and Resilience Program Director<br>Global Cyber Alliance |
