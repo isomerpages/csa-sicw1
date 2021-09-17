@@ -2,11 +2,9 @@
 title: Speaker - David Koh (Draft)
 permalink: /speaker-david-koh
 ---
-
-
 ![David Koh](/images/speakers/speaker-full-left-test-2.jpg)
 
-#### **DAVID KOH (Draft)**
+#### **Mr David Koh (Draft)**
 
 *Commissioner of Cybersecurity & Chief Executive*  
 Cyber Security Agency of Singapore
