@@ -7,8 +7,7 @@ permalink: /speaker-jeffrey-lim
 #### **Mr Jeffrey Lim (Draft)**
 
 *Chairman, Cybersecurity Data Protection Committee*  
-The Law Society of Singapore
-
+The Law Society of Singapore  
 Singapore
 
 ##### **Biography**
