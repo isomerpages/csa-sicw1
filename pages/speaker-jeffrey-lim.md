@@ -2,10 +2,9 @@
 title: Speaker - Jeffrey Lim
 permalink: /speaker-jeffrey-lim
 ---
-
 ![Jeffrey Lim](/images/speakers/Jeffrey-Lim.jpg)
 
-#### **Mr Jeffrey Lim (Draft)**
+#### **Mr Jeffrey Lim**
 
 *Chairman, Cybersecurity Data Protection Committee*  
 The Law Society of Singapore
