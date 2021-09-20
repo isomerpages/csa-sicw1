@@ -14,7 +14,7 @@ There has been a worrying trend of increasing ransomware attacks on both large a
 
 Join us in the SG Cyber Safe for Enterprises Panel Discussion to learn about the business risks and legal implications of ransomware attacks, and how enterprises can put in place safeguards to protect their businesses.
 
-##### **Speakers (Draft)**
+##### **Speakers**
 
 | [Mr Jeffrey Lim](/speaker-jeffrey-lim)  | *Chairman, Cybersecurity Data Protection Committee*<br>The Law Society of Singapore                  |
 | [Mr Lanx Goh](/speaker-lanx-goh)     | *Head of International Privacy & Global Data Protection Officer*<br>Ant Group     |
