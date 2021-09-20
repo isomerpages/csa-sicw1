@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - test122/.keep
       - calendar-of-events.md
       - 4-october-2021/.keep
       - 4-october-2021/list-of-events.md
