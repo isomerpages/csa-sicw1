@@ -2,10 +2,9 @@
 title: Speaker - Megan Stifel
 permalink: /speaker-megan-stifel
 ---
-
 ![Megan Stifel](/images/speakers/Megan-Stifel.jpg)
 
-#### **Ms Megan Stifel (Draft)**
+#### **Ms Megan Stifel**
 
 *Global Policy Officer and Capacity and Resilience Program Director*  
 Global Cyber Alliance
