@@ -2,10 +2,9 @@
 title: Speaker - Lanx Goh
 permalink: /speaker-lanx-goh
 ---
-
 ![Lanx Goh](/images/speakers/Lanx-Goh.jpg)
 
-#### **Mr Lanx Goh (Draft)**
+#### **Mr Lanx Goh**
 
 *Head of International Privacy & Global Data Protection Officer*  
 Ant Group
