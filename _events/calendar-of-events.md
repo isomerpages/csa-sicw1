@@ -9,7 +9,7 @@ Singapore International Cyber Week 2021 is taking place from 4 to 8 October 2021
 Event dates and timings below are in Singapore time (GMT +8). 
 
 | **4 October 2021** *(Monday)*    |                                                                                                |
-| 8.00pm to 9.30pm              | [Fireside Chat: Whither the Digital Frontier – Tame or Game?](/events/fireside-chat)                                                                                  |
+| 8.30pm to 10.00pm              | [Fireside Chat: Whither the Digital Frontier – Tame or Game?](/events/fireside-chat)                                                                                  |
 | <br> **5 October 2021** *(Tuesday)*   |                                                                                                |
 | 9.30am to 5.00pm           | [GovWare Conference 2021](/events/govware1)                                                         |
 | 8.00pm to 8.25pm              | [SICW Opening Ceremony](/events/opening-ceremony)                                                                          |
@@ -17,7 +17,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.50pm to 10.50pm          | [SICW Conversations (Technology)](/events/sicw-conversation-technology)                                                                 |
 | <br> **6 October 2021** *(Wednesday)* |                                                                                                |
 | 9.30am to 5.00pm           | [GovWare Conference 2021](/events/govware2)                                                         |
-| 1.30pm to 5.30pm           | [ASEAN Ministerial Conference on Cybersecurity (AMCC) Opening Ceremony and AMCC Main and Special Sessions](/events/amcc) *[Closed-Door]* |
+| 2.30pm to 6.30pm           | [ASEAN Ministerial Conference on Cybersecurity (AMCC)](/events/amcc) |
 | 7.00pm to 7.55pm           | [SICW Conversations (Operations)](/events/sicw-conversation-operations)                                                                 |
 | 8.00pm – 11.00pm                | [International IoT Security Roundtable](/events/iot1)                                                          |
 | <br> **7 October 2021** *(Thursday)*  |                                                                                                |

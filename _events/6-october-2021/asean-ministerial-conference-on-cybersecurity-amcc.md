@@ -1,15 +1,14 @@
 ---
-title: AMCC Opening Ceremony, AMCC Main and Special Sessions (Closed-Door)
+title: ASEAN Ministerial Conference on Cybersecurity (AMCC)
 permalink: /events/amcc
 third_nav_title: 6 October 2021
 ---
-#### **ASEAN Ministerial Conference on Cybersecurity (AMCC) Opening Ceremony and AMCC Main and Special Sessions**
+#### **ASEAN Ministerial Conference on Cybersecurity (AMCC)**
  
 **6 October 2021 (Wednesday)**  
-Opening Ceremony: 1.30pm - 2.00pm *(Virtual access available)*  
-Main and Special Sessions: 2.00pm - 5.30pm *(Closed)*
+*2.30pm – 6.30pm*
 
-*Format: Hybrid / Closed-Door*
+*Format: Virtual*
 
 Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity, Mrs Josephine Teo, will deliver the Opening Address at the 6<sup>th</sup> ASEAN Ministerial Conference on Cybersecurity (AMCC) and officiate the opening of the ASEAN-Singapore Cybersecurity Centre of Excellence (ASCCE) campus together with ASEAN Ministers. 
 
