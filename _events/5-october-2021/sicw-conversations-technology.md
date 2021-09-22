@@ -10,7 +10,7 @@ third_nav_title: 5 October 2021
 
 *Format: Virtual*
 
-Theme: Ransomware- What does it take to disrupt the ransomware ecosystem?
+“Ransomware – What does it take to disrupt the ransomware ecosystem?”
 
 Ransomware threats transcend government, business, and geographic boundaries. This has manifested in attacks on critical infrastructure such as hospitals, energy grids, water plants and government agencies around the world. As digital infrastructure ecosystems have become critical enablers for digitalisation, the proliferation of ransomware has severe impact on governments, businesses, and individuals in the provisioning of essential services and a safe business environment. In addition, attackers are not stopping after they ransomed their targets, returning to exfiltrate sensitive information with the intention to blackmail or sell such information on the dark web for financial gain (otherwise known as “double-extortion ransomware”).
 
