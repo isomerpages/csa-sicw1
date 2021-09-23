@@ -16,7 +16,7 @@ Ransomware threats transcend government, business, and geographic boundaries. Th
 
 The session could cover the trends and security threats of ransomware that have been exacerbated with the anonymity of cryptocurrency exchanges. The goal is to stimulate a vibrant discussion on how public, private and people sectors can work together to disrupt the ransomware ecosystem and overcome cybersecurity threats posed by ransomware attacks.
 
-##### **Speakers**
+##### **Speakers (Draft)**
 
 | [BG Gaurav Keerthi](/speaker-gaurav-k)  | *Deputy Chief Executive (Development)*<br>Cyber Security Agency of Singapore                  |
 | [Mr Jeff Moss](/speaker-jeff-moss)  | *Founder of Black Hat and DEF CON Computer Security Conferences*<br>Black Hat and DEF CON Computer Security Conferences                  |
