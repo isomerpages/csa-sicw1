@@ -2,7 +2,7 @@
 title: Speaker - Anand Swaminathan (Draft)
 permalink: /speaker-anand-s
 ---
-![Alt text for image on Isomer site](/images/speakers/speaker-placeholder.jpg)
+![Anand Swaminathan](/images/speakers/Anand-S.jpg)
 
 #### **Mr Anand Swaminathan (Draft)**
 
