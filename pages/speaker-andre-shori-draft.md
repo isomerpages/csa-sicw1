@@ -2,7 +2,7 @@
 title: Speaker - Andre Shori (Draft)
 permalink: /speaker-andre-shori
 ---
-![Alt text for image on Isomer site](/images/speakers/speaker-placeholder.jpg)
+![Andre Shori](/images/speakers/Shori-Andre.jpg)
 
 #### **Mr Andre Shori (Draft)**
 
