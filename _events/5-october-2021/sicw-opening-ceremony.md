@@ -24,7 +24,7 @@ Singapore’s Senior Minister and Coordinating Minister for National Security, M
 *Senior Minister and Coordinating Minister for National Security*  
 Republic of Singapore
 
-###### **Biography**
+##### **Biography**
 
 Mr Teo Chee Hean was appointed Senior Minister on 1 May 2019 . He also serves, since 21 May 2011, as Coordinating Minister for National Security. He also oversees the Smart Nation and Digital Government Group, the National Security Coordination Secretariat, the National Population and Talent Division and the National Climate Change Secretariat under the Prime Minister’s Office.
 
@@ -41,7 +41,7 @@ He was awarded the President’s Scholarship and the Singapore Armed Forces Scho
 
 ![Izumi Nakamitsu](/images/speakers/I-Nakamitsu.jpg)
 
-#### **Ms Izumi Nakamitsu**
+##### **Ms Izumi Nakamitsu**
 
 *Under-Secretary-General and High Representative for Disarmament Affairs*  
 United Nations
