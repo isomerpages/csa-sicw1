@@ -2,7 +2,7 @@
 title: Speaker - Thomas Kurian (Draft)
 permalink: /speaker-thomas-kurian
 ---
-![Alt text for image on Isomer site](/images/speakers/speaker-placeholder.jpg)
+![Thomas Kurian](/images/speakers/Thomas-Kurian.jpg)
 
 #### **Mr Thomas Kurian (Draft)**
 
