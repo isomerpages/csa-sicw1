@@ -2,7 +2,7 @@
 title: Speaker - Jeff Moss (Draft)
 permalink: /speaker-jeff-moss
 ---
-![Alt text for image on Isomer site](/images/speakers/speaker-placeholder.jpg)
+![Jeff Moss](/images/speakers/Jeff-Moss.jpg)
 
 #### **Mr Jeff Moss (Draft)**
 
