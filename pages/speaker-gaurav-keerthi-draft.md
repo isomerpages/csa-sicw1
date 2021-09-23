@@ -2,7 +2,7 @@
 title: Speaker - Gaurav Keerthi (Draft)
 permalink: /speaker-gaurav-k
 ---
-![Alt text for image on Isomer site](/images/speakers/speaker-placeholder.jpg)
+![Gaurav Keerthi](/images/speakers/Gaurav-K.jpg)
 
 #### **BG Gaurav Keerthi (Draft)**
 
