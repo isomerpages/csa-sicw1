@@ -33,6 +33,7 @@ He was awarded the President’s Scholarship and the Singapore Armed Forces Scho
 
 ---
 
+
 ![Izumi Nakamitsu](/images/speakers/I-Nakamitsu.jpg)
 
 #### **Ms Izumi Nakamitsu (Draft)**
