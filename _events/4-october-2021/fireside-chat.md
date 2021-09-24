@@ -6,7 +6,7 @@ third_nav_title: 4 October 2021
 #### **Fireside Chat: Whither the Digital Frontier – Tame or Game?**
 
 **4 October 2021 (Monday)**  
-*8.30pm to 10.00pm*
+*8.00pm to 9.30pm*
 
 *Format: Virtual*
 
