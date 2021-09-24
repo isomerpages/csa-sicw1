@@ -19,4 +19,4 @@ The session could cover the trends and security threats of ransomware that have 
 ##### **Speakers (Draft)**
 
 | [BG Gaurav Keerthi](/speaker-gaurav-k)  | *Deputy Chief Executive (Development)*<br>Cyber Security Agency of Singapore                  |
-| [Mr Jeff Moss](/speaker-jeff-moss)  | *Founder of Black Hat and DEF CON Computer Security Conferences*<br>Black Hat and DEF CON Computer Security Conferences                  |
+| [Mr Jeff Moss](/speaker-jeff-moss)  | *Founder*<br>Black Hat and DEF CON Computer Security Conferences                  |
