@@ -6,7 +6,7 @@ permalink: /speaker-jeff-moss
 
 #### **Mr Jeff Moss (Draft)**
 
-*Founder of Black Hat and DEF CON Computer Security Conferences*  
+*Founder*  
 Black Hat and DEF CON Computer Security Conferences
 
 ##### **Biography**
