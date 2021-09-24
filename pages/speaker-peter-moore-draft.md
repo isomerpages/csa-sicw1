@@ -2,7 +2,7 @@
 title: Speaker - Peter Moore (Draft)
 permalink: /speaker-peter-moore
 ---
-![Peter Moore](/images/speakers/speaker-placeholder.jpg)
+![Peter Moore](/images/speakers/Peter-Moore.jpg)
 
 #### **Mr Peter Moore (Draft)**
 
