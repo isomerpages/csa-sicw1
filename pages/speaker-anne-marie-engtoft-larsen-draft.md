@@ -7,7 +7,7 @@ permalink: /speaker-anne-marie
 #### **Ms Anne Marie Engtoft Larsen (Draft)**
 
 *Tech Ambassador*  
-Ministry of Foreign Affairs
+Ministry of Foreign Affairs, Denmark
 
 ##### **Biography**
 
