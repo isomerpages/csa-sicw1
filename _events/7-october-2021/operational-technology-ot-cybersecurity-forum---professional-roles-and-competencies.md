@@ -21,7 +21,7 @@ c.	**OT cybersecurity professionals** to chart a career pathway and enhance thei
 
 | [Mr Andre Shori](/speaker-andre-shori)     | *Chief Information Security Officer (APAC)*<br>Schneider Electric     |
 | [Mr Delaney Ng](/speaker-delaney-ng)     | *Technical Director*<br>SANS APAC     |
-| [Mr Kabir Nath](/speaker-kabir-nath)     | *Technical Director*<br>SANS APAC     |
+| [Mr Kabir Nath](/speaker-kabir-nath)     | *Principal, Talent Solutions*<br>Mercer     |
 | [Ms Hannah Lennon](/speaker-hannah-lennon)     | *Senior Consultant, Talent Solutions*<br>Mercer     |
 | [Mr Wong Yoke Chye](/speaker-wong-yc)     | *Deputy Director*<br>SP Group     |
 | [Mr John Ellis](/speaker-john-ellis)  | *Director, Industrial Cyber Alliances*<br>Siemens Energy                  |
