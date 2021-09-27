@@ -7,8 +7,7 @@ permalink: /speaker-peter-moore
 #### **Mr Peter Moore (Draft)**
 
 *Regional Managing Director*  
-Amazon Web Services  
-Asia Pacific Public Sector
+for Asia Pacific Public Sector, Amazon Web Services
 
 ##### **Biography**
 
