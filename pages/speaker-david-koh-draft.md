@@ -4,7 +4,7 @@ permalink: /speaker-david-koh
 ---
 ![David Koh](/images/speakers/speaker-full-left-test-2.jpg)
 
-#### **Mr David Koh (Draft) test**
+#### **Mr David Koh (Draft)**
 
 *Commissioner of Cybersecurity & Chief Executive*  
 Cyber Security Agency of Singapore
