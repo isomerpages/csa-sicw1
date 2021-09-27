@@ -19,5 +19,5 @@ Join us in the SG Cyber Safe for Enterprises Panel Discussion to learn about the
 | [Mr Jeffrey Lim](/speaker-jeffrey-lim)  | *Chairman, Cybersecurity Data Protection Committee*<br>The Law Society of Singapore                  |
 | [Ms Megan Stifel](/speaker-megan-stifel) | *Global Policy Officer and Capacity and Resilience Program Director*<br>Global Cyber Alliance |
 | [Mr David Ho (Draft)](/speaker-david-ho) | *Head of Financial Lines, Asia Pacific General Insurance*<br>AIG APAC Holdings Pte. Ltd. |
-| <br> **Moderator** | |
+| <br> **Moderator (Draft)** | |
 | [Ms Gwenda Fong (Draft)](/speaker-gwenda-fong) | *Assistant Chief Executive, Policy & Corporate Development*<br>Cyber Security Agency of Singapore |
