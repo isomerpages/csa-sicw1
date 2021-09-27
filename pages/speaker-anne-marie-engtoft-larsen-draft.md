@@ -4,7 +4,7 @@ permalink: /speaker-anne-marie
 ---
 ![Anne Marie Engtoft Larsen](/images/speakers/Anne-Marie.jpg)
 
-#### **Ambassador Anne Marie Engtoft Larsen (Draft)**
+#### **Ms Anne Marie Engtoft Larsen (Draft)**
 
 *Tech Ambassador*  
 Ministry of Foreign Affairs
