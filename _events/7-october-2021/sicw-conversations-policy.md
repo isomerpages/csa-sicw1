@@ -21,5 +21,5 @@ This session will explore the opportunities, benefits, dilemmas, and trade-offs 
 | [Ms Jen Easterly](/speaker-jen-easterly)  | *Director*<br>Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency (CISA), United States of America                  |
 | [Mr Peter Moore](/speaker-peter-moore)  | *Regional Managing Director*<br>for Asia Pacific Public Sector, Amazon Web Services                  |
 | [Dr Lu Chuanying](/speaker-lu-chuanying)  | *Research Fellow*<br>Centre for American Studies, Institute for Global Governance Studies                  |
-| **Moderator (Draft)** | |
+| <br> **Moderator (Draft)** | |
 | [Ms Jane Lo](/speaker-jane-lo)  | *Correspondent*<br>MySecurity Media                  |
