@@ -2,10 +2,9 @@
 title: Speaker - Gaurav Keerthi
 permalink: /speaker-gaurav-k
 ---
-
 ![Gaurav Keerthi](/images/speakers/Gaurav-K.jpg)
 
-#### **BG Gaurav Keerthi (Draft)**
+#### **BG Gaurav Keerthi**
 
 *Deputy Chief Executive (Development)*  
 Cyber Security Agency of Singapore
