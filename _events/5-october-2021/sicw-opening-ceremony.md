@@ -12,7 +12,7 @@ third_nav_title: 5 October 2021
 
 Singapore’s Senior Minister and Coordinating Minister for National Security, Mr Teo Chee Hean, will officiate the opening of SICW 2021.
 
-##### **Speakers (Draft)**
+##### **Speakers**
 
 | Mr Teo Chee Hean  | *Senior Minister and Coordinating Minister for National Security*<br>Singapore                  |
 | Ms Izumi Nakamitsu  | *Under-Secretary-General and High Representative for Disarmament Affairs*<br>United Nations                  |
