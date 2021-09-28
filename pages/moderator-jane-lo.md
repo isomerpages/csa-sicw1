@@ -2,11 +2,9 @@
 title: Moderator - Jane Lo
 permalink: /speaker-jane-lo
 ---
-
-
 ![Jane Lo](/images/speakers/Jane-Lo.jpg)
 
-#### **Ms Jane Lo (Draft)**
+#### **Ms Jane Lo**
 
 *Correspondent*  
 MySecurity Media
