@@ -2,10 +2,9 @@
 title: Speaker - Anand Swaminathan
 permalink: /speaker-anand-s
 ---
-
 ![Anand Swaminathan](/images/speakers/Anand-S.jpg)
 
-#### **Mr Anand Swaminathan (Draft)**
+#### **Mr Anand Swaminathan**
 
 *Senior Partner*  
 McKinsey & Company
