@@ -2,10 +2,9 @@
 title: Speaker - Delaney Ng
 permalink: /speaker-delaney-ng
 ---
-
 ![Delaney Ng](/images/speakers/Ng-Delaney.jpg)
 
-#### **Mr Delaney Ng (Draft)**
+#### **Mr Delaney Ng**
 
 *Technical Director*  
 SANS APAC
