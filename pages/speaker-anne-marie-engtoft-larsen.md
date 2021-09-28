@@ -2,10 +2,9 @@
 title: Speaker - Anne Marie Engtoft Larsen
 permalink: /speaker-anne-marie
 ---
-
 ![Anne Marie Engtoft Larsen](/images/speakers/Anne-Marie.jpg)
 
-#### **Ms Anne Marie Engtoft Larsen (Draft)**
+#### **Ms Anne Marie Engtoft Larsen**
 
 *Tech Ambassador*  
 Ministry of Foreign Affairs, Denmark
