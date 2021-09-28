@@ -2,11 +2,9 @@
 title: Moderator - Gwenda Fong
 permalink: /speaker-gwenda-fong
 ---
-
-
 ![Gwenda Fong](/images/speakers/Gwenda-Fong.jpg)
 
-#### **Ms Gwenda Fong (Draft)**
+#### **Ms Gwenda Fong**
 
 *Assistant Chief Executive, Policy & Corporate Development*  
 Cyber Security Agency of Singapore
