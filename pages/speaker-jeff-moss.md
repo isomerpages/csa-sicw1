@@ -2,10 +2,9 @@
 title: Speaker - Jeff Moss
 permalink: /speaker-jeff-moss
 ---
-
 ![Jeff Moss](/images/speakers/Jeff-Moss.jpg)
 
-#### **Mr Jeff Moss (Draft)**
+#### **Mr Jeff Moss**
 
 *Founder*  
 Black Hat and DEF CON Computer Security Conferences
