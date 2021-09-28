@@ -2,10 +2,9 @@
 title: Speaker - Josephine Teo
 permalink: /speaker-josephine-teo
 ---
-
 ![Josephine-Teo](/images/speakers/Josephine-Teo.jpg)
 
-#### **Mrs Josephine Teo (Draft)**
+#### **Mrs Josephine Teo**
 
 *Minister*  
 Ministry of Communications and Information
