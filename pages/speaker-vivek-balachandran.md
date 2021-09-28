@@ -2,10 +2,9 @@
 title: Speaker - Vivek Balachandran
 permalink: /speaker-vivek-b
 ---
-
 ![Vivek Balachandran](/images/speakers/V-Balachandran.jpg)
 
-#### **Dr Vivek Balachandran (Draft)**
+#### **Dr Vivek Balachandran**
 
 *Assistant Professor*  
 Singapore Institute of Technology
