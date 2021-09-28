@@ -2,10 +2,9 @@
 title: Speaker - David Ho
 permalink: /speaker-david-ho
 ---
-
 ![David Ho](/images/speakers/David-Ho.jpg)
 
-#### **Mr David Ho (Draft)**
+#### **Mr David Ho**
 
 *Head of Financial Lines, Asia Pacific General Insurance*  
 AIG APAC Holdings Pte. Ltd.
