@@ -2,10 +2,9 @@
 title: Speaker - Andre Shori
 permalink: /speaker-andre-shori
 ---
-
 ![Andre Shori](/images/speakers/Shori-Andre.jpg)
 
-#### **Mr Andre Shori (Draft)**
+#### **Mr Andre Shori**
 
 *Chief Information Security Officer (APAC)*  
 Schneider Electric
