@@ -2,10 +2,9 @@
 title: Speaker - John Ellis
 permalink: /speaker-john-ellis
 ---
-
 ![John Ellis](/images/speakers/Ellis-John.jpg)
 
-#### **Mr John Ellis (Draft)**
+#### **Mr John Ellis**
 
 *Director, Industrial Cyber Alliances*  
 Siemens Energy
