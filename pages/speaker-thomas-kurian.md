@@ -2,10 +2,9 @@
 title: Speaker - Thomas Kurian
 permalink: /speaker-thomas-kurian
 ---
-
 ![Thomas Kurian](/images/speakers/Thomas-Kurian.jpg)
 
-#### **Mr Thomas Kurian (Draft)**
+#### **Mr Thomas Kurian**
 
 *Chief Executive Officer*  
 Google Cloud
