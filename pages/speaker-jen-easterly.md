@@ -2,10 +2,9 @@
 title: Speaker - Jen Easterly
 permalink: /speaker-jen-easterly
 ---
-
 ![Jen Easterly](/images/speakers/Jen-Easterly.jpg)
 
-#### **Ms Jen Easterly (Draft)**
+#### **Ms Jen Easterly**
 
 *Director*  
 Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency (CISA), United States of America
