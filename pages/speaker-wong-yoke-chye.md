@@ -2,10 +2,9 @@
 title: Speaker - Wong Yoke Chye
 permalink: /speaker-wong-yc
 ---
-
 ![Wong Yoke Chye](/images/speakers/Wong-Yoke-Chye.jpg)
 
-#### **Mr Wong Yoke Chye (Draft)**
+#### **Mr Wong Yoke Chye**
 
 *Deputy Director*  
 SP Group
