@@ -14,6 +14,6 @@ Minister for Communications and Information and Minister-in-charge of Smart Nati
 
 The 6<sup>th</sup> AMCC Main and Special Sessions are ministerial-level dialogues that bring together ASEAN Information and Communications Technology (ICT) and Cybersecurity Ministers as well as with the ASEAN Dialogue Partners, to discuss key cyber issues in the region and means to enhance regional cybersecurity cooperation. These sessions are by invitation only.
 
-##### **Speakers (Draft)**
+##### **Speakers**
 
 | [Mrs Josephine Teo](/speaker-josephine-teo)     | *Minister*<br>Ministry of Communications and Information      |
