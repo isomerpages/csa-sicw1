@@ -17,7 +17,7 @@ a.	**Critical Information Infrastructure (CII) operators** to identify skillsets
 b.	**Training providers** to develop best-in-class courses and certifications catering to local training needs; and  
 c.	**OT cybersecurity professionals** to chart a career pathway and enhance their knowledge and skills through the various roles in this field.
 
-##### **Speakers (Draft)**
+##### **Speakers**
 
 | [Mr Andre Shori](/speaker-andre-shori)     | *Chief Information Security Officer (APAC)*<br>Schneider Electric     |
 | [Mr Delaney Ng](/speaker-delaney-ng)     | *Technical Director*<br>SANS APAC     |
