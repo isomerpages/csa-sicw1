@@ -2,10 +2,9 @@
 title: Speaker - Peter Moore
 permalink: /speaker-peter-moore
 ---
-
 ![Peter Moore](/images/speakers/Peter-Moore.jpg)
 
-#### **Mr Peter Moore (Draft)**
+#### **Mr Peter Moore**
 
 *Regional Managing Director*  
 for Asia Pacific Public Sector, Amazon Web Services
