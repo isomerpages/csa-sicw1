@@ -2,7 +2,7 @@
 title: Speaker - Andrew Elliot (Draft)
 permalink: /speaker-andrew-elliot
 ---
-![Andrew Elliot](/images/speakers/speaker-placeholder.jpg)
+![Andrew Elliot](/images/speakers/Andrew-Elliot.jpg)
 
 #### **Mr Andrew Elliot (Draft)**
 
