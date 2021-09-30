@@ -19,3 +19,4 @@ Digital transformation, brought forth by new technologies and accelerated by COV
 | [Mrs Josephine Teo](/speaker-josephine-teo)     | *Minister*<br>Ministry of Communications and Information      |
 | [Mr Thomas Kurian](/speaker-thomas-kurian)  | *Chief Executive Officer*<br>Google Cloud                  |
 | [Mr Anand Swaminathan](/speaker-anand-s)  | *Senior Partner*<br>McKinsey & Company                  |
+| [Ms Haslinda Amin (Draft)](/speaker-haslinda-amin)  | *Chief International Correspondent for Southeast Asia*<br>Bloomberg                  |
