@@ -13,3 +13,10 @@ third_nav_title: 7 October 2021
 This year's SICW will host the inaugural Global Forum on Cyber Expertise (GFCE) South East Asia Regional Meeting. The meeting will bring together the GFCE community and ASEAN stakeholders to identify opportunities and challenges for cyber capacity-building in the region and share good practices and knowledge.
 
 The session will discuss the cyber capacity-building landscape in Southeast Asia as well as collaborative opportunities to enhance coordinated capacity-building efforts in the region. If you are interested to join the session, please register at  <a href="https://gfcesoutheastasia2021.gfce-events.com/" target="_blank">https://gfcesoutheastasia2021.gfce-events.com/</a>
+
+| **Speakers**               |                                                                                                                                   |
+| [Dr Shashi Jayakumar](/speaker-s-jayakumar)    | *Senior   Fellow<br>Head of Centre of Excellence for National Security; Executive Coordinator   of Future Issues and Technology*<br>S. Rajaratnam School of International Studies (RSIS), <br>NTU Singapore.  |
+| [Dr Le Quang Lan](/speaker-le-quang-lan)        | *Assistant   Director, ICT  & Tourism Division,   ASEAN Economic Community*<br>ASEAN Secretariat Department                                              |
+| [Mr Naveen Menon](/speaker-x)        | *President,   Southeast Asia and Board Member*<br>Cisco Foundation                                                                    |
+| <br> **Moderator**              |                                                                                                                                   |
+| [Mr Christopher Painter](/speaker-x) | *President*<br>Global Forum of Cyber Expertise (GFCE) Foundation                                                                                                                         |
