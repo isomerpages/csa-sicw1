@@ -6,9 +6,10 @@ permalink: /speaker-s-jayakumar
 
 #### **Dr Shashi Jayakumar (Draft)**
 
-*Senior Fellow
+*Senior Fellow  
 Head of Centre of Excellence for National Security; Executive Coordinator of Future Issues and Technology*  
-S. Rajaratnam School of International Studies (RSIS), NTU Singapore.
+S. Rajaratnam School of International Studies (RSIS),  
+NTU Singapore.
 
 ##### **Biography**
 
