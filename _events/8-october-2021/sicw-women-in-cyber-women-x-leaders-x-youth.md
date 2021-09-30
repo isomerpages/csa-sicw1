@@ -22,3 +22,11 @@ The SICW Women in Cyber event will be held on 8 October 2021. In its third editi
 | [Ms Jenny Tan](/speaker-jenny-tan)     | *Vice-President*<br>ISACA Singapore Chapter                                  |
 | <br> **Moderator**        |                                                 |
 | [Prof Annie Koh](/moderator-annie-koh)   | *Professor Emeritus of Finance (Practice)*<br>Singapore Management University      |
+
+##### **Youth X Cyber Experts Fireside Chat (Draft)**
+
+| **Speakers**          |                                                      |
+| [Ms Inge Bryan](/speaker-inge-bryan)     | *Managing Director*<br>NCC Group Europe                                  |
+| [Ms Alina Tan](/speaker-alina-tan)      | *Associate Principal, Enterprise Security Architect*<br>Dyson |
+| <br> **Youth Facilitator** |                                                      |
+| [Mr Ben Chua](/facilitator-ben-chua)       | *President and Chief Executive Officer*<br>Cyber Youth Singapore              |
