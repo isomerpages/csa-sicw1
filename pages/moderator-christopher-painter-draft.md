@@ -1,7 +1,8 @@
 ---
 title: Moderator - Christopher Painter (Draft)
-permalink: /moderator-christopher-painter
+permalink: /speaker-christopher-painter
 ---
+
 ![Christopher Painter](/images/speakers/Christopher-Painter.jpg)
 
 #### **Mr Christopher Painter (Draft)**
