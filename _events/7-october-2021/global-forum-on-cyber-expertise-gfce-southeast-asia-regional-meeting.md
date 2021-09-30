@@ -17,6 +17,6 @@ The session will discuss the cyber capacity-building landscape in Southeast Asia
 | **Speakers**               |                                                                                                                                   |
 | [Dr Shashi Jayakumar](/speaker-s-jayakumar)    | *Senior   Fellow<br>Head of Centre of Excellence for National Security; Executive Coordinator   of Future Issues and Technology*<br>S. Rajaratnam School of International Studies (RSIS), <br>NTU Singapore.  |
 | [Dr Le Quang Lan](/speaker-le-quang-lan)        | *Assistant   Director, ICT  & Tourism Division,   ASEAN Economic Community*<br>ASEAN Secretariat Department                                              |
-| [Mr Naveen Menon](/speaker-x)        | *President,   Southeast Asia and Board Member*<br>Cisco Foundation                                                                    |
+| [Mr Naveen Menon](/speaker-x)        | *President,   Southeast Asia and Board Member, Cisco Foundation*<br>Cisco                                                                    |
 | <br> **Moderator**              |                                                                                                                                   |
 | [Mr Christopher Painter](/speaker-x) | *President*<br>Global Forum of Cyber Expertise (GFCE) Foundation                                                                                                                         |
