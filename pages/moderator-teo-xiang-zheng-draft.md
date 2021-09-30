@@ -6,7 +6,7 @@ permalink: /moderator-teo-xiang-zheng
 
 #### **Mr Teo Xiang Zheng (Draft)**
 
-* Head Advisory*  
+*Head Advisory*  
 Ensign InfoSecurity
 
 ##### **Biography**
