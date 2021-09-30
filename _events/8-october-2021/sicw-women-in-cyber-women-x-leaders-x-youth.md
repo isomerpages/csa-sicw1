@@ -36,5 +36,5 @@ The SICW Women in Cyber event will be held on 8 October 2021. In its third editi
 | **Speakers**            |                                  |
 | [Ms Gwenda Fong](/speaker-gwenda-fong)      | *Assistant Chief Executive*<br>Cyber Security Agency of Singapore      |
 | [Ms Mihoko Matsubara](/speaker-mihoko-m) | *Chief Cybersecurity Strategist*<br>NTT Corporation |
-| **Youth Facilitator**   |                                  |
+| <br> **Youth Facilitator**   |                                  |
 | [Ms Pun Shu Fen](/facilitator-pun-shu-fen)      | *Systems Engineer*<br>National Cyber Threat Monitoring Centre, Cyber Security Agency of Singapore               |
