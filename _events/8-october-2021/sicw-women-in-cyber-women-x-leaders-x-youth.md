@@ -30,3 +30,11 @@ The SICW Women in Cyber event will be held on 8 October 2021. In its third editi
 | [Ms Alina Tan](/speaker-alina-tan)      | *Associate Principal, Enterprise Security Architect*<br>Dyson |
 | <br> **Youth Facilitator** |                                                      |
 | [Mr Ben Chua](/facilitator-ben-chua)       | *President and Chief Executive Officer*<br>Cyber Youth Singapore              |
+
+##### **Youth X Cyber Policy Makers Fireside Chat (Draft)**
+
+| **Speakers**            |                                  |
+| [Ms Gwenda Fong](/speaker-gwenda-fong)      | *Assistant Chief Executive*<br>Cyber Security Agency of Singapore      |
+| [Ms Mihoko Matsubara](/speaker-mihoko-m) | *Chief Cybersecurity Strategist*<br>NTT Corporation |
+| **Youth Facilitator**   |                                  |
+| [Ms Pun Shu Fen](/facilitator-pun-shu-fen)      | *Systems Engineer*<br>National Cyber Threat Monitoring Centre, Cyber Security Agency of Singapore               |
