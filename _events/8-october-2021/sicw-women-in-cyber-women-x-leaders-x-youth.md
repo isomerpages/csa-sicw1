@@ -17,7 +17,7 @@ This is the third edition of the SICW Women in Cyber event with its inaugural ed
 | **Speakers**         |                                                 |
 | [Ms Rahayu Mahzam](/speaker-rahayu-m) | *Parliamentary Secretary*<br> Ministry of Communications and Information, and Ministry of Health                       |
 | [Ms Shelly Bruce](/speaker-shelly-bruce) | *Chief*<br>Communications Security Establishment (CSE)                                           |
-| [Ms Camellia Chan](/speaker-camellia-chan) | *Founder and Chief Executive Officer*<br>Flexxon           |
+| [Ms Camellia Chan](/speaker-camellia-chan) | *Chief Executive Officer*<br>Flexxon           |
 | [Ms Erika Lewis](/speaker-erika-lewis)  | *Director, Cyber Security and Digital Identity*<br>Department for Digital, Culture, Media and Sports (DCMS) |
 | [Ms Jenny Tan](/speaker-jenny-tan)     | *Vice-President*<br>ISACA Singapore Chapter                                  |
 | <br> **Moderator**        |                                                 |
