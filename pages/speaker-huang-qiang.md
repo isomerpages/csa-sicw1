@@ -2,10 +2,9 @@
 title: Speaker - Huang Qiang
 permalink: /speaker-huang-qiang
 ---
-
 ![Huang Qiang](/images/speakers/Huang-Qiang.jpg)
 
-#### **Mr Huang Qiang (Draft)**
+#### **Mr Huang Qiang**
 
 *Head of Product Management, IoT Security Solution*  
 Palo Alto Networks
