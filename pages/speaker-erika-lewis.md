@@ -2,10 +2,9 @@
 title: Speaker - Erika Lewis
 permalink: /speaker-erika-lewis
 ---
-
 ![Erika Lewis](/images/speakers/Erika-Lewis.jpg)
 
-#### **Ms Erika Lewis (Draft)**
+#### **Ms Erika Lewis**
 
 *Director, Cyber Security and Digital Identity*  
 Department for Digital, Culture, Media and Sports (DCMS)
