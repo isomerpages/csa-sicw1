@@ -7,7 +7,7 @@ permalink: /speaker-yigal-unna
 #### **Mr Yigal Unna (Draft)**
 
 *Director-General*  
-INCD
+Israel National Cyber Directorate
 
 ##### **Biography**
 
@@ -19,4 +19,4 @@ After 22 years of service with the Israel Security Agency, Unna joined the Natio
 
 Unna holds a bachelor's degree in Management and Middle Eastern History, in addition to an MBA, both from Tel Aviv University.
 He speaks Hebrew, English, and Arabic.
-He is Married with three children. 
+He is Married with three children.
