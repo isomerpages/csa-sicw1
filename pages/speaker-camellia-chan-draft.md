@@ -6,7 +6,7 @@ permalink: /speaker-camellia-chan
 
 #### **Ms Camellia Chan (Draft)**
 
-*Founder and Chief Executive Officer*  
+*Chief Executive Officer*  
 Flexxon
 
 ##### **Biography**
