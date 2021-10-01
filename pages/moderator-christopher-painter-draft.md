@@ -2,14 +2,12 @@
 title: Moderator - Christopher Painter (Draft)
 permalink: /moderator-christopher-painter
 ---
-
-
 ![Christopher Painter](/images/speakers/Christopher-Painter.jpg)
 
 #### **Mr Christopher Painter (Draft)**
 
-*President*  
-Global Forum of Cyber Expertise (GFCE) Foundation
+*President of the GFCE Foundation Board*  
+Global Forum on Cyber Expertise (GFCE)
 
 ##### **Biography**
 
