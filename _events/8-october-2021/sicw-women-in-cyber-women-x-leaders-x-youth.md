@@ -6,7 +6,7 @@ third_nav_title: 8 October 2021
 #### **SICW Women in Cyber: Women X Leaders X Youth**
 
 **8 October 2021 (Friday)**  
-*8.00pm to 10.00pm*
+*8.00pm to 10.00pm (GMT +8)*
 
 *Format: Virtual*
 
