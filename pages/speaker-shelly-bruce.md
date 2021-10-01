@@ -2,10 +2,9 @@
 title: Speaker - Shelly Bruce
 permalink: /speaker-shelly-bruce
 ---
-
 ![Shelly Bruce](/images/speakers/Shelly-Bruce.jpg)
 
-#### **Ms Shelly Bruce (Draft)**
+#### **Ms Shelly Bruce**
 
 *Chief*  
 Communications Security Establishment (CSE)
