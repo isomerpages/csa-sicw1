@@ -2,11 +2,9 @@
 title: Moderator - Charles Ng
 permalink: /moderator-charles-ng
 ---
-
-
 ![Charles Ng](/images/speakers/Charles-Ng.jpg)
 
-#### **Mr Charles Ng (Draft)**
+#### **Mr Charles Ng**
 
 *Executive Vice President*  
 Ensign InfoSecurity
