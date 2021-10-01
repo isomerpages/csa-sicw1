@@ -2,10 +2,9 @@
 title: Speaker - Chris Kubic
 permalink: /speaker-chris-kubic
 ---
-
 ![Chris Kubic](/images/speakers/Chris-Kubic.jpg)
 
-#### **Mr Chris Kubic (Draft)**
+#### **Mr Chris Kubic**
 
 *CISO*  
 Fidelis Cybersecurity
