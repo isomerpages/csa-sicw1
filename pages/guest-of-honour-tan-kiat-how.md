@@ -2,11 +2,9 @@
 title: Guest of Honour - Tan Kiat How
 permalink: /tan-kiat-how
 ---
-
-
 ![Tan Kiat How](/images/speakers/Tan-Kiat-How.jpg)
 
-#### **Mr Tan Kiat How (Draft)**
+#### **Mr Tan Kiat How**
 
 *Minister*  
 Minister of State, Ministry of Communications and Information and Ministry of National Development, Singapore
