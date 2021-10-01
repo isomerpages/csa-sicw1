@@ -2,10 +2,9 @@
 title: Speaker - Silke Bargstädt-Franke
 permalink: /speaker-silke-b-f
 ---
-
 ![Silke Bargstadt-Franke](/images/speakers/Bargstadt-Franke-Silke.jpg)
 
-#### **Dr Silke Bargstädt-Franke (Draft)**
+#### **Dr Silke Bargstädt-Franke**
 
 *Head (Cyber Security for Digitization and Electronic Identities), Germany*  
  Federal Office for Information Security (BSI)
