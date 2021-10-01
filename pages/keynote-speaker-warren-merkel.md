@@ -2,10 +2,9 @@
 title: Keynote Speaker - Warren Merkel
 permalink: /speaker-warren-merkel
 ---
-
 ![Warren Merkel](/images/speakers/Merkel-Warren.jpg)
 
-#### **Mr Warren Merkel (Draft)**
+#### **Mr Warren Merkel**
 
 *Chief of Standards Services*  
 Standards Coordination Office, National Institute of Standards and Technology (NIST), US
