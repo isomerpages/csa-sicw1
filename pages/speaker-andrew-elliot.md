@@ -2,10 +2,9 @@
 title: Speaker - Andrew Elliot
 permalink: /speaker-andrew-elliot
 ---
-
 ![Andrew Elliot](/images/speakers/Andrew-Elliot.jpg)
 
-#### **Mr Andrew Elliot (Draft)**
+#### **Mr Andrew Elliot**
 
 *Deputy Director for Cyber Security*  
 Department for Digital, Culture, Media and Sport (DCMS), UK
