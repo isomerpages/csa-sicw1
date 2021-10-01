@@ -7,7 +7,7 @@ permalink: /speaker-rahayu-m
 #### **Ms Rahayu Mahzam (Draft)**
 
 *Parliamentary Secretary*  
-Ministry of Communications and Information and the Ministry of Health
+Ministry of Communications and Information, and Ministry of Health
 
 ##### **Biography**
 
