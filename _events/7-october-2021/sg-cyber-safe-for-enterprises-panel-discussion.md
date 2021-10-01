@@ -6,7 +6,7 @@ third_nav_title: 7 October 2021
 #### **SG Cyber Safe for Enterprises Panel Discussion**
 
 **7 October 2021 (Thursday)**  
-*11.00am to 12.00pm*
+*11.00am to 12.00pm (GMT +8)*
 
 *Format: Virtual*
 
