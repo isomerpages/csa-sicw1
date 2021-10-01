@@ -6,7 +6,7 @@ third_nav_title: 7 October 2021
 #### **Ministerial Roundtable (Closing Session)**
 
 **7 October 2021 (Thursday)**  
-*8.00pm – 9.30pm*
+*8.00pm – 9.30pm (GMT +8)*
 
 *Format: Virtual*
 
