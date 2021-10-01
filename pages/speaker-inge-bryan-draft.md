@@ -7,7 +7,7 @@ permalink: /speaker-inge-bryan
 #### **Ms Inge Bryan (Draft)**
 
 *Managing Director*  
-NCC Group Europe
+NCC Group Continental Europe Operations/Fox-IT
 
 ##### **Biography**
 
