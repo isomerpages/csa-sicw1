@@ -14,8 +14,8 @@ Supply chain attacks have been getting a lot more attention in recent years. Fro
 
 We have assembled a host of security experts that had first hand experience on the most recent SolarWinds supply chain attack, to share their experience and help you understand how your organisation can navigate in this new zero trust environment.
 
-##### **Speakers (Draft)**
-
+| **Speakers (Draft)**    |                                                              |
 | [Mr Chris Kubic](/speaker-chris-kubic)  | *CISO*<br>Fidelis Cybersecurity                  |
-| [Mr Charles Ng](/speaker-charles-ng)  | *Executive Vice President*<br>Ensign InfoSecurity                  |
 | [Mr Kevin Mandia](/speaker-kevin-mandia)  | *Chief Executive Officer*<br>FireEye Mandiant                  |
+| <br> **Moderator (Draft)**          |                                                              |
+| [Mr Charles Ng](/moderator-charles-ng)  | *Executive Vice President*<br>Ensign InfoSecurity                  |
