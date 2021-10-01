@@ -2,10 +2,9 @@
 title: Moderator - Teo Xiang Zheng
 permalink: /moderator-teo-xiang-zheng
 ---
-
 ![Teo Xiang Zheng](/images/speakers/Teo-Xiang-Zheng.jpg)
 
-#### **Mr Teo Xiang Zheng (Draft)**
+#### **Mr Teo Xiang Zheng**
 
 *Head Advisory*  
 Ensign InfoSecurity
