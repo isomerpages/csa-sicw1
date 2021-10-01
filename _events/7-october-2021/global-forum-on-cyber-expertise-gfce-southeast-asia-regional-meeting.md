@@ -19,4 +19,4 @@ The session will discuss the cyber capacity-building landscape in Southeast Asia
 | [Dr Le Quang Lan](/speaker-le-quang-lan)        | *Assistant   Director, ICT  & Tourism Division,   ASEAN Economic Community*<br>ASEAN Secretariat Department                                              |
 | [Mr Naveen Menon](/speaker-naveen-menon)        | *President,   Southeast Asia and Board Member, Cisco Foundation*<br>Cisco                                                                    |
 | <br> **Moderator (Draft)**              |                                                                                                                                   |
-| [Mr Christopher Painter](/moderator-christopher-painter) | *President*<br>Global Forum of Cyber Expertise (GFCE) Foundation                                                                                                                         |
+| [Mr Christopher Painter](/moderator-christopher-painter) | *President of the GFCE Foundation Board*<br>Global Forum on Cyber Expertise (GFCE)                                                                                                                         |
