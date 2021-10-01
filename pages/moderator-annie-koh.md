@@ -2,10 +2,9 @@
 title: Moderator - Annie Koh
 permalink: /moderator-annie-koh
 ---
-
 ![Annie Koh](/images/speakers/Annie-Koh.jpg)
 
-#### **Professor Annie Koh (Draft)**
+#### **Professor Annie Koh**
 
 *Professor Emeritus of Finance (Practice)*  
 Singapore Management University
