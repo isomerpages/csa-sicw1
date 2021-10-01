@@ -4,7 +4,7 @@ permalink: /speaker-erika-lewis
 ---
 ![Erika Lewis](/images/speakers/Erika-Lewis.jpg)
 
-#### **TBC Erika Lewis (Draft)**
+#### **Ms Erika Lewis (Draft)**
 
 *Director, Cyber Security and Digital Identity*  
 Department for Digital, Culture, Media and Sports (DCMS)
