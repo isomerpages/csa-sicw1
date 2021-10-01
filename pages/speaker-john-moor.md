@@ -2,10 +2,9 @@
 title: Speaker - John Moor
 permalink: /speaker-john-moor
 ---
-
 ![John Moor](/images/speakers/Moor-John.jpg)
 
-#### **Mr John Moor (Draft)**
+#### **Mr John Moor**
 
 *Managing Director*  
 IoT Security Foundation (IoTSF)
