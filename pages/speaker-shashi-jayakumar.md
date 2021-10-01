@@ -2,10 +2,9 @@
 title: Speaker - Shashi Jayakumar
 permalink: /speaker-s-jayakumar
 ---
-
 ![Shashi Jayakumar](/images/speakers/Shashi-Jayakumar.jpg)
 
-#### **Dr Shashi Jayakumar (Draft)**
+#### **Dr Shashi Jayakumar**
 
 *Senior Fellow and Head of Centre of Excellence for National Security; Executive Coordinator, Future Issues and Technology*  
 S. Rajaratnam School of International Studies (RSIS), NTU Singapore.
