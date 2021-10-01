@@ -2,10 +2,9 @@
 title: Speaker - François Coallier
 permalink: /speaker-f-coallier
 ---
-
 ![François Coallier](/images/speakers/Coallier-Francois.jpg)
 
-#### **Prof François Coallier (Draft)**
+#### **Prof François Coallier**
 
 *Chairman*  
 ISO/IEC JTC 1/SC 41 (IoT and Digital Twin)
