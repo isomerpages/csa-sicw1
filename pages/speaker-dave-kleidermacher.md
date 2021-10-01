@@ -2,10 +2,9 @@
 title: Speaker - Dave Kleidermacher
 permalink: /speaker-d-kleidermacher
 ---
-
 ![Dave Kleidermacher](/images/speakers/Kleidermacher-Dave.jpg)
 
-#### **Mr Dave Kleidermacher (Draft)**
+#### **Mr Dave Kleidermacher**
 
 *VP Engineering (Android Security & Privacy , Devices and Services Security & Privacy)*  
 Google
