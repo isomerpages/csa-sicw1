@@ -7,7 +7,7 @@ permalink: /speaker-kat-megas
 #### **Ms Katerina Megas (Draft)**
 
 *Program Manager for the Cybersecurity for the Internet-of-Things (IoT) program and the Commercial Adoption Lead for the Trusted Identities Group*  
-National Institute of Standards and Technology (NIST)
+National Institute of Standards and Technology (NIST), US
 
 ##### **Biography**
 
