@@ -2,10 +2,9 @@
 title: Keynote Speaker - Yigal Unna
 permalink: /speaker-yigal-unna
 ---
-
 ![Yigal Unna](/images/speakers/Unna-Yigal.jpg)
 
-#### **Mr Yigal Unna (Draft)**
+#### **Mr Yigal Unna**
 
 *Director-General*  
 Israel National Cyber Directorate
