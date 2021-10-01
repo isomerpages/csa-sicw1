@@ -2,10 +2,9 @@
 title: Speaker - Inge Bryan
 permalink: /speaker-inge-bryan
 ---
-
 ![Inge Bryan](/images/speakers/Inge-Bryan.jpg)
 
-#### **Ms Inge Bryan (Draft)**
+#### **Ms Inge Bryan**
 
 *Managing Director*  
 NCC Group Continental Europe Operations/Fox-IT
