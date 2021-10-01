@@ -2,10 +2,9 @@
 title: Speaker - Mihoko Matsubara
 permalink: /speaker-mihoko-m
 ---
-
 ![Mihoko Matsubara](/images/speakers/Mihoko-M.jpg)
 
-#### **Ms Mihoko Matsubara (Draft)**
+#### **Ms Mihoko Matsubara**
 
 *Chief Cybersecurity Strategist*  
 NTT Corporation
