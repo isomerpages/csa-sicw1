@@ -2,10 +2,9 @@
 title: Speaker - Camellia Chan
 permalink: /speaker-camellia-chan
 ---
-
 ![Camellia Chan](/images/speakers/Camellia-Chan.jpg)
 
-#### **Ms Camellia Chan (Draft)**
+#### **Ms Camellia Chan**
 
 *Chief Executive Officer*  
 Flexxon
