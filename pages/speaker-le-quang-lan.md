@@ -2,10 +2,9 @@
 title: Speaker - Le Quang Lan
 permalink: /speaker-le-quang-lan
 ---
-
 ![Le Quang Lan](/images/speakers/Le-Quang-Lan.jpg)
 
-#### **Dr Le Quang Lan (Draft)**
+#### **Dr Le Quang Lan**
 
 *Assistant Director, ICT  & Tourism Division, ASEAN Economic Community Department*  
 ASEAN Secretariat
