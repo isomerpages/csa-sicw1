@@ -2,11 +2,9 @@
 title: Moderator - Haslinda Amin
 permalink: /moderator-haslinda-amin
 ---
-
-
 ![Haslinda Amin](/images/speakers/Haslinda-Amin.jpg)
 
-#### **Ms Haslinda Amin (Draft)**
+#### **Ms Haslinda Amin**
 
 *Chief International Correspondent for Southeast Asia*  
 Bloomberg
