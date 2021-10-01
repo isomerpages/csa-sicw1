@@ -6,7 +6,7 @@ third_nav_title: 7 October 2021
 #### **SICW Conversations (Policy)**
 
 **7 October 2021 (Thursday)**  
-*9.45pm to 10.45pm*
+*9.45pm to 10.45pm (GMT +8)*
 
 *Format: Virtual*
 
