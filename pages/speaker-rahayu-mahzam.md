@@ -2,10 +2,9 @@
 title: Speaker - Rahayu Mahzam
 permalink: /speaker-rahayu-m
 ---
-
 ![Rahayu Mahzam](/images/speakers/Rahayu-Mahzam.jpg)
 
-#### **Ms Rahayu Mahzam (Draft)**
+#### **Ms Rahayu Mahzam**
 
 *Parliamentary Secretary*  
 Ministry of Communications and Information, and Ministry of Health
