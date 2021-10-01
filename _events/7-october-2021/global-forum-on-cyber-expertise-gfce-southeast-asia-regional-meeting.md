@@ -6,9 +6,9 @@ third_nav_title: 7 October 2021
 #### **Global Forum on Cyber Expertise (GFCE) Southeast Asia Regional Meeting**
 
 **7 October 2021 (Thursday)**  
-*9.00am – 11.30am*
+*9.00am – 11.30am (GMT +8)*
 
-*Format: Hybrid*
+*Format: Virtual*
 
 This year's SICW will host the inaugural Global Forum on Cyber Expertise (GFCE) South East Asia Regional Meeting. The meeting will bring together the GFCE community and ASEAN stakeholders to identify opportunities and challenges for cyber capacity-building in the region and share good practices and knowledge.
 
