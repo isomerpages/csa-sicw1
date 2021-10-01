@@ -4,7 +4,7 @@ permalink: /speaker-shelly-bruce
 ---
 ![Shelly Bruce](/images/speakers/Shelly-Bruce.jpg)
 
-#### **TBC Shelly Bruce (Draft)**
+#### **Ms Shelly Bruce (Draft)**
 
 *Chief*  
 Communications Security Establishment (CSE)
