@@ -2,10 +2,9 @@
 title: Speaker - Naveen Menon
 permalink: /speaker-naveen-menon
 ---
-
 ![Naveen Menon](/images/speakers/Naveen-Menon.jpg)
 
-#### **Mr Naveen Menon (Draft)**
+#### **Mr Naveen Menon**
 
 *President, Southeast Asia and Board Member, Cisco Foundation*  
 Cisco
