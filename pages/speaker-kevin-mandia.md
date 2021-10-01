@@ -2,10 +2,9 @@
 title: Speaker - Kevin Mandia
 permalink: /speaker-kevin-mandia
 ---
-
 ![Kevin Mandia](/images/speakers/Kevin-Mandia.jpg)
 
-#### **Mr Kevin Mandia (Draft)**
+#### **Mr Kevin Mandia**
 
 *Chief Executive Officer*  
 FireEye Mandiant
