@@ -18,4 +18,4 @@ Join us in the launch of the SG Cyber Safe Partnership Programme, where we will 
 
 ##### **Guest of Honour**
 
-| [Mr Tan Kiat How](/speaker-tan-kiat-how)  | *Minister*<br>Minister of State, Ministry of Communications and Information and Ministry of National Development, Singapore                  |
+| [Mr Tan Kiat How](/tan-kiat-how)  | *Minister*<br>Minister of State, Ministry of Communications and Information and Ministry of National Development, Singapore                  |
