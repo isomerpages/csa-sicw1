@@ -2,10 +2,9 @@
 title: Speaker - Alina Tan
 permalink: /speaker-alina-tan
 ---
-
 ![Alina Tan](/images/speakers/Alina-Tan.jpg)
 
-#### **Ms Alina Tan (Draft)**
+#### **Ms Alina Tan**
 
 *Associate Principal, Enterprise Security Architect*  
 Dyson
