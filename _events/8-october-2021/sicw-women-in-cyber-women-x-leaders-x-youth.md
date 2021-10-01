@@ -15,26 +15,26 @@ This is the third edition of the SICW Women in Cyber event with its inaugural ed
 ##### **Leaders X Youth Panel Discussion (Draft)**
 
 | **Speakers**         |                                                 |
-| [Ms Rahayu Mahzam](/speaker-rahayu-m) | *Parliamentary Secretary*<br> Ministry of Communications and Information and the Ministry of Health                       |
-| [TBC Shelly Bruce](/speaker-shelly-bruce) | *Chief*<br>Communications Security Establishment (CSE)                                           |
+| [Ms Rahayu Mahzam](/speaker-rahayu-m) | *Parliamentary Secretary*<br> Ministry of Communications and Information, and Ministry of Health                       |
+| [Ms Shelly Bruce](/speaker-shelly-bruce) | *Chief*<br>Communications Security Establishment (CSE)                                           |
 | [Ms Camellia Chan](/speaker-camellia-chan) | *Founder and Chief Executive Officer*<br>Flexxon           |
-| [TBC Erika Lewis](/speaker-erika-lewis)  | *Director, Cyber Security and Digital Identity*<br>Department for Digital, Culture, Media and Sports (DCMS) |
+| [Ms Erika Lewis](/speaker-erika-lewis)  | *Director, Cyber Security and Digital Identity*<br>Department for Digital, Culture, Media and Sports (DCMS) |
 | [Ms Jenny Tan](/speaker-jenny-tan)     | *Vice-President*<br>ISACA Singapore Chapter                                  |
 | <br> **Moderator**        |                                                 |
-| [Prof Annie Koh](/moderator-annie-koh)   | *Professor Emeritus of Finance (Practice)*<br>Singapore Management University      |
+| [Professor Annie Koh](/moderator-annie-koh)   | *Professor Emeritus of Finance (Practice)*<br>Singapore Management University      |
 
 ##### **Youth X Cyber Experts Fireside Chat (Draft)**
 
 | **Speakers**          |                                                      |
-| [Ms Inge Bryan](/speaker-inge-bryan)     | *Managing Director*<br>NCC Group Europe                                  |
+| [Ms Inge Bryan](/speaker-inge-bryan)     | *Managing Director*<br>NCC Group Continental Europe Operations/Fox-IT                                  |
 | [Ms Alina Tan](/speaker-alina-tan)      | *Associate Principal, Enterprise Security Architect*<br>Dyson |
-| <br> **Youth Facilitator** |                                                      |
-| [Mr Ben Chua](/facilitator-ben-chua)       | *President and Chief Executive Officer*<br>Cyber Youth Singapore              |
+| <br> **Youth Moderator** |                                                      |
+| [Mr Ben Chua](/moderator-ben-chua)       | *President and Chief Executive Officer*<br>Cyber Youth Singapore              |
 
 ##### **Youth X Cyber Policy Makers Fireside Chat (Draft)**
 
 | **Speakers**            |                                  |
 | [Ms Gwenda Fong](/speaker-gwenda-fong)      | *Assistant Chief Executive*<br>Cyber Security Agency of Singapore      |
 | [Ms Mihoko Matsubara](/speaker-mihoko-m) | *Chief Cybersecurity Strategist*<br>NTT Corporation |
-| <br> **Youth Facilitator**   |                                  |
-| [Ms Pun Shu Fen](/facilitator-pun-shu-fen)      | *Systems Engineer*<br>National Cyber Threat Monitoring Centre, Cyber Security Agency of Singapore               |
+| <br> **Youth Moderator**   |                                  |
+| [Ms Pun Shu Fen](/moderator-pun-shu-fen)      | *Systems Engineer*<br>National Cyber Threat Monitoring Centre, Cyber Security Agency of Singapore               |
