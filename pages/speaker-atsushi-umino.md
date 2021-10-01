@@ -2,10 +2,9 @@
 title: Speaker - Atsushi Umino
 permalink: /speaker-atsushi-umino
 ---
-
 ![Atsushi Umino](/images/speakers/Umino-Atsushi.jpg)
 
-#### **Mr Atsushi Umino (Draft)**
+#### **Mr Atsushi Umino**
 
 *Director, Office of the Director-General for Cybersecurity*  
  Ministry of Internal Affairs and Communication (MIC), Japan
