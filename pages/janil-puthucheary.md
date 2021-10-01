@@ -2,10 +2,9 @@
 title: Janil Puthucheary
 permalink: /janil-puthucheary
 ---
-
 ![Janil Puthucheary](/images/speakers/Putcheary-Janil.jpg)
 
-#### **Dr Janil Puthucheary (Draft)**
+#### **Dr Janil Puthucheary**
 
 *Senior Minister of State*  
 Ministry of Communications and Information
