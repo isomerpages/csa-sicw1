@@ -2,10 +2,9 @@
 title: Speaker - Leo Simonovich
 permalink: /speaker-leo-simonovich
 ---
-
 ![Leo Simonovich](/images/speakers/Simonovich-Leo.jpg)
 
-#### **Mr Leo Simonovich (Draft)**
+#### **Mr Leo Simonovich**
 
 *VP / Global Head (Industrial Cybersecurity)*  
 Siemens Energy
