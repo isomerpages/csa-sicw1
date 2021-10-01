@@ -16,6 +16,6 @@ The SG Cyber Safe Partnership Programme encourages industry to partner with CSA 
 
 Join us in the launch of the SG Cyber Safe Partnership Programme, where we will unveil early partners on board the programme and introduce some of the initiatives jointly developed by CSA and industry partners.
 
-##### **Speakers (Draft)**
+##### **Guest of Honour (Draft)**
 
 | [Mr Tan Kiat How](/speaker-tan-kiat-how)  | *Minister*<br>Minister of State, Ministry of Communications and Information and Ministry of National Development, Singapore                  |
