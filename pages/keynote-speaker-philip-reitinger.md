@@ -2,10 +2,9 @@
 title: Keynote Speaker - Philip Reitinger
 permalink: /speaker-philip-reitinger
 ---
-
 ![Philip Reitinger](/images/speakers/Reitinger-Philip.jpg)
 
-#### **Mr Philip Reitinger (Draft)**
+#### **Mr Philip Reitinger**
 
 *President and CEO*  
 Global Cyber Alliance (GCA)
