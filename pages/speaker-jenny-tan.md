@@ -2,10 +2,9 @@
 title: Speaker - Jenny Tan
 permalink: /speaker-jenny-tan
 ---
-
 ![Jenny Tan](/images/speakers/Jenny-Tan.jpg)
 
-#### **Ms Jenny Tan (Draft)**
+#### **Ms Jenny Tan**
 
 *Vice-President*  
 ISACA Singapore Chapter
