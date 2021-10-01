@@ -7,7 +7,7 @@ permalink: /speaker-warren-merkel
 #### **Mr Warren Merkel (Draft)**
 
 *Chief of Standards Services*  
-Standards Coordination Office, National Institute of Standards and Technology (NIST)
+Standards Coordination Office, National Institute of Standards and Technology (NIST), US
 
 ##### **Biography**
 
