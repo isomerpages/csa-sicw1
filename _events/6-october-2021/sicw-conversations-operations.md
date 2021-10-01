@@ -18,3 +18,4 @@ We have assembled a host of security experts that had first hand experience on t
 
 | [Mr Chris Kubic](/speaker-chris-kubic)  | *CISO*<br>Fidelis Cybersecurity                  |
 | [Mr Charles Ng](/speaker-charles-ng)  | *Executive Vice President*<br>Ensign InfoSecurity                  |
+| [Mr Kevin Mandia](/speaker-kevin-mandia)  | *Chief Executive Officer*<br>FireEye Mandiant                  |
