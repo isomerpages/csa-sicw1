@@ -7,7 +7,7 @@ permalink: /speaker-atsushi-umino
 #### **Mr Atsushi Umino (Draft)**
 
 *Director, Office of the Director-General for Cybersecurity*  
- Ministry of Internal Affairs and Communication (MIC)
+ Ministry of Internal Affairs and Communication (MIC), Japan
 
 ##### **Biography**
 
