@@ -2,10 +2,9 @@
 title: Speaker - Katerina Megas
 permalink: /speaker-kat-megas
 ---
-
 ![Katerina Megas](/images/speakers/Megas-Katerina.jpg)
 
-#### **Ms Katerina Megas (Draft)**
+#### **Ms Katerina Megas**
 
 *Program Manager for the Cybersecurity for the Internet-of-Things (IoT) program and the Commercial Adoption Lead for the Trusted Identities Group*  
 National Institute of Standards and Technology (NIST), US
