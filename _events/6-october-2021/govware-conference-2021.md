@@ -6,7 +6,7 @@ third_nav_title: 6 October 2021
 #### **GovWare Conference 2021**
 
 **5-7 October 2021 (Tuesday - Thursday)**  
-*9.30am – 5.00pm*
+*9.30am – 5.00pm (GMT +8)*
 
 *Format: Online*
 

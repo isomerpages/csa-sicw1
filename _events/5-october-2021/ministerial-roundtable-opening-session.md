@@ -6,7 +6,7 @@ third_nav_title: 5 October 2021
 #### **Ministerial Roundtable Opening Session**
 
 **5 October 2021 (Tuesday)**  
-*8.25pm to 9.45pm*
+*8.25pm to 9.45pm (GMT +8)*
 
 *Format: Hybrid*
 

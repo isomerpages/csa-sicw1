@@ -1,7 +1,8 @@
 ---
-title: Speaker - Josephine Teo
+title: Guest of Honour and Speaker - Josephine Teo
 permalink: /speaker-josephine-teo
 ---
+
 ![Josephine-Teo](/images/speakers/Josephine-Teo.jpg)
 
 #### **Mrs Josephine Teo**

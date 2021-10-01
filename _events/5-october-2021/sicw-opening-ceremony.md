@@ -6,7 +6,7 @@ third_nav_title: 5 October 2021
 #### **SICW Opening Ceremony**
 
 **5 October 2021 (Tuesday)**  
-*8.00pm – 8.25pm*
+*8.00pm – 8.25pm (GMT +8)*
 
 *Format: Hybrid*
 
