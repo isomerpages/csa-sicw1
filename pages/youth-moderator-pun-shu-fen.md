@@ -2,11 +2,9 @@
 title: Youth Moderator - Pun Shu Fen
 permalink: /moderator-pun-shu-fen
 ---
-
-
 ![Pun Shu Fen](/images/speakers/Pun-Shu-Fen.jpg)
 
-#### **Ms Pun Shu Fen (Draft)**
+#### **Ms Pun Shu Fen**
 
 *Systems Engineer*  
 National Cyber Threat Monitoring Centre, Cyber Security Agency of Singapore
