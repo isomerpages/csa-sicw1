@@ -6,7 +6,7 @@ third_nav_title: 6 October 2021
 #### **International IoT Security Roundtable - Opening Segment and Leadership Dialogue**
 
 **6 October 2021 (Wednesday)**  
-*8.00pm – 11.00pm*
+*8.00pm – 11.00pm (GMT +8)*
 
 *Format: Virtual*
 
