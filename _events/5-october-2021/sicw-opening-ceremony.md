@@ -16,12 +16,11 @@ Singapore’s Senior Minister and Coordinating Minister for National Security, M
 | Mr Teo Chee Hean  | *Senior Minister and Coordinating Minister for National Security*<br>Singapore                  |
 | <br> **Speaker**          |                                                              |
 | Ms Izumi Nakamitsu  | *Under-Secretary-General and High Representative for Disarmament Affairs*<br>United Nations                  |
+| | |
 
 ---
-<br>
-
+##### **Guest of Honour**
 ![Teo Chee Hean](/images/speakers/SM-Teo.jpg)
-
 ##### **Mr Teo Chee Hean**
 
 *Senior Minister and Coordinating Minister for National Security*  
