@@ -1,7 +1,8 @@
 ---
-title: Janil Puthucheary
+title: Guest of Honour - Janil Puthucheary
 permalink: /janil-puthucheary
 ---
+
 ![Janil Puthucheary](/images/speakers/Putcheary-Janil.jpg)
 
 #### **Dr Janil Puthucheary**
