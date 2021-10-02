@@ -19,8 +19,10 @@ Singapore’s Senior Minister and Coordinating Minister for National Security, M
 | | |
 
 ##### **Guest of Honour**
+
 ![Teo Chee Hean](/images/speakers/SM-Teo.jpg)
-##### **Mr Teo Chee Hean**
+
+##### **Mr. Teo Chee Hean**
 
 *Senior Minister and Coordinating Minister for National Security*  
 Singapore
