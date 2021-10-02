@@ -22,7 +22,7 @@ Singapore’s Senior Minister and Coordinating Minister for National Security, M
 
 ![Teo Chee Hean](/images/speakers/SM-Teo.jpg)
 
-##### **Mr. Teo Chee Hean**
+##### **Mr Teo Chee Hean**
 
 *Senior Minister and Coordinating Minister for National Security*  
 Singapore
@@ -40,7 +40,8 @@ He was appointed Deputy Prime Minister from 1 April 2009 to 30 April 2019. He ha
 He was awarded the President’s Scholarship and the Singapore Armed Forces Scholarship in 1973. He graduated with a Bachelor of Science (First Class Honours) in Electrical Engineering and Management Science from the University of Manchester in 1976. He subsequently attained a Master of Science degree (with distinction) in Computing Science in 1977 at the Imperial College in London, and a Master in Public Administration at the Kennedy School of Government in Harvard University in 1986, where he was named a Littauer Fellow.
 
 ---
-<br>
+
+##### **Speaker**
 
 ![Izumi Nakamitsu](/images/speakers/I-Nakamitsu.jpg)
 
