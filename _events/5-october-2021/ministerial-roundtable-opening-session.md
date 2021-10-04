@@ -20,7 +20,7 @@ Against the backdrop of accelerated digitalisation and adoption of technologies 
 | Lieutenant Hinsa Siburian | *Head of National Cyber and Crypto Agency [Badan Siber dan Sandi Negara (BSSN)]*<br>Indonesia                       |
 | Mr Janusz Cieszyński      | *Secretary of State, Government Plenipotentiary for Cyber Security, Chancellery of the Prime Minister*<br>Poland |
 | Mr Julian Cracknell       | *Managing Director*<br>BAE Systems Applied Intelligence                                                                                    |
-| **Participating Speakers**    |                                                                                                      |
+| <br> **Participating Speakers**    |                                                                                                      |
 | Mr Marc Ablong            | *Deputy Secretary (Strategy and National Resilience) for the Department of Home Affairs*<br>Australia               |
 | Ms Nathalie Jaarsma       | *Ambassador-at-Large, Security Policy & Cyber, Ministry of Foreign Affairs*<br>The Netherlands                            |
 | Mr Cornel Feruta          | *State Secretary for Global Affairs and Diplomatic Strategies*<br>Romania                                         |
