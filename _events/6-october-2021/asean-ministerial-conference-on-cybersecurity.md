@@ -3,8 +3,7 @@ title: ASEAN Ministerial Conference on Cybersecurity
 permalink: /events/amcc
 third_nav_title: 6 October 2021
 ---
-
-#### **ASEAN Ministerial Conference on Cybersecurity (AMCC)**
+#### **ASEAN Ministerial Conference on Cybersecurity**
  
 **6 October 2021 (Wednesday)**  
 *2.30pm – 6.30pm (GMT +8)*
