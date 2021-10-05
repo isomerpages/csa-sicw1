@@ -14,13 +14,13 @@ The Ministerial Roundtable Opening Session brings together Ministers, Cybersecur
 
 Against the backdrop of accelerated digitalisation and adoption of technologies to facilitate tele-working, this session will focus on the advantages and challenges of pursuing a multi-stakeholder approach in the evolving cyber threat landscape, as well as how all stakeholders (e.g. government, businesses, international organisations) should cooperate to maintain stability, security and resilience in cyberspace.
 
-| **Main Panel Speakers**       |                                                                                                      |
-| Dato Abdul Mutalib Yusof  | *Minister of Transport and Infocommunications*<br>Brunei                                                         |
-| Dr Roberto Viola          | *Director-General for Communications, Networks, Content and Technology (DG Connect)*<br>EU                   |
-| Lieutenant Hinsa Siburian | *Head of National Cyber and Crypto Agency [Badan Siber dan Sandi Negara (BSSN)]*<br>Indonesia                       |
+| **Main Panel Speakers (Draft)**       |                                                                                                      |
+| The Honourable Dato Abdul Mutalib Yusof  | *Minister of Transport and Infocommunications*<br>Brunei Darussalam                                                         |
+| Mr Roberto Viola          | *Director-General for Communications, Networks, Content and Technology (DG Connect)*<br>European Union                   |
+| Mr Dono Indarto | *Deputy of Cybersecurity and Cryptography Strategy and Policy*<br>Indonesia                       |
 | Mr Janusz Cieszyński      | *Secretary of State, Government Plenipotentiary for Cyber Security, Chancellery of the Prime Minister*<br>Poland |
 | Mr Julian Cracknell       | *Managing Director*<br>BAE Systems Applied Intelligence                                                                                    |
-| <br> **Participating Speakers**    |                                                                                                      |
+| <br> **Participating Speakers (Draft)**    |                                                                                                      |
 | Mr Marc Ablong            | *Deputy Secretary (Strategy and National Resilience) for the Department of Home Affairs*<br>Australia               |
 | Ms Nathalie Jaarsma       | *Ambassador-at-Large, Security Policy & Cyber, Ministry of Foreign Affairs*<br>The Netherlands                            |
 | Mr Cornel Feruta          | *State Secretary for Global Affairs and Diplomatic Strategies*<br>Romania                                         |
