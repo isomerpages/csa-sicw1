@@ -14,15 +14,15 @@ The Ministerial Roundtable Opening Session brings together Ministers, Cybersecur
 
 Against the backdrop of accelerated digitalisation and adoption of technologies to facilitate tele-working, this session will focus on the advantages and challenges of pursuing a multi-stakeholder approach in the evolving cyber threat landscape, as well as how all stakeholders (e.g. government, businesses, international organisations) should cooperate to maintain stability, security and resilience in cyberspace.
 
-| **Main Panel Speakers (Draft)**       |                                                                                                      |
+| **Main Panel Speakers**       |                                                                                                      |
 | The Honourable Dato Abdul Mutalib Yusof  | *Minister of Transport and Infocommunications*<br>Brunei Darussalam                                                         |
 | Mr Roberto Viola          | *Director-General for Communications, Networks, Content and Technology (DG Connect)*<br>European Union                   |
 | Mr Dono Indarto | *Deputy of Cybersecurity and Cryptography Strategy and Policy*<br>Indonesia                       |
 | Mr Janusz Cieszyński      | *Secretary of State, Government Plenipotentiary for Cyber Security, Chancellery of the Prime Minister*<br>Poland |
 | Mr James Hatch       | *Director of Cyber Security Portfolio*<br>BAE Systems Applied Intelligence                                                                                    |
-| <br> **Participating Speakers (Draft)**    |                                                                                                      |
+| <br> **Participating Speakers**    |                                                                                                      |
 | Mr Marc Ablong            | *Deputy Secretary (Strategy and National Resilience), Department of Home Affairs*<br>Australia               |
 | Ms Nathalie Jaarsma       | *Ambassador-at-Large, Security Policy & Cyber, Ministry of Foreign Affairs*<br>The Netherlands                            |
 | Mr Cornel Feruta          | *State Secretary, Global Affairs and Diplomatic Strategies*<br>Romania                                         |
-| <br> **Moderator (Draft)**          |                                                              |
+| <br> **Moderator**          |                                                              |
 | Mr David Koh  | *Commissioner of Cybersecurity*<br>Chief Executive, Cyber Security Agency of Singapore                  |
