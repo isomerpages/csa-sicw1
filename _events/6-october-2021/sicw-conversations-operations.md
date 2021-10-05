@@ -17,5 +17,6 @@ We have assembled a host of security experts that had first hand experience on t
 | **Speakers**    |                                                              |
 | [Mr Chris Kubic](/speaker-chris-kubic)  | *CISO*<br>Fidelis Cybersecurity                  |
 | [Mr Kevin Mandia](/speaker-kevin-mandia)  | *Chief Executive Officer*<br>FireEye Mandiant                  |
+| [Dr Roberto H. Bamberger](/speaker-r-h-bamberger)  | *Principal Consultant/Lead Investigator, Microsoft Detection and Response Team (DaRT)*<br>Microsoft Corporation                  |
 | <br> **Moderator**          |                                                              |
 | [Mr Charles Ng](/moderator-charles-ng)  | *Executive Vice President*<br>Ensign InfoSecurity                  |
