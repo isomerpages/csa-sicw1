@@ -20,8 +20,11 @@ The session will focus on how cybersecurity leaders in the government and indust
 | Eng Majed bin Mohammed bin Ibrahim Al Mazyad | *Governor, National Cybersecurity Authority*<br>Kingdom of Saudi Arabia                                                                                      |
 | Mr James Cleverly                            | *Minister of State for Middle East and North Africa*<br>Foreign, Commonwealth and Development Office<br>United Kingdom                                                                                    |
 | Mr Chris Inglis                              | *National Cyber Director*<br>White House, United States of America                                                                                                               |
-| Mr Sergey Nikitin                            | *Chief Operating Officer*<br>Group IB                                                                                                               |
-| <br> **Participating Speakers (Draft)**                       |                                                                                                                                       |
-| Mr Guillaume Poupard                         | *Director General*<br>National Cybersecurity Agency of France (ANSSI), France                                                                                                                      |
+| Mr Sergey Nikitin                            | *Chief Operating Officer*<br>Group-IB                                                                                                               |
+| <br> **Participating Speaker (Draft)**                       |                                                                                                                                       |
+| Mr Guillaume Poupard                         | *Director General*<br>National Cybersecurity Agency of France, France                                                                                                                      |
+| <br> **Concluding Remarks (Draft)**          |                                                              |
+| [Mrs Josephine Teo](/speaker-josephine-teo)  | *Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity, Singapore*                  |
+
 | <br> **Moderator (Draft)**                                    |                                                                                                                                       |
 | Ms Yong Ying-I                               | *Permanent Secretary*<br>Ministry of Communications and Information, Singapore                                                                                                                   |
