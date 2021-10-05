@@ -1,7 +1,8 @@
 ---
-title: Speaker and Moderator - Gaurav Keerthi
+title: Moderator - Gaurav Keerthi
 permalink: /speaker-gaurav-k
 ---
+
 
 ![Gaurav Keerthi](/images/speakers/Gaurav-K.jpg)
 
