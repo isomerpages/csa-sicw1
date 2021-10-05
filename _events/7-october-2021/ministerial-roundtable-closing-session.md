@@ -25,6 +25,5 @@ The session will focus on how cybersecurity leaders in the government and indust
 | Mr Guillaume Poupard                         | *Director General*<br>National Cybersecurity Agency of France, France                                                                                                                      |
 | <br> **Concluding Remarks (Draft)**          |                                                              |
 | Mrs Josephine Teo  | *Minister*<br>Ministry of Communications and Information                  |
-
 | <br> **Moderator (Draft)**                                    |                                                                                                                                       |
 | Ms Yong Ying-I                               | *Permanent Secretary*<br>Ministry of Communications and Information, Singapore                                                                                                                   |
