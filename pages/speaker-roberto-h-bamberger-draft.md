@@ -4,7 +4,7 @@ permalink: /speaker-r-h-bamberger
 ---
 ![Roberto H Bamberger](/images/speakers/Roberto-H-Bamberger.jpg)
 
-#### **Dr. Roberto H. Bamberger (Draft)**
+#### **Dr Roberto H. Bamberger (Draft)**
 
 *Principal Consultant/Lead Investigator, Microsoft Detection and Response Team (DaRT)*  
 Microsoft Corporation
