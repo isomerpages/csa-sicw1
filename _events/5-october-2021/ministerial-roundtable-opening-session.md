@@ -19,8 +19,10 @@ Against the backdrop of accelerated digitalisation and adoption of technologies 
 | Mr Roberto Viola          | *Director-General for Communications, Networks, Content and Technology (DG Connect)*<br>European Union                   |
 | Mr Dono Indarto | *Deputy of Cybersecurity and Cryptography Strategy and Policy*<br>Indonesia                       |
 | Mr Janusz Cieszyński      | *Secretary of State, Government Plenipotentiary for Cyber Security, Chancellery of the Prime Minister*<br>Poland |
-| Mr Julian Cracknell       | *Managing Director*<br>BAE Systems Applied Intelligence                                                                                    |
+| Mr James Hatch       | *Director of Cyber Security Portfolio*<br>BAE Systems Applied Intelligence                                                                                    |
 | <br> **Participating Speakers (Draft)**    |                                                                                                      |
-| Mr Marc Ablong            | *Deputy Secretary (Strategy and National Resilience) for the Department of Home Affairs*<br>Australia               |
+| Mr Marc Ablong            | *Deputy Secretary (Strategy and National Resilience), Department of Home Affairs*<br>Australia               |
 | Ms Nathalie Jaarsma       | *Ambassador-at-Large, Security Policy & Cyber, Ministry of Foreign Affairs*<br>The Netherlands                            |
-| Mr Cornel Feruta          | *State Secretary for Global Affairs and Diplomatic Strategies*<br>Romania                                         |
+| Mr Cornel Feruta          | *State Secretary, Global Affairs and Diplomatic Strategies*<br>Romania                                         |
+| <br> **Moderator (Draft)**          |                                                              |
+| Mr David Koh  | *Commissioner of Cybersecurity*<br>Chief Executive, Cyber Security Agency of Singapore                  |
