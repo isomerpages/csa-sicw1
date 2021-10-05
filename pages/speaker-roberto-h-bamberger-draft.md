@@ -2,7 +2,7 @@
 title: Speaker - Roberto H. Bamberger (Draft)
 permalink: /speaker-r-h-bamberger
 ---
-![Roberto H Bamberger](/images/speakers/speaker-placeholder.jpg)
+![Roberto H Bamberger](/images/speakers/Roberto-H-Bamberger.jpg)
 
 #### **Dr. Roberto H. Bamberger (Draft)**
 
