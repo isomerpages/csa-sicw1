@@ -18,7 +18,7 @@ This session will explore the opportunities, benefits, dilemmas, and trade-offs 
 
 | **Speakers** | |
 | [Ms Anne Marie Engtoft Larsen](/speaker-anne-marie)  | *Tech Ambassador*<br>Ministry of Foreign Affairs, Denmark                  |
-| [Mr Brandon Wales (Draft)](/speaker-brandon-wales)  | *Executive Director*<br>Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency (CISA), United States of America                  |
+| [Mr Brandon Wales](/speaker-brandon-wales)  | *Executive Director*<br>Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency (CISA), United States of America                  |
 | [Mr Peter Moore](/speaker-peter-moore)  | *Regional Managing Director*<br>for Asia Pacific Public Sector, Amazon Web Services                  |
 | [Dr Lu Chuanying](/speaker-lu-chuanying)  | *Research Fellow*<br>Centre for American Studies, Institute for Global Governance Studies                  |
 | <br> **Moderator** | |
