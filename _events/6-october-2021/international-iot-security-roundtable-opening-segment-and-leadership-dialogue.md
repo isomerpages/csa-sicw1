@@ -15,9 +15,9 @@ The International IoT Security Roundtable serves as a platform to galvanise inte
 ##### **Opening Segment**
 
 | **Opening Address**      |                               |
-| [Dr Janil Puthucheary](https://csa-sicw1-staging.netlify.app/janil-puthucheary) | *Senior Minister of State*<br>Ministry of Communications and Information    |
+| [Dr Janil Puthucheary](https://csa-sicw1-staging.netlify.app/janil-puthucheary) | *Senior Minister of State*<br>Ministry of Communications and Information and Ministry Of Health, Singapore    |
 | <br> **Keynote Speakers**     |                               |
-| [Mr Warren Merkel](https://csa-sicw1-staging.netlify.app/speaker-warren-merkel)     | *Chief of Standards Services*<br>Standards Coordination Office, National Institute of Standards and Technology (NIST), US |
+| [Mr Warren Merkel](https://csa-sicw1-staging.netlify.app/speaker-warren-merkel)     | *Chief of Standards Services*<br>Standards Coordination Office, National Institute of Standards and Technology (NIST), United States of America |
 | [Mr Philip Reitinger](https://csa-sicw1-staging.netlify.app/speaker-philip-reitinger)  | *President and CEO*<br>Global Cyber Alliance (GCA)           |
 
 ##### **Leadership Dialogue on “Internationalising standards & certification towards a trusted secure IoT ecosystem”**
@@ -26,7 +26,7 @@ The International IoT Security Roundtable serves as a platform to galvanise inte
 | [Mr Andrew Elliot](/speaker-andrew-elliot)          | *Deputy Director for Cyber Security*<br>Department for Digital, Culture, Media and Sport (DCMS), UK                                                                                                                 |
 | [Dr Silke Bargstädt-Franke](/speaker-silke-b-f) | *Head (Cyber Security for Digitization and Electronic Identities), Germany*<br> Federal Office for Information Security (BSI)                                                                                   |
 | [Mr Dave Kleidermacher](/speaker-d-kleidermacher)     | *VP Engineering (Android Security & Privacy, Devices and Services Security & Privacy)*<br>Google                                                            |
-| [Ms Katerina Megas](/speaker-kat-megas)         | *Program Manager for the Cybersecurity for the Internet-of-Things (IoT) program and the Commercial Adoption Lead for the Trusted Identities Group*<br>National Institute of Standards and Technology (NIST), US |
+| [Ms Katerina Megas](/speaker-kat-megas)         | *Program Manager for the Cybersecurity for the Internet-of-Things (IoT) program and the Commercial Adoption Lead for the Trusted Identities Group*<br>National Institute of Standards and Technology (NIST), United States of America |
 | [Prof François Coallier](/speaker-f-coallier)    | *Chairman*<br>ISO/IEC JTC 1/SC 41 (IoT and Digital Twin)                                                                                                                                             |
 | <br> **Moderator**                 |                                                                                                                                                      |
 | [BG Gaurav Keerthi](/speaker-gaurav-k)         | *Deputy Chief Executive*<br>Cyber Security Agency of Singapore (CSA)                                                                                                                 |
