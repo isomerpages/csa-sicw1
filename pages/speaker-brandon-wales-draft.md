@@ -2,7 +2,7 @@
 title: Speaker - Brandon Wales (Draft)
 permalink: /speaker-brandon-wales
 ---
-![Brandon Wales](/images/speakers/speaker-placeholder.jpg)
+![Brandon Wales](/images/speakers/Brandon-Wales.jpeg)
 
 #### **Mr Brandon Wales (Draft)**
 
