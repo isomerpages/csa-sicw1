@@ -15,7 +15,7 @@ The International IoT Security Roundtable serves as a platform to galvanise inte
 ##### **Technical Panel on “Nexus of AI and IoT cyber analytics”**
 
 | **Keynote Speaker**    |                                                              |
-| [Mr Yigal Unna](/speaker-yigal-unna)      | *Director-General*<br>Israel National Cyber Directorate                                             |
+| [Mr Yigal Unna](/speaker-yigal-unna)      | *Director-General*<br>Israel National Cyber Directorate (INCD), Israel                                             |
 | <br> **Speakers**           |                                                              |
 | [Mr Atsushi Umino](/speaker-atsushi-umino)   | *Director, Office of the Director-General for Cybersecurity*<br> Ministry of Internal Affairs and Communication (MIC), Japan |
 | [Mr Leo Simonovich](/speaker-leo-simonovich)  | *VP / Global Head (Industrial Cybersecurity)*<br>Siemens Energy                |
