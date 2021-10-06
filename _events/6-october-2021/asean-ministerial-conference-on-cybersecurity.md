@@ -16,4 +16,4 @@ The 6<sup>th</sup> AMCC Main and Special Sessions are ministerial-level dialogue
 
 ##### **Speakers**
 
-| [Mrs Josephine Teo](/speaker-josephine-teo)     | *Minister*<br>Ministry of Communications and Information      |
+| [Mrs Josephine Teo](/speaker-josephine-teo)     | *Minister for Communications and Information, Minister-in-charge of Smart Nation and Cybersecurity*<br>Singapore      |
