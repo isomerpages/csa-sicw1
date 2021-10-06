@@ -2,10 +2,9 @@
 title: Speaker - Brandon Wales
 permalink: /speaker-brandon-wales
 ---
-
 ![Brandon Wales](/images/speakers/Brandon-Wales.jpeg)
 
-#### **Mr Brandon Wales (Draft)**
+#### **Mr Brandon Wales**
 
 *Executive Director*  
 Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency (CISA), United States of America
