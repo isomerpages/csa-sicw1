@@ -15,7 +15,7 @@ The Ministerial Roundtable Closing Session brings together Ministers, Cybersecur
 The session will focus on how cybersecurity leaders in the government and industry can take advantage of the evolved digital landscape to promote innovation and digital collaboration while promoting a secure and safer cyberspace.
 
 | **Main Panel Speakers**                          |                                                                                                                                       |
-| Mr Andres Sutt                               | *Minister of Entrepreneurship and Information Technology*<br>Estonia                                                                               |
+| Mr Raul Rikk                               | *Director, Department of National Cyber Security*<br>Office of Government Chief Information Officer, Ministry of Economic Affairs and Communications<br>Estonia                                                                               |
 | Mr Sasaki Yuji                               | *Vice-Minister for Policy Coordination (International Affairs)<br>Ministry of Internal Affairs and Communications*<br>Japan |
 | Eng Majed bin Mohammed bin Ibrahim Al Mazyad | *Governor, National Cybersecurity Authority*<br>Kingdom of Saudi Arabia                                                                                      |
 | Mr James Cleverly                            | *Minister of State for Middle East and North Africa*<br>Foreign, Commonwealth and Development Office<br>United Kingdom                                                                                    |
