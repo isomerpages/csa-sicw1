@@ -24,5 +24,5 @@ c.	**OT cybersecurity professionals** to chart a career pathway and enhance thei
 | [Mr Wong Yoke Chye](/speaker-wong-yc)     | *Deputy Director*<br>SP Group     |
 | [Mr John Ellis](/speaker-john-ellis)  | *Director, Industrial Cyber Alliances*<br>Siemens Energy                  |
 | [Dr Vivek Balachandran](/speaker-vivek-b)  | *Assistant Professor*<br>Singapore Institute of Technology                  |
-| <br> **Moderator (Draft)**          |                                                              |
+| <br> **Moderator**          |                                                              |
 | Mr Soo Guan Simon Eng  | *Senior Assistant Director*<br>Cyber Security Agency of Singapore (CSA)                  |
