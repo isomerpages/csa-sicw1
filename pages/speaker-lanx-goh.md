@@ -4,7 +4,7 @@ permalink: /speaker-lanx-goh
 ---
 ![Lanx Goh](/images/speakers/Lanx-Goh.jpg)
 
-#### **Mr Lanx Goh**
+#### **Adj A/Prof Lanx Goh**
 
 *Head of International Privacy & Global Data Protection Officer*  
 Ant Group
