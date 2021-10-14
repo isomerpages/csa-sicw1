@@ -6,8 +6,8 @@ permalink: /speaker-silke-b-f
 
 #### **Dr Silke Bargstädt-Franke**
 
-*Head (Cyber Security for Digitization and Electronic Identities), Germany*  
- Federal Office for Information Security (BSI)
+*Head (Cyber Security for Digitization and Electronic Identities)*  
+ Federal Office for Information Security (BSI), Germany
 
 ##### **Biography**
 
