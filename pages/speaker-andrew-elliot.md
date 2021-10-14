@@ -7,7 +7,7 @@ permalink: /speaker-andrew-elliot
 #### **Mr Andrew Elliot**
 
 *Deputy Director for Cyber Security*  
-Department for Digital, Culture, Media and Sport (DCMS), UK
+Department for Digital, Culture, Media and Sport (DCMS), United Kingdom
 
 ##### **Biography**
 
