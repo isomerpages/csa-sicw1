@@ -17,12 +17,12 @@ Against the backdrop of accelerated digitalisation and adoption of technologies 
 | **Main Panel Speakers**       |                                                                                                      |
 | The Honourable Dato Abdul Mutalib Yusof  | *Minister of Transport and Infocommunications*<br>Brunei Darussalam                                                         |
 | Mr Roberto Viola          | *Director-General for Communications, Networks, Content and Technology (DG Connect)*<br>European Union                   |
-| Mr Dono Indarto | *Deputy of Cybersecurity and Cryptography Strategy and Policy*<br>Indonesia                       |
+| Mr Dono Indarto | *Deputy Head, National Cyber and Crypto Agency*<br>Badan Siber dan Sandi Negara (BSSN), Indonesia                       |
 | Mr Michał Pukaluk      | *Director of the Digital Policy Department, Prime Minister’s Office*<br>Poland |
-| Mr James Hatch       | *Director of Cyber Security Portfolio*<br>BAE Systems Applied Intelligence                                                                                    |
+| Mr James Hatch       | *Director, Cyber Security*<br>BAE Systems Applied Intelligence                                                                                    |
 | <br> **Participating Speakers**    |                                                                                                      |
 | Mr Marc Ablong            | *Deputy Secretary (Strategy and National Resilience), Department of Home Affairs*<br>Australia               |
 | Ms Nathalie Jaarsma       | *Ambassador-at-Large, Security Policy & Cyber, Ministry of Foreign Affairs*<br>The Netherlands                            |
 | Mr Cornel Feruta          | *State Secretary, Global Affairs and Diplomatic Strategies*<br>Romania                                         |
 | <br> **Moderator**          |                                                              |
-| Mr David Koh  | *Commissioner of Cybersecurity*<br>Chief Executive, Cyber Security Agency of Singapore                  |
+| Mr David Koh  | *Commissioner of Cybersecurity & Chief Executive*<br>Cyber Security Agency of Singapore                  |
