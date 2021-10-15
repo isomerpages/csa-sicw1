@@ -25,4 +25,4 @@ Against the backdrop of accelerated digitalisation and adoption of technologies 
 | Ms Nathalie Jaarsma       | *Ambassador-at-Large, Security Policy & Cyber, Ministry of Foreign Affairs*<br>The Netherlands                            |
 | Mr Cornel Feruta          | *State Secretary, Global Affairs and Diplomatic Strategies*<br>Romania                                         |
 | <br> **Moderator**          |                                                              |
-| Mr David Koh  | *Commissioner of Cybersecurity, Chief Executive*<br>Cyber Security Agency of Singapore                  |
+| Mr David Koh  | *Commissioner of Cybersecurity & Chief Executive*<br>Cyber Security Agency of Singapore                  |
