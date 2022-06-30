@@ -50,5 +50,5 @@ sections:
   - resources:
       title: Past SICW Highlights
       subtitle: Explore
-      button: See All
+      button: See All.
 ---
