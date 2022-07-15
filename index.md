@@ -48,7 +48,7 @@ sections:
       image: /images/GOH%20-%20Tan%20K%20H.png
       alt: Mr TAN Kiat How
   - resources:
-      title: Past SICW Highlight
+      title: Past SICW Highlights
       subtitle: Explore
       button: See All
 ---
