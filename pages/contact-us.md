@@ -8,5 +8,5 @@ contacts:
       - phone: ""
       - email: contactus@image-engine.biz
       - other: ""
-    title: Please send your enquiry to
+    title: Please send your enquiries to
 ---
