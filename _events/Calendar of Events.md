@@ -28,14 +28,16 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 2.00pm – 6.00pm                | [ASEAN - US Cyber Dialogue](/events/iot1)                                                          |
 
 | <br> **20 October 2022** *(Thursday)*  |                                                                                                |
-| 9.00am to 11.30am             | [Global Forum on Cyber Expertise (GFCE) Southeast Asia Regional   Meeting](/events/gfce)                       |
-| 9.00am to 12.00pm                | [Operational Technology (OT) Cybersecurity Forum – Professional Roles and Competencies](/events/ot-cybersecurity)                               |
-| 9.30am to 5.00pm           | [GovWare Conference 2021](/events/govware3)                                                         |
-| 10.30am to 11.00am               | [Launch of SG Cyber Safe Partnership Programme](/events/launch-of-sg-cyber-safe)                                                  |
-| 11.00am to 12.00pm               | [SG Cyber Safe for Enterprises Panel Discussion](/events/sg-cyber-safe-enterprises)                                                 |
-| 3.00pm to 5.00pm                 | [International IoT Security Roundtable - Technical Panel](/events/iot2)                                                          |
-| 8.00pm to 9.30pm              | [Ministerial Roundtable Closing Session](/events/ministerial-roundtable-closing)                                    |
-| 9.45pm to 10.45pm          | [SICW Conversations (Policy)](/events/sicw-conversation-policy)                                                                     |
-| <br> **20 October 2022** *(Friday)*    |                                                                                                |
-| 9.00am to 11.00am                | [2nd ASEAN-US Cyber Policy Dialogue](/events/2nd-asean-us-cyber-policy-dialogue)                                                                                 |
-| 8.00pm to 10.00pm                | [SICW Women in Cyber: Women X Leaders X Youth](/events/women-in-cyber)                                                                                 |
+| 11.00am to 12.30pm             | [AMCC Main and Special Sessions](/events/gfce)                       |
+| 9.00am to 6.00pm                | [ASEAN Cybercrime Prosecutors' Roundtable Meeting](/events/ot-cybersecurity)                               |
+| 9.00am to 11.00am           | [International IoT Security Rountable - Technical Panel](/events/govware3)                                                         |
+| 10.00am to 11.00am               | [IIOTSRT - Technical Panel (Parallel Track)](/events/launch-of-sg-cyber-safe)                                                  |
+| 11.00am to 12.00pm               | [SICW Conversations (Ops) Survival During Contentious Period](/events/sg-cyber-safe-enterprises)                                                 |
+| 1.00pm to 2.00pm                 | [SICW Conversations (Technology)](/events/iot2)                                                          |
+| 2.00pm to 4.00pm              | [OT Vertical](/events/ministerial-roundtable-closing)                                    |
+| 2.00pm to 3.00pm          | [SICW Press Conference](/events/sicw-conversation-policy)                                                                     |
+|
+| 3.00pm to 5.00pm          | [Women in Cyber](/events/sicw-conversation-policy)                                                                     |
+|
+| 2.00pm to 6.00pm          | [US Chamber Of Commerce & Dinner](/events/sicw-conversation-policy)                                                                     |
+|
