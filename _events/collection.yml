@@ -2,12 +2,12 @@ collections:
   events:
     output: true
     order:
-      - 20 October 2022/List of Events.md
-      - 20 October 2022/.keep
-      - 19 October 2022/List of Events.md
-      - 19 October 2022/.keep
-      - 18 October 2022/List of Events.md
-      - 18 October 2022/.keep
-      - 17 October 2022/List of Events.md
-      - 17 October 2022/.keep
       - Calendar of Events.md
+      - 17 October 2022/.keep
+      - 17 October 2022/List of Events.md
+      - 18 October 2022/.keep
+      - 18 October 2022/List of Events.md
+      - 19 October 2022/.keep
+      - 19 October 2022/List of Events.md
+      - 20 October 2022/.keep
+      - 20 October 2022/List of Events.md
