@@ -47,9 +47,17 @@ The dress code for the SICW 2022 is business attire.
 
 #### **Safe Management Measures (SMM)**
 
-**1.	What safe management measures will be taken for SICW 2021?**
+**1.	What safe management measures will be taken for SICW 2022?**
 
-SICW 2021 adheres to the prevailing national guidelines and safety considerations set by the Singapore Tourism Board (STB). The Event Organisers are constantly working closely with the Venue and STB to ensure a safe and clean environment for all attendees and staff. For more information of the most updated guidelines, please refer <a href="https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html#MICE" target="_blank">here</a>.
+SICW 2022 adheres to the prevailing national guidelines and safety considerations set by the Singapore Tourism Board (STB). The Event Organisers are working closely with the Venue and STB to ensure a safe and clean environment for all attendees and staff. For more information of the most updated SMM guidelines, please refer [here](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html#MICE). 
+
+**2. Am I required to wear a mask throughout the event?**
+
+In line with the Singapore government’s advisory, a mask must be worn at all times throughout the event.
+
+**3. What should I do if I tested positive for COVID-19?**
+
+Travellers who test positive for COVID-19 may be placed on a recovery protocol and should follow the protocols for the recovery procedure assigned to them. More information on the protocol can be found [here](https://www.visitsingapore.com/travel-requirements/health-protocol/#:~:text=Travellers%20who%20test%20positive%20for,discharge%20from%20the%20recovery%20protocol). 
 
 #### **Registration**
 
