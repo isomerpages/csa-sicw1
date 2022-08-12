@@ -18,7 +18,7 @@ Top policy makers, industry leaders and domain experts from ASEAN and across the
 **2.	When and where will SICW 2022 take place?**
 <br>SICW 2022 will take place from 18 to 20 October at Sands Expo and Convention Centre, Singapore.
 
-**3.	What format will SICW 2022 be in?**  
+**3.	What format will SICW 2022 be in?** 
 <br>SICW 2022 will be presented in a hybrid format. However, attendees are encouraged to attend in-person if you are fully vaccinated.
 
 **4.	How can I attend the event?**
@@ -49,4 +49,4 @@ Find out more on the full vaccination requirements [here](https://safetravel.ica
 <br>In line with the Singapore government’s advisory, a mask must be worn at all times throughout the event.
 
 **3. What should I do if I tested positive for COVID-19?**
-<br>Travellers who test positive for COVID-19 may be placed on a recovery protocol and should follow the protocols for the recovery procedure assigned to them. More information on the protocol can be found [here](https://www.visitsingapore.com/travel-requirements/health-protocol/#:~:text=Travellers%20who%20test%20positive%20for,discharge%20from%20the%20recovery%20protocol). 
+<br>Travellers who test positive for COVID-19 may be placed on a recovery protocol and should follow the protocols for the recovery procedure assigned to them. More information on the protocol can be found [here](https://www.visitsingapore.com/travel-requirements/health-protocol/#:~:text=Travellers%20who%20test%20positive%20for,discharge%20from%20the%20recovery%20protocol).
