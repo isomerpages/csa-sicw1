@@ -1,4 +1,5 @@
 collections:
   archive-2021:
     output: true
-    order: []
+    order:
+      - faqs.md
