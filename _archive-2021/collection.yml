@@ -2,5 +2,6 @@ collections:
   archive-2021:
     output: true
     order:
+      - privacy-statement.md
       - terms-of-use.md
       - faqs.md
