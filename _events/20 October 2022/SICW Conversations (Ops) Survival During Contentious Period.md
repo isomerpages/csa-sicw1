@@ -4,8 +4,7 @@ permalink: /events/20-October-2022/ConvoOps
 description: ""
 third_nav_title: 20 October 2022
 ---
-#### **SICW Conversations (Ops)
-Survival During Contentious Period**
+#### **SICW Conversations (Ops) Survival During Contentious Period**
 
 **20 October 2022 (Thursday)**  
 *11.00am – 12.00pm (GMT +8)*
