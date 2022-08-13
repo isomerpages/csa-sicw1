@@ -4,7 +4,7 @@ permalink: /events/19-October-2022/OC
 description: ""
 third_nav_title: 19 October 2022
 ---
-#### **SICW Conversations (Technology)**
+#### **SICW Opening Ceremony**
 
 **19 October 2022 (Wednesday)**  
 *9.00am to 9.30am (GMT +8)*
