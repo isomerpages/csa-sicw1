@@ -4,7 +4,7 @@ permalink: /events/20-October-2022/AMCC
 description: ""
 third_nav_title: 20 October 2022
 ---
-#### **Global Forum on Cyber Expertise (GFCE) Southeast Asia Regional Meeting**
+#### **AMCC Main and Special Sessions**
 
 **20 October 2022 (Thursday)**  
 *11.00am – 12.30pm (GMT +8)*
