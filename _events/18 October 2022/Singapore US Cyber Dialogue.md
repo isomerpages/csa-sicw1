@@ -7,7 +7,7 @@ third_nav_title: 18 October 2022
 #### **Singapore US Cyber Dialogue**
 
 **18 October 2022 (Tuesday)**  
-*9.50pm to 10.50pm (GMT +8)*
+*2.00pm to 6.00pm (GMT +8)*
 
 *Format: Physical*
 
