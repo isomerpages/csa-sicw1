@@ -6,7 +6,7 @@ third_nav_title: 20 October 2022
 ---
 #### **ASEAN Cybercrime Prosecutors' Roundtable Meeting**
 
-**7 October 2021 (Thursday)**  
+**20 October 2022 (Thursday)**  
 *9.00am – 6.00pm (GMT +8)*
 
 *Format: Hybrid*
