@@ -15,6 +15,5 @@ Employees tend to be the weakest link in an organisation’s security, as attack
 
 Join us in the SG Cyber Safe for Enterprises Dialogue to understand more about the human factor in your organisations and how you can take steps to address the weakness.
 
-##### **Speakers**
-
-| [Mrs Josephine Teo](/speaker-josephine-teo)     | *Minister for Communications and Information, Minister-in-charge of Smart Nation and Cybersecurity*<br>Singapore      |
+##### **Guest of Honour**
+| [Mr Tan Kiat How](/speaker-josephine-teo)     | *Senior Minister of State, Ministry of Communications and Information & Ministry of National Development*<br>Singapore      |
