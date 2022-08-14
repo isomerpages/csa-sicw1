@@ -2,6 +2,7 @@ collections:
   archive-2021:
     output: true
     order:
+      - guest-of-honour-janil-puthucheary.md
       - guest-of-honour-and-speaker-josephine-teo.md
       - Publications 2021/SICW 2019 Overview and Key Highlights.md
       - Publications 2021/Remarks by Mr S Iswaran.md
