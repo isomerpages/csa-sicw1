@@ -2,6 +2,7 @@ collections:
   archive-2021:
     output: true
     order:
+      - keynote-speaker-philip-reitinger.md
       - guest-of-honour-tan-kiat-how.md
       - guest-of-honour-janil-puthucheary.md
       - guest-of-honour-and-speaker-josephine-teo.md
