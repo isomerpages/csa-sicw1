@@ -11,7 +11,7 @@ third_nav_title: 18 October 2022
 
 *Format: Physical*
 
-Event Writeup
+Draft
 
 | **Speakers**    |                                                              |
 | [Mrs Josephine Teo](/speaker-josephine-teo)     | *Minister for Communications and Information, Minister-in-charge of Smart Nation and Cybersecurity*<br>Singapore      |
