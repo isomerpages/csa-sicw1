@@ -2,6 +2,7 @@ collections:
   archive-2021:
     output: true
     order:
+      - speaker-jenny-tan.md
       - speaker-leo-simonovich.md
       - speaker-mihoko-matsubara.md
       - youth-moderator-ben-chua.md
