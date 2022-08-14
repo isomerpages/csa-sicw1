@@ -2,6 +2,7 @@ collections:
   archive-2021:
     output: true
     order:
+      - speaker-mihoko-matsubara.md
       - youth-moderator-ben-chua.md
       - speaker-naveen-menon.md
       - speaker-le-quang-lan.md
