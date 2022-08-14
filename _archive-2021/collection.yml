@@ -2,6 +2,7 @@ collections:
   archive-2021:
     output: true
     order:
+      - speaker-wong-yoke-chye.md
       - speaker-vivek-balachandran.md
       - speaker-thomas-kurian.md
       - speaker-silke-bargstadt-franke.md
