@@ -26,10 +26,10 @@ Top policy makers, industry leaders and domain experts from ASEAN and across the
 
 **5.	I am not fully vaccinated, am I able to attend the event?**
 <br>SICW 2022 is a fully vaccinated event. All participants attending the event must be fully vaccinated. 
-Find out more on the full vaccination requirements [here](https://safetravel.ica.gov.sg/arriving/overview#vaccination). 
+Find out more on the full vaccination requirements [here](https://www.ica.gov.sg/enter-transit-depart/entering-singapore). 
 
 **6.	What are the travel requirements to enter Singapore?**
-<br>Fully vaccinated travelers can now enjoy quarantine-free entry into Singapore with no testing required. Please click [here](https://safetravel.ica.gov.sg/arriving/overview) for more information. 
+<br>Fully vaccinated travelers can now enjoy quarantine-free entry into Singapore with no testing required. Please click [here](https://www.ica.gov.sg/enter-transit-depart/entering-singapore) for more information. 
 
 **7. How do journalists apply to attend SICW 2022?**
 <br>We invite media journalists to register for a media pass. More info on media accreditation requirements can be found here. (hyperlink to Media Accreditation webpage from SICW website)
