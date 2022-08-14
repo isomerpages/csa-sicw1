@@ -2,6 +2,7 @@ collections:
   archive-2021:
     output: true
     order:
+      - speaker-kevin-mandia.md
       - speaker-jeffrey-lim.md
       - speaker-john-moor.md
       - speaker-lanx-goh.md
