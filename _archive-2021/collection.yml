@@ -2,6 +2,7 @@ collections:
   archive-2021:
     output: true
     order:
+      - speaker-atsushi-umino.md
       - speaker-anne-marie-engtoft-larsen.md
       - speaker-andrew-elliot.md
       - speaker-andre-shori.md
