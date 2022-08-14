@@ -2,6 +2,7 @@ collections:
   archive-2021:
     output: true
     order:
+      - moderator-gaurav-keerthi.md
       - moderator-christopher-painter.md
       - moderator-charles-ng.md
       - moderator-annie-koh.md
