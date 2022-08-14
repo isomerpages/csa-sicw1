@@ -2,6 +2,7 @@ collections:
   archive-2021:
     output: true
     order:
+      - moderator-teo-xiang-zheng.md
       - moderator-jane-lo.md
       - moderator-haslinda-amin.md
       - moderator-gaurav-keerthi.md
