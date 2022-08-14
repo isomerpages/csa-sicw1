@@ -2,6 +2,7 @@ collections:
   archive-2021:
     output: true
     order:
+      - speaker-silke-bargstadt-franke.md
       - speaker-shelly-bruce.md
       - speaker-shashi-jayakumar.md
       - speaker-roberto-h-bamberger.md
