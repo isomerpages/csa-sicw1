@@ -2,6 +2,7 @@ collections:
   archive-2021:
     output: true
     order:
+      - moderator-annie-koh.md
       - keynote-speaker-yigal-unna.md
       - keynote-speaker-warren-merkel.md
       - keynote-speaker-philip-reitinger.md
