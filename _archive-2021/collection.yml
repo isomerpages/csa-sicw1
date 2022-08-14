@@ -2,6 +2,7 @@ collections:
   archive-2021:
     output: true
     order:
+      - speaker-lanx-goh.md
       - speaker-jeff-moss.md
       - speaker-inge-bryan.md
       - speaker-hannah-lennon.md
