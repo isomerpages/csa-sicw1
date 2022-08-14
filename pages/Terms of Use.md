@@ -17,7 +17,7 @@ This website is maintained by Cyber Security Agency (CSA) of Singapore. The mate
 
 #### Privacy Policy
 
-Click [here](/privacy/) to review this website's Privacy Statement.
+Click [here](/privacystatement) to review this website's Privacy Statement.
 
 #### Restrictions on use of Information and Materials
 
