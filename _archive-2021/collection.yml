@@ -2,6 +2,7 @@ collections:
   archive-2021:
     output: true
     order:
+      - speaker-john-ellis.md
       - speaker-jenny-tan.md
       - speaker-leo-simonovich.md
       - speaker-mihoko-matsubara.md
