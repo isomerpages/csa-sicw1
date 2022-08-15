@@ -14,8 +14,3 @@ third_nav_title: 19 October 2022
 Singapore's Senior Minister, Mr Teo Chee Hean, will officiate the opening of SICW 2022.
 
 The SICW Opening Ceremony will be held on 19 October 2022.
-
-| **Speaker**    |                                                              |
-| [Mr Jeff Moss](/speaker-jeff-moss)  | *Founder*<br>Black Hat and DEF CON Computer Security Conferences                  |
-| <br> **Moderator**          |                                                              |
-| [BG Gaurav Keerthi](/speaker-gaurav-k)  | *Deputy Chief Executive (Development)*<br>Cyber Security Agency of Singapore                  |
