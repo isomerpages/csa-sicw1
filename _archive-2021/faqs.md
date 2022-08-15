@@ -2,61 +2,50 @@
 title: FAQs
 permalink: /faq
 ---
-
 ### **FAQs**
 
 #### **General**
 
 **1.	What is SICW?**
+<br>The Singapore International Cyber Week (SICW) is Asia-Pacific’s most established cybersecurity event since its inception in 2016. 
 
-The Singapore International Cyber Week (SICW) is Asia-Pacific’s most established cybersecurity event since its inception in 2016. As countries continue to adapt and manage the pandemic, SICW 2021 will focus on how countries can work together to leverage the new opportunities that did not exist prior to the pandemic, and to deal with the growing cyber threats by building a secure and resilient cyberspace that serves as an enabler of economic progress in the digital future. SICW 2021 continues the momentum of conversations among top policy makers, industry leaders and domain experts from ASEAN and across the world on key areas of cybersecurity, including emerging digital opportunities and threats, evolution of cyberspace and cybersecurity policies, implementation of cyber norms, Internet of Things (IoT) and Operational Technology (OT) security, and coordinated cyber capacity-building.
+SICW 2022 continues the momentum of conversations through the theme of strengthening multi-stakeholder partnerships and collaboration to address the evolving threat landscape, as well as consider these new dilemmas borne out of the volatile geopolitical landscape, and explore ways to navigate new power relations between State and non-state actors. 
 
-**2.	What is a hybrid event and how do I attend?**
+Top policy makers, industry leaders and domain experts from ASEAN and across the world will be invited to discuss on key areas of cybersecurity based on the theme, including emerging digital opportunities and threats, evolution of cyberspace and cybersecurity policies, implementation of cyber norms, Internet of Things (IoT) and Operational Technology (OT) security, and coordinated cyber capacity-building.   
 
-It is a combination of inter-linked physical and virtual meetings that will allow key leaders from governments, industry, academia and non-government organisations to explore the future of digital and cyber security cooperation from a broader range of perspectives.  All in-person attendees are by-invitation only.
 
-To attend an event virtually, please click on the Registration link [here](/registration).
+**2.	When and where will SICW 2022 take place?**
+<br>SICW 2022 will take place from 18 to 20 October at Sands Expo and Convention Centre, Singapore.
 
-**3.	Where will the in-person events of SICW be taking place?**  
+**3.	What format will SICW 2022 be in?** 
+<br>SICW 2022 will be presented in a hybrid format. However, attendees are encouraged to attend in-person if you are fully vaccinated.
 
-All SICW in-person events will take place at the Sands Expo and Convention Centre, Marina Bay Sands, Singapore.
+**4.	How can I attend the event?**
+<br>SICW 2022 is open to invited guests only. SICW attendees will be able to attend the open sessions of  GovWare Conference and Exhibition (GovWare 2022), which will be held in conjunction with SICW 2022. Visit [www.govware.sg](www.govware.sg) for more GovWare 2022 information. 
 
-**4.	Will the content be the same for the in-person and online events?**
+**5.	I am not fully vaccinated, am I able to attend the event?**
+<br>SICW 2022 is a fully vaccinated event. All participants attending the event must be fully vaccinated. 
+Find out more on the full vaccination requirements [here](https://www.ica.gov.sg/enter-transit-depart/entering-singapore). 
 
-Yes, it will be the same for both online and in-person attendees.
+**6.	What are the travel requirements to enter Singapore?**
+<br>Fully vaccinated travelers can now enjoy quarantine-free entry into Singapore with no testing required. Please click [here](https://www.ica.gov.sg/enter-transit-depart/entering-singapore) for more information. 
 
-**5.	I am based overseas and unable to travel to Singapore to participate. The programme is of high interest; how can I attend?**
+**7. How do journalists apply to attend SICW 2022?**
+<br>We invite media journalists to register for a media pass. More info on media accreditation requirements can be found here. (hyperlink to Media Accreditation webpage from SICW website)
 
-Interested parties are able to attend SICW 2021 virtually. The event details can be found [here](/events).
+**8. What is the dress code for the event?**
+<br>The dress code for the SICW 2022 is business attire.
 
-You may register [here](/registration) and receive updates on the event, such as programme line-up, in-person and online accessibility, latest safety management measures and admission policy.
-
-**6.	Who can I contact for more information?**
-
-You may email <a href="mailto:contactus@image-engine.biz">contactus@image-engine.biz</a> for more details.
+**9. Who can I contact for more information?**
+<br>You may email <a href="mailto:enquiries@govware.sg ">enquiries@govware.sg </a> for more details.
 
 #### **Safe Management Measures (SMM)**
 
-**1.	What safe management measures will be taken for SICW 2021?**
+**1.	What safe management measures will be taken for SICW 2022?**
+<br>SICW 2022 adheres to the prevailing national guidelines and safety considerations set by the Singapore Tourism Board (STB). The Event Organisers are working closely with the Venue and STB to ensure a safe and clean environment for all attendees and staff. For more information of the most updated SMM guidelines, please refer [here](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html#MICE). 
 
-SICW 2021 adheres to the prevailing national guidelines and safety considerations set by the Singapore Tourism Board (STB). The Event Organisers are constantly working closely with the Venue and STB to ensure a safe and clean environment for all attendees and staff. For more information of the most updated guidelines, please refer <a href="https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html#MICE" target="_blank">here</a>.
+**2. Am I required to wear a mask throughout the event?**
+<br>In line with the Singapore government’s advisory, a mask must be worn at all times throughout the event.
 
-#### **Registration**
-
-**1.	Is registration required and how much are the registration fees?**
-
-Registration for SICW is free. Do note that registration on the event does not secure you a seat as it is subject      to the Event Organiser’s review and approval.
-
-**2.	If I registered for and could not attend the event, can I transfer my registration – virtual and/or physical – to someone else?**
-
-Request for transfer is subject to the Organiser's review and approval. Please submit your request to <a href="mailto:contactus@image-engine.biz">contactus@image-engine.biz</a> before 27 September 2021.
-
-#### **Programme**
-
-**1.	How can I interact with the Speaker during the Q&A session?**
-
-Selected sessions will have interactive features such as Polls, and Question & Answers with the Speakers.  You may submit your questions during the sessions.
-
-**2.	I am unable to attend the live presentations. Can I still view the presentations later?**
-
-Yes, you will be able to catch up on missed sessions via our Video on Demand, which will be available on the SICW virtual platform after the event.
+**3. What should I do if I tested positive for COVID-19?**
+<br>Travellers who test positive for COVID-19 may be placed on a recovery protocol and should follow the protocols for the recovery procedure assigned to them. More information on the protocol can be found [here](https://www.visitsingapore.com/travel-requirements/health-protocol/#:~:text=Travellers%20who%20test%20positive%20for,discharge%20from%20the%20recovery%20protocol).
