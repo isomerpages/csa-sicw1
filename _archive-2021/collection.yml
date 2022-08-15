@@ -2,6 +2,7 @@ collections:
   archive-2021:
     output: true
     order:
+      - About SICW 2021.md
       - FAQ 2021.md
       - Privacy Policy 2021.md
       - Terms of Use 2021.md
