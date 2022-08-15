@@ -4,7 +4,6 @@ permalink: /events/19-October-2022/MRT
 description: ""
 third_nav_title: 19 October 2022
 ---
-
 #### **Ministerial Roundtable**
  
 **19 October 2022 (Wednesday)**  
@@ -17,7 +16,3 @@ Ministerial Roundtable - **“Cyber Resilience in the New Normal”**
 
 Ministerial Roundtable - **“Safeguarding a Shared Digital Future”** 
 <br>The increasing connectivity and the prevalence of digital has made digital, Internet and technology as ubiquitous as energy. Furthermore, considering Internet’s cross-boundary nature, some might liken Internet to the sea or the air. However, unlike traditional physical resources, the responsibilities of governing and securing the Internet are not clear.  What are the priority digital challenges that leaders should tackle at the highest level? What principles and practices can government and industry align on to build trust in the Internet? Should digital be considered a common need? How can the public and private sectors collaborate to secure the digital commons?".
-
-##### **Speakers**
-
-| [Mrs Josephine Teo](/speaker-josephine-teo)     | *Minister for Communications and Information, Minister-in-charge of Smart Nation and Cybersecurity*<br>Singapore      |
