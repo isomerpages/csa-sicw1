@@ -15,5 +15,4 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 2.30pm to 3.00pm           | [SG Cyber Safe Partnership Awards](/events/19-October-2022/SCDawards) |
 | 3.00pm – 4.00pm                | [SICW Conversations (Policy) Digital Infrastructure: Common Stakes](/events/19-October-2022/ConvoPolicy) |
 | 3.00pm – 6.00pm                | [IIOTSRT - Leadership Dialogue](/events/19-October-2022/IOT-LD) |
-| 2.00pm – 6.00pm                | [ASEAN - US Cyber Dialogue](/events/19-October-2022/AUCD)   |
 | 2.00pm to 6.00pm          | [US Chamber Of Commerce & Dinner](/events/19-October-2022/UCCD)   |
