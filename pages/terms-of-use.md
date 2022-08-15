@@ -2,11 +2,9 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-
-
 ### **Terms of Use**
 
-Thank you for visiting the Singapore International Cyber Week  website. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.
+Thank you for visiting the Singapore International Cyber Week website. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.
 
 #### General
 
@@ -24,24 +22,23 @@ Click [here](/privacy/) to review this website's Privacy Statement.
 
 Except as otherwise provided, the Contents of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of CSA.
 
-Modification of any of the Contents or use of the Contents for any other purpose will be a violation of CSA's copyright and other intellectual property rights. Graphics and images on this website, are protected by copyright and may not be reproduced or appropriated in any manner without written permission of CSA.
+Modification of any of the Contents or use of the Contents for any other purpose will be a violation of CSA’s copyright and other intellectual property rights. Graphics and images on this website, are protected by copyright and may not be reproduced or appropriated in any manner without written permission of CSA.
+
 
 #### Disclaimer
 
-The Contents of this website are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, CSA does not warrant and hereby disclaims any warranty:
+The Contents of this website are provided on an “as is” basis without warranties of any kind. To the fullest extent permitted by law, CSA does not warrant and hereby disclaims any warranty:
 
-1. as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this website;
-
-2. that the Contents available through this website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this website and the server is and will be free of all viruses and/or other harmful elements
-The shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the website, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the website.
+1.  as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this website;
+2.  that the Contents available through this website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this website and the server is and will be free of all viruses and/or other harmful elements. CSA shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the website, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the website.
 
 #### Right of Access
 
-CSA reserves all rights to deny or restrict access to this website to any particular person, or to block access from a particular Internet address to this website, at any time, without ascribing any reasons whatsoever.
+CSA reserves all rights to deny or restrict access to this website to any particular person or entity, or to block access from a particular Internet address to this website, at any time, without ascribing any reasons whatsoever.
 
 #### Links from this website to other websites
 
-This website contains hyperlinks to websites which are not maintained by CSA. CSA is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to hose websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
+This website contains hyperlinks to websites which are not maintained by CSA. CSA is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
 
 Hyperlinks to other websites are provided as a convenience. In no circumstances shall CSA be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this website is linked.
 
@@ -61,4 +58,4 @@ CSA reserves the right to disable any unauthorised links or frames and disclaims
 
 #### Governing Law
 
-These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore. Any claim relating to use of The Website shall be heard by Singapore Courts.
+These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore. Any claim relating to use of the website shall be heard by Singapore Courts.
