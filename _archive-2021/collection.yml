@@ -2,6 +2,7 @@ collections:
   archive-2021:
     output: true
     order:
+      - Privacy Policy 2021.md
       - Terms of Use 2021.md
       - speaker-huang-qiang.md
       - youth-moderator-pun-shu-fen.md
