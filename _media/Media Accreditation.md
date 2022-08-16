@@ -108,6 +108,7 @@ terms and conditions. If an applicant does not receive an email fifteen (15) wor
 days after registration, he/she is requested to contact the representatives stated
 below.
 <br>vi. Details for the collection of media passes are as follows:
+<br>
 <br>**18 - 20 OCTOBER 2022**
 <br>0830hrs – 1700hrs
 
