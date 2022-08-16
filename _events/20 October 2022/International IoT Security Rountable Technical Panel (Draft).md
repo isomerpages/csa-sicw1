@@ -11,4 +11,4 @@ third_nav_title: 20 October 2022
 
 *Format: Hybrid*
 
-The increasing proliferation of IoT in medical domain, has garnered strong interest to create a trusted IoT(MD) to ensure the safety of patients. What principles and practices can government and industry align on to build trust in ensuring secured IoT(MD)? Would CLS(MD) be considered to foster common efforts and a common need? How can the public and private sectors collaborate to secure the IoT(MD)? 
+The increasing proliferation of IoT in medical domain, has garnered strong interest to create a trusted IoT(Medical Device) to ensure the safety of patients. What principles and practices can government and industry align on to build trust in ensuring secured IoT(Medical Device)? Would CLS(Medical Device) be considered to foster common efforts and a common need? How can the public and private sectors collaborate to secure the IoT(Medical Device)?
