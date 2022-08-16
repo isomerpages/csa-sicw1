@@ -39,3 +39,51 @@ any media accreditation to representatives (press officers or otherwise) of spon
 suppliers and exhibitors.
 <br>v. It should be noted that no double accreditation is allowed (e.g. as media and as
 delegate).
+
+**2. Criteria for Accreditation**
+
+i. Applications **MUST** be made online. Accreditation will only be granted upon
+presentation of valid press credentials including:
+* Completed online accreditation application form.
+* Photocopy or a scanned copy of the MCI Press Accreditation Card (for
+Singapore-based media) **OR** official national press card(s) of the
+representative who will be covering SICW 2022 **OR** letter of assignment on
+the official letterhead of a media organisation signed by the Publisher,
+Assignment Editor, Editor-in-chief or Bureau Chief, specifying the name and
+functional title of the journalist, and stating their role at SICW 2022, **OR** links
+to three (3) most recently published posts (500 words or more) relating to the
+relevant areas of interest of the events
+* Professional blogs must be active in the most recent six (6) months, with a
+minimum of one (1) published post per month relating to the relevant areas of
+interest of the events
+* Information on the media outlet (such as website, circulation,
+readership/viewership, frequency, etc.) (only to be supplied on request)
+* An original copy of the publication (only to be supplied on request)
+<br>In addition, non-English publications must supply a certified English translation of the
+publications’ credits page.
+<br>ii. Freelance journalists/photographers MUST provide clear credentials that they are on
+assignment from a specific news organisation/publication. A valid assignment letter
+from that news organisation/publication is required. Submissions by freelance online
+journalists will be reviewed on a case-by-case basis.
+iii. Online media (including websites, photography sites and online forum pages) must
+meet the following requirements, in addition to those above:
+ The web publication must belong to a registered company, such as a media
+organisation, and have a specific, verifiable non-web address and telephone
+number.
+ The online journal requesting accreditation for its correspondent(s) must have
+a substantial amount of original and topical news content or commentary or
+analysis on international issues.
+ If the website is new, the applicant seeking accreditation must provide the
+latest data on the site&#39;s visitorship or other relevant material (press citations,
+etc.) about the outlet&#39;s audience. The applicant must have an established
+record of having written extensively on international issues and must present
+copies of three recently published articles, not more than six months old, with
+his/her byline.
+ Please note that online publications that are intended for the communications
+outreach or advocacy of non-governmental or non-profit organisations do not
+qualify for media accreditation.
+
+iv. All applications must be received via the Singapore International Cyber Week 2022
+online accreditation portal before the closing date and time, 1200hrs (GMT +8), 11
+October 2022. Late applications will not be entertained. The organiser reserves the
+right to reject any incomplete application.
