@@ -115,3 +115,14 @@ VENUE
 <br>Casablanca Room, Level 3
 <br>Sands Expo and Convention Centre
 <br>10 Bayfront Ave, Singapore 018956
+
+vii. The representative(s) must produce the email confirmation as well as two copies of
+his/her name cards when collecting the media badge at the event. **NO MEDIA PASS
+WILL BE ISSUED WITHOUT PROPER DOCUMENTATION**.
+
+viii. Accreditation does not guarantee journalists and photographers access to all media
+events/press conferences. Journalists and photographers should refer to the press kit
+for more details.
+
+ix. The media pass is **NON-TRANSFERABLE**. It may only be used by the person
+whose name and publication name appear on the badge.
