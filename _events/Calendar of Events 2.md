@@ -26,9 +26,4 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 6.00pm           | [ASEAN Cybercrime Prosecutors' Roundtable Meeting](/events/20-October-2022/ACPRM)                                                         |
 | 2.00pm to 4.00pm               | [OT Conversation](/events/20-October-2022/OTC)                                                  |
 | 11.00am to 12.00pm               | [SG Cyber Safe for Enterprises Panel Discussion](/events/sg-cyber-safe-enterprises)                                                 |
-| 3.00pm to 5.00pm                 | [International IoT Security Roundtable - Technical Panel](/events/iot2)                                                          |
-| 8.00pm to 9.30pm              | [Ministerial Roundtable Closing Session](/events/ministerial-roundtable-closing)                                    |
-| 9.45pm to 10.45pm          | [SICW Conversations (Policy)](/events/sicw-conversation-policy)                                                                     |
-| <br> **8 October 2021** *(Friday)*    |                                                                                                |
-| 9.00am to 11.00am                | [2nd ASEAN-US Cyber Policy Dialogue](/events/2nd-asean-us-cyber-policy-dialogue)                                                                                 |
-| 8.00pm to 10.00pm                | [SICW Women in Cyber: Women X Leaders X Youth](/events/women-in-cyber)                                                                                 |
+| 3.00pm to 5.00pm                 | [Women in Cyber](/events/20-October-2022/WIC)                                                          |
