@@ -6,6 +6,7 @@ description: ""
 ### **Media Accreditation**
 
 **1.1 Media Accreditation Guidelines**
+
 The media accreditation principles below are intended to give the media as much access as
 possible while ensuring the safety, security and comfort of all participants of the **Singapore
 International Cyber Week 2022 (SICW 2022)**.
@@ -90,3 +91,27 @@ online accreditation portal before the closing date and time, **1200hrs (GMT +8
 October 2022**. Late applications will not be entertained. The organiser reserves the
 right to reject any incomplete application.
 
+**3. Accreditation Procedures and Access**
+
+i. An auto-generated email acknowledgement will be sent to applicants upon
+submission of the online accreditation form.
+<br>ii. Each application will take up to ten (10) working days to process.
+<br>iii. If any change of representative(s) is(are) to be made, please notify the organiser as
+soon as possible. Any name changes after the stipulated deadline of **1200hrs (GMT
++8), 11 October 2022** may be rejected.
+<br>iv. If the representative(s) is(are) not able to attend the event, the organiser must be
+notified as early as possible. Failure to inform the organisers of non-attendance may
+result in future accreditation requests being refused.
+<br>v. All successful applicants will be issued an email confirmation with accompanying
+terms and conditions. If an applicant does not receive an email fifteen (15) working
+days after registration, he/she is requested to contact the representatives stated
+below.
+<br>vi. Details for the collection of media passes are as follows:
+<br>**18-20 OCTOBER 2022**
+<br>0830hrs – 1700hrs
+
+VENUE
+<br>Media Centre
+<br>Casablanca Room, Level 3
+<br>Sands Expo and Convention Centre
+<br>10 Bayfront Ave, Singapore 018956
