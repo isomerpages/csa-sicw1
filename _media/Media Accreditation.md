@@ -155,4 +155,4 @@ not be admitted to the events.
 <br>**Maxine Tan**
 <br>Hill+Knowlton Strategies
 <br>Contact: +65 8182 0955
-<br>Email: SICW2022media@hkstrategies.com
+<br>Email: [SICW2022media@hkstrategies.com](mailto:SICW2022media@hkstrategies.com)
