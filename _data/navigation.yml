@@ -6,8 +6,6 @@ links:
     collection: events
   - title: Media
     collection: media
-  - title: Media 2021
-    collection: media-2021
   - title: Resources
     resource_room: true
   - title: Contact
