@@ -126,3 +126,33 @@ for more details.
 
 ix. The media pass is **NON-TRANSFERABLE**. It may only be used by the person
 whose name and publication name appear on the badge.
+
+**4. Media Centre**
+
+i. There will be a Media Centre located at Sands Expo and Convention Centre, Level 3,
+Casablanca Room, with free Internet access.
+<br>ii. Limited workstations will be available on a first-come-first-served basis to the media
+in the Media Centre.
+<br>iii. A confirmed schedule of events will be available in the press kit, which will be
+provided to all accredited journalists.
+<br>iv. Please note that the media centre will be open from **18-20 October 2022, 0830 to
+1800hrs.**
+
+**5. Note to Photographers**
+<br>There will be no photo studio or technical assistance lab in the Media Centre.
+
+**6. Note to Broadcasters**
+<br>There will not be an International Broadcast Centre at SICW 2022, but broadcast crew can
+reach out to request for facilitation of audio press box feed at the onsite studio, which will
+provide both floor language and English audio feeds.
+
+**7. Dress Code**
+<br>The dress code is formal or smart casual business attire. Accredited media wearing
+inappropriate clothing, e.g. shorts, t-shirts, bermudas, three-quarter pants, and flip flops, will
+not be admitted to the events.
+
+**8. For further queries, please contact:**
+<br>**Maxine Tan**
+<br>Hill+Knowlton Strategies
+<br>Contact: +65 8182 0955
+<br>Email: SICW2022media@hkstrategies.com
