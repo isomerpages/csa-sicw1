@@ -4,8 +4,7 @@ permalink: /events/19-October-2022/SCDawards
 description: ""
 third_nav_title: 19 October 2022
 ---
-
-#### ** SG Cyber Safe Partnership Awards **
+#### **SG Cyber Safe Partnership Awards**
  
 **19 October 2022 (Wednesday)**  
 *2.30pm – 3.00pm (GMT +8)*
