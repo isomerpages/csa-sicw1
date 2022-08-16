@@ -7,12 +7,7 @@ permalink: /faq
 #### **General**
 
 **1.	What is SICW?**
-<br>The Singapore International Cyber Week (SICW) is Asia-Pacific’s most established cybersecurity event since its inception in 2016. Click [About SICW](/about-SICW) for more information.
-
-SICW 2022 continues the momentum of conversations through the theme of strengthening multi-stakeholder partnerships and collaboration to address the evolving threat landscape, as well as consider these new dilemmas borne out of the volatile geopolitical landscape, and explore ways to navigate new power relations between State and non-state actors. 
-
-Top policy makers, industry leaders and domain experts from ASEAN and across the world will be invited to discuss on key areas of cybersecurity based on the theme, including emerging digital opportunities and threats, evolution of cyberspace and cybersecurity policies, implementation of cyber norms, Internet of Things (IoT) and Operational Technology (OT) security, and coordinated cyber capacity-building.   
-
+<br>The Singapore International Cyber Week (SICW) is Asia-Pacific’s most established cybersecurity event since its inception in 2016. Click [About SICW](/about-sicw) for more information.
 
 **2.	When and where will SICW 2022 take place?**
 <br>SICW 2022 will take place from 18 to 20 October at Sands Expo and Convention Centre, Singapore.
@@ -35,9 +30,6 @@ Find out more on the full vaccination requirements [here](https://www.ica.gov.sg
 
 **8. What is the dress code for the event?**
 <br>The dress code for the SICW 2022 is business attire.
-
-**9. Who can I contact for more information?**
-<br>You may email <a href="mailto:enquiries@govware.sg ">enquiries@govware.sg </a> for more details.
 
 #### **Safe Management Measures (SMM)**
 
