@@ -4,7 +4,7 @@ permalink: /events/20-October-2022/IISR-TP
 description: ""
 third_nav_title: 20 October 2022
 ---
-#### **International IoT Security Rountable - Technical Panel**
+#### **International IoT Security Roundtable - Technical Panel**
 
 **20 October 2022 (Thursday)**  
 *9.00am – 11.00am (GMT +8)*
