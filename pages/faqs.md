@@ -7,7 +7,7 @@ permalink: /faq
 #### **General**
 
 **1.	What is SICW?**
-<br>The Singapore International Cyber Week (SICW) is Asia-Pacific’s most established cybersecurity event since its inception in 2016. 
+<br>The Singapore International Cyber Week (SICW) is Asia-Pacific’s most established cybersecurity event since its inception in 2016. Click [About SICW](/about-SICW) for more information.
 
 SICW 2022 continues the momentum of conversations through the theme of strengthening multi-stakeholder partnerships and collaboration to address the evolving threat landscape, as well as consider these new dilemmas borne out of the volatile geopolitical landscape, and explore ways to navigate new power relations between State and non-state actors. 
 
