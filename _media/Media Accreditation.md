@@ -23,23 +23,24 @@ Please contact [**Maxine.Tan@hkstrategies.com**](mailto:Maxine.Tan@hkstrategies.
 Editors of publications and media agencies are requested to take note of the following
 principles to ensure that media accreditation is restricted to professional journalists,
 photographers and bloggers:
-<br>i. The organiser considers the Media Pass to be a working tool to be used only by bona
+<br><br>i. The organiser considers the Media Pass to be a working tool to be used only by bona
 fide members of the press. Marketing personnel, sub-editors, staff of the publication’s
 secretariat, etc. cannot be accredited as media.
-<br>ii. The organiser will only accredit publications, agencies, and professional bloggers:
+<br><br>ii. The organiser will only accredit publications, agencies, and professional bloggers:
 * With a circulation size and quality that fulfil the criteria of the organiser
 * With a format and quality that fulfil the criteria of the organiser
 * With a sizeable following and sphere of influence, areas of interest and quality
 that fulfil the criteria of the organiser
+
 <br>iii. Internal company publications cannot be accredited as media. However, at the sole
 discretion of the organiser, and where the quality and circulation criteria justify the
 organiser’s consideration, such publications may be eligible for accreditation on a
 case-by-case basis.
-<br>iv. Under no circumstance will advertising and public relations agencies (or similar
+<br><br>iv. Under no circumstance will advertising and public relations agencies (or similar
 companies and organisations) be accredited as media, nor will the organiser issue
 any media accreditation to representatives (press officers or otherwise) of sponsors,
 suppliers and exhibitors.
-<br>v. It should be noted that no double accreditation is allowed (e.g. as media and as
+<br><br>v. It should be noted that no double accreditation is allowed (e.g. as media and as
 delegate).
 
 **2. Criteria for Accreditation**
@@ -61,7 +62,8 @@ interest of the events
 * Information on the media outlet (such as website, circulation,
 readership/viewership, frequency, etc.) (only to be supplied on request)
 * An original copy of the publication (only to be supplied on request)
-<br>In addition, non-English publications must supply a certified English translation of the
+
+In addition, non-English publications must supply a certified English translation of the
 publications’ credits page.
 
 ii. Freelance journalists/photographers **MUST** provide clear credentials that they are on
@@ -96,18 +98,18 @@ right to reject any incomplete application.
 
 i. An auto-generated email acknowledgement will be sent to applicants upon
 submission of the online accreditation form.
-<br>ii. Each application will take up to ten (10) working days to process.
-<br>iii. If any change of representative(s) is(are) to be made, please notify the organiser as
+<br><br>ii. Each application will take up to ten (10) working days to process.
+<br><br>iii. If any change of representative(s) is(are) to be made, please notify the organiser as
 soon as possible. Any name changes after the stipulated deadline of **1200hrs (GMT
 +8), 11 October 2022** may be rejected.
-<br>iv. If the representative(s) is(are) not able to attend the event, the organiser must be
+<br><br>iv. If the representative(s) is(are) not able to attend the event, the organiser must be
 notified as early as possible. Failure to inform the organisers of non-attendance may
 result in future accreditation requests being refused.
-<br>v. All successful applicants will be issued an email confirmation with accompanying
+<br><br>v. All successful applicants will be issued an email confirmation with accompanying
 terms and conditions. If an applicant does not receive an email fifteen (15) working
 days after registration, he/she is requested to contact the representatives stated
 below.
-<br>vi. Details for the collection of media passes are as follows:
+<br><br>vi. Details for the collection of media passes are as follows:
 <br>
 <br>**18 - 20 OCTOBER 2022**
 <br>0830hrs – 1700hrs
@@ -133,11 +135,11 @@ whose name and publication name appear on the badge.
 
 i. There will be a Media Centre located at Sands Expo and Convention Centre, Level 3,
 Casablanca Room, with free Internet access.
-<br>ii. Limited workstations will be available on a first-come-first-served basis to the media
+<br><br>ii. Limited workstations will be available on a first-come-first-served basis to the media
 in the Media Centre.
-<br>iii. A confirmed schedule of events will be available in the press kit, which will be
+<br><br>iii. A confirmed schedule of events will be available in the press kit, which will be
 provided to all accredited journalists.
-<br>iv. Please note that the media centre will be open from **18-20 October 2022, 0830 to
+<br><br>iv. Please note that the media centre will be open from **18-20 October 2022, 0830 to
 1800hrs.**
 
 **5. Note to Photographers**
