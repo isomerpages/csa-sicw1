@@ -7,7 +7,7 @@ third_nav_title: 20 October 2022
 #### **ASEAN Ministerial Conference on Cybersecurity**
 
 **20 October 2022 (Thursday)**  
-*9.00am – 12.30pm (GMT +8)*
+*8.30am – 12.45pm (GMT +8)*
 
 *Format: Hybrid*
 
