@@ -5,8 +5,7 @@ date: 2021-10-06
 layout: post
 description: ""
 ---
-
-#### **SICW 2020 Opening Ceremony**
+#### **SICW 2021 - ASEAN Ministerial Conference on Cybersecurity (AMCC) Opening Ceremony**
 
 Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity, Mrs Josephine Teo, delivered the Opening Address at the 6th ASEAN Ministerial Conference on Cybersecurity (AMCC) and officiated the opening of the ASEAN-Singapore Cybersecurity Centre of Excellence (ASCCE) campus together with ASEAN Ministers.
 
