@@ -19,6 +19,7 @@ approval of the organisers.
 Please contact [**Maxine.Tan@hkstrategies.com**](mailto:Maxine.Tan@hkstrategies.com) for online application access.
 
 **1.2 Accreditation Principles**
+
 Editors of publications and media agencies are requested to take note of the following
 principles to ensure that media accreditation is restricted to professional journalists,
 photographers and bloggers:
@@ -107,10 +108,10 @@ terms and conditions. If an applicant does not receive an email fifteen (15) wor
 days after registration, he/she is requested to contact the representatives stated
 below.
 <br>vi. Details for the collection of media passes are as follows:
-<br>**18-20 OCTOBER 2022**
+<br>**18 - 20 OCTOBER 2022**
 <br>0830hrs – 1700hrs
 
-VENUE
+**VENUE**
 <br>Media Centre
 <br>Casablanca Room, Level 3
 <br>Sands Expo and Convention Centre
