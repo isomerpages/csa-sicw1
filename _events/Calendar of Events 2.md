@@ -24,5 +24,4 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 11.00am                | [International IoT Security Roundtable - Technical Panel](/events/20-October-2022/IISR-TP)                               |
 | 9.00am to 6.00pm           | [ASEAN Cybercrime Prosecutors' Roundtable Meeting](/events/20-October-2022/ACPRM)                                                         |
 | 2.00pm to 4.00pm               | [OT Conversation](/events/20-October-2022/OTC)                                                  |
-| 11.00am to 12.00pm               | [SG Cyber Safe for Enterprises Panel Discussion](/events/sg-cyber-safe-enterprises)                                                 |
 | 3.00pm to 5.00pm                 | [Women in Cyber](/events/20-October-2022/WIC)                                                          |
