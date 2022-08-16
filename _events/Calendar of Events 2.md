@@ -20,8 +20,8 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 1.30pm to 2.15pm           | [SG Cyber Safe for Enterprises Dialogue](/events/19-October-2022/SCD)                                                                 |
 | 2.30pm – 3.00pm                | [SG Cyber Safe Partnership Awards](/events/19-October-2022/SCDawards)                                                          |
 | 3.00pm – 6.00pm                | [IOTSRT - Leadership Dialogue](/events/19-October-2022/IOT-LD)                                                          |
-| <br> **7 October 2021** *(Thursday)*  |                                                                                                |
-| 9.00am to 11.30am             | [Global Forum on Cyber Expertise (GFCE) Southeast Asia Regional   Meeting](/events/gfce)                       |
+| <br> **20 October 2022** *(Thursday)*  |                                                                                                |
+| 8.30am to 12.45pm             | [ASEAN Ministerial Conference on Cybersecurity](/events/20-October-2022/AMCC)                       |
 | 9.00am to 12.00pm                | [Operational Technology (OT) Cybersecurity Forum – Professional Roles and Competencies](/events/ot-cybersecurity)                               |
 | 9.30am to 5.00pm           | [GovWare Conference 2021](/events/govware3)                                                         |
 | 10.30am to 11.00am               | [Launch of SG Cyber Safe Partnership Programme](/events/launch-of-sg-cyber-safe)                                                  |
