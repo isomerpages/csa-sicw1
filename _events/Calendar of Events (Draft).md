@@ -5,7 +5,7 @@ description: ""
 ---
 #### **Overview**
 
-Singapore International Cyber Week 2022 is taking place from 18 to 20 October 2022 as a combination of inter-linked physical and virtual meetings. To find out more about each event, click on the links below.
+Singapore International Cyber Week 2022 is taking place from 18 to 20 October 2022 as a combination of inter-linked hybrid and physical events. To find out more about each event, click on the links below.
 
 Event dates and timings below are in Singapore time (GMT +8). 
 
