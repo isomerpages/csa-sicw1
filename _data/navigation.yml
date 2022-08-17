@@ -2,10 +2,10 @@ logo: /images/logo_sicw.png
 links:
   - title: About SICW
     url: /about-sicw
-  - title: Plan Your Visit
-    collection: plan-your-visit
   - title: Events
     collection: events
+  - title: Plan Your Visit
+    collection: plan-your-visit
   - title: Media
     collection: media
   - title: Resources
