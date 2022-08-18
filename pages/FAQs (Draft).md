@@ -41,4 +41,4 @@ Find out more on the full vaccination requirements here<a href="https://www.ica.
 <br>In line with the Singapore government’s advisory, a mask must be worn at all times throughout the event.
 
 **3. What should I do if I tested positive for COVID-19?**
-<br>Travellers who test positive for COVID-19 may be placed on a recovery protocol and should follow the protocols for the recovery procedure assigned to them. More information on the protocol can be found here<a href="https://www.visitsingapore.com/travel-requirements/health-protocol/#:~:text=Travellers%20who%20test%20positive%20for,discharge%20from%20the%20recovery%20protocol" target="_blank"></a>. 
+<br>Travellers who test positive for COVID-19 may be placed on a recovery protocol and should follow the protocols for the recovery procedure assigned to them. More information on the protocol can be found here<a href="https://www.visitsingapore.com/travel-requirements/health-protocol/" target="_blank"></a>.
