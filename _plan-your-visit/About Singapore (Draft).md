@@ -5,7 +5,8 @@ description: ""
 ---
 #### **About Singapore**
 
-Singapore is a sunny, tropical island in South-east Asia, off the southern tip of the Malay Peninsula. The city-state is 710 square kilometres and inhabited by five million people from four major communities; Chinese (majority), Malay, Indian and Eurasian. Since its independence in 9 August 1965, the country has adopted a parliamentary democracy system.  Currently, the government and the [cabinet](https://www.pmo.gov.sg/the-cabinet) are led by Prime Minister, Lee Hsien Loong while President Halimah Yacob is the Head of State.
+Singapore is a sunny, tropical island in South-east Asia, off the southern tip of the Malay Peninsula. The city-state is 710 square kilometres and inhabited by five million people from four major communities; Chinese (majority), Malay, Indian and Eurasian. Since its independence in 9 August 1965, the country has adopted a parliamentary democracy system.  Currently, the government and the cabinet<a href="https://www.pmo.gov.sg/the-cabinet" target="_blank"></a>
+are led by Prime Minister, Lee Hsien Loong while President Halimah Yacob is the Head of State.
 
 Ideally positioned in South-east Asia, where the rest of the region is just a hop, skip and jump away, Singapore is a thriving metropolis offering a world-class infrastructure, a fully integrated island-wide transport network, dynamic business environment, vibrant living spaces and a rich culture largely influenced by the four major communities in Singapore with each offering different perspective of life in Singapore in terms of culture, religion, food, language and history.
 
