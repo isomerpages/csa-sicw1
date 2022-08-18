@@ -11,4 +11,4 @@ While the Government takes a key role in leading cybersecurity efforts, cybersec
 
 The SG Cyber Safe Partnership Programme encourages industry to partner with CSA to raise the cybersecurity posture of local businesses, individuals and the community.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sgdPEi-fZy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="445" src="https://www.youtube.com/embed/sgdPEi-fZy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
