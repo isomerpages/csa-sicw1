@@ -11,4 +11,4 @@ Minister for Communications and Information and Minister-in-charge of Smart Nati
 
 The 6th AMCC Main and Special Sessions were ministerial-level dialogues that brought together ASEAN Information and Communications Technology (ICT) and Cybersecurity Ministers as well as ASEAN Dialogue Partners, to discuss key cyber issues in the region and means to enhance regional cybersecurity cooperation.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hhlBzih0Rew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="445" src="https://www.youtube.com/embed/hhlBzih0Rew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
