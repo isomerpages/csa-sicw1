@@ -13,6 +13,4 @@ One of the reasons that Singapore proves to be such an attraction as a home is t
 
 So whether it's the arts and cultural exchanges, the creation of cutting-edge innovation to enrich the lives of the communities at home or abroad, or the coming together of world-class minds to spark new business opportunities locally and internationally, Singapore is simply, the place where worlds meet.
 
-Source: *[Ministry of Foreign Affairs, Singapore](https://www.mfa.gov.sg/Overseas-Mission/Xiamen/About-Singapore <target=_blank")* <a href="https://www.mfa.gov.sg/Overseas-Mission/Xiamen/About-Singapore" target="_blank">
-	
-	<a href="https://www.mfa.gov.sg/Overseas-Mission/Xiamen/About-Singapore" target="_blank"><p>Ministry of Foreign Affairs, Singapore<p></a> 
+Source: *Ministry of Foreign Affairs, Singapore* <a href="https://www.mfa.gov.sg/Overseas-Mission/Xiamen/About-Singapore" target="_blank">
