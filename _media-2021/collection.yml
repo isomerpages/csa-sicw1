@@ -1,6 +1,0 @@
-collections:
-  media-2021:
-    output: true
-    order:
-      - media-accreditation.md
-      - social-media-toolkit.md
