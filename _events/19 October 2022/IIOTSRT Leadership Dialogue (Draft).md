@@ -4,7 +4,7 @@ permalink: /events/19-October-2022/IOT-LD
 description: ""
 third_nav_title: 19 October 2022
 ---
-#### **IIOTSRT Leadership Dialogue**
+#### **International IoT Security Roundtable - Leadership Dialogue**
  
 **19 October 2022 (Wednesday)**  
 *3.00pm – 6.00pm (GMT +8)*
