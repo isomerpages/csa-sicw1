@@ -4,6 +4,8 @@ links:
     url: /about-sicw
   - title: Events
     collection: events
+  - title: Plan Your Visit
+    collection: plan-your-visit
   - title: Media
     collection: media
   - title: Resources
@@ -15,5 +17,3 @@ links:
         url: /contact-us
       - title: FAQs
         url: /faq
-  - title: Registration
-    url: /registration

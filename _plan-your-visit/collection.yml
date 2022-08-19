@@ -1,0 +1,9 @@
+collections:
+  plan-your-visit:
+    output: true
+    order:
+      - About Singapore.md
+      - Entry Requirements for Singapore and Singapore International Cyber Week
+        2022.md
+      - Getting to Singapore International Cyber Week 2022.md
+      - Discovering Singapore.md
