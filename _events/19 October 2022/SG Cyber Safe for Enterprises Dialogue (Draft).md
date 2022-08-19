@@ -4,14 +4,12 @@ permalink: /events/19-October-2022/sgcs
 description: ""
 third_nav_title: 19 October 2022
 ---
-
-
 #### **SG Cyber Safe for Enterprises Dialogue**
  
 **19 October 2022 (Wednesday)**  
 *1.30pm – 2.15pm (GMT +8)*
 
-*Format: Virtual*
+*Format: Physical (by invitation only) + Livestreaming*
 
 Employees tend to be the weakest link in an organisation’s security, as attackers continually evolve and advance the sophistication of social engineering attacks. For this reason, the human factor remains a critical issue in creating a secure digital environment. 
 
