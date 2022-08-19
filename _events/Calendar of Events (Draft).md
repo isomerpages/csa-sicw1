@@ -16,8 +16,8 @@ Event dates and timings below are in Singapore time (GMT +8).
 | <br> **19 October 2022** *(Wednesday)* |                                                                                                |
 | 9.00am to 9.30am           | [SICW Opening Ceremony](/events/19-October-2022/OC)                                                         |
 | 9.30am to 12.00pm           | [Ministerial Roundtable](/events/19-October-2022/minrt) |
-| 1.30pm to 2.15pm           | [SG Cyber Safe for Enterprises Dialogue](/events/19-October-2022/SCD)                                                                 |
-| 2.30pm to 3.00pm                | [SG Cyber Safe Partnership Awards](/events/19-October-2022/SCDawards)                                                          |
+| 1.30pm to 2.15pm           | [SG Cyber Safe for Enterprises Dialogue](/events/19-October-2022/sgcs)                                                                 |
+| 2.30pm to 3.00pm                | [SG Cyber Safe Partnership Awards](/events/19-October-2022/sgcsawards)                                                          |
 | 3.00pm to 6.00pm                | [International IoT Security Roundtable - Leadership Dialogue](/events/19-October-2022/IOT-LD)                                                          |
 | <br> **20 October 2022** *(Thursday)*  |                                                                                                |
 | 8.30am to 12.45pm             | [ASEAN Ministerial Conference on Cybersecurity](/events/20-October-2022/AMCC)                       |
