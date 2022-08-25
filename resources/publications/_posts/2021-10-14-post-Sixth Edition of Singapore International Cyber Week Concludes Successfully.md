@@ -1,10 +1,11 @@
 ---
-title: Sixth Edition of Singapore International Cyberweek Concludes Successfully
+title: Sixth Edition of Singapore International Cyber Week Concludes Successfully
 permalink: /resources/publications/sixth-edition-of-sicw
 date: 2021-10-14
 layout: post
 description: ""
 ---
+
 #### **Sixth Edition of Singapore International Cyber Week Concludes Successfully With Affirmative Message of Collaboration And Cooperation To Secure Cyberspace**
 
 The sixth edition of the Singapore International Cyber Week (SICW) concluded on 8 October 2021 with nearly 2,000 local and international attendees participating in this year’s hybrid event. With more than a dozen events covering a myriad of topics ranging from technology to operations to policy, SICW 2021 attracted a diverse audience mix of government officials, industry representatives, academics and cybersecurity professionals.
