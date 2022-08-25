@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/SICW 2022 Website Hero Banner.png
+      background: /images/SICW 2022 Website Hero Banner 2.png
   - infobar:
       title: SICW
       subtitle: About
@@ -52,6 +52,3 @@ sections:
       subtitle: Explore
       button: See All
 ---
-
-
-
