@@ -15,7 +15,6 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 11.00am to 12.00pm           | [SICW Sessions: Collective Insights on Cyber-Attacks](/events/20-October-2022/collective-insight-on-cyber-attacks/)     |
 | 1.00pm to 2.00pm           | [SICW Sessions: Internet or Splinternet - Implications on Securing the Digital Future](/events/20-October-2022/internet-or-splinternet/)     |
 | 1.30pm to 2.00pm                | [SG Cyber Safe Partnership Appreciation](/events/20-October-2022/sgcs-partnership-appreciation/)                               |
-| 1.30pm to 2.00pm                | [SG Cyber Safe Partnership Appreciation](/events/20-October-2022/sgcs-partnership-appreciation/)                               |
 | 2.00pm to 3.00pm                | [SG Cyber Safe for Enterprises Dialogue - The Human Factor: The Achilles’ Heel in Digital Security](/events/20-October-2022/sgcs-enterprises-dialogue/)                               |
 | 2.00pm to 3.00pm           | [International IoT Security Roundtable - Technical Panel](/events/20-October-2022/IIOTSRT-technical-panel)     |
 | 2.00pm to 3.00pm              | [SICW Sessions: Digital Infrastructure - Common Stakes](/events/20-October-2022/digital-infrastructure/)                                    |
