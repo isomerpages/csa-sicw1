@@ -1,9 +1,8 @@
 ---
 title: FAQs
-permalink: /faq
+permalink: /faq/
 description: ""
 ---
-
 ### **FAQs**
 
 #### **General**
@@ -36,7 +35,7 @@ Find out more on the full vaccination requirements here<a href="https://www.ica.
 #### **Safe Management Measures (SMM)**
 
 **1.	What safe management measures will be taken for SICW 2022?**
-<br>SICW 2022 adheres to the prevailing national guidelines and safety considerations set by the Singapore Tourism Board (STB). The Event Organisers are working closely with the Venue and STB to ensure a safe and clean environment for all attendees and staff. For more information of the most updated SMM guidelines, please refer here<a href="https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html#MICE" target="_blank"></a>. 
+<br>SICW 2022 adheres to the prevailing national guidelines and safety considerations set by the Singapore Tourism Board (STB). The Event Organisers are working closely with the Venue and STB to ensure a safe and clean environment for all attendees and staff. For more information of the most updated SMM guidelines, please refer here<a href="https://www.stb.gov.sg/content/stb/en/home-pages/advisory-on-covid-19.html" target="_blank"></a>. 
 
 **2. Am I required to wear a mask throughout the event?**
 <br>In line with the Singapore government’s advisory, a mask must be worn at all times throughout the event.

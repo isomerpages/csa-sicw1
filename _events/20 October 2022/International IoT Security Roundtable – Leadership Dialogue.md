@@ -1,16 +1,13 @@
 ---
-title: International IoT Security Roundtable Leadership Dialogue
-permalink: /events/19-October-2022/IIOTSRT-leadership-dialogue
+title: International IoT Security Roundtable – Leadership Dialogue
+permalink: /events/20-October-2022/IIOTSRT-leadership-dialogue/
 description: ""
-third_nav_title: 19 October 2022
+third_nav_title: 20 October 2022
 ---
-
-
-
 #### **International IoT Security Roundtable - Leadership Dialogue**
  
-**19 October 2022 (Wednesday)**  
-*3.00pm – 6.00pm (GMT +8)*
+**20 October 2022 (Thursday)**  
+*10.00am – 1.00pm (GMT +8)*
 
 *Format: Hybrid*
 
