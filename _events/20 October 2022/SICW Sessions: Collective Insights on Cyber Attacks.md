@@ -4,8 +4,6 @@ permalink: /events/20-October-2022/collective-insight-on-cyber-attacks/
 description: ""
 third_nav_title: 20 October 2022
 ---
-
-
 #### **SICW Sessions: Collective Insights on Cyber-Attacks**
 
 **20 October 2022 (Thursday)**  
@@ -17,4 +15,4 @@ Recent geopolitical conflicts around the globe has demonstrated how cyber-attack
 
 This session aims to touch on how government and organisations can work together by exchanging early warnings & intelligence to provide increased visibility into the most pressing cyber threats worldwide. Turning collective insights into risk-informed action.
 
-***For best viewing, please visit SICW website on desktop mode.**
+***Visit SICW desktop site for an optimised user experience.**
