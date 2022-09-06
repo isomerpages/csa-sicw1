@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 20 October 2022/GovWare Conference and Exhibition 2022.md
       - 20 October 2022/ASEAN Ministerial Conference on Cybersecurity.md
       - 20 October 2022/ASEAN Cybercrime Prosecutors' Roundtable Meeting.md
       - 20 October 2022/International IoT Security Roundtable – Leadership
