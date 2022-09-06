@@ -10,6 +10,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 
 |**20 October 2022** *(Thursday)*  |                                                                                                |
 | 8.30am to 12.45pm             | [ASEAN Ministerial Conference on Cybersecurity](/events/20-October-2022/amcc)   |
+| 9.00am to 5.00pm           | [GovWare Conference and Exhibition 2022](/events/20-October-2022/GovWare-conference-and-exhibition/)                               |
 | 9.00am to 6.00pm                | [ASEAN Cybercrime Prosecutors' Roundtable Meeting](/events/20-October-2022/acprm)                               |
 | 10.00am to 1.00pm                | [International IoT Security Roundtable - Leadership Dialogue](/events/20-October-2022/IIOTSRT-leadership-dialogue/)                               |
 | 11.00am to 12.00pm           | [SICW Sessions: Collective Insights on Cyber-Attacks](/events/20-October-2022/collective-insight-on-cyber-attacks/)     |
