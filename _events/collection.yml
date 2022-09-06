@@ -2,11 +2,11 @@ collections:
   events:
     output: true
     order:
+      - 19 October 2022/.keep
+      - 19 October 2022/List of Events.md
+      - 19 October 2022/SICW Opening Ceremony.md
+      - 19 October 2022/GovWare Conference and Exhibition 2022.md
+      - 19 October 2022/Ministerial Roundtable.md
       - "19 October 2022/SICW Sessions: Digital Infrastructure – Common
         Stakes.md"
-      - 19 October 2022/Ministerial Roundtable.md
-      - 19 October 2022/GovWare Conference and Exhibition 2022.md
-      - 19 October 2022/SICW Opening Ceremony.md
-      - 19 October 2022/List of Events.md
-      - 19 October 2022/.keep
       - 18 October 2022/.keep
