@@ -2,7 +2,6 @@ collections:
   events-old:
     output: true
     order:
-      - Calendar of Events.md
       - 18 October 2022/.keep
       - 18 October 2022/List of Events.md
       - 18 October 2022/GovWare Conference and Exhibition 2022.md
