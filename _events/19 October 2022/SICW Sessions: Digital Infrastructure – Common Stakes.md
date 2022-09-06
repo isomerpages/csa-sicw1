@@ -4,8 +4,7 @@ permalink: /events/19-October-2022/digital-infrastructure/
 description: ""
 third_nav_title: 19 October 2022
 ---
-
-#### **SICW Sessions: Digital Infrastructure | Common Stakes**
+#### **SICW Sessions: Digital Infrastructure – Common Stakes**
 
 **19 October 2022 (Wednesday)**  
 *2.00pm – 3.00pm (GMT +8)*
