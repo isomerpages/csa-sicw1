@@ -5,10 +5,7 @@ permalink: /events/20-October-2022/internet-or-splinternet/
 description: ""
 third_nav_title: 20 October 2022
 ---
-
-
-
-#### **SICW Sessions: Internet or Splinternet | Implications on Securing the Digital Future**
+#### **SICW Sessions: Internet or Splinternet – Implications on Securing the Digital Future**
 
 **20 October 2022 (Thursday)**  
 *1.00pm – 2.00pm (GMT +8)*
