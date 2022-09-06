@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 20 October 2022/SICW Women in Cyber.md
       - 20 October 2022/.keep
       - 19 October 2022/.keep
       - 19 October 2022/List of Events.md
