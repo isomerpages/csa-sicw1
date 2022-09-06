@@ -3,7 +3,6 @@ title: Calendar of Events
 permalink: /events/calendar-of-events/
 description: ""
 ---
-
 #### **Overview**
 
 Singapore International Cyber Week 2022 is taking place from 18 to 20 October 2022 as a combination of inter-linked hybrid and physical events. To find out more about each event, click on the links below.
@@ -13,6 +12,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | <br> **18 October 2022** *(Tuesday)* |                                                                                                |
 | 2.00pm to 4.00pm           | [Cyber Supply Chain](/events/18-October-2022/cyber-supply-chain)                                                         |
 | 2.00pm to 5.00pm           | [GFCE Southeast Asia Regional Meeting](/events/18-October-2022/gfce)                                                         |
+| 3.00pm to 4.00pm           | [SICW Sessions: Tackling the Ransomware Scourge - Global Cooperation for a Transboundary Issue](/events/18-October-2022/tackling-the-ransomware-scourge/)                               |
 | 6.00pm to 9.30pm           | [SICW Summit](/events/18-October-2022/sicw-summit)                                                         |
 | <br> **19 October 2022** *(Wednesday)* |                                                                                                |
 | 9.00am to 9.30am           | [SICW Opening Ceremony](/events/19-October-2022/sicw-opening-ceremony)                                                         |
