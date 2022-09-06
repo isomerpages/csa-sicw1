@@ -44,7 +44,7 @@ sections:
       title: Mr TAN Kiat How
       subtitle: GUEST OF HONOUR
       description: Senior Minister of State, Ministry of Communications and
-        Information & Ministry of National Development
+        Information, and Ministry of National Development, Singapore
       image: /images/GOH%20-%20Tan%20K%20H.png
       alt: Mr TAN Kiat How
   - resources:
