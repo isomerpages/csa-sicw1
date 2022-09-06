@@ -15,4 +15,4 @@ third_nav_title: 18 October 2022
 
 Ransomware is no longer a sporadic nuisance, affecting a handful of machines. It has been transformed into a massive, systemic threat affecting entire networks of large enterprises. Dominating headlines, ransomware is now a major security and transboundary issue that affects Critical Information Infrastructure (CII) sectors and nations. How can states work together to counter ransomware? What role does the private sector play in these efforts, and how can the public and private sectors work together?
 
-***For best viewing, please visit SICW website on desktop mode.**
+***Visit SICW desktop site for an optimised user experience.**
