@@ -16,5 +16,3 @@ Cyber supply chain risks are complex and of global concern. Cyber supply chains 
 The Cyber Supply Chain Programme is a national effort that aims to mitigate cyber supply chain risks and uplift the cyber resilience of Singapore’s essential services through five foundational initiatives. 
 
 This SICW Cyber Supply Chain brings together stakeholders to take a whole of ecosystem approach on what governments, business owners and vendors can do to discuss this complex problem in need of an enhanced and collaborative outcome.
-
-***For best viewing, please visit SICW website on desktop mode.***
