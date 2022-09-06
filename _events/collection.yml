@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - "20 October 2022/SICW Sessions: Collective Insights on Cyber Attacks.md"
       - "20 October 2022/SICW Sessions: Internet or Splinternet – Implications
         on Securing the Digital Future.md"
       - 20 October 2022/SG Cyber Safe Partnership Appreciation.md
