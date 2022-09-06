@@ -10,7 +10,7 @@ third_nav_title: 20 October 2022
 **20 October 2022 (Thursday)**  
 *1.00pm – 2.00pm (GMT +8)*
 
-*Format: Hybrid - Sands Expo & Convention Centre, MBS, Lvl 5 (limited seating) + SICW Virtual Platform*
+*Format: Hybrid - Sands Expo & Convention Centre, MBS Lvl 5 (limited seating) + SICW Virtual Platform*
 
  Recent geopolitical developments have highlighted the outlook of an increasingly fragmented global Internet system. This has raised the risks of the Internet developing into “splinternets”, where instead of a single global Internet, there could be a multitude of regional and national Internet-like networks that are isolated from one another and potentially using incompatible technologies. Should these splinternets come to exist, the lack of communication between these different splinternets will result in a divided world and could have implications on securing our digital future. 
 
