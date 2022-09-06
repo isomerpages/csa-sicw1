@@ -5,9 +5,7 @@ permalink: /events/20-October-2022/sgcs-enterprises-dialogue/
 description: ""
 third_nav_title: 20 October 2022
 ---
-
-
-#### **SG Cyber Safe for Enterprises Dialogue | The Human Factor: The Achilles’ Heel in Digital Security**
+#### **SG Cyber Safe for Enterprises Dialogue – The Human Factor: The Achilles’ Heel in Digital Security**
  
 **20 October 2022 (Thursday)**  
 *2.00pm – 3.00pm (GMT +8)*
