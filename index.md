@@ -37,7 +37,7 @@ sections:
       title: Dr Janil PUTHUCHEARY
       subtitle: GUEST OF HONOUR
       description: Senior Minister of State, Ministry of Communications and
-        Information, and Ministry of Health, Singapore
+        Information, Ministry of Health, Singapore
       image: /images/GOH%20-%20Janil%20P.png
       alt: Dr Janil PUTHUCHEARY
   - infopic:
