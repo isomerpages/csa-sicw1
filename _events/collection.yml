@@ -2,6 +2,15 @@ collections:
   events:
     output: true
     order:
+      - 18 October 2022/.keep
+      - 19 October 2022/.keep
+      - 19 October 2022/List of Events.md
+      - 19 October 2022/SICW Opening Ceremony.md
+      - 19 October 2022/GovWare Conference and Exhibition 2022.md
+      - 19 October 2022/Ministerial Roundtable.md
+      - "19 October 2022/SICW Sessions: Digital Infrastructure – Common
+        Stakes.md"
+      - 20 October 2022/.keep
       - 20 October 2022/List of Events.md
       - 20 October 2022/GovWare Conference and Exhibition 2022.md
       - 20 October 2022/ASEAN Ministerial Conference on Cybersecurity.md
@@ -17,12 +26,3 @@ collections:
       - 20 October 2022/OT Conversation.md
       - 20 October 2022/International IoT Security Roundtable Technical Panel.md
       - 20 October 2022/SICW Women in Cyber.md
-      - 20 October 2022/.keep
-      - 19 October 2022/.keep
-      - 19 October 2022/List of Events.md
-      - 19 October 2022/SICW Opening Ceremony.md
-      - 19 October 2022/GovWare Conference and Exhibition 2022.md
-      - 19 October 2022/Ministerial Roundtable.md
-      - "19 October 2022/SICW Sessions: Digital Infrastructure – Common
-        Stakes.md"
-      - 18 October 2022/.keep
