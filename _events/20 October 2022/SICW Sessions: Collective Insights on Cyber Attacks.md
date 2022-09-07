@@ -15,4 +15,4 @@ Recent geopolitical conflicts around the globe has demonstrated how cyber-attack
 
 This session aims to touch on how governments and organisations can work together by exchanging early warnings & intelligence to provide increased visibility into the most pressing cyber threats worldwide. Turning collective insights into risk-informed action.
 
-***Visit SICW desktop site for an optimised user experience.**
+***For an optimised experience, please view this site in desktop mode.**
