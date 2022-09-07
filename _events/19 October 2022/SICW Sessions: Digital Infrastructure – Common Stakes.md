@@ -15,4 +15,4 @@ third_nav_title: 19 October 2022
 
 This session aims to touch on the governance of digital infrastructure and to explore how public and private sector stakeholders can collaborate to achieve common security interests.
 
-***Visit SICW desktop site for an optimised user experience.**
+***For an optimised experience, please view this site in desktop mode.**
