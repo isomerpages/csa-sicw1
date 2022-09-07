@@ -16,4 +16,4 @@ third_nav_title: 20 October 2022
 
 This session aims to stimulate discussion on how the public and private sectors can collaborate to address the potential challenges and mitigate the risks posed by a fragmented Internet. It will touch on the fragmentation of the Internet and how to shape the future of the Internet.
 
-***Visit SICW desktop site for an optimised user experience.**
+***For an optimised experience, please view this site in desktop mode.**
