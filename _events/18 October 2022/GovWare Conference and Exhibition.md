@@ -4,8 +4,7 @@ permalink: /events/18-October-2022/GovWare-conference-and-exhibition/
 description: ""
 third_nav_title: 18 October 2022
 ---
-
-#### **GovWare Conference and Exhibition 2022**
+#### **GovWare Conference and Exhibition**
 
 **18 October 2022 (Tuesday)**  
 *9.00am to 5.00pm (GMT +8)*
