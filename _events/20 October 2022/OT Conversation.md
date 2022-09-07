@@ -1,9 +1,10 @@
 ---
 title: OT Conversation
-permalink: /events/20-October-2022/ot-conversation
+permalink: /events/20-October-2022/ot-conversation/
 description: ""
 third_nav_title: 20 October 2022
 ---
+
 
 
 #### **OT Conversation**

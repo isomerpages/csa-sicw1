@@ -1,9 +1,10 @@
 ---
 title: Ministerial Roundtable
-permalink: /events/19-October-2022/ministerial-roundtable
+permalink: /events/19-October-2022/ministerial-roundtable/
 description: ""
 third_nav_title: 19 October 2022
 ---
+
 
 
 

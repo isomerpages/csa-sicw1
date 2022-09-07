@@ -4,6 +4,7 @@ permalink: /events/20-October-2022/women-in-cyber/
 description: ""
 third_nav_title: 20 October 2022
 ---
+
 #### **SICW Women in Cyber**
 
 **20 October 2022 (Thursday)**  

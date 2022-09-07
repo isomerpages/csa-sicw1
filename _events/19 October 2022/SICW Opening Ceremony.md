@@ -1,9 +1,10 @@
 ---
 title: SICW Opening Ceremony
-permalink: /events/19-October-2022/sicw-opening-ceremony
+permalink: /events/19-October-2022/sicw-opening-ceremony/
 description: ""
 third_nav_title: 19 October 2022
 ---
+
 
 
 #### **SICW Opening Ceremony**
