@@ -11,8 +11,8 @@ third_nav_title: 20 October 2022
 
 *Format: Physical*
 
-GovWare Conference and Exhibition, the region’s premier cybersecurity event, returns in person on 18-20 October 2022, at Sands Expo and Convention Centre, Singapore. 
+GovWare Conference and Exhibition, the region’s premier cybersecurity event, returns in person on 18-20 October 2022, at Sands Expo and Convention Centre, Singapore.
 
-Join top policymakers, global business and industry leaders in discussions on the latest cybersecurity issues and trends, tech and policy developments, strategies and best practises. Explore cutting-edge tech showcases at the GovWare Exhibition. Connect with a global community and learn from domain experts through invigorating programmes and networking socials at GovWare 2022.
+Join top policymakers, global business and industry leaders in discussion on the lates cybersecurity issues and trends in tech and policy development, strategies and best practises. Explore hundreds of tech brands and cutting-edge tech showcases, connect and networking with  global experts and the community through invigorating programmes and networking socials at GovWare 2022.
 
 Details on GovWare 2022 and passes at https://www.govware.sg<a href="https://www.govware.sg" target="_blank"></a>.
