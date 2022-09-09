@@ -18,7 +18,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | <br> **19 October 2022** *(Wednesday)*          |                                                                                           |
 | 9.00am to 9.30am           | [SICW Opening Ceremony](/events/19-October-2022/sicw-opening-ceremony)                                                         |
 | 9.00am to 5.00pm           | [GovWare Conference and Exhibition](/events/19-October-2022/GovWare-conference-and-exhibition/)                               |
-| 9.30am to 12.00pm           | [Ministerial Roundtable](/events/19-October-2022/ministerial-roundtable) |
+| 9.30am to 12.00pm           | [Ministerial Roundtables](/events/19-October-2022/ministerial-roundtables) |
 | 2.00pm to 3.00pm              | [SICW Sessions: Digital Infrastructure - Common Stakes](/events/19-October-2022/digital-infrastructure/)                                    |
 | <br> **20 October 2022** *(Thursday)* |                                                                                                |
 | 8.30am to 12.45pm           | [ASEAN Ministerial Conference on Cybersecurity](/events/20-October-2022/amcc)                                                         |
