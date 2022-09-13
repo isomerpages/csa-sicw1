@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Web Banner V2-01.jpg
+      background: /images/Web Banner V3-01.jpg
   - infobar:
       title: SICW
       subtitle: About
