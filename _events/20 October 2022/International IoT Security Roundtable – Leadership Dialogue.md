@@ -4,9 +4,6 @@ permalink: /events/20-October-2022/IIOTSRT-leadership-dialogue/
 description: ""
 third_nav_title: 20 October 2022
 ---
-
-
-
 #### **International IoT Security Roundtable - Leadership Dialogue**
  
 **20 October 2022 (Thursday)**  
@@ -14,4 +11,4 @@ third_nav_title: 20 October 2022
 
 *Format: Hybrid*
 
-To galvanise international efforts towards internationalising a common IoT Security standards, to prevent standards fragmentation, eradicate duplicated evaluation/compliance across borders, and facilitate export.
+To galvanise international efforts towards internationalising a common IoT Security standard, to prevent standard fragmentation, eradicate duplicated evaluation/compliance across borders, and facilitate export.
