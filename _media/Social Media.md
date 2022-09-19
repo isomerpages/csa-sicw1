@@ -5,7 +5,7 @@ description: ""
 ---
 #### **Singapore International Cyber Week 2022 - Social Media**
 
-Help us spread the word about #SICW2022! This toolkit contains background information and suggested social media posts you can use to let your networks know that you are participating in the event.
+Help us spread the word about #SICW2022!
 
 ##### **Social Media Handles**
 
