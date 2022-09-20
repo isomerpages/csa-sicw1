@@ -10,16 +10,19 @@ Singapore International Cyber Week 2022 is taking place from 18 to 20 October 20
 Event dates and timings below are in Singapore time (GMT +8). 
 
 | <br> **18 October 2022** <br>*(Tuesday)* |                                                                                                |
+| 9.00am to 4.00pm           | [8th ASEAN Senior Officials Roundtable on Cybercrime (SORC)](/events/18-October-2022/senior-officials-roundtable-on-cybercrime/)                               |
 | 9.00am to 5.00pm           | [GovWare Conference and Exhibition](/events/18-October-2022/GovWare-conference-and-exhibition/)                               |
 | 2.00pm to 4.00pm           | [Cyber Supply Chain](/events/18-October-2022/cyber-supply-chain)                                                         |
 | 2.00pm to 5.00pm           | [GFCE Southeast Asia Regional Meeting](/events/18-October-2022/gfce)                                                         |
 | 3.00pm to 4.00pm           | [SICW Sessions: Tackling the Ransomware Scourge - Global Cooperation for a Transboundary Issue](/events/18-October-2022/tackling-the-ransomware-scourge-global-cooperation/)                               |
+| 5.00pm to 6.00pm           | [SICW Sessions: The Future of International Cyber Discussions](/events/18-October-2022/the-future-of-international-cyber-discussions/)                               |
 | 6.00pm to 9.30pm           | [SICW Summit](/events/18-October-2022/sicw-summit)                                                         |
 | <br> **19 October 2022** *(Wednesday)*          |                                                                                           |
 | 9.00am to 9.30am           | [SICW Opening Ceremony](/events/19-October-2022/sicw-opening-ceremony)                                                         |
 | 9.00am to 5.00pm           | [GovWare Conference and Exhibition](/events/19-October-2022/GovWare-conference-and-exhibition/)                               |
 | 9.30am to 12.00pm           | [Ministerial Roundtables](/events/19-October-2022/ministerial-roundtables) |
 | 2.00pm to 3.00pm              | [SICW Sessions: Digital Infrastructure - Common Stakes](/events/19-October-2022/digital-infrastructure/)                                    |
+| 4.00pm to 5.00pm              | [SICW Sessions: Building Confidence and Trust in Cyberspace](/events/19-October-2022/building-confidence-and-trust-in-cyberspace/)                                    |
 | <br> **20 October 2022** *(Thursday)* |                                                                                                |
 | 8.30am to 12.45pm           | [ASEAN Ministerial Conference on Cybersecurity](/events/20-October-2022/amcc)                                                         |
 | 9.00am to 5.00pm           | [GovWare Conference and Exhibition](/events/20-October-2022/GovWare-conference-and-exhibition/)                               |
@@ -30,5 +33,5 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 1.30pm to 2.00pm           | [SG Cyber Safe Partnership Appreciation](/events/20-October-2022/sgcs-partnership-appreciation/)                                                         |
 | 2.00pm to 3.00pm           | [SG Cyber Safe for Enterprises Dialogue - The Human Factor: The Achilles’ Heel in Digital Security](/events/20-October-2022/sgcs-enterprises-dialogue/)                                                         |
 | 2.00pm to 4.00pm           | [OT Conversation](/events/20-October-2022/ot-conversation)                                                         |
-| 3.00pm to 5.00pm           | [International IoT Security Roundtable - Technical Panel](/events/20-October-2022/IIOTSRT-technical-panel)                                                         |
 | 3.00pm to 5.00pm           | [SICW Women in Cyber](/events/20-October-2022/women-in-cyber)                                                         |
+| 3.00pm to 5.30pm           | [International IoT Security Roundtable - Technical Panel](/events/20-October-2022/IIOTSRT-technical-panel)                                                         |
