@@ -5,7 +5,7 @@ description: ""
 ---
 ![Lee Kian Chong](/images/Speakers/Lee%20Kian%20Chong.jpg)
 
-#### **Lee Kian Chong**
+#### **Mr Lee Kian Chong**
 
 *CEO & Co-Founder*  
 CyberLitmus Pte Ltd
