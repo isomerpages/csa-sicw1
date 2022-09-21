@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Speakers/Ryan%20Kalember.jpg)
 
-#### **Ms Haslinda Amin**
+#### **Mr Ryan Kalember**
 
 *Executive Vice President, Cybersecurity Strategy*  
 Proofpoint, Inc.
@@ -16,4 +16,3 @@ With almost 20 years of experience in the information security industry, Mr. Kal
 Mr. Kalember joined Proofpoint from WatchDox where he served as both chief product officer and chief marketing officer and was responsible for successfully building and leading the product and marketing teams through the company’s acquisition by BlackBerry. Prior to WatchDox, he was instrumental in running solutions across Hewlett-Packard’s portfolio of security products. He has also held a variety of leadership positions at ArcSight and VeriSign, working as a security practitioner across the US, EMEA, and Latin America.
  
 In addition to serving as a trusted advisor to CISOs worldwide, Mr. Kalember is also a member of the National Cyber Security Alliance board and Cybersecurity Technical Advisory Board. He has provided cybersecurity counsel to the Aspen Institute, National Governors Association, and global government delegations including Jordan, North Macedonia, Peru, and Spain, and his expertise has been featured on ABCNews.com, BBC, Bloomberg, CNBC, Forbes, Fortune, NBC Bay Area, NBC Nightly News, USA Today, VOX, The Washington Post, and WIRED. He received his bachelor's degree from Stanford University, where he studied fault tolerance, cryptography, and authentication algorithms.
-
