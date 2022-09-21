@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Speakers/Daryl%20Pereira.jpg)
 
-#### **Daryl Pereira**
+#### **Mr Daryl Pereira**
 
 *APAC CISO - Director, Office of the CISO*  
 Google Cloud Asia-Pacific
