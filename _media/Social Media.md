@@ -13,4 +13,4 @@ We are using Linkedin, Facebook, Twitter and YouTube to spread the word about th
 + @SICWSG LinkedIn: <a href="https://www.linkedin.com/company/SICWSG/" target="_blank">https://www.linkedin.com/company/SICWSG/</a>
 + @SICWSG on Facebook: <a href="https://www.facebook.com/SICWSG/" target="_blank">https://www.facebook.com/SICWSG/</a>
 + @SICWSG Twitter: <a href="https://twitter.com/SICWSG/" target="_blank">https://twitter.com/SICWSG/</a>
-+ YouTube: <a href="https://www.youtube.com/channel/UClBjKhx0_vWNij7_Oxszmog" target="_blank">https://www.youtube.com/channel/UClBjKhx0_vWNij7_Oxszmog</a>
++ YouTube: <a href="https://www.youtube.com/c/SingaporeInternationalCyberWeek" target="_blank">https://www.youtube.com/c/SingaporeInternationalCyberWeek</a>
