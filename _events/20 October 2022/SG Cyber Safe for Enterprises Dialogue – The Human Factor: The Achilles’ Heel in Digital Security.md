@@ -17,4 +17,10 @@ Employees tend to be the weakest link in an organisation’s security, as attack
 Join us in the SG Cyber Safe for Enterprises Dialogue to understand more about the human factor in your organisations and how you can take steps to address the weakness.
 
 ##### **Speaker**
-![Chris Foo](/images/Speakers2022/ChrisFoo.jpeg)
+![](/images/Speakers2022/ChrisFoo2.jpg)
+##### **Mr Chris Foo**
+*Role*  
+Company
+
+##### **Biography**
+Bio
