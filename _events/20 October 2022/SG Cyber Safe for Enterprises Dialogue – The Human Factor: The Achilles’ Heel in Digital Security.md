@@ -17,9 +17,9 @@ Employees tend to be the weakest link in an organisation’s security, as attack
 Join us in the SG Cyber Safe for Enterprises Dialogue to understand more about the human factor in your organisations and how you can take steps to address the weakness.
 
 | **Speakers**    |                                                              |
-| Mr Ryan Kalember  | *Executive Vice President, Cybersecurity Strategy*<br>Proofpoint, Inc.                  |
-| Mr Lee Kian Chong  | *CEO & Co-Founder*<br>CyberLitmus Pte Ltd                 |
-| Mr Chris Foo  | *Senior Manager, SME Information Resource Centre (SIRC) *<br>Singapore Chinese Chamber of Commerce & Industry                |
+| [Mr Ryan Kalember](/speaker-Ryan-Kalember)  | *Executive Vice President, Cybersecurity Strategy*<br>Proofpoint, Inc.                  |
+| [Mr Lee Kian Chong](/speaker-Lee-Kian-Chong)  | *CEO & Co-Founder*<br>CyberLitmus Pte Ltd                 |
+| [Mr Chris Foo](/speaker-Chris-Foo)  | *Senior Manager, SME Information Resource Centre (SIRC) *<br>Singapore Chinese Chamber of Commerce & Industry                |
 | <br> **Moderator**          |                                                              |
-| Mr Daryl Pereira  | *APAC CISO - Director, Office of the CISO*<br>Google Cloud Asia-Pacific                  |
+| [Mr Daryl Pereira](/moderator-Daryl-Pereira)  | *APAC CISO - Director, Office of the CISO*<br>Google Cloud Asia-Pacific                  |
 | | |
