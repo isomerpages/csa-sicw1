@@ -15,3 +15,9 @@ third_nav_title: 20 October 2022
 Employees tend to be the weakest link in an organisation’s security, as attackers continually evolve and advance the sophistication of social engineering attacks. For this reason, the human factor remains a critical issue in creating a secure digital environment. 
 
 Join us in the SG Cyber Safe for Enterprises Dialogue to understand more about the human factor in your organisations and how you can take steps to address the weakness.
+
+| **Speakers**    |                                                              |
+| Mr Ryan Kalember  | *Executive Vice President, Cybersecurity Strategy*<br>Proofpoint, Inc.                  |
+| <br> **Moderator**          |                                                              |
+| Mr Daryl Pereira  | *APAC CISO - Director, Office of the CISO*<br>Google Cloud Asia-Pacific                  |
+| | |
