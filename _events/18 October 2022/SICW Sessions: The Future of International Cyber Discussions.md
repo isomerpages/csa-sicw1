@@ -16,6 +16,6 @@ As one of the six topics under the mandate of the current five-year UN Open-ende
   
 There has also been much discussion on how the views of multi-stakeholders including industry, academia and civil society groups can be heard and included in future UN cyber discussions. 
   
-This session will explore the future direction and possible modalities of regular institutional dialogue, with a view to discuss how these mechanisms can facilitate progress on substantive topics discussed at international cyber discussions. The panellists will share their perspectives on the achievements and gaps of existing discussion platforms, discuss possible synergies and forms of cooperation for various stakeholders, as well as explore the role of regional organisations and multilateral platforms in developing and supporting international cyber discussions. 
+This session will explore the future direction and possible modalities of regular institutional dialogue, with a view to discuss how these mechanisms can facilitate progress on substantive topics discussed at international cyber discussions. The panelist will share their perspectives on the achievements and gaps of existing discussion platforms, discuss possible synergies and forms of cooperation for various stakeholders, as well as explore the role of regional organisations and multilateral platforms in developing and supporting international cyber discussions. 
 
 ***For an optimised experience, please view this site in desktop mode.**
