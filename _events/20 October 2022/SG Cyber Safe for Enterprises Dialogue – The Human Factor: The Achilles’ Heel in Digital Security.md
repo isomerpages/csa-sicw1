@@ -18,6 +18,8 @@ Join us in the SG Cyber Safe for Enterprises Dialogue to understand more about t
 
 | **Speakers**    |                                                              |
 | Mr Ryan Kalember  | *Executive Vice President, Cybersecurity Strategy*<br>Proofpoint, Inc.                  |
+| Mr Lee Kian Chong  | *CEO & Co-Founder*<br>CyberLitmus Pte Ltd                 |
+| Mr Chris Foo  | *Senior Manager, SME Information Resource Centre (SIRC) *<br>Singapore Chinese Chamber of Commerce & Industry                |
 | <br> **Moderator**          |                                                              |
 | Mr Daryl Pereira  | *APAC CISO - Director, Office of the CISO*<br>Google Cloud Asia-Pacific                  |
 | | |
