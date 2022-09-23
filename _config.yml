@@ -1,5 +1,5 @@
 title: Singapore International Cyber Week
-url: ""
+url: https://sicw.gov.sg
 favicon: /images/favicon-sicw.ico
 colors:
   primary-color: "#0074b6"
@@ -57,5 +57,5 @@ google_analytics: UA-201171889-1
 resources_name: resources
 shareicon: /images/logo_sicw.png
 is_government: false
-facebook-pixel: ""
+facebook-pixel: "8247478618625671"
 linkedin-insights: ""
