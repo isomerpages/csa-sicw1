@@ -8,7 +8,7 @@ description: ""
 #### **Dr Olaf Kolkman**
 
 *Principal – Internet Technology, Policy and Advocacy*  
-Internet Society, Netherlands
+Internet Society
 
 ##### **Biography**
 Olaf Kolkman is the Principal – Internet Technology, Policy and Advocacy of the Internet Society. He is a senior advisor to and spokesperson for Internet Society. He formulates, reviews and advises on technical and policy positions. 
