@@ -3,7 +3,7 @@ title: Speaker – Dr Olaf Kolkman
 permalink: /speaker-dr-olaf-kolkman/
 description: ""
 ---
-
+![](/images/Speakers/Dr%20Olaf%20Kolkman.jpg)
 
 #### **Dr Olaf Kolkman**
 
