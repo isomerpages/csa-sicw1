@@ -13,7 +13,7 @@ Join us for the SICW Opening Ceremony via the Virtual Platform on 19 October, 9a
 
 ![](/images/2022%20SICW%20Passes.jpg)
 
-**Register Now** <a href="https://www.gevme.com/sicw-govware2022" target="_blank"></a>
+**Join us at Singapore International Cyber Week 2022. Register here today.** <a href="https://www.gevme.com/sicw-govware2022" target="_blank"></a>
 
 Notes:
 * All prices are shown in Singapore Dollars (SGD).
