@@ -18,8 +18,7 @@ Join us in the SG Cyber Safe for Enterprises Dialogue to understand more about t
 
 | **Speaker**    |                                                              |
 | [Mr Ryan Kalember](/speaker-Ryan-Kalember)  | *Executive Vice President, Cybersecurity Strategy*<br>Proofpoint, Inc.                  |
-
-| **Panelists**    |                                                              |
+| <br>**Panelists**    |                                                              |
 | [Mr Lee Kian Chong](/speaker-Lee-Kian-Chong)  | *CEO & Co-Founder*<br>CyberLitmus Pte Ltd                 |
 | [Mr Chris Foo](/speaker-Chris-Foo)  | *Senior Manager, SME Information Resource Centre (SIRC)*<br>Singapore Chinese Chamber of Commerce & Industry                |
 | <br> **Moderator**          |                                                              |
