@@ -3,7 +3,6 @@ title: Registration
 permalink: /registration/
 description: ""
 ---
-
 ![](/images/SICW%20Website%20banner.jpg)
 
 **Singapore International Cyber Week 2022 Registration**
@@ -12,7 +11,7 @@ Organised by the Cyber Security Agency of Singapore (CSA), the Singapore Interna
 
 Join us for the SICW Opening Ceremony via the Virtual Platform on 19 October, 9am. Access to the Live Studio is by-invite only.
 
-![](/images/Registration.png)
+![](/images/2022%20SICW%20Passes.jpg)
 # Register Now <a href="https://www.gevme.com/sicw-govware2022" target="_blank"></a>
 
 Notes:
