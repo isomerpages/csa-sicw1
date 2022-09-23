@@ -20,4 +20,3 @@ Notes:
 * If you require a Certificate of Attendance for CPE credits, be sure to opt-in to the CPE credits during registration. If opted in, the Certificate of Attendance will be sent to you within two (2) weeks after the event.
 * Selected sessions will be available for viewing via Video On-Demand after the event. Availability dates will be announced soon.
 * All information listed on the website is accurate at the time of publication and subject to changes.
-
