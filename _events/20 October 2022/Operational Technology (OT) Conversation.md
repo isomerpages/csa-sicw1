@@ -1,13 +1,10 @@
 ---
-title: OT Conversation
+title: Operational Technology (OT) Conversation
 permalink: /events/20-October-2022/ot-conversation/
 description: ""
 third_nav_title: 20 October 2022
 ---
-
-
-
-#### **OT Conversation**
+#### **Operational Technology (OT) Conversation**
 
 **20 October 2022 (Thursday)**  
 *2.00pm – 4.00pm (GMT +8)*

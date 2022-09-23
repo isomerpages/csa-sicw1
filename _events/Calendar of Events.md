@@ -22,6 +22,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 5.00pm           | [GovWare Conference and Exhibition](/events/19-October-2022/GovWare-conference-and-exhibition/)                               |
 | 9.30am to 12.00pm           | [Ministerial Roundtables](/events/19-October-2022/ministerial-roundtables) |
 | 2.00pm to 3.00pm              | [SICW Sessions: Digital Infrastructure - Common Stakes](/events/19-October-2022/digital-infrastructure/)                                    |
+| 3.00pm to 5.30pm           | [International IoT Security Roundtable - Technical Panel](/events/20-October-2022/IIOTSRT-technical-panel)     |
 | 4.00pm to 5.00pm              | [SICW Sessions: Building Confidence and Trust in Cyberspace](/events/19-October-2022/building-confidence-and-trust-in-cyberspace/)                                    |
 | <br> **20 October 2022** *(Thursday)* |                                                                                                |
 | 8.30am to 12.45pm           | [ASEAN Ministerial Conference on Cybersecurity](/events/20-October-2022/amcc)                                                         |
@@ -32,6 +33,5 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 1.00pm to 2.00pm           | [SICW Sessions: Internet or Splinternet - Implications on Securing the Digital Future](/events/20-October-2022/internet-or-splinternet/)     |
 | 1.30pm to 2.00pm           | [SG Cyber Safe Partnership Appreciation](/events/20-October-2022/sgcs-partnership-appreciation/)                                                         |
 | 2.00pm to 3.00pm           | [SG Cyber Safe for Enterprises Dialogue - The Human Factor: The Achilles’ Heel in Digital Security](/events/20-October-2022/sgcs-enterprises-dialogue/)                                                         |
-| 2.00pm to 4.00pm           | [OT Conversation](/events/20-October-2022/ot-conversation)                                                         |
+| 2.00pm to 4.00pm           | [Operational Technology (OT) Conversation](/events/20-October-2022/ot-conversation)                                                         |
 | 3.00pm to 5.00pm           | [SICW Women in Cyber](/events/20-October-2022/women-in-cyber)                                                         |
-| 3.00pm to 5.30pm           | [International IoT Security Roundtable - Technical Panel](/events/20-October-2022/IIOTSRT-technical-panel)                                                         |

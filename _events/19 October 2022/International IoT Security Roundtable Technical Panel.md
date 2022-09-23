@@ -1,12 +1,12 @@
 ---
 title: International IoT Security Roundtable Technical Panel
-permalink: /events/20-October-2022/IIOTSRT-technical-panel/
+permalink: /events/19-October-2022/IIOTSRT-technical-panel/
 description: ""
-third_nav_title: 20 October 2022
+third_nav_title: 19 October 2022
 ---
 #### **International IoT Security Roundtable - Technical Panel**
 
-**20 October 2022 (Thursday)**  
+**19 October 2022 (Thursday)**  
 *3.00pm – 5.30pm (GMT +8)*
 
 *Format: Hybrid*
