@@ -9,3 +9,4 @@ description: ""
 
 Join us at Singapore International Cyber Week 2022. Register here today. <a href="https://www.gevme.com/sicw-govware2022" target="_blank"></a>
 
+![](/images/2022%20SICW%20Passes.jpg)
