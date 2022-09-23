@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Speakers/Fernando.jpg)
 
-#### **Mr Chris Foo**
+#### **Mr Fernando Serto**
 
 *Chief Technologist & Evangelist, Asia Pacific, Japan and China*  
 Cloudflare
