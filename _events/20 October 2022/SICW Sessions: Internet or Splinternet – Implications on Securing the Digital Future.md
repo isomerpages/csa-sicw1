@@ -16,9 +16,7 @@ Recent global events have highlighted the outlook of an increasingly fragmented 
 
 This session aims to stimulate discussion on how the public and private sectors can collaborate to address the potential challenges and mitigate the risks posed by a fragmented Internet. It will touch on the fragmentation of the Internet and how to shape the future of the Internet.
 
-| **Speaker**    |                                                              |
-| [Dr Olaf Kolkman](/speaker-dr-olaf-Kolkman)  | *Principal – Internet Technology, Policy and Advocacy*<br>Internet Society                  |
-| <br>**Panelists**    |                                                              |
+| **Panelists**    |                                                              |
 | [Dr Olaf Kolkman](/speaker-dr-olaf-Kolkman)  | *Principal – Internet Technology, Policy and Advocacy*<br>Internet Society                  |
 | [Mr John Suffolk](/speaker-john-suffolk)  | *President and Global Cyber Security & Privacy Officer (GSPO)*<br>Huawei                 |
 | [Mr Lee Dolsen](/speaker-Lee-dolsen)  | *Chief Architect, Asia Pacific & Japan*<br>Zscaler                |
