@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Speakers/Charles%20Ng.jpg)
 
-#### **Mr Daryl Pereira**
+#### **Mr Charles Ng**
 
 *Executive Vice-President, International Business and Key Accounts*  
 Ensign InfoSecurity
