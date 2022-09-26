@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Speakers/Paul%20Griswold.jpg)
 
-#### **Mr Ryan Kalember**
+#### **Mr Paul Griswold**
 
 *Chief Product Officer for Cybersecurity*  
 Honeywell
