@@ -3,7 +3,7 @@ title: Speaker – Huang Shaofei
 permalink: /speaker-huang-shaofei/
 description: ""
 ---
-![](/images/Speakers/Huang%20Shaofei.jpg)
+
 
 #### **Mr Huang Shaofei**
 
