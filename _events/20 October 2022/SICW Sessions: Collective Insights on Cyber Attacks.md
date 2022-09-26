@@ -15,4 +15,12 @@ Recent geopolitical conflicts around the globe has demonstrated how cyber-attack
 
 This session aims to touch on how governments and organisations can work together by exchanging early warnings & intelligence to provide increased visibility into the most pressing cyber threats worldwide. Turning collective insights into risk-informed action.
 
+| <br>**Panelists**    |                                                              |
+| [Mr Scott Jarkoff](/speaker-scott-jarkoff)  | *Director, Strategic Threat Advisory Group, APJ & EMEA*<br>CrowdStrike                  |
+| [Mr Brandon Wales](/speaker-brandon-wales)  | *Executive Director*<br>Cybersecurity and Infrastructure Security Agency’s (CISA)                 |
+| <br> **Moderator**          |                                                              |
+| [Mr Charles Ng](/moderator-charles-ng)  | *Executive Vice-President, International Business and Key Accounts*<br>Ensign InfoSecurity                  |
+| | |
+
+
 ***For an optimised experience, please view this site in desktop mode.**
