@@ -4,7 +4,6 @@ permalink: /speaker-jeff-blake/
 description: ""
 ---
 
-![](/images/Speakers/Jeff%20Blake.jpg)
 
 #### **Mr Jeff Blake**
 
