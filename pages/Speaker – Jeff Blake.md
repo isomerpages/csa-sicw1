@@ -3,8 +3,6 @@ title: Speaker – Jeff Blake
 permalink: /speaker-jeff-blake/
 description: ""
 ---
-
-
 #### **Mr Jeff Blake**
 
 *Global Head of Engineering*  
