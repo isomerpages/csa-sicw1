@@ -1,14 +1,13 @@
 ---
-title: "SG Cyber Safe for Enterprises Dialogue – The Human Factor: The Achilles’
-  Heel in Digital Security"
-permalink: /events/20-October-2022/sgcs-enterprises-dialogue/
+title: SG Cyber Safe for Enterprises Dialogue & Partnership Appreciation
+permalink: /events/20-October-2022/sgcs-enterprises-dialogue-and-partnership-appreciation/
 description: ""
 third_nav_title: 20 October 2022
 ---
 #### **SG Cyber Safe for Enterprises Dialogue – The Human Factor: The Achilles’ Heel in Digital Security**
  
 **20 October 2022 (Thursday)**  
-*2.00pm – 3.00pm (GMT +8)*
+*10.30am – 11.30am (GMT +8)*
 
 *Format: Physical (by invitation only) + Livestreaming*
 
@@ -25,3 +24,12 @@ Join us in the SG Cyber Safe for Enterprises Dialogue to understand more about t
 | <br> **Moderator**          |                                                              |
 | [Mr Daryl Pereira](/moderator-Daryl-Pereira)  | *APAC CISO - Director, Office of the CISO*<br>Google Cloud Asia-Pacific                  |
 | | |
+
+#### **SG Cyber Safe Partnership Appreciation**
+ 
+**20 October 2022 (Thursday)**  
+*11.30am – 12.00pm (GMT +8)*
+
+*Format: Physical (by invitation only) + Livestreaming*
+
+The SG Cyber Safe Partnership Appreciation aims to recognise partnering organisations, CSA’s appointed Cyber Essentials and Cyber Trust certification bodies, and other third-party advocates that have made outstanding contributions to the programme. Join us in the appreciation ceremony and celebrate their achievements!
