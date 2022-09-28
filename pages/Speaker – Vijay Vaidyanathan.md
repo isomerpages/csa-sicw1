@@ -3,6 +3,8 @@ title: Speaker – Vijay Vaidyanathan
 permalink: /speaker-Vijay-Vaidyanathan/
 description: ""
 ---
+![](/images/Speakers/Vijay%20Vaidyanathan.jpg)
+
 #### **Mr Vijay Vaidyanathan**
 
 *RVP, Solution Engineering, APJ*  
