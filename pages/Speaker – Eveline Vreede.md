@@ -3,6 +3,8 @@ title: Speaker – Eveline Vreede
 permalink: /speaker-eveline-vreede/
 description: ""
 ---
+![](/images/Speakers/Eveline%20Vreede.jpg)
+
 #### **Ms Eveline Vreede**
 
 *Program Manager, TU Delft Safety & Security Institute*  
