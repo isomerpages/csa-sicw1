@@ -4,7 +4,7 @@ permalink: /events/20-October-2022/data-boosted-international-collaboration-for-
 description: ""
 third_nav_title: 20 October 2022
 ---
-#### **SICW Data-Boosted International Collaboration for a Safer Internet**
+#### **Data-Boosted International Collaboration for a Safer Internet**
 
 **20 October 2022 (Thursday)**  
 *4.30pm – 5.30pm (GMT +8)*
