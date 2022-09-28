@@ -4,11 +4,10 @@ permalink: /events/20-October-2022/sgcs-partnership-appreciation/
 description: ""
 third_nav_title: 20 October 2022
 ---
-
 #### **SG Cyber Safe Partnership Appreciation**
  
 **20 October 2022 (Thursday)**  
-*1.30pm – 2.00pm (GMT +8)*
+*1.130am – 12.00pm (GMT +8)*
 
 *Format: Physical (by invitation only) + Livestreaming*
 
