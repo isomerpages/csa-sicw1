@@ -7,7 +7,7 @@ third_nav_title: 20 October 2022
 #### **SG Cyber Safe Partnership Appreciation**
  
 **20 October 2022 (Thursday)**  
-*1.130am – 12.00pm (GMT +8)*
+*11.30am – 12.00pm (GMT +8)*
 
 *Format: Physical (by invitation only) + Livestreaming*
 
