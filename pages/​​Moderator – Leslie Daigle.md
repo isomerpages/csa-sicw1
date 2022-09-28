@@ -3,6 +3,8 @@ title: ​​Moderator – Leslie Daigle
 permalink: /moderator-leslie-daigle/
 description: ""
 ---
+![](/images/Speakers/Leslie%20Daigle.jpg)
+
 #### **Ms Leslie Daigle**
 
 *Chief Technical Officer and Internet Integrity Program Director*  
