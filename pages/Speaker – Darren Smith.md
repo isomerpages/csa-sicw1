@@ -3,7 +3,7 @@ title: Speaker – Darren Smith
 permalink: /speaker-darren-smith/
 description: ""
 ---
-#### **Mr Darren Smith**
+#### **Mr Daren Smith**
 
 *Managing Director for International Government*  
 BAE Systems Digital Intelligence
