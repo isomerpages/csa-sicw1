@@ -15,8 +15,8 @@ The SICW Women in Cyber event will be held on 20 October 2022. In its fourth edi
 
 | **Panelists**    |                                                              |
 | [Ms Phua Puay Li](/speaker-phua-puay-li)  | *Senior Director (Policy & Corporate Development)*<br>Cyber Security Agency of Singapore                  |
-| [Ms Tay Bee Kheng](/moderator-tay-bee-kheng)  | *President, Cisco ASEAN*<br>Cisco Systems                 |
 | [Ms Mihoko Matsubara](/speaker-Mihoko-Matsubara)  | *Chief Cybersecurity Strategist*<br>NTT Corporation                  |
+| [Ms Tay Bee Kheng](/moderator-tay-bee-kheng)  | *President, Cisco ASEAN*<br>Cisco Systems                 |
 | <br> **Moderator**          |                                                              |
 | [Dr Anuradha Rao](/moderator-dr-anuradha-rao)  | *Founder*<br>CyberCognizanz                  |
 | [Dr Ming Tan](/moderator-dr-ming-tan)  | *Founding Executive Director*<br>Tech for Good Institute                  |
