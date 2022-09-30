@@ -3,7 +3,7 @@ title: Speaker – Daren Smith
 permalink: /speaker-daren-smith/
 description: ""
 ---
-![](/images/Speakers/Daren%20Smith%20.jpg)
+![](/images/Speakers/Daren%20Smith.jpg)
 
 #### **Mr Daren Smith**
 
