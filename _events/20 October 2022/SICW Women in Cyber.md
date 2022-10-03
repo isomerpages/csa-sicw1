@@ -20,5 +20,4 @@ The SICW Women in Cyber event will be held on 20 October 2022. In its fourth edi
 | <br> **Moderator**          |                                                              |
 | [Dr Anuradha Rao](/moderator-dr-anuradha-rao)  | *Founder*<br>CyberCognizanz                  |
 | [Dr Ming Tan](/moderator-dr-ming-tan)  | *Founding Executive Director*<br>Tech for Good Institute                  |
-| [Ms Tay Bee Kheng](/moderator-tay-bee-kheng)  | *President, Cisco ASEAN*<br>Cisco Systems                 |
 | | |
