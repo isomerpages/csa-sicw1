@@ -13,5 +13,3 @@ third_nav_title: 18 October 2022
 
 The 8th Senior Officials Roundtable on Cybercrime (SORC) is a platform for high-level discussions among the Senior Officials Meeting on Transnational Crime Leaders from ASEAN and the ASEAN Dialogue Partners, experts and industry leaders to discuss the latest threats, trends and solutions on cybercrime. These discussions seed new ideas for R&D and create opportunities for deeper collaboration across the public and private sectors. 
 The SORC is by-invitation only.
-
-![Ministry of Home Affairs](/images/logos/logo-mha-half-wspace-text-850width.png)
