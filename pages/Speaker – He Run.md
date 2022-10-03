@@ -3,6 +3,8 @@ title: Speaker – He Run
 permalink: /speaker-he-run/
 description: ""
 ---
+![](/images/Speakers/He%20Run.jpg)
+
 #### **Mr He Run**
 
 *Solution Architect Lead, Channel Ecosystem*  
