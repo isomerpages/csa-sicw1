@@ -1,9 +1,11 @@
 ---
-title: Speaker – Darren Smith
-permalink: /speaker-darren-smith/
+title: Speaker – Daren Smith
+permalink: /speaker-daren-smith/
 description: ""
 ---
-#### **Mr Darren Smith**
+![](/images/Speakers/Daren%20Smith.jpg)
+
+#### **Mr Daren Smith**
 
 *Managing Director for International Government*  
 BAE Systems Digital Intelligence

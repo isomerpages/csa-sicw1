@@ -15,4 +15,11 @@ third_nav_title: 19 October 2022
 
 This session aims to touch on the governance of digital infrastructure and to explore how public and private sector stakeholders can collaborate to achieve common security interests.
 
+| **Panelists**    |                                                              |
+| [Mr He Run](/speaker-he-run)  | *Solution Architect Lead, Channel Ecosystem*<br>Alibaba Cloud               |
+| [Ms Nathalie Jaarsma](/speaker-Nathalie-Jaarsma)  | *Ambassador at-Large for Security Policy and Cyber, the Kingdom of the Netherlands*               |
+| <br> **Moderator**          |                                                              |
+| [Ms Mihoko Matsubara](/moderator-Mihoko-Matsubara)  | *Chief Cybersecurity Strategist*<br>NTT Corporation            |
+| | |
+
 ***For an optimised experience, please view this site in desktop mode.**

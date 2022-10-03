@@ -4,11 +4,10 @@ permalink: /events/20-October-2022/amcc/
 description: ""
 third_nav_title: 20 October 2022
 ---
-
 #### **ASEAN Ministerial Conference on Cybersecurity**
 
 **20 October 2022 (Thursday)**  
-*8.30am – 12.45pm (GMT +8)*
+*8.30am – 12.30pm (GMT +8)*
 
 *Format: Physical (Closed Door Event)*
 

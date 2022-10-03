@@ -3,8 +3,7 @@ title: Moderator – Daryl Pereira
 permalink: /Moderator-Daryl-Pereira/
 description: ""
 ---
-
-![](/images/Speakers/Daryl%20Pereira.jpg)
+![](/images/Speakers/Daryl%20Pereira%202.jpg)
 
 #### **Mr Daryl Pereira**
 

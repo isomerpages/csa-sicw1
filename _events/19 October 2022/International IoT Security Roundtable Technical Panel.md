@@ -6,8 +6,8 @@ third_nav_title: 19 October 2022
 ---
 #### **International IoT Security Roundtable - Technical Panel**
 
-**19 October 2022 (Thursday)**  
-*3.00pm – 5.30pm (GMT +8)*
+**19 October 2022 (Wednesday)**  
+*10.00am – 12.30pm (GMT +8)*
 
 *Format: Hybrid*
 
