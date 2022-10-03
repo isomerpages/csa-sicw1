@@ -15,4 +15,13 @@ third_nav_title: 19 October 2022
 
 This session aims to touch on the governance of digital infrastructure and to explore how public and private sector stakeholders can collaborate to achieve common security interests.
 
+| **Panelists**    |                                                              |
+| [Dr Olaf Kolkman](/speaker-dr-olaf-Kolkman)  | *Principal – Internet Technology, Policy and Advocacy*<br>Internet Society                  |
+| [Mr John Suffolk](/speaker-john-suffolk)  | *President and Global Cyber Security & Privacy Officer (GSPO)*<br>Huawei                 |
+| [Mr Lee Dolsen](/speaker-Lee-dolsen)  | *Chief Architect, Asia Pacific & Japan*<br>Zscaler                |
+| [Mr Fernando Serto](/speaker-Fernando-Serto)  | *Chief Technologist & Evangelist, Asia Pacific, Japan and China*<br>Cloudflare                |
+| <br> **Moderator**          |                                                              |
+| [Ms Mihoko Matsubara](/moderator-ms-Mihoko-Matsubara)  | *Chief Cybersecurity Strategist*<br>NTT Corporation            |
+| | |
+
 ***For an optimised experience, please view this site in desktop mode.**
