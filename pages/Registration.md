@@ -7,6 +7,6 @@ description: ""
 
 **Singapore International Cyber Week 2022 Registration**
 
-Join us at Singapore International Cyber Week 2022. Register here today. <a href="https://www.gevme.com/sicw-govware2022" target="_blank"></a>
+Join us at Singapore International Cyber Week 2022. Register here today. <a href="https://www.gevme.com/39531055/registration/buy?promotion-code=Visitors_Tix&tickets[140043]=1" target="_blank"></a>
 
-![](/images/SICW%202022%20Passes.png)
+![](/images/2022%20SICW%20Passes.png)
