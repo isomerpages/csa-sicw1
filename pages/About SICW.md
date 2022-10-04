@@ -7,7 +7,7 @@ description: ""
 
 Organised by the Cyber Security Agency of Singapore (CSA), the Singapore International Cyber Week (SICW) is Asia-Pacific’s most established cybersecurity event. CSA is Singapore’s national authority for cybersecurity and plays a pivotal role in Singapore’s Smart Nation and digital economy ambitions. 
 
-The seventh edition of SICW will take place from 18 to 20 October 2022, at Sands Expo and Convention Centre, Singapore. Under the theme of “Digital Security - A Shared Responsibility”, SICW 2022 ramps up the momentum on cyber capacity building and international partnerships amid a landscape fraught with increasingly sophisticated cyber threats, and explores strategies to navigate volatile power relations between state and non-state actors. 
+The seventh edition of SICW will take place from 18 to 20 October 2022, at Sands Expo and Convention Centre, Singapore. Under the theme of “Digital Security: A Shared Responsibility”, SICW 2022 ramps up the momentum on cyber capacity building and international partnerships amid a landscape fraught with increasingly sophisticated cyber threats, and explores strategies to navigate volatile power relations between state and non-state actors. 
 
 The event will bring together global policy makers, industry leaders and top academia across the world to exchange best practices and strengthen international cooperation on topics ranging from emerging digital opportunities and cyber threats, evolution of cyberspace and cybersecurity policies, implementation of cyber norms, Internet of Things (IoT) and Operational Technology (OT) security.
 
