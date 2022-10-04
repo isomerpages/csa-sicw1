@@ -3,6 +3,8 @@ title: Speaker – Joshua Kennedy–White
 permalink: /speaker-joshua-kennedy-white/
 description: ""
 ---
+![](/images/Speakers/Joshua%20Kennedy-White.jpg)
+
 #### **Mr Joshua Kennedy-White**
 
 *Managing Director*  
