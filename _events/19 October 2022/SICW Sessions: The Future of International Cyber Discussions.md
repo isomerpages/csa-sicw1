@@ -6,7 +6,6 @@ third_nav_title: 19 October 2022
 ---
 #### **SICW Sessions: The Future of International Cyber Discussions**
 
-
 **19 October 2022 (Wednesday)**  
 *4.00pm – 5.00pm (GMT +8)*
 
