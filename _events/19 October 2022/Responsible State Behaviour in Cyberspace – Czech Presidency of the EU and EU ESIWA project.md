@@ -5,9 +5,7 @@ permalink: /events/19-October-2022/responsible-state-behaviour-in-cyberspace/
 description: ""
 third_nav_title: 19 October 2022
 ---
-
-
-#### **Responsible State Behaviour in Cyberspace Czech Presidency of the EU and EU ESIWA project**
+#### **Responsible State Behaviour in Cyberspace - Czech Presidency of the EU and EU ESIWA project**
 
 **19 October 2022 (Wednesday)**  
 *2.00pm to 4.30pm (GMT +8)*
