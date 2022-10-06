@@ -14,5 +14,5 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.30am to 12.00pm           | [Ministerial Roundtables](/events/19-October-2022/ministerial-roundtables) |
 | 10.00am to 12.30pm           | [International IoT Security Roundtable - Technical Panel](/events/19-October-2022/iiotsrt-technical-panel)     |
 | 2.00pm to 3.00pm              | [SICW Sessions: Digital Infrastructure - Common Stakes](/events/19-October-2022/digital-infrastructure/)                                    |
-| 2.00pm to 4.30pm              | [Responsible State Behaviour in Cyberspace Czech Presidency of the EU and EU ESIWA project](/events/19-October-2022/responsible-state-behaviour-in-cyberspace/)                                    |
+| 2.00pm to 4.30pm              | [Responsible State Behaviour in Cyberspace - Czech Presidency of the EU and EU ESIWA project](/events/19-October-2022/responsible-state-behaviour-in-cyberspace/)                                    |
 | 4.00pm to 5.00pm              | [SICW Sessions: Building Confidence and Trust in Cyberspace](/events/19-October-2022/building-confidence-and-trust-in-cyberspace/)                                    |
