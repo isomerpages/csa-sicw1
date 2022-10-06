@@ -17,4 +17,5 @@ Strengthening the global cybersecurity architecture is a team sport. Both public
 
 | **Speaker**          |                                                              |
 | [Ms Izumi Nakamitsu](/speaker-Izumi-Nakamitsu)  | *United Nations Under-Secretary-General and High Representative for Disarmament Affairs*                 |
+| [Mr Alejandro Mayorkas](/speaker-Alejandro-Mayorkas)  | *Secretary*<br>Department of Homeland Security                |
 | | |
