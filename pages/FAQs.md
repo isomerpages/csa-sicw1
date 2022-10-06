@@ -27,7 +27,7 @@ Find out more on the full vaccination requirements here<a href="https://www.ica.
 <br>Fully vaccinated travelers can now enjoy quarantine-free entry into Singapore with no testing required. Please click here<a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore" target="_blank"></a> for more information. 
 
 **7. How do journalists apply to attend SICW 2022?**
-<br>We invite media journalists to register for a media pass. More info on media accreditation requirements can be found [here](/media-accreditation).
+<br>We invite media journalists to register for a media pass. More info on media accreditation requirements can be found [here](/media/media-accreditation).
 
 **8. What is the dress code for the event?**
 <br>The dress code for the SICW 2022 is business attire.

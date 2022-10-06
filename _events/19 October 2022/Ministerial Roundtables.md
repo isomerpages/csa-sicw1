@@ -16,3 +16,6 @@ third_nav_title: 19 October 2022
 
 **Ministerial Roundtable II - “Safeguarding a Shared Digital Future”** 
 <br>The increasing connectivity and the prevalence of digital has made digital, Internet and technology as ubiquitous as energy. Furthermore, considering Internet’s cross-boundary nature, some might liken Internet to the sea or the air. However, unlike traditional physical resources, the responsibilities of governing and securing the Internet are not clear.  What are the priority digital challenges that leaders should tackle at the highest level? What principles and practices can government and industry align on to build trust in the Internet? Should digital be considered a common need? How can the public and private sectors collaborate to secure the digital commons?"
+
+| **Speaker**    |                                                              |
+| [Mrs. Ursula Owusu-Ekuful](/speaker-Ursula-Owusu-Ekuful)  | *Minister of Communications and Digitalisation, Ghana*                  |

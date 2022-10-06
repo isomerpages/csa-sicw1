@@ -12,3 +12,6 @@ third_nav_title: 20 October 2022
 *Format: Hybrid*
 
 To galvanise international efforts towards internationalising a common IoT Security standard, to prevent standard fragmentation, eradicate duplicated evaluation/compliance across borders, and facilitate export.
+
+|**Panelists**    |                                                              |
+| [Ms Grace Burkard](/speaker-Grace-Burkard)  | *Director of Operations*<br>ioXt Alliance                  |

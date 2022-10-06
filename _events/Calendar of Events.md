@@ -15,21 +15,21 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 2.00pm to 4.00pm           | [Cyber Supply Chain](/events/18-October-2022/cyber-supply-chain)                                                         |
 | 2.00pm to 5.00pm           | [GFCE Southeast Asia Regional Meeting](/events/18-October-2022/gfce)                                                         |
 | 3.00pm to 4.00pm           | [SICW Sessions: Tackling the Ransomware Scourge - Global Cooperation for a Transboundary Issue](/events/18-October-2022/tackling-the-ransomware-scourge-global-cooperation/)                               |
-| 5.00pm to 6.00pm           | [SICW Sessions: The Future of International Cyber Discussions](/events/18-October-2022/the-future-of-international-cyber-discussions/)                               |
 | 6.00pm to 9.30pm           | [SICW Summit](/events/18-October-2022/sicw-summit)                                                         |
 | <br> **19 October 2022** *(Wednesday)*          |                                                                                           |
 | 9.00am to 9.30am           | [SICW Opening Ceremony](/events/19-October-2022/sicw-opening-ceremony)                                                         |
 | 9.00am to 5.00pm           | [GovWare Conference and Exhibition](/events/19-October-2022/GovWare-conference-and-exhibition/)                               |
 | 9.30am to 12.00pm           | [Ministerial Roundtables](/events/19-October-2022/ministerial-roundtables) |
-| 10.00am to 12.30pm           | [International IoT Security Roundtable - Technical Panel](/events/19-october-2022/iiotsrt-technical-panel/)     |
 | 2.00pm to 3.00pm              | [SICW Sessions: Digital Infrastructure - Common Stakes](/events/19-October-2022/digital-infrastructure/)                                    |
-| 4.00pm to 5.00pm              | [SICW Sessions: Building Confidence and Trust in Cyberspace](/events/19-October-2022/building-confidence-and-trust-in-cyberspace/)                                    |
+| 2.00pm to 4.30pm              | [Responsible State Behaviour in Cyberspace - Czech Presidency of the EU and EU ESIWA project](/events/19-October-2022/responsible-state-behaviour-in-cyberspace/)                                    |
+| 3.00pm to 5.30pm           | [International IoT Security Roundtable - Technical Panel](/events/19-october-2022/iiotsrt-technical-panel/)     |
+| 4.00pm to 5.00pm           | [SICW Sessions: The Future of International Cyber Discussions](/events/19-October-2022/the-future-of-international-cyber-discussions/)                               |
 | <br> **20 October 2022** *(Thursday)* |                                                                                                |
-| 8.30am to 12.45pm             | [ASEAN Ministerial Conference on Cybersecurity](/events/20-October-2022/amcc)   |
+| 8.30am to 12.30pm             | [ASEAN Ministerial Conference on Cybersecurity](/events/20-October-2022/amcc)   |
 | 9.00am to 5.00pm           | [GovWare Conference and Exhibition](/events/20-October-2022/GovWare-conference-and-exhibition/)                               |
 | 9.00am to 6.00pm                | [ASEAN Cybercrime Prosecutors' Roundtable Meeting](/events/20-October-2022/acprm)                               |
 | 10.00am to 1.00pm                | [International IoT Security Roundtable - Leadership Dialogue](/events/20-october-2022/iiotsrt-leadership-dialogue/)                               |
-| 10.30am to 12.00pm                | [SG Cyber Safe for Enterprises Dialogue & Partnership Appreciation](/events/20-October-2022/sgcs-enterprises-dialogue-and-partnership-appreciation/)                               |
+| 10.30am to 12.00pm                | [SG Cyber Safe for Enterprises Dialogue & Partner Appreciation](/events/20-October-2022/sgcs-enterprises-dialogue-and-partner-appreciation/)                               |
 | 11.00am to 12.00pm           | [SICW Sessions: Collective Insights on Cyber-Attacks](/events/20-October-2022/collective-insight-on-cyber-attacks/)     |
 | 1.00pm to 2.00pm           | [SICW Sessions: Internet or Splinternet - Implications on Securing the Digital Future](/events/20-october-2022/iiotsrt-leadership-dialogue/)     |
 | 2.00pm to 4.00pm              | [Operational Technology (OT) Conversation](/events/20-October-2022/ot-conversation)                                    |
