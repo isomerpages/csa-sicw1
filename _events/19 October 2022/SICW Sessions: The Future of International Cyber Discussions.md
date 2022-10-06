@@ -18,6 +18,4 @@ There has also been much discussion on how the views of multi-stakeholders inclu
   
 This session will explore the future direction and possible modalities of regular institutional dialogue, with a view to discuss how these mechanisms can facilitate progress on substantive topics discussed at international cyber discussions. The panelists will share their perspectives on the achievements and gaps of existing discussion platforms, discuss possible synergies and forms of cooperation for various stakeholders, as well as explore the role of regional organisations and multilateral platforms in developing and supporting international cyber discussions. 
 
-
-
 ***For an optimised experience, please view this site in desktop mode.**
