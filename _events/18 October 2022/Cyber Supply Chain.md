@@ -20,7 +20,6 @@ This SICW Cyber Supply Chain brings together stakeholders to take a whole of eco
 | <br> **Speaker**          |                                                              |
 | [Mr Lim Thian Chin](/speaker-lim-thian-chin)  | *Director, Critical Information Infrastructure (CII)*<br>Cyber Security Agency of Singapore                  |
 | <br> **Panelists**    |                                                              |
-| [Mr Lim Thian Chin](/speaker-lim-thian-chin)  | *Director, Critical Information Infrastructure (CII)*<br>Cyber Security Agency of Singapore                  |
 | [Mr Keng Seng Wei](/speaker-Keng-Seng-Wei)  | *Chief Information Security Officer, Managing Director*<br>Development Bank of Singapore (DBS)              |
 | [Mr James Rosenthal](/speaker-James-Rosenthal)  | *CEO*<br>BlueVoyant        |
 | [Mr Joshua Kennedy-White](/speaker-Joshua-Kennedy-White)  | *Managing Director*<br>Arqit        |
