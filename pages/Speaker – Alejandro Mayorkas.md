@@ -3,6 +3,8 @@ title: Speaker – Alejandro Mayorkas
 permalink: /speaker-Alejandro-Mayorkas/
 description: ""
 ---
+![](/images/Speakers/Alejandro%20Mayorkas.jpg)
+
 #### **Mr Alejandro Mayorkas**
 
 *Secretary*  
