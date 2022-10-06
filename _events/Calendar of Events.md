@@ -24,7 +24,6 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 2.00pm to 3.00pm              | [SICW Sessions: Digital Infrastructure - Common Stakes](/events/19-October-2022/digital-infrastructure/)                                    |
 | 2.00pm to 4.30pm              | [Responsible State Behaviour in Cyberspace - Czech Presidency of the EU and EU ESIWA project](/events/19-October-2022/responsible-state-behaviour-in-cyberspace/)                                    |
 | 4.00pm to 5.00pm           | [SICW Sessions: The Future of International Cyber Discussions](/events/19-October-2022/the-future-of-international-cyber-discussions/)                               |
-| 4.00pm to 5.00pm              | [SICW Sessions: Building Confidence and Trust in Cyberspace](/events/19-October-2022/building-confidence-and-trust-in-cyberspace/)                                    |
 | <br> **20 October 2022** *(Thursday)* |                                                                                                |
 | 8.30am to 12.30pm             | [ASEAN Ministerial Conference on Cybersecurity](/events/20-October-2022/amcc)   |
 | 9.00am to 5.00pm           | [GovWare Conference and Exhibition](/events/20-October-2022/GovWare-conference-and-exhibition/)                               |
