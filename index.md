@@ -51,4 +51,10 @@ sections:
       title: Past SICW Highlights
       subtitle: Explore
       button: See All
+  - infopic:
+      title: Distinguished Guests and Speakers
+      button: Find out more about SICW's Distinguished Guests and Speakers here
+      url: /events/calendar-of-events/
+      image: /images/SICW 2022 Distinguished guests.png
+      alt: Image alt text
 ---
