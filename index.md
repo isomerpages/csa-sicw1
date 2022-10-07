@@ -51,12 +51,4 @@ sections:
       title: Past SICW Highlights
       subtitle: Explore
       button: See All
-  - infopic:
-      title: Distinguised guests and speakers
-      image: /images/Distinguised guests.png
-      alt: Image alt text
-  - infopic:
-      title: Distinguished guests
-      image: /images/GOH.png
-      alt: Image alt text
 ---
