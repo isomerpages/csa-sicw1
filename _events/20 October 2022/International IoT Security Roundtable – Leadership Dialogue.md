@@ -13,5 +13,7 @@ third_nav_title: 20 October 2022
 
 To galvanise international efforts towards internationalising a common IoT Security standard, to prevent standard fragmentation, eradicate duplicated evaluation/compliance across borders, and facilitate export.
 
-|**Panelists**    |                                                              |
+|**Speaker**    |                                                              |
+| [Ms Lindy Cameron](/speaker-Lindy-Cameron)  | *Chief Executive Officer (CEO)*<br>National Cyber Security Centre, United Kingdom             |
+|**<br> Panelists**    |                                                              |
 | [Ms Grace Burkard](/speaker-Grace-Burkard)  | *Director of Operations*<br>ioXt Alliance                  |
