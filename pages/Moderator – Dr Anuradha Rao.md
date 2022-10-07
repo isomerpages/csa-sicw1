@@ -3,9 +3,7 @@ title: Moderator – Dr Anuradha Rao
 permalink: /moderator-dr-anuradha-rao/
 description: ""
 ---
-
-
-<!--   ![](/images/Speakers/Anuradha%20Rao.jpg)! -->
+![](/images/Speakers/Anuradha%20Rao.jpg)
 
 #### **Dr Anuradha Rao**
 
