@@ -15,3 +15,4 @@ The increasing proliferation of IoT in medical domain, has garnered strong inter
 
 | **Panelists**    |                                                              |
 | [A/Prof Low Cheng Ooi](/speaker-low-cheng-ooi)  | *Chief Technology Officer*<br>Sheares Healthcare Group                 |
+| [A/Prof (Dr) Raymond Chua](/speaker-raymond-chua)  | *Deputy Director of Medical Services, Health Regulation Group, Asst. Commissioner Cybersecurity - Healthcare*<br> Ministry of Health                 |
