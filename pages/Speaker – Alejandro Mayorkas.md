@@ -7,7 +7,7 @@ description: ""
 
 #### **Mr Alejandro Mayorkas**
 
-*Secetary of homeland security, united states of america*  
+*Secetary of Homeland Security, United States of America*  
 
 ##### **Biography**
 Alejandro Mayorkas was sworn in as Secretary of the Department of Homeland Security by President Biden on February 2, 2021.  
