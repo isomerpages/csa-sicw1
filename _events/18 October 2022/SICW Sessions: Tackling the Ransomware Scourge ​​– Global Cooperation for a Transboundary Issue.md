@@ -21,6 +21,7 @@ Ransomware is no longer a sporadic nuisance, affecting a handful of machines. It
 | [Mr Jeff Moss](/speaker-Jeff-Moss)  | *Founder of Black Hat and DEF CON Computer Security Conferences*              |
 | [Mr Koneru Kalyan Chakravarthy](/speaker-Koneru-Kalyan-Chakravarthy)  | *Cyber Security Practice Leader*<br>Microsoft                |
 | [Mr Sami Khoury](/speaker-Sami-Khoury)  | *Head*<br>Canadian Centre for Cyber Security                 |
+| [Mr Tim Watts](/speaker-tim-watts)  | *Head*<br>Canadian Centre for Cyber Security                 |
 | <br> **Moderator**          |                                                              |
 | [Mr Benjamin Ang](/moderator-benjamin-ang)  | *Senior Fellow and Deputy Head*<br>Centre of Excellence for National Security (CENS) at RSIS                 |
 | | |
