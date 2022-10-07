@@ -3,8 +3,7 @@ title: Speaker – Phua Puay Li
 permalink: /speaker-phua-puay-li/
 description: ""
 ---
-
-<!--![](/images/Speakers/Phua%20Puay%20Li.jpg)!--->
+![](/images/Speakers/Phua%20Puay%20Li.jpg)
 
 #### **Ms Phua Puay Li**
 
