@@ -15,7 +15,9 @@ Detection and Response capabilities for cybersecurity incident in the Operationa
 
 This session will share insights on the areas involving People, Process and Technology that should be considered to manage tomorrow’s cyber threat detection and response.
 
-|**Panelists**    |                                                              |
+|**Speaker**    |                                                              |
+| [Mr Jeff Blake](/speaker-jeff-blake)  | *Global Head of Engineering*<br>Nozomi Networks                |
+| <br> **Panelists**    |                                                              |
 | [Mr Paul Griswold](/speaker-Paul-Griswold)  | *Chief Product Officer for Cybersecurity*<br>Honeywell                  |
 | [Mr Jeff Blake](/speaker-jeff-blake)  | *Global Head of Engineering*<br>Nozomi Networks                |
 | [Mr Vijay Vaidyanathan](/speaker-vijay-vaidyanathan)  | *RVP, Solution Engineering, APJ*<br>Claroty              |
