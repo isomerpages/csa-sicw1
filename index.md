@@ -52,10 +52,7 @@ sections:
       subtitle: Explore
       button: See All
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Distinguised guests and speakers
       image: /images/Distinguised guests.png
       alt: Image alt text
   - infopic:
