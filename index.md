@@ -12,7 +12,7 @@ sections:
       background: /images/SICW Website banner.jpg
   - infopic:
       title: SICW 2022 Distinguished Guests
-      button: Find out more about SICW's Distinguished Guests and Speakers here
+      button: Find out more about SICW 2022
       url: /events/calendar-of-events/
       image: /images/Distinguished guests 2022.png
       alt: Image alt text
