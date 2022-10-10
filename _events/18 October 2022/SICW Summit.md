@@ -19,3 +19,6 @@ Strengthening the global cybersecurity architecture is a team sport. Both public
 | [Mr Alejandro Mayorkas](/speaker-Alejandro-Mayorkas)  | *Secetary of Homeland Security, United States of America*                |
 | [Ms Izumi Nakamitsu](/speaker-Izumi-Nakamitsu)  | *United Nations Under-Secretary-General and High Representative for Disarmament Affairs*                 |
 | | |
+| <br> **Moderator**          |                                                              |
+| [Mr Ravi Velloor](/moderator-ravi-velloor)  | *Associate Editor*<br>The Straights Times                  |
+| | |
