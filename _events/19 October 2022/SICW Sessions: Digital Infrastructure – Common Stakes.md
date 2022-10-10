@@ -17,7 +17,7 @@ This session aims to touch on the governance of digital infrastructure and to ex
 
 | **Panelists**    |                                                              |
 | [Mr He Run](/speaker-he-run)  | *Solution Architect Lead, Channel Ecosystem*<br>Alibaba Cloud               |
-| [Ms Nathalie Jaarsma](/speaker-Nathalie-Jaarsma)  | *Ambassador at-Large for Security Policy and Cyber, the Kingdom of the Netherlands*               |
+| [Amb Nathalie Jaarsma](/speaker-Nathalie-Jaarsma)  | *Ambassador at-Large for Security Policy and Cyber, the Kingdom of the Netherlands*               |
 | <br> **Moderator**          |                                                              |
 | [Ms Mihoko Matsubara](/moderator-Mihoko-Matsubara)  | *Chief Cybersecurity Strategist*<br>NTT Corporation            |
 | | |
