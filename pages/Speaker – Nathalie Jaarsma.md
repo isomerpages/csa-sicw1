@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Speakers/Nathalie%20Jaarsma.jpg)
 
-#### **Ms Nathalie Jaarsma**
+#### **Amb Nathalie Jaarsma**
 
 *Ambassador at-Large for Security Policy and Cyber, <br>the Kingdom of the Netherlands*  
 
