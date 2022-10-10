@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Speakers/Tim%20Watts.jpg)
 
-#### **Mr Tim Watts**
+#### **Hon Tim Watts MP**
 
 *Assistant Minister for Foreign Affairs of Australia*
 
