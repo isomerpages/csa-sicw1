@@ -3,7 +3,9 @@ title: ​​Moderator – Ravi Velloor
 permalink: /moderator-ravi-velloor/
 description: ""
 ---
-#### **Mr Daryl Pereira**
+![](/images/Speakers/Ravi%20Velloor.jpg)
+
+#### **Mr Ravi Velloor**
 
 *Associate Editor*  
 The Straits Times
