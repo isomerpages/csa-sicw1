@@ -7,7 +7,7 @@ third_nav_title: 19 October 2022
 #### **Ministerial Roundtables**
  
 **19 October 2022 (Wednesday)**  
-*9.30am – 12.00pm (GMT +8)*
+*9.30am – 12.15pm (GMT +8)*
 
 *Format: Hybrid*
 
