@@ -10,6 +10,12 @@ notification: ""
 sections:
   - hero:
       background: /images/SICW Website banner.jpg
+  - infopic:
+      title: SICW 2022 Distinguished Guests
+      button: Find out more about SICW's Distinguished Guests and Speakers here
+      url: /events/calendar-of-events/
+      image: /images/Distinguished guests 2022.png
+      alt: Image alt text
   - infobar:
       title: SICW
       subtitle: About
@@ -18,6 +24,10 @@ sections:
         leaders and industry experts.
       button: read more
       url: /about-sicw
+  - resources:
+      title: Past SICW Highlights
+      subtitle: Explore
+      button: See All
   - infopic:
       title: Mr TEO Chee Hean
       subtitle: GUEST OF HONOUR
@@ -47,14 +57,4 @@ sections:
         Information, and Ministry of National Development, Singapore
       image: /images/GOH%20-%20Tan%20K%20H.png
       alt: Mr TAN Kiat How
-  - infopic:
-      title: SICW 2022 Distinguished Guests
-      button: Find out more about SICW's Distinguished Guests and Speakers here
-      url: /events/calendar-of-events/
-      image: /images/Distinguished guests 2022.png
-      alt: Image alt text
-  - resources:
-      title: Past SICW Highlights
-      subtitle: Explore
-      button: See All
 ---
