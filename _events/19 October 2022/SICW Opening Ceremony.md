@@ -11,9 +11,10 @@ third_nav_title: 19 October 2022
 
 *Format: Hybrid*
 
-Singapore's Senior Minister, Mr Teo Chee Hean, will officiate the opening of SICW 2022.
+*Live studio access is reserved for invited guest, full conference pass and SICW Visitor pass holders only. Due to limited seating, seats will be available on a first-come, first-served, basis. If there are insufficient seats in the venue, we seek eligible SICW attendees’ understanding that some attendees will have to be directed to alternative viewing rooms where the event will be broadcast live. For all other guests, this event is available for viewing on the SICW virtual platform.
 
-The **SICW Opening Ceremony** will be held on **19 October 2022**.
+The **SICW Opening Ceremony** will be officiated by Singapore’s Senior Minister and Coordinating Minister for National Security, Mr Teo Chee Hean.
+
 
 | **Guest of Honour**    |                                                              |
 | Mr Teo Chee Hean  | *Senior Minister and Coordinating Minister for National Security*<br>Singapore                  |
