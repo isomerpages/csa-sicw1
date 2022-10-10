@@ -17,6 +17,7 @@ The SICW Women in Cyber event will be held on 20 October 2022. In its fourth edi
 | [Ms Phua Puay Li](/speaker-phua-puay-li)  | *Senior Director (Policy & Corporate Development)*<br>Cyber Security Agency of Singapore                  |
 | [Ms Mihoko Matsubara](/speaker-Mihoko-Matsubara)  | *Chief Cybersecurity Strategist*<br>NTT Corporation                  |
 | [Ms Tay Bee Kheng](/moderator-tay-bee-kheng)  | *President, Cisco ASEAN*<br>Cisco Systems                 |
+| [Dr Dorit Dor](/speaker-dr-dorit-Dor)  | *Chief Product and Technology Officer*<br>Check Point Software Technologies                 |
 | [Dr Juliette Wilcox CMG](/speaker-dr-juliette-wilcox)  | *Cyber Security Ambassador*<br>UK Defence and Security Exports, Department for International Trade                 |
 | <br> **Moderator**          |                                                              |
 | [Dr Anuradha Rao](/moderator-dr-anuradha-rao)  | *Founder*<br>CyberCognizanz                  |
