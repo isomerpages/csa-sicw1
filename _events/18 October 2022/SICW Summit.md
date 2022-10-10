@@ -9,7 +9,7 @@ third_nav_title: 18 October 2022
 **18 October 2022 (Tuesday)**  
 *6.00pm to 9.30pm (GMT +8)*
 
-*Format: Physical (Closed Door Event)*
+*Format: Hybrid (Closed Door Event)*
 
 **Building a Cohesive Global Cybersecurity Architecture - Interconnectivity, Interoperability and International Cyber Diplomacy**
 
