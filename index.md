@@ -48,7 +48,7 @@ sections:
       image: /images/GOH%20-%20Tan%20K%20H.png
       alt: Mr TAN Kiat How
   - infopic:
-      title: Distinguished Guests and Speakers
+      title: SICW 2022 Distinguished Guests
       button: Find out more about SICW's Distinguished Guests and Speakers here
       url: /events/calendar-of-events/
       image: /images/Distinguished guests 2022.png
