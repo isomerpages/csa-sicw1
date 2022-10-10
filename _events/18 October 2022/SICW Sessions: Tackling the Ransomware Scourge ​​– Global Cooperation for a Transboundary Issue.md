@@ -9,7 +9,7 @@ third_nav_title: 18 October 2022
 
 
 **18 October 2022 (Tuesday)**  
-*3.00pm – 4.00pm (GMT +8)*
+*3.00pm – 4.30pm (GMT +8)*
 
 *Format: Hybrid - Sands Expo & Convention Centre, MBS Lvl 5 (limited seating) + SICW Virtual Platform*
 
