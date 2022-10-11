@@ -22,7 +22,7 @@ This SICW Cyber Supply Chain brings together stakeholders to take a whole of eco
 | <br> **Panelists**    |                                                              |
 | [Mr Keng Seng Wei](/speaker-Keng-Seng-Wei)  | *Chief Information Security Officer, Managing Director*<br>Development Bank of Singapore (DBS)              |
 | [Mr James Rosenthal](/speaker-James-Rosenthal)  | *Board Advisor*<br>Interos        |
-| [Mr Joshua Kennedy-White](/speaker-Joshua-Kennedy-White)  | *Managing Director*<br>Arqit        |
+| [Mr Joshua Kennedy-White](/speaker-Joshua-Kennedy-White)  | *Board Advisor*<br>Interos        |
 | <br> **Moderator**          |                                                              |
 | [Mr Paul O’Rourke](/moderator-paul-orourke)  | *Managing Director & Partner*<br>Boston Consulting Group (BCG)                  |
 | | |
