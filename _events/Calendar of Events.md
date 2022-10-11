@@ -17,7 +17,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 3.00pm to 4.30pm           | [SICW Sessions: Tackling the Ransomware Scourge - Global Cooperation for a Transboundary Issue](/events/18-October-2022/tackling-the-ransomware-scourge-global-cooperation/)                               |
 | 6.00pm to 9.30pm           | [SICW Summit](/events/18-October-2022/sicw-summit)                                                         |
 | <br> **19 October 2022** *(Wednesday)*          |                                                                                           |
-| 9.00am to 9.30am           | [SICW Opening Ceremony](/events/19-October-2022/sicw-opening-ceremony)                                                         |
+| 9.00am to 9.30am           | [SICW Plenary Session](/events/19-October-2022/sicw-plenary-session)                                                         |
 | 9.00am to 5.00pm           | [GovWare Conference and Exhibition](/events/19-October-2022/GovWare-conference-and-exhibition/)                               |
 | 9.30am to 12.15pm           | [Ministerial Roundtables](/events/19-October-2022/ministerial-roundtables) |
 | 1.30pm to 2.30pm              | [SICW Sessions: Digital Infrastructure - Common Stakes](/events/19-October-2022/digital-infrastructure/)                                    |
