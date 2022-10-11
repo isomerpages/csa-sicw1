@@ -4,7 +4,6 @@ permalink: /events/20-October-2022/data-boosted-international-collaboration-for-
 description: ""
 third_nav_title: 20 October 2022
 ---
-
 #### **Data-Boosted International Collaboration for a Safer Internet**
 
 **20 October 2022 (Thursday)**  
@@ -16,6 +15,7 @@ This one-hour session will explore the value of international collaboration and 
 
 | **Speaker**    |                                                              |
 | [Mr Philip Reitinger](/speaker-Philip-Reitinger)  | *President and Chief Executive Officer*<br>Global Cyber Alliance                  |
+| [Mr Lim Soon Chia](/speaker-lim-soon-chia)  | *Director*<br>Cyber Security Agency Singapore (CSA)                |
 | <br>**Panelists**    |                                                              |
 | [Mr Piotr Lewandowski](/speaker-Piotr-Lewandowski)  | *Senior Software Engineer, Information Security Methods Department*<br>NASK                |
 | [Ms Eveline Vreede](/speaker-Eveline-Vreede)  | *Program Manager, TU Delft Safety & Security Institute*<br>TU Delft              |
