@@ -10,12 +10,6 @@ notification: ""
 sections:
   - hero:
       background: /images/SICW Website banner.jpg
-  - infopic:
-      title: SICW 2022 Distinguished Guests
-      button: Find out more about SICW 2022
-      url: /events/calendar-of-events/
-      image: /images/Distinguished guests 2022.png
-      alt: Image alt text
   - infobar:
       title: SICW
       subtitle: About
@@ -24,6 +18,12 @@ sections:
         leaders and industry experts.
       button: read more
       url: /about-sicw
+  - infopic:
+      title: SICW 2022 Distinguished Guests
+      button: Find out more about SICW 2022
+      url: /events/calendar-of-events/
+      image: /images/Distinguished guests 2022.png
+      alt: Image alt text
   - resources:
       title: Past SICW Highlights
       subtitle: Explore
