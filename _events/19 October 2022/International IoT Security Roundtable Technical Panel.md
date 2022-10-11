@@ -13,7 +13,10 @@ third_nav_title: 19 October 2022
 
 The increasing proliferation of IoT in medical domain, has garnered strong interest to create trust in medical devices so as to ensure the safety of patients. What principles and practices can government and industry align on to build trust in ensuring secured medical devices? Would CLS(MD) be considered to foster common efforts and a common need? How can the public and private sectors collaborate to secure the medical devices?
 
-| **Panelists**    |                                                              |
+| **Speaker**    |                                                              |
+| [Mr David Koh](/speaker-david-koh)  | *Commissioner of Cybersecurity & Chief Executive (CE)*<br>Cyber Security Agency Singapore (CSA)                 |
+| <br> **Panelists**    |                                                              |
 | [A/Prof Low Cheng Ooi](/speaker-low-cheng-ooi)  | *Chief Technology Officer*<br>Sheares Healthcare Group                 |
 | [A/Prof (Dr) Raymond Chua](/speaker-raymond-chua)  | *Deputy Director of Medical Services, Health Regulation Group, Asst. Commissioner Cybersecurity - Healthcare*<br> Ministry of Health                 |
 | [Mr Rob Suárez](/speaker-Rob-Suarez)  | *VP, Chief Information Security Officer*<br>Becton Dickinson (BD) Company               |
+| [Mr Tahata Shinya](/speaker-tahata-shinya)  | *Director, Office of the Director-General for Cybersecurity*<br>Ministry of Internal Affairs and Communications, Japan              |
