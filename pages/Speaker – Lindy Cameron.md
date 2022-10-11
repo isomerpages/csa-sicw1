@@ -3,6 +3,8 @@ title: Speaker – Lindy Cameron
 permalink: /speaker-Lindy-Cameron/
 description: ""
 ---
+![](/images/Speakers/Lindy%20Cameron.jpg)
+
 #### **Ms Lindy Cameron**
 
 *Chief Executive Officer (CEO)*  
