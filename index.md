@@ -19,10 +19,16 @@ sections:
       button: read more
       url: /about-sicw
   - infopic:
+      title: SICW 2022 Guest of Honour
+      button: Find out more about SICW 2022
+      url: /events/calendar-of-events/
+      image: /images/SICW GOH.png
+      alt: Image alt text
+  - infopic:
       title: SICW 2022 Distinguished Guests
       button: Find out more about SICW 2022
       url: /events/calendar-of-events/
-      image: /images/Distinguished guests 2022.png
+      image: /images/SICW Distinguished Guests.png
       alt: Image alt text
   - resources:
       title: Past SICW Highlights
