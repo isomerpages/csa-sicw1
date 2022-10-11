@@ -3,6 +3,8 @@ title: Speaker – Lim Soon Chia
 permalink: /speaker-lim-soon-chia/
 description: ""
 ---
+![](/images/Speakers/Lim%20Soon%20Chia.jpg)
+
 #### **Mr Lim Soon Chia**
 
 *Director*  
