@@ -3,6 +3,8 @@ title: Speaker – Rob Suárez
 permalink: /speaker-Rob-Suarez/
 description: ""
 ---
+![](/images/Speakers/Rob%20Suárez.jpg)
+
 #### **Mr Rob Suárez**
 
 *VP, Chief Information Security Officer*  
