@@ -19,7 +19,7 @@ sections:
       button: read more
       url: /about-sicw
   - infopic:
-      title: SICW 2022 Guest of Honour
+      title: SICW 2022 Guests of Honour
       button: Find out more about SICW 2022
       url: /events/calendar-of-events/
       image: /images/GOH 3.png
