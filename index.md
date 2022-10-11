@@ -34,4 +34,9 @@ sections:
       title: Past SICW Highlights
       subtitle: Explore
       button: See All
+  - infopic:
+      title: Infopic Title
+      button: Button Text
+      image: /images/18 test.png
+      alt: Image alt text
 ---
