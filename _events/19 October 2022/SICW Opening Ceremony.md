@@ -4,7 +4,7 @@ permalink: /events/19-October-2022/sicw-opening-ceremony/
 description: ""
 third_nav_title: 19 October 2022
 ---
-#### **SICW Opening Ceremony**
+#### **SICW Plenary Session**
 
 **19 October 2022 (Wednesday)**  
 *9.00am to 9.30am (GMT +8)*
@@ -13,7 +13,7 @@ third_nav_title: 19 October 2022
 
 **Live studio access is reserved for invited guest, full conference pass and SICW Visitor pass holders only. Due to limited seating, seats will be available on a first-come, first-served, basis. If there are insufficient seats in the venue, we seek eligible SICW attendees’ understanding that some attendees will have to be directed to alternative viewing rooms where the event will be broadcast live. For all other guests, this event is available for viewing on the SICW virtual platform.*
 
-The **SICW Opening Ceremony** will be officiated by Singapore’s Senior Minister and Coordinating Minister for National Security, Mr Teo Chee Hean.
+The **SICW Plenary Session** will be officiated by Singapore’s Senior Minister and Coordinating Minister for National Security, Mr Teo Chee Hean.
 
 
 | **Guest of Honour**    |                                                              |
