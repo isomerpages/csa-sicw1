@@ -3,10 +3,9 @@ title: Speaker – Olaf Kolkman
 permalink: /speaker-olaf-kolkman/
 description: ""
 ---
-
 ![](/images/Speakers/Dr%20Olaf%20Kolkman.jpg)
 
-#### **Dr Olaf Kolkman**
+#### **Olaf Kolkman**
 
 *Principal – Internet Technology, Policy and Advocacy*  
 Internet Society
