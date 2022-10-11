@@ -19,4 +19,3 @@ To galvanise international efforts towards internationalising a common IoT Secur
 |**<br> Panelists**    |                                                              |
 | [Ms Grace Burkard](/speaker-Grace-Burkard)  | *Director of Operations*<br>ioXt Alliance                  |
 | [Mr Cui Bao Qiu](/speaker-cui-bao-qiu)  | *VP & Chairman of Cybersecurity & Privacy Technical Committee*<br>Xiaomi               |
-| [Mr Rob Suárez](/speaker-Rob-Suarez)  | *VP, Chief Information Security Officer*<br>Becton Dickinson (BD) Company               |
