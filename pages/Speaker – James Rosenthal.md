@@ -5,8 +5,8 @@ description: ""
 ---
 #### **Mr James Rosenthal**
 
-*Board Advisor*  
-Interos
+*CEO*  
+BlueVoyant
 
 ##### **Biography**
 Jim Rosenthal is Co-Founder and Chief Executive Officer of BlueVoyant, an outcomes-based, cloud-native cyber defense platform that delivers positive security outcomes that drive business results. 
