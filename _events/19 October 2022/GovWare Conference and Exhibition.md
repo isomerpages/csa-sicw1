@@ -16,3 +16,12 @@ GovWare Conference and Exhibition, the region’s premier cybersecurity event, r
 Join top policymakers, global business and industry leaders in discussion on the latest cybersecurity issues and trends in tech and policy development, strategies and best practices. Explore hundreds of tech brands and cutting-edge tech showcases, connect with  global experts and the community through invigorating programmes and networking socials at GovWare 2022.
 
 Details on GovWare 2022 and passes at https://www.govware.sg<a href="https://www.govware.sg" target="_blank"></a>.
+
+| <br> **Moderator**          |                                                              |
+| [Ms Stanley Tsang](/moderator-stanley-tsang)  | *Distinguished Engineer and Senior Director (Special Projects)*<br>Cyber Security Agency of Singapore                  |
+| [Mr Damian Chung](/moderator-damian-chung)  | *Business Information Security Officer*<br>Netskope      |
+| [Mr Clive Finlay](/moderator-clive-finlay)  | *Chief Technology Officer, EMEA and APJ*<br>Broadcom Software      |
+| [Mr Joel Moses](/moderator-joel-moses)  | *Chief Technology Officer, Platforms and Systems & Distinguished Engineer*<br>F5      |
+| [Mr Steven Ng](/moderator-steven-ng)  | *Chief Information Officer and Executive Vice President of Managed Security Services*<br>Ensign InfoSecurity      |
+| [Mr Kumar Ritesh](/moderator-kumar-ritesh)  | *Founder and Chief Executive Officer*<br>Cyfirma      |
+| | |
