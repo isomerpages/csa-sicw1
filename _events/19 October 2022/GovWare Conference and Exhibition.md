@@ -17,7 +17,7 @@ Join top policymakers, global business and industry leaders in discussion on the
 
 Details on GovWare 2022 and passes at https://www.govware.sg<a href="https://www.govware.sg" target="_blank"></a>.
 
-| <br>**Panelists**    |                                                              |
+|**Panelists**    |                                                              |
 | [Mr Brad Arkin](/speaker-brad-arkin)  | *SVP and Chief Security and Trust Officer*<br>Cisco                |
 | [Ms Michaela Browning](/speaker-michaela-browning)  | *Vice President, Government Affairs and Public Policy*<br>Google Asia Pacific                |
 | [Mr Goh Eng Choon](/speaker-goh-eng-choon)  | *President, Cyber*<br>ST Engineering                |
