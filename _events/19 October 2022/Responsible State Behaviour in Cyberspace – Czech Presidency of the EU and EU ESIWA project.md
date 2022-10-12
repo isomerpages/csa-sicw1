@@ -10,7 +10,7 @@ third_nav_title: 19 October 2022
 **19 October 2022 (Wednesday)**  
 *2.00pm to 4.30pm (GMT +8)*
 
-*Format: Hybrid*
+*Format: Hybrid - Sands Expo & Convention Centre, Level 5, Studio C*
 
 The number of cyber-attacks around the today’s world continues to rise. As society's dependence on technologies increases, so does its vulnerability, and cyber-attacks are having an increasingly profound impact on all of us.   
  
@@ -19,3 +19,10 @@ The Czech Republic holds the presidency of the Council of the European Union in 
 The Governments of the Czech Republic and Singapore together with ESIWA organise a seminar on the side-lines of Singapore Cyber Week - to exchange views on responsible state behaviour in cyberspace and on the protection of the health sector, which has recently been the target of large number of cyber-attacks globally.
 
 After the Seminar, participants are invited to a Reception at the Foyer. The Reception will start at 5.00pm.
+
+| **Speaker**    |                                                              |
+| [Mr Martin Dvořák](/speaker-martin-Dvorak)  | *Deputy Minister of Foreign Affairs*<br>Ministry of Foreign Affairs of the Czech Republic                 |
+| [Mr Tanel Sepp](/speaker-tanel-sepp)  | *Ambassador at Large for Cyber Diplomacy*<br>Ministry of Foreign Affairs, Estonia                 |
+| <br> **Moderator**          |                                                              |
+| [Mr Richard Kadlčák](/moderator-richard-Kadlcak)  | *Special Envoy for Cyber Space and Director of Cyber Security Department*<br>Ministry of Foreign Affairs of the Czech Republic                 |
+| | |
