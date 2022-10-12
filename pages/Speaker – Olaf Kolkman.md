@@ -11,10 +11,10 @@ description: ""
 Internet Society
 
 ##### **Biography**
-Olaf Kolkman is the Principal – Internet Technology, Policy and Advocacy of the Internet Society. He is a senior advisor to and spokesperson for Internet Society. He formulates, reviews and advises on technical and policy positions. 
+Olaf Kolkman is the Principal - Internet Technology, Policy, and Advocacy at the Internet Society.
 
-Olaf has vast experience in Internet technology and policy matters, particularly in the area of trust and security of the Internet. He’s also a board member of Global Forum on Expertise in Cyberspace and a commissioner of the Global Commission on the Stability of Cyberspace.
+Olaf has two and a half decades of experience in Internet technology and policy matters, in particular those related to security and trustworthiness of the Internet.
 
-Olaf has authored numerous articles regarding the Internet and security, published on Internet Society’s blog since 2014. Notably, he has recently written an article about how the war in Ukraine has impacted the Internet's core.
+He is an executive level advisor to, and spokesperson of, the Internet Society. He strategises, formulates, reviews and advises on technical and policy issues.
 
-Olaf holds a PhD in Astronomy from the University of Groningen.
+He serves on several advisory boards and is treasurer of the Global Forum on Expertise in Cyberspace. He served as IAB chair between 2007 and 2011 and was commissioner of the Global Commission on the Stability of Cyberspace.
