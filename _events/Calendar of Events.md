@@ -35,5 +35,5 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 1.00pm to 2.00pm           | [SICW Sessions: Internet or Splinternet - Implications on Securing the Digital Future](/events/20-october-2022/iiotsrt-leadership-dialogue/)     |
 | 2.00pm to 4.00pm              | [Operational Technology (OT) Conversation](/events/20-October-2022/ot-conversation)                                    |
 | 3.00pm to 4.00pm              | [Raising the Bar: Building Consensus for Consumer IoT Device Security](/events/20-October-2022/building-consensus-for-consumer-iot-device-security)                                    |
-| 3.00pm to 5.00pm          | [SICW Women in Cyber](/events/20-October-2022/women-in-cyber)                                            |
+| 3.00pm to 5.30pm          | [SICW Women in Cyber](/events/20-October-2022/women-in-cyber)                                            |
 | 4.30pm to 5.30pm          | [Data-Boosted International Collaboration for a Safer Internet](/events/20-October-2022/data-boosted-international-collaboration-for-a-safer-internet/)                                            |
