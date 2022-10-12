@@ -20,9 +20,16 @@ The Governments of the Czech Republic and Singapore together with ESIWA organise
 
 After the Seminar, participants are invited to a Reception at the Foyer. The Reception will start at 5.00pm.
 
-| **Speaker**    |                                                              |
+| **Speakers**    |                                                              |
 | [Mr Martin Dvořák](/speaker-martin-Dvorak)  | *Deputy Minister of Foreign Affairs*<br>Ministry of Foreign Affairs of the Czech Republic                 |
 | [Mr Tanel Sepp](/speaker-tanel-sepp)  | *Ambassador at Large for Cyber Diplomacy*<br>Ministry of Foreign Affairs, Estonia                 |
+| [Mrs Joanneke Balfoort](/speaker-Joanneke-Balfoort)  | *Director, SECDEFPOL DMD - Security and Defence Policy*<br>EEAS European External Action Service                 |
+| [col. Radek Nezbeda](/speaker-col-Radek-Nezbeda)  | *Deputy Director*<br>National organised crime agency                 |
+| [Mr Pavel Zeman](/speaker-pavel-zeman)  | *Public Prosecutor*<br>Prosecutor General's Office of the Czech Republic                |
+| [Ms Emma Raffray](/speaker-emma-raffray)  | *Senior Analyst*<br>CyberPeace Institute             |
+| <br>**Panelists**    |                                                              |
+| [Mrs Joanneke Balfoort](/speaker-Joanneke-Balfoort)  | *Director, SECDEFPOL DMD - Security and Defence Policy*<br>EEAS European External Action Service                 |
 | <br> **Moderator**          |                                                              |
 | [Mr Richard Kadlčák](/moderator-richard-Kadlcak)  | *Special Envoy for Cyber Space and Director of Cyber Security Department*<br>Ministry of Foreign Affairs of the Czech Republic                 |
+| [Mrs Marta Pelechová](/moderator-Marta-Pelechova)  | *International Dossiers Coordinator*<br>Ministry of Justice of the Czech Republic                |
 | | |
