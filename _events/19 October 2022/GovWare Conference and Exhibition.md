@@ -17,7 +17,16 @@ Join top policymakers, global business and industry leaders in discussion on the
 
 Details on GovWare 2022 and passes at https://www.govware.sg<a href="https://www.govware.sg" target="_blank"></a>.
 
-| <br> **Moderator**          |                                                              |
+| <br>**Panelists**    |                                                              |
+| [Mr Brad Arkin](/speaker-brad-arkin)  | *SVP and Chief Security and Trust Officer*<br>Cisco                |
+| [Ms Michaela Browning](/speaker-michaela-browning)  | *Vice President, Government Affairs and Public Policy*<br>Google Asia Pacific                |
+| [Mr Goh Eng Choon](/speaker-goh-eng-choon)  | *President, Cyber*<br>ST Engineering                |
+| [Mr Lee Fook Sun](/speaker-lee-fook-sun)  | *Chairman*<br>Ensign InfoSecurity             |
+| [Mr Kevin Mandia](/speaker-kevin-mandia)  | *Chief Executive Officer*<br>Mandiant            |
+| [Mr Bryan Palma](/speaker-bryan-palma)  | *Chief Executive Officer*<br>Trellix            |
+| [Mr John Suffolk](/speaker-john-suffolk)  | *President, Global Cyber Security & Privacy Officer (GSPO)*<br>Huawei            |
+| [Ms Juliette Wilcox CMG](/speaker-juliette-wilcox-cmg)  | *Cyber Security Ambassador*<br>UK Defence and Security Exports, Department for International Trade            |
+| <br> **Moderators**          |                                                              |
 | [Ms Stanley Tsang](/moderator-stanley-tsang)  | *Distinguished Engineer and Senior Director (Special Projects)*<br>Cyber Security Agency of Singapore                  |
 | [Mr Damian Chung](/moderator-damian-chung)  | *Business Information Security Officer*<br>Netskope      |
 | [Mr Clive Finlay](/moderator-clive-finlay)  | *Chief Technology Officer, EMEA and APJ*<br>Broadcom Software      |
