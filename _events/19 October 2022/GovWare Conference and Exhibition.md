@@ -25,7 +25,7 @@ Details on GovWare 2022 and passes at https://www.govware.sg<a href="https://www
 | [Mr Kevin Mandia](/speaker-kevin-mandia)  | *Chief Executive Officer*<br>Mandiant            |
 | [Mr Bryan Palma](/speaker-bryan-palma)  | *Chief Executive Officer*<br>Trellix            |
 | [Mr John Suffolk](/speaker-john-suffolk)  | *President, Global Cyber Security & Privacy Officer (GSPO)*<br>Huawei            |
-| [Ms Juliette Wilcox CMG](/speaker-juliette-wilcox-cmg)  | *Cyber Security Ambassador*<br>UK Defence and Security Exports, Department for International Trade            |
+| [Dr Juliette Wilcox CMG](/speaker-dr-juliette-wilcox/)  | *Cyber Security Ambassador*<br>UK Defence and Security Exports, Department for International Trade            |
 | <br> **Moderators**          |                                                              |
 | [Ms Stanley Tsang](/moderator-stanley-tsang)  | *Distinguished Engineer and Senior Director (Special Projects)*<br>Cyber Security Agency of Singapore                  |
 | [Mr Damian Chung](/moderator-damian-chung)  | *Business Information Security Officer*<br>Netskope      |
