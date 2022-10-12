@@ -5,12 +5,12 @@ description: ""
 ---
 ![](/images/Speakers/Ursula%20Owusu-Ekuful.jpg)
 
-#### **Mrs. Ursula Owusu-Ekuful**
+#### **Hon Ursula Owusu-Ekuful**
 
 *Minister of Communications and Digitalisation, Ghana*  
 
 ##### **Biography**
-Mrs. Ursula Owusu-Ekuful (MP) is the Minister for Communications and Member of Parliament for Ablekuma West Constituency within the Greater Accra Region in Ghana.  Mrs. Owusu-Ekuful is a lawyer, advocate for women and children’s rights and was the MD of WESTEL, the second  National Telecoms Operator, Managing Consultant with N. U. Consult, Legal, Governance and Gender Consultants and  Chairperson for the Social Development Committee –  which developed all social intervention policies and programs for women, children, persons with disability and the aged  for the NPP manifesto 2016.
+Honourable Ursula Owusu-Ekuful (MP) is the Minister for Communications and Member of Parliament for Ablekuma West Constituency within the Greater Accra Region in Ghana. Honourable Owusu-Ekuful is a lawyer, advocate for women and children’s rights and was the MD of WESTEL, the second National Telecoms Operator, Managing Consultant with N.U. Consult, Legal, Governance and Gender Consultants and  Chairperson for the Social Development Committee – which developed all social intervention policies and programs for women, children, persons with disability and the aged for the NPP manifesto 2016.
 
 She is a member of the Ghana Bar Association,  International Federation of Women Lawyers (FIDA) and African Women Lawyers Association (AWLA),
 
