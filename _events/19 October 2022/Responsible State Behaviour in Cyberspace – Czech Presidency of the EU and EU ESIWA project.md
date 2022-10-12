@@ -29,7 +29,7 @@ After the Seminar, participants are invited to a Reception at the Foyer. The Rec
 | [Ms Emma Raffray](/speaker-emma-raffray)  | *Senior Analyst*<br>CyberPeace Institute             |
 | <br>**Panelists**    |                                                              |
 | [Mrs Joanneke Balfoort](/speaker-Joanneke-Balfoort)  | *Director, SECDEFPOL DMD - Security and Defence Policy*<br>EEAS European External Action Service                 |
-| <br> **Moderator**          |                                                              |
+| <br> **Moderators**          |                                                              |
 | [Mr Richard Kadlčák](/moderator-richard-Kadlcak)  | *Special Envoy for Cyber Space and Director of Cyber Security Department*<br>Ministry of Foreign Affairs of the Czech Republic                 |
 | [Mrs Marta Pelechová](/moderator-Marta-Pelechova)  | *International Dossiers Coordinator*<br>Ministry of Justice of the Czech Republic                |
 | | |
