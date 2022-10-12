@@ -4,11 +4,10 @@ permalink: /events/19-October-2022/the-future-of-international-cyber-discussions
 description: ""
 third_nav_title: 19 October 2022
 ---
-
 #### **SICW Sessions: The Future of International Cyber Discussions**
 
 **19 October 2022 (Wednesday)**  
-*4.00pm – 5.00pm (GMT +8)*
+*4.00pm – 4.50pm (GMT +8)*
 
 *Format: Hybrid - Sands Expo & Convention Centre, MBS Lvl 5 (limited seating) + SICW Virtual Platform*
 

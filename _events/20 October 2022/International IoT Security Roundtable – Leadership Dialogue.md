@@ -13,5 +13,11 @@ third_nav_title: 20 October 2022
 
 To galvanise international efforts towards internationalising a common IoT Security standard, to prevent standard fragmentation, eradicate duplicated evaluation/compliance across borders, and facilitate export.
 
-|**Panelists**    |                                                              |
+|**Speakers**    |                                                              |
+| [Ms Anne Neuberger](/speaker-Anne-Neuberger)  | *Deputy Assistant to the President and Deputy National Security Advisor for Cyber & Emerging Technology*<br>National Security Council, The White House             |
+| [Ms Lindy Cameron](/speaker-Lindy-Cameron)  | *Chief Executive Officer (CEO)*<br>National Cyber Security Centre, United Kingdom             |
+|**<br> Panelists**    |                                                              |
 | [Ms Grace Burkard](/speaker-Grace-Burkard)  | *Director of Operations*<br>ioXt Alliance                  |
+| [Dr Cui Bao Qiu](/speaker-cui-bao-qiu)  | *VP & Chairman of Cybersecurity & Privacy Technical Committee*<br>Xiaomi               |
+|<br> **Moderator**    |                                                              |
+| [Mr Peter Stephens](/moderator-Peter-Stephens)  | *Directorate for Science, Technology and Innovation*<br>OECD           |

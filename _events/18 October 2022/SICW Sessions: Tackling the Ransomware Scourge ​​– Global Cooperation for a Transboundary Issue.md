@@ -9,14 +9,15 @@ third_nav_title: 18 October 2022
 
 
 **18 October 2022 (Tuesday)**  
-*3.00pm – 4.00pm (GMT +8)*
+*3.00pm – 4.30pm (GMT +8)*
 
 *Format: Hybrid - Sands Expo & Convention Centre, MBS Lvl 5 (limited seating) + SICW Virtual Platform*
 
 Ransomware is no longer a sporadic nuisance, affecting a handful of machines. It has been transformed into a massive, systemic threat affecting entire networks of large enterprises. Dominating headlines, ransomware is now a major security and transboundary issue that affects Critical Information Infrastructure (CII) sectors and nations. How can states work together to counter ransomware? What role does the private sector play in these efforts, and how can the public and private sectors work together?
 
-| **Panelists**    |                                                              |
-| [Mr Arne Schönbohm](/speaker-Arne-Schonbohm)  | *President*<br>Federal Office for Information Security (BSI), Germany                 |
+| **Keynote Speaker**    |                                                              |
+| [Hon Tim Watts MP](/speaker-tim-watts)  | *Assistant Minister for Foreign Affairs of Australia*                |
+| <br> **Panelists**    |                                                              |
 | [Mr Craig Jones](/speaker-Craig-Jones)  | *Cybercrime Director*<br>Interpol                 |
 | [Mr Jeff Moss](/speaker-Jeff-Moss)  | *Founder of Black Hat and DEF CON Computer Security Conferences*              |
 | [Mr Koneru Kalyan Chakravarthy](/speaker-Koneru-Kalyan-Chakravarthy)  | *Cyber Security Practice Leader*<br>Microsoft                |

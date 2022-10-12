@@ -7,8 +7,8 @@ description: ""
 
 #### **Mr Joshua Kennedy-White**
 
-*Managing Director*  
-Arqit
+*Board Advisor*  
+Interos
 
 ##### **Biography**
 Josh has enjoyed a 30-year career driving innovation in security and technology across industries from infrastructure, finance and investment, to cyber and national security.

@@ -3,6 +3,8 @@ title: Speaker – Mihoko Matsubara
 permalink: /speaker-Mihoko-Matsubara/
 description: ""
 ---
+![](/images/Speakers/Mihoko%20Matsubara.jpg)
+
 #### **Ms Mihoko Matsubara**
 
 *Chief Cybersecurity Strategist*  

@@ -17,3 +17,5 @@ The number of cyber-attacks around the today’s world continues to rise. As soc
 The Czech Republic holds the presidency of the Council of the European Union in the second half of 2022. The European Union has long been striving to find ways for better protection from cyber-attacks. This requires a global solution since it is a global problem. The Czech Republic has set as one of its priorities during its EU presidency to discuss the possibility to strengthen cyber security at the multilateral fora.   
 
 The Governments of the Czech Republic and Singapore together with ESIWA organise a seminar on the side-lines of Singapore Cyber Week - to exchange views on responsible state behaviour in cyberspace and on the protection of the health sector, which has recently been the target of large number of cyber-attacks globally.
+
+After the Seminar, participants are invited to a Reception at the Foyer. The Reception will start at 5.00pm.

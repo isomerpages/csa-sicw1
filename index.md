@@ -19,34 +19,15 @@ sections:
       button: read more
       url: /about-sicw
   - infopic:
-      title: Mr TEO Chee Hean
-      subtitle: GUEST OF HONOUR
-      description: Senior Minister and Coordinating Minister for National Security,
-        Singapore
-      image: /images/GOH%20-%20Teo%20Chee%20Hean%20v2.png
-      alt: Mr TEO Chee Hean
+      title: SICW 2022 Guests of Honour
+      image: /images/GOH 3.png
+      alt: Image alt text
   - infopic:
-      title: Mrs Josephine TEO
-      subtitle: GUEST OF HONOUR
-      description: Minister for Communications and Information, Second Minister for
-        Home Affairs, Minister-in-charge of Smart Nation and Cybersecurity,
-        Singapore
-      image: /images/GOH%20-%20Josephine%20Teo.png
-      alt: Mrs Josephine TEO
-  - infopic:
-      title: Dr Janil PUTHUCHEARY
-      subtitle: GUEST OF HONOUR
-      description: Senior Minister of State, Ministry of Communications and
-        Information, and Ministry of Health, Singapore
-      image: /images/GOH%20-%20Janil%20P.png
-      alt: Dr Janil PUTHUCHEARY
-  - infopic:
-      title: Mr TAN Kiat How
-      subtitle: GUEST OF HONOUR
-      description: Senior Minister of State, Ministry of Communications and
-        Information, and Ministry of National Development, Singapore
-      image: /images/GOH%20-%20Tan%20K%20H.png
-      alt: Mr TAN Kiat How
+      title: SICW 2022 Distinguished Guests
+      button: More about SICW 2022 events
+      url: /events/calendar-of-events/
+      image: /images/Distinguished Guests SICW 2022.png
+      alt: Image alt text
   - resources:
       title: Past SICW Highlights
       subtitle: Explore

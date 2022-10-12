@@ -15,11 +15,14 @@ Detection and Response capabilities for cybersecurity incident in the Operationa
 
 This session will share insights on the areas involving People, Process and Technology that should be considered to manage tomorrow’s cyber threat detection and response.
 
-|**Panelists**    |                                                              |
+|**Speakers**    |                                                              |
+| [Mr Paul Griswold](/speaker-Paul-Griswold)  | *Chief Product Officer for Cybersecurity*<br>Honeywell                  |
+| [Mr Jeff Blake](/speaker-jeff-blake)  | *Global Head of Engineering*<br>Nozomi Networks                |
+| [Mr Lim Thian Chin](/speaker-lim-thian-chin)  | *Director, Critical Information Infrastructure (CII)*<br>Cybersecurity Agency Singapore (CSA)              |
+| <br> **Panelists**    |                                                              |
 | [Mr Paul Griswold](/speaker-Paul-Griswold)  | *Chief Product Officer for Cybersecurity*<br>Honeywell                  |
 | [Mr Jeff Blake](/speaker-jeff-blake)  | *Global Head of Engineering*<br>Nozomi Networks                |
 | [Mr Vijay Vaidyanathan](/speaker-vijay-vaidyanathan)  | *RVP, Solution Engineering, APJ*<br>Claroty              |
-| [Mr Lim Thian Chin](/speaker-lim-thian-chin)  | *Director, Critical Information Infrastructure (CII)*<br>Cybersecurity Agency Singapore (CSA)              |
 | <br> **Moderator**          |                                                              |
 | [Mr Andre Shori](/moderator-andre-shori)  | *Chief Information Security Officer (APAC)*<br>Schneider Electric                  |
 | | |

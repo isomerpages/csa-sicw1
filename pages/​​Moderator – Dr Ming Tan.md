@@ -3,6 +3,7 @@ title: ​​Moderator – Dr Ming Tan
 permalink: /moderator-dr-ming-tan/
 description: ""
 ---
+![](/images/Speakers/Ming%20Tan.jpg)
 
 #### **Dr Ming Tan**
 
