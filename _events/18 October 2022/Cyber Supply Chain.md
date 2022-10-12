@@ -17,7 +17,7 @@ The Cyber Supply Chain Programme is a national effort that aims to mitigate cybe
 
 This SICW Cyber Supply Chain brings together stakeholders to take a whole of ecosystem approach on what governments, business owners and vendors can do to discuss this complex problem in need of an enhanced and collaborative outcome.
 
-| <br> **Speakers**          |                                                              |
+| **Speakers**          |                                                              |
 | [Ms Erika Lewis](/speaker-erika-lewis)  | *Director, Cyber Security and Digital Identity*<br>Department for Digital, Culture, Media and Sports (DCMS)                  |
 | [Mr Lim Thian Chin](/speaker-lim-thian-chin)  | *Director, Critical Information Infrastructure (CII)*<br>Cyber Security Agency of Singapore                  |
 | <br> **Panelists**    |                                                              |
