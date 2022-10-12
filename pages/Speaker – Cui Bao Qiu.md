@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Speakers/Cui%20Bao%20Qiu.jpg)
 
-#### **Mr Cui Bao Qiu**
+#### **Dr Cui Bao Qiu**
 
 *VP & Chairman of Cybersecurity & Privacy Technical Committee*  
 Xiaomi
