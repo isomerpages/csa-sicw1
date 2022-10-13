@@ -3,10 +3,9 @@ title: Speaker – Juliette Wilcox CMG
 permalink: /speaker-juliette-wilcox/
 description: ""
 ---
-
 ![](/images/Speakers/juliette%20wilcox.jpg)
 
-#### **Dr Juliette Wilcox CMG**
+#### **Juliette Wilcox CMG**
 
 *Cyber Security Ambassador*  
 UK Defence and Security Exports, Department for International Trade
