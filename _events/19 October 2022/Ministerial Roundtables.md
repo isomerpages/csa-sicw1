@@ -16,8 +16,11 @@ third_nav_title: 19 October 2022
 **Ministerial Roundtable I - “Cyber Resilience in the New Normal”** 
 <br>The growing intersection of the cyber and physical domains poses risks as well as opportunities. Cyber security is increasingly a core facet of national security, with government institutions and critical infrastructure facing targeted disruptions and ransomware attacks. At the same time, states and private companies have yet to settle on a common set of “rules of the road” for engagement in cyberspace. How can governments work together, and with industry, to address these challenges given their transboundary nature?
 
-| **Speaker**    |                                                              |
+| **Speakers**    |                                                              |
 | [Hon Ursula Owusu-Ekuful](/speaker-Ursula-Owusu-Ekuful)  | *Minister of Communications and Digitalisation, Ghana*                  |
+| [Dr Artur Lyukmanov](/speaker-Dr-Artur Lyukmanov)  | *Acting Director of the Russian Ministry of Foreign Affairs Department on International Information Security, Russia*                  |
+| **Moderator**    |                                                              |
+| [Mr David Koh](/moderator-david-koh)  | *Commissioner of Cybersecurity <br>Chief Executive, Cyber Security Agency of Singapore <br>Chief (Digital Security & Technology), Ministry of Communications and Information, Singapore*                  |
 
 **Ministerial Roundtable II - “Safeguarding a Shared Digital Future”** 
 <br>Increased connectivity and digitalisation has made the Internet and technology as ubiquitous as energy. Furthermore, considering the Internet’s cross-boundary nature, some might liken the Internet to the sea or the air. However, unlike traditional physical resources, the responsibilities of governing and securing the Internet are not clear. What are the priority digital challenges that leaders should tackle at the highest level? What principles and practices can government and industry align on to build trust in the Internet? Should digital be considered a common need? How can the public and private sectors collaborate to secure the digital commons?
