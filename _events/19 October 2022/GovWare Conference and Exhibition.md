@@ -32,6 +32,7 @@ Details on GovWare 2022 and passes at https://www.govware.sg<a href="https://www
 | [Mr Clive Finlay](/speaker-clive-finlay)  | *Chief Technology Officer, EMEA and APJ*<br>Broadcom Software      |
 | [Mr Joel Moses](/speaker-joel-moses)  | *Chief Technology Officer, Platforms and Systems & Distinguished Engineer*<br>F5      |
 | [Mr Kumar Ritesh](/speaker-kumar-ritesh)  | *Founder and Chief Executive Officer*<br>Cyfirma      |
+| [Mr Ed Soo Hoo](/speaker-ed-soo-hoo)  | *Chief Technology Officer, WW Global Accounts*<br>Lenovo      |
 | <br> **Moderator**          |                                                              |
 | [Ms Stanley Tsang](/moderator-stanley-tsang)  | *Distinguished Engineer and Senior Director (Special Projects)*<br>Cyber Security Agency of Singapore                  |
 | | |
