@@ -24,7 +24,7 @@ After the Seminar, participants are invited to a Reception at the Foyer. The Rec
 | [Mr Martin Dvořák](/speaker-martin-Dvorak)  | *Deputy Minister of Foreign Affairs*<br>Ministry of Foreign Affairs of the Czech Republic                 |
 | [Mr Tanel Sepp](/speaker-tanel-sepp)  | *Ambassador at Large for Cyber Diplomacy*<br>Ministry of Foreign Affairs, Estonia                 |
 | [Mrs Joanneke Balfoort](/speaker-Joanneke-Balfoort)  | *Director, SECDEFPOL DMD - Security and Defence Policy*<br>EEAS European External Action Service                 |
-| [col. Radek Nezbeda](/speaker-col-Radek-Nezbeda)  | *Deputy Director*<br>National organised crime agency                 |
+| [col Radek Nezbeda](/speaker-col-Radek-Nezbeda)  | *Deputy Director*<br>National organised crime agency                 |
 | [Mr Pavel Zeman](/speaker-pavel-zeman)  | *Public Prosecutor*<br>Prosecutor General's Office of the Czech Republic                |
 | [Ms Emma Raffray](/speaker-emma-raffray)  | *Senior Analyst*<br>CyberPeace Institute             |
 | <br>**Panelists**    |                                                              |
