@@ -21,7 +21,7 @@ The SICW Women in Cyber event will be held on 20 October 2022. In its fourth edi
 | [Dr Dorit Dor](/speaker-dr-dorit-Dor)  | *Chief Product Officer, R&D*<br>Check Point Software Technologies Ltd.                 |
 | [Ms Gwenda Fong](/speaker-gwenda-fong)  | *Assistant Chief Executive, Strategic Planning & Readiness*<br>Infocomm Media Development Authority of Singapore (IMDA)                 |
 | [Ms Kemba Walden](/speaker-kemba-walden)  | *Principal Deputy National Cyber Director*<br>The White House                 |
-| [Dr Juliette Wilcox CMG](/speaker-dr-juliette-wilcox)  | *Cyber Security Ambassador*<br>UK Defence and Security Exports, Department for International Trade                 |
+| [Ms Juliette Wilcox CMG](/speaker-juliette-wilcox)  | *Cyber Security Ambassador*<br>UK Defence and Security Exports, Department for International Trade                 |
 | [Ms Abigail Bradshaw](/speaker-Abigail-Bradshaw)  | *Head*<br>Australian Cyber Security Centre                 |
 | <br> **Moderator**          |                                                              |
 | [Dr Anuradha Rao](/moderator-dr-anuradha-rao)  | *Founder*<br>CyberCognizanz                  |
