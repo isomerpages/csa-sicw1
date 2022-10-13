@@ -3,6 +3,7 @@ title: Speaker – Anne Neuberger
 permalink: /speaker-Anne-Neuberger/
 description: ""
 ---
+![](/images/Speakers/Anne%20Neuberger.jpg)
 #### **Ms Anne Neuberger**
 
 *Deputy Assistant to the President and Deputy National Security Advisor for Cyber & Emerging Technology*  
