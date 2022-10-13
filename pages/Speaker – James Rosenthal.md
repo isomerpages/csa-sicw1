@@ -5,7 +5,7 @@ description: ""
 ---
 #### **Mr James Rosenthal**
 
-*CEO*  
+*CEO & Co-Founder*  
 BlueVoyant
 
 ##### **Biography**
