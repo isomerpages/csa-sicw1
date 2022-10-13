@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Speakers/col%20Radek%20Nezbeda.jpg)
 
-#### **col. Radek Nezbeda**
+#### **col Radek Nezbeda**
 
 *Deputy Director*  
 National organised crime agency
