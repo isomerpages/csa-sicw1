@@ -5,7 +5,6 @@ description: ""
 ---
 ![](/images/Speakers/Marjo%20Baayen.jpg)
 
-
 #### **Ms Marjo Baayen**
 *Director*  
 Global Forum Cyber Expertise (GFCE) Foundation Board
