@@ -17,7 +17,7 @@ Join top policymakers, global business and industry leaders in discussion on the
 
 Details on GovWare 2022 and passes at https://www.govware.sg<a href="https://www.govware.sg" target="_blank"></a>.
 
-|**Panelists**    |                                                              |
+|**Keynote Speakers**    |                                                              |
 | [Mr Brad Arkin](/speaker-brad-arkin)  | *SVP and Chief Security and Trust Officer*<br>Cisco                |
 | [Ms Michaela Browning](/speaker-michaela-browning)  | *Vice President, Government Affairs and Public Policy*<br>Google Asia Pacific                |
 | [Mr Goh Eng Choon](/speaker-goh-eng-choon)  | *President, Cyber*<br>ST Engineering                |
@@ -27,10 +27,11 @@ Details on GovWare 2022 and passes at https://www.govware.sg<a href="https://www
 | [Mr John Suffolk](/speaker-john-suffolk)  | *President, Global Cyber Security & Privacy Officer (GSPO)*<br>Huawei            |
 | [Dr Juliette Wilcox CMG](/speaker-dr-juliette-wilcox/)  | *Cyber Security Ambassador*<br>UK Defence and Security Exports, Department for International Trade            |
 | [Mr Ed Soo Hoo](/speaker-ed-soo-hoo)  | *Chief Technology Officer, WW Global Accounts*<br>Lenovo            |
-| <br> **Moderators**          |                                                              |
-| [Ms Stanley Tsang](/moderator-stanley-tsang)  | *Distinguished Engineer and Senior Director (Special Projects)*<br>Cyber Security Agency of Singapore                  |
+| <br> **Keynote Panelists**          |                                                              |
 | [Mr Damian Chung](/moderator-damian-chung)  | *Business Information Security Officer*<br>Netskope      |
 | [Mr Clive Finlay](/moderator-clive-finlay)  | *Chief Technology Officer, EMEA and APJ*<br>Broadcom Software      |
 | [Mr Joel Moses](/moderator-joel-moses)  | *Chief Technology Officer, Platforms and Systems & Distinguished Engineer*<br>F5      |
 | [Mr Kumar Ritesh](/moderator-kumar-ritesh)  | *Founder and Chief Executive Officer*<br>Cyfirma      |
+| <br> **Moderator**          |                                                              |
+| [Ms Stanley Tsang](/moderator-stanley-tsang)  | *Distinguished Engineer and Senior Director (Special Projects)*<br>Cyber Security Agency of Singapore                  |
 | | |
