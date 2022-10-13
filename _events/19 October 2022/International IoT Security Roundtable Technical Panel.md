@@ -20,3 +20,6 @@ The increasing proliferation of IoT in medical domain, has garnered strong inter
 | [A/Prof (Dr) Raymond Chua](/speaker-raymond-chua)  | *Deputy Director of Medical Services, Health Regulation Group, Asst. Commissioner Cybersecurity - Healthcare*<br> Ministry of Health                 |
 | [Mr Rob Suárez](/speaker-Rob-Suarez)  | *VP, Chief Information Security Officer*<br>Becton Dickinson (BD) Company               |
 | [Mr Chang Kai Fan](/speaker-chang-kai-fan)  | *COO Asia, CLS Certification Lab*<br>SGS Brightsight               |
+| <br> **Moderator**          |                                                              |
+| [Mr Teo Xiang Zheng](/moderator-Teo-Xiang-Zheng)  | *Governor*<br>IoT Standards               |
+| | |
