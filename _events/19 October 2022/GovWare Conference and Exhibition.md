@@ -26,7 +26,6 @@ Details on GovWare 2022 and passes at https://www.govware.sg<a href="https://www
 | [Mr Bryan Palma](/speaker-bryan-palma)  | *Chief Executive Officer*<br>Trellix            |
 | [Mr John Suffolk](/speaker-john-suffolk)  | *President, Global Cyber Security & Privacy Officer (GSPO)*<br>Huawei            |
 | [Ms Juliette Wilcox CMG](/speaker-juliette-wilcox/)  | *Cyber Security Ambassador*<br>UK Defence and Security Exports, Department for International Trade            |
-| [Mr Ed Soo Hoo](/speaker-ed-soo-hoo)  | *Chief Technology Officer, WW Global Accounts*<br>Lenovo            |
 | <br> **Keynote Speakers**          |                                                              |
 | [Mr Damian Chung](/speaker-damian-chung)  | *Business Information Security Officer*<br>Netskope      |
 | [Mr Clive Finlay](/speaker-clive-finlay)  | *Chief Technology Officer, EMEA and APJ*<br>Broadcom Software      |
