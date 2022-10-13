@@ -19,5 +19,6 @@ To galvanise international efforts towards internationalising a common IoT Secur
 |**<br> Panelists**    |                                                              |
 | [Ms Grace Burkard](/speaker-Grace-Burkard)  | *Director of Operations*<br>ioXt Alliance                  |
 | [Dr Cui Bao Qiu](/speaker-cui-bao-qiu)  | *VP & Chairman of Cybersecurity & Privacy Technical Committee*<br>Xiaomi               |
+| [Mr Tahata Shinya](/speaker-tahata-shinya)  | *Director, Office of the Director-General for Cybersecurity*<br>Ministry of Internal Affairs and Communications, Japan              |
 |<br> **Moderator**    |                                                              |
 | [Mr Peter Stephens](/moderator-Peter-Stephens)  | *Directorate for Science, Technology and Innovation*<br>OECD           |
