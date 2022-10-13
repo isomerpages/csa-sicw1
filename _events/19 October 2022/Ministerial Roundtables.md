@@ -29,6 +29,7 @@ third_nav_title: 19 October 2022
 | [Mr Shamhary Mustapha](/speaker-Shamhary-Mustapha)  | *Minister of Transport and Infocommunications, Brunei*                  |
 | [Mr Guillaume Poupard](/speaker-Guillaume-Poupard)  | *Director-General, National Agency for Security of Information Systems, France*                  |
 | [Hon David Clark](/speaker-david-clark)  | *Minister for Digital Economy and Communications, New Zealand*                  |
+| [Ms Anne Neuberger](/speaker-Anne-Neuberger/)  | *Deputy Assistant to the President and Deputy National Security Advisor for Cyber & Emerging Technology*<br>National Security Council, The White House                  |
 
 **Ministerial Roundtable III - “Building Confidence and Trust in Cyberspace”**
 <br>Cyber-attacks have developed in scale, sophistication and impact. In addition, recent geopolitical developments have increased tensions and risks of conflict arising from misunderstandings and misperception of cyber incidents. It is especially in such times that we should preserve avenues for dialogue, build up habits of cooperation and mutual trust, through an open and transparent exchange of views so that we reduce the risk of misunderstanding, escalation, and thus conflict in cyberspace.
