@@ -25,5 +25,8 @@ third_nav_title: 19 October 2022
 **Ministerial Roundtable II - “Safeguarding a Shared Digital Future”** 
 <br>Increased connectivity and digitalisation has made the Internet and technology as ubiquitous as energy. Furthermore, considering the Internet’s cross-boundary nature, some might liken the Internet to the sea or the air. However, unlike traditional physical resources, the responsibilities of governing and securing the Internet are not clear. What are the priority digital challenges that leaders should tackle at the highest level? What principles and practices can government and industry align on to build trust in the Internet? Should digital be considered a common need? How can the public and private sectors collaborate to secure the digital commons?
 
+| **Speakers**    |                                                              |
+| [Mr Shamhary Mustapha](/speaker-Shamhary-Mustapha)  | *Minister of Transport and Infocommunications, Brunei*                  |
+
 **Ministerial Roundtable III - “Building Confidence and Trust in Cyberspace”**
 <br>Cyber-attacks have developed in scale, sophistication and impact. In addition, recent geopolitical developments have increased tensions and risks of conflict arising from misunderstandings and misperception of cyber incidents. It is especially in such times that we should preserve avenues for dialogue, build up habits of cooperation and mutual trust, through an open and transparent exchange of views so that we reduce the risk of misunderstanding, escalation, and thus conflict in cyberspace.
