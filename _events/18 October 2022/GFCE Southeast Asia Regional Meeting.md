@@ -19,4 +19,3 @@ The second Global Forum on Cyber Expertise (GFCE) Southeast Asia Regional Meetin
 | <br>**Panelists**    |                                                              |
 | [Mr Le Quang Lan](/speaker-Le-Quang-Lan)  | *Director, Market Integration Directorate*<br>Cyber Security Agency Singapore (CSA)                |
 | [Mr Francesco Mancini](/speaker-Francesco-Mancini)  | *Vice Dean (Executive Education) and Associate Professor in Practice*<br>Lee Kuan Yew School of Public Policy (LKYSPP)                |
-
