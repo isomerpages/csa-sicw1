@@ -19,6 +19,7 @@ third_nav_title: 19 October 2022
 | **Speakers**    |                                                              |
 | [Hon Ursula Owusu-Ekuful](/speaker-Ursula-Owusu-Ekuful)  | *Minister of Communications and Digitalisation, Ghana*                  |
 | [Dr Artur Lyukmanov](/speaker-Dr-Artur-Lyukmanov)  | *Acting Director of the Russian Ministry of Foreign Affairs Department on International Information Security, Russia*                  |
+| [Ivan John Uy](/speaker-ivan-john)  | *Secretary of Information and Communications Technology, Philippines*                  |
 | **Moderator**    |                                                              |
 | [Mr David Koh](/moderator-david-koh)  | *Commissioner of Cybersecurity <br>Chief Executive, Cyber Security Agency of Singapore <br>Chief (Digital Security & Technology), Ministry of Communications and Information, Singapore*                  |
 
