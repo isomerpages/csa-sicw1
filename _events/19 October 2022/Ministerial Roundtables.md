@@ -35,4 +35,4 @@ third_nav_title: 19 October 2022
 <br>Cyber-attacks have developed in scale, sophistication and impact. In addition, recent geopolitical developments have increased tensions and risks of conflict arising from misunderstandings and misperception of cyber incidents. It is especially in such times that we should preserve avenues for dialogue, build up habits of cooperation and mutual trust, through an open and transparent exchange of views so that we reduce the risk of misunderstanding, escalation, and thus conflict in cyberspace.
 
 | **Moderator**    |                                                              |
-| [Mr Alan Goh](/moderator-alan-goh)  | *Deputy Secretary (Development & Resilience), <br> Ministry of Communications and Information, Singapore*                  |
+| [Mr Alan Goh](/moderator-alan-goh)  | *Deputy Secretary (Development & Resilience), <br>Ministry of Communications and Information, Singapore*                  |
