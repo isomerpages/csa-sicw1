@@ -21,5 +21,5 @@ The increasing proliferation of IoT in medical domain, has garnered strong inter
 | [Mr Rob Suárez](/speaker-Rob-Suarez)  | *VP, Chief Information Security Officer*<br>Becton Dickinson (BD) Company               |
 | [A/Prof Low Cheng Ooi](/speaker-low-cheng-ooi)  | *Chief Technology Officer*<br>Sheares Healthcare Group                 |
 | <br> **Moderator**          |                                                              |
-| [Mr Teo Xiang Zheng](/moderator-Teo-Xiang-Zheng)  | *Governor*<br>IoT Standards               |
+| [Mr Teo Xiang Zheng](/moderator-Teo-Xiang-Zheng)  | *VP, Head of Advisory*<br>Ensign Infosecurity               |
 | | |
