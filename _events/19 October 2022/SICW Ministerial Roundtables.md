@@ -17,7 +17,7 @@ third_nav_title: 19 October 2022
 <br>The growing intersection of the cyber and physical domains poses risks as well as opportunities. Cyber security is increasingly a core facet of national security, with government institutions and critical infrastructure facing targeted disruptions and ransomware attacks. At the same time, states and private companies have yet to settle on a common set of “rules of the road” for engagement in cyberspace. How can governments work together, and with industry, to address these challenges given their transboundary nature?
 
 | **Panelists**    |                                                              |
-| [Hon Ursula Owusu-Ekuful](/speaker-Ursula-Owusu-Ekuful)  | *Minister of Communications and Digitalisation, Ghana*                  |
+| [Hon Ursula Owusu-Ekuful](/speaker-Ursula-Owusu-Ekuful)  | *Minister for Communications and Digitalisation, Ghana*                  |
 | [Dr Artur Lyukmanov](/speaker-Dr-Artur-Lyukmanov)  | *Acting Director of the Russian Ministry of Foreign Affairs Department on International Information Security, Russia*                  |
 | [Mr Ivan John Uy](/speaker-ivan-john)  | *Secretary of Information and Communications Technology, Philippines*                  |
 | [Mr Gerardo Isaac Morales Tenorio](/speaker-Isaac-Morales)  | *Coordinator for Multidimensional Security, Ministry of Foreign Affairs, Mexico*                  |
