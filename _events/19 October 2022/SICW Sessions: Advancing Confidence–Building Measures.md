@@ -1,10 +1,10 @@
 ---
-title: "SICW Sessions: Building Confidence and Trust in Cyberspace"
-permalink: /events/19-October-2022/building-confidence-and-trust-in-cyberspace/
+title: "SICW Sessions: Advancing Confidence–Building Measures"
+permalink: /events/19-October-2022/advancing-confidence-building-measures/
 description: ""
 third_nav_title: 19 October 2022
 ---
-#### **SICW Sessions: Building Confidence and Trust in Cyberspace**
+#### **SICW Sessions: Advancing Confidence-Building Measures**
 
 **19 October 2022 (Wednesday)**  
 *2.45pm – 3.35pm (GMT +8)*

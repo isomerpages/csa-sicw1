@@ -3,8 +3,7 @@ title: Moderator – Paul O'Rourke
 permalink: /moderator-paul-orourke/
 description: ""
 ---
-
-<!-- ![](/images/Speakers/Paul%20ORourke%20.jpg) !-->
+![](/images/Speakers/Paul%20O'Rourke.jpg)
 
 #### **Mr Paul O’Rourke**
 

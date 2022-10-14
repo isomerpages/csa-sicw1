@@ -8,7 +8,7 @@ description: ""
 #### **A/Prof (Dr) Raymond Chua**
 
 *Deputy Director of Medical Services, Health Regulation Group, Asst. Commissioner Cybersecurity - Healthcare*  
-Ministry of Health
+Ministry of Health Singapore
 
 ##### **Biography**
 Adj A/Prof (Dr) Raymond Chua is a Registered Public Health Specialist and Fellow with the Academy of Medicine. He is currently the Deputy Director of Medical Services, Health Regulation Group overseeing the regulation of healthcare services, premises and health digitalization in Singapore, so as to safeguard public health, assure patient safety and ensure healthcare innovations.

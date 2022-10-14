@@ -17,12 +17,14 @@ The Cyber Supply Chain Programme is a national effort that aims to mitigate cybe
 
 This SICW Cyber Supply Chain brings together stakeholders to take a whole of ecosystem approach on what governments, business owners and vendors can do to discuss this complex problem in need of an enhanced and collaborative outcome.
 
-| **Speakers**          |                                                              |
+| **Keynote Speaker**          |                                                              |
 | [Ms Erika Lewis](/speaker-erika-lewis)  | *Director, Cyber Security and Digital Identity*<br>Department for Digital, Culture, Media and Sports (DCMS)                  |
+| **Speaker**          |                                                              |
 | [Mr Lim Thian Chin](/speaker-lim-thian-chin)  | *Director, Critical Information Infrastructure (CII)*<br>Cyber Security Agency of Singapore                  |
 | <br> **Panelists**    |                                                              |
+| [Ms Erika Lewis](/speaker-erika-lewis)  | *Director, Cyber Security and Digital Identity*<br>Department for Digital, Culture, Media and Sports (DCMS)                  |
 | [Mr Keng Seng Wei](/speaker-Keng-Seng-Wei)  | *Chief Information Security Officer, Managing Director*<br>Development Bank of Singapore (DBS)              |
-| [Mr James Rosenthal](/speaker-James-Rosenthal)  | *CEO*<br>BlueVoyant        |
+| [Mr James Rosenthal](/speaker-James-Rosenthal)  | *CEO & Co-Founder*<br>BlueVoyant        |
 | [Mr Joshua Kennedy-White](/speaker-Joshua-Kennedy-White)  | *Board Advisor*<br>Interos        |
 | <br> **Moderator**          |                                                              |
 | [Mr Paul O’Rourke](/moderator-paul-orourke)  | *Managing Director & Partner*<br>Boston Consulting Group (BCG)                  |

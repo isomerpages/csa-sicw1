@@ -18,10 +18,11 @@ Ransomware is no longer a sporadic nuisance, affecting a handful of machines. It
 | **Keynote Speaker**    |                                                              |
 | [Hon Tim Watts MP](/speaker-tim-watts)  | *Assistant Minister for Foreign Affairs of Australia*                |
 | <br> **Panelists**    |                                                              |
+| [Dr Regine Grienberger](/speaker-dr-Regine-Grienberger)  | *Cyber Ambassador*<br>German Federal Foreign Office                |
+| [Mr Gregory Bunghardt](/speaker-Gregory-Bunghardt)  | *Acting Director, National Cyber Security Directorate, Public Safety Canada*                |
 | [Mr Craig Jones](/speaker-Craig-Jones)  | *Cybercrime Director*<br>Interpol                 |
 | [Mr Jeff Moss](/speaker-Jeff-Moss)  | *Founder of Black Hat and DEF CON Computer Security Conferences*              |
 | [Mr Koneru Kalyan Chakravarthy](/speaker-Koneru-Kalyan-Chakravarthy)  | *Cyber Security Practice Leader*<br>Microsoft                |
-| [Mr Sami Khoury](/speaker-Sami-Khoury)  | *Head*<br>Canadian Centre for Cyber Security                 |
 | <br> **Moderator**          |                                                              |
 | [Mr Benjamin Ang](/moderator-benjamin-ang)  | *Senior Fellow and Deputy Head*<br>Centre of Excellence for National Security (CENS) at RSIS                 |
 | | |
