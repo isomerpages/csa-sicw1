@@ -21,7 +21,7 @@ The Governments of the Czech Republic and Singapore together with ESIWA organise
 After the Seminar, participants are invited to a Reception at the Foyer. The Reception will start at 5.00pm.
 
 | **Speakers**    |                                                              |
-| [Mr Martin Dvořák](/speaker-martin-Dvorak)  | *Deputy Minister of Foreign Affairs*<br>Ministry of Foreign Affairs of the Czech Republic                 |
+| [H.E. Martin Dvořák](/speaker-martin-Dvorak)  | *Deputy Minister of Foreign Affairs*<br>Ministry of Foreign Affairs of the Czech Republic                 |
 | [Mr Tanel Sepp](/speaker-tanel-sepp)  | *Ambassador at Large for Cyber Diplomacy*<br>Ministry of Foreign Affairs, Estonia                 |
 | [Mrs Joanneke Balfoort](/speaker-Joanneke-Balfoort)  | *Director, SECDEFPOL DMD - Security and Defence Policy*<br>EEAS European External Action Service                 |
 | [Col Radek Nezbeda](/speaker-col-Radek-Nezbeda)  | *Deputy Director*<br>National Centre for Combating Organised Crime                 |
