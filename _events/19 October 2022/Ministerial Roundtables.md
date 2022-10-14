@@ -29,7 +29,6 @@ third_nav_title: 19 October 2022
 
 | **Panelists**    |                                                              |
 | [Mr Shamhary Mustapha](/speaker-Shamhary-Mustapha)  | *Minister of Transport and Infocommunications, Brunei*                  |
-| [Mr Guillaume Poupard](/speaker-Guillaume-Poupard)  | *Director-General, National Agency for Security of Information Systems, France*                  |
 | [Hon David Clark](/speaker-david-clark)  | *Minister for Digital Economy and Communications, New Zealand*                  |
 | [Ms Anne Neuberger](/speaker-Anne-Neuberger/) (Virtual Speaker) | *Deputy Assistant to the President and Deputy National Security Advisor for Cyber & Emerging Technology*<br>National Security Council, The White House                  |
 | <br>**Moderator**    |                                                              |
