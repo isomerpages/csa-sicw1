@@ -23,6 +23,7 @@ The SICW Women in Cyber event will be held on 20 October 2022. In its fourth edi
 | [Ms Kemba Walden](/speaker-kemba-walden)  | *Principal Deputy National Cyber Director*<br>The White House                 |
 | [Ms Juliette Wilcox CMG](/speaker-juliette-wilcox)  | *Cyber Security Ambassador*<br>UK Defence and Security Exports, Department for International Trade                 |
 | [Ms Abigail Bradshaw](/speaker-Abigail-Bradshaw)  | *Head*<br>Australian Cyber Security Centre                 |
+| [Clar Rosso](/speaker-clar-rosso)  | *Chief Executive Officer*<br>(ISC)²                |
 | <br> **Moderator**          |                                                              |
 | [Dr Anuradha Rao](/moderator-dr-anuradha-rao)  | *Founder*<br>CyberCognizanz                  |
 | [Dr Ming Tan](/moderator-dr-ming-tan)  | *Founding Executive Director*<br>Tech for Good Institute                  |
