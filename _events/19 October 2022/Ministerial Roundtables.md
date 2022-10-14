@@ -21,7 +21,7 @@ third_nav_title: 19 October 2022
 | [Dr Artur Lyukmanov](/speaker-Dr-Artur-Lyukmanov)  | *Acting Director of the Russian Ministry of Foreign Affairs Department on International Information Security, Russia*                  |
 | [Mr Ivan John Uy](/speaker-ivan-john)  | *Secretary of Information and Communications Technology, Philippines*                  |
 | [Mr Gerardo Isaac Morales Tenorio](/speaker-Isaac-Morales)  | *Coordinator for Multidimensional Security, Ministry of Foreign Affairs, Mexico*                  |
-| **Moderator**    |                                                              |
+| <br>**Moderator**    |                                                              |
 | [Mr David Koh](/moderator-david-koh)  | *Commissioner of Cybersecurity <br>Chief Executive, Cyber Security Agency of Singapore <br>Chief (Digital Security & Technology), Ministry of Communications and Information, Singapore*                  |
 
 **Ministerial Roundtable II - “Safeguarding a Shared Digital Future”** 
@@ -32,12 +32,14 @@ third_nav_title: 19 October 2022
 | [Mr Guillaume Poupard](/speaker-Guillaume-Poupard)  | *Director-General, National Agency for Security of Information Systems, France*                  |
 | [Hon David Clark](/speaker-david-clark)  | *Minister for Digital Economy and Communications, New Zealand*                  |
 | [Ms Anne Neuberger](/speaker-Anne-Neuberger/) (Virtual Speaker) | *Deputy Assistant to the President and Deputy National Security Advisor for Cyber & Emerging Technology*<br>National Security Council, The White House                  |
-| **Moderator**    |                                                              |
+| <br>**Moderator**    |                                                              |
 | [Ms Yong Ying–I](/moderator-yong-ying-I)  | *Senior Advisor*<br>Ministry of Communications and Information, Singapore 
                   |
 
 **Ministerial Roundtable III - “Building Confidence and Trust in Cyberspace”**
 <br>Cyber-attacks have developed in scale, sophistication and impact. In addition, recent geopolitical developments have increased tensions and risks of conflict arising from misunderstandings and misperception of cyber incidents. It is especially in such times that we should preserve avenues for dialogue, build up habits of cooperation and mutual trust, through an open and transparent exchange of views so that we reduce the risk of misunderstanding, escalation, and thus conflict in cyberspace.
 
-| **Moderator**    |                                                              |
+| **Speaker**    |                                                              |
+| [Mr Wang Lei](/speaker-wang-lei)  | *Coordinator for Cyber Affairs*<br>Ministry of Foreign Affairs, China                  |
+| <br>**Moderator**    |                                                              |
 | [Mr Alan Goh](/moderator-alan-goh)  | *Deputy Secretary (Development & Resilience), <br>Ministry of Communications and Information, Singapore*                  |
