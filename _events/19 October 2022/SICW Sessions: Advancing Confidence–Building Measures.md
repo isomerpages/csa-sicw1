@@ -4,8 +4,7 @@ permalink: /events/19-October-2022/advancing-confidence-building-measures/
 description: ""
 third_nav_title: 19 October 2022
 ---
-
-#### **SICW Sessions: Advancing Confidence - Building Measures**
+#### **SICW Sessions: Advancing Confidence-Building Measures**
 
 **19 October 2022 (Wednesday)**  
 *2.45pm – 3.35pm (GMT +8)*
