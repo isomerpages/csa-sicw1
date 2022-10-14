@@ -3,6 +3,8 @@ title: ​​Moderator – Marta Pelechová
 permalink: /moderator-Marta-Pelechova/
 description: ""
 ---
+![](/images/Speakers/Marta%20Pelechová.jpg)
+
 #### **Mrs Marta Pelechová**
 
 *International Dossiers Coordinator*  
