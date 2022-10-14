@@ -3,13 +3,12 @@ title: Moderator – Teo Xiang Zheng
 permalink: /moderator-Teo-Xiang-Zheng/
 description: ""
 ---
-
 ![](/images/Speakers/Teo%20Xiang%20Zheng.jpg)
 
 #### **Mr Teo Xiang Zheng**
 
-*Governor*  
-IoT Standards
+*VP, Head of Advisory*  
+Ensign Infosecurity
 
 ##### **Biography**
 Teo Xiang Zheng is the VP, Head of Advisory at Ensign InfoSecurity (Ensign), one of Asia’s largest pure-play cybersecurity firms.
