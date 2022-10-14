@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Speakers/Ivan%20John%20UY.jpg)
 
-#### **Mr Ivan John UY**
+#### **Mr Ivan John Uy**
 
 *Secretary of Information and Communications Technology, Philippines*  
 
