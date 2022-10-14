@@ -4,7 +4,7 @@ permalink: /events/19-October-2022/ministerial-roundtables/
 description: ""
 third_nav_title: 19 October 2022
 ---
-#### **Ministerial Roundtables**
+#### **SICW Ministerial Roundtables**
  
 **19 October 2022 (Wednesday)**  
 *9.30am – 12.15pm (GMT +8)*
