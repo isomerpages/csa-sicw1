@@ -7,9 +7,6 @@ description: ""
 
 #### **Mr Ivan John UY**
 
-*APAC CISO - Director, Office of the CISO*  
-Google Cloud Asia-Pacific
-
 ##### **Biography**
 * As the Secretary of Information and Communications, he leads the nation in advancing the national ICT agenda and promoting digital transformation.
 * Served as the Chairman of the Commission on Information and Communications Technology, the predecessor of the Department of Information and Communications Technology, during the Presidency of Benigno Simeon C. Aquino III.
