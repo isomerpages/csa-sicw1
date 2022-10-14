@@ -4,6 +4,7 @@ permalink: /speaker-Kemba-Walden/
 description: ""
 ---
 ![](/images/Speakers/Kemba%20walden.jpg)
+
 #### **Ms Kemba Walden**
 
 *Principal Deputy National Cyber Director*  
