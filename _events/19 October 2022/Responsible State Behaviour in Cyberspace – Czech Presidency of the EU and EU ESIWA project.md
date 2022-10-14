@@ -28,6 +28,9 @@ After the Seminar, participants are invited to a Reception at the Foyer. The Rec
 | [Mr Pavel Zeman](/speaker-pavel-zeman)  | *Public Prosecutor*<br>Prosecutor General's Office of the Czech Republic                |
 | [Ms Emma Raffray](/speaker-emma-raffray)  | *Senior Analyst*<br>CyberPeace Institute             |
 | [Mrs Joanneke Balfoort](/speaker-Joanneke-Balfoort)  | *Director, SECDEFPOL DMD - Security and Defence Policy*<br>EEAS European External Action Service                 |
+| [Mr David Koh](/moderator-david-koh)  | *Commissioner of Cybersecurity<br>Chief Executive, Cyber Security Agency of Singapore<br>Chief (Digital Security & Technology), Ministry of Communications and Information, Singapore*                 |
+| [Ms Irene Tan](/speaker-irene-tan)  | *Director, IT Services, Infocomm Division (IFC)*<br>Ministry of Health, Singapore                 |
+| [Mr Sithuraj Ponraj](/speaker-Sithuraj-Ponraj)  | *Director, International Cyber Policy Office*<br>Cyber Security Agency of Singapore                 |
 | <br> **Moderators**          |                                                              |
 | [Mr Richard Kadlčák](/moderator-richard-Kadlcak)  | *Special Envoy for Cyber Space and Director of Cyber Security Department*<br>Ministry of Foreign Affairs of the Czech Republic                 |
 | [Mrs Marta Pelechová](/moderator-Marta-Pelechova)  | *International Dossiers Coordinator*<br>Ministry of Justice of the Czech Republic                |
