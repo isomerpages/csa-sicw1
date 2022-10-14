@@ -16,8 +16,10 @@ third_nav_title: 19 October 2022
 This session aims to touch on the governance of digital infrastructure and to explore how public and private sector stakeholders can collaborate to achieve common security interests.
 
 | **Panelists**    |                                                              |
+| [Deputy Secretary Marc Ablong PSM](/speaker-marc-ablong)  | *Deputy Secretary, Strategy and National Resilience / Cyber Security Coordinator*<br>Department of Home Affairs, Australia               |
+| [Mr Viktor Zhora](/speaker-viktor-zhora)  | *Deputy Chairman and Chief Digital Transformation Officer*               |
+| [Amb Nathalie Jaarsma](/speaker-Nathalie-Jaarsma)  | *Ambassador at-Large for Security Policy and Cyber, the Kingdom of the Netherlands*<br>State Service of Special Communication and Information Protection of Ukraine               |
 | [Mr He Run](/speaker-he-run)  | *Solution Architect Lead, Channel Ecosystem*<br>Alibaba Cloud               |
-| [Amb Nathalie Jaarsma](/speaker-Nathalie-Jaarsma)  | *Ambassador at-Large for Security Policy and Cyber, the Kingdom of the Netherlands*               |
 | <br> **Moderator**          |                                                              |
 | [Ms Mihoko Matsubara](/moderator-Mihoko-Matsubara)  | *Chief Cybersecurity Strategist*<br>NTT Corporation            |
 | | |
