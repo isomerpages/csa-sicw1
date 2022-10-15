@@ -7,7 +7,7 @@ third_nav_title: 20 October 2022
 #### **Raising the Bar: Building Consensus for Consumer IoT Device Security**
  
 **20 October 2022 (Thursday)**  
-*3.00pm – 4.00pm (GMT +8)*
+*3.30pm – 4.30pm (GMT +8)*
 
 *Format: Hybrid*
 
