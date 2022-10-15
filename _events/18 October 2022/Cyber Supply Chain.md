@@ -20,7 +20,7 @@ This SICW Cyber Supply Chain brings together stakeholders to take a whole of eco
 | **Keynote Speaker**          |                                                              |
 | [Ms Erika Lewis](/speaker-erika-lewis)  | *Director, Cyber Security and Digital Identity*<br>Department for Digital, Culture, Media and Sports (DCMS)                  |
 | **Speaker**          |                                                              |
-| [Mr Lim Thian Chin](/speaker-lim-thian-chin)  | *Director, Critical Information Infrastructure (CII)*<br>Cyber Security Agency of Singapore                  |
+| [Mr Lim Thian Chin](/speaker-lim-thian-chin)  | *Director, Critical Information Infrastructure (CII) Division*<br>Cyber Security Agency of Singapore                  |
 | <br> **Panelists**    |                                                              |
 | [Ms Erika Lewis](/speaker-erika-lewis)  | *Director, Cyber Security and Digital Identity*<br>Department for Digital, Culture, Media and Sports (DCMS)                  |
 | [Mr Keng Seng Wei](/speaker-Keng-Seng-Wei)  | *Chief Information Security Officer, Managing Director*<br>Development Bank of Singapore (DBS)              |
