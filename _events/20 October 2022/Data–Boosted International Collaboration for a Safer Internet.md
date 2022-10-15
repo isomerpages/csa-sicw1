@@ -7,7 +7,7 @@ third_nav_title: 20 October 2022
 #### **Data-Boosted International Collaboration for a Safer Internet**
 
 **20 October 2022 (Thursday)**  
-*4.30pm – 5.30pm (GMT +8)*
+*4.45pm – 5.45pm (GMT +8)*
 
 *Format: Hybrid*
 
