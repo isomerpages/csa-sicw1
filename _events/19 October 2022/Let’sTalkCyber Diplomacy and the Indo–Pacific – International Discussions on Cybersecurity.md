@@ -26,7 +26,8 @@ Hosted during Singapore International Cyber Week 2022, this Let’sTalkCyber ses
 | **Panelists**    |                                                              |
 | [Mr Benjamin Ang](/speaker-benjaminn-ang)  | *Senior Fellow and Deputy Head of the Centre of Excellence for National Security (CENS)*<br>S. Rajaratnam School of International Studies                  |
 | [Ms Farlina Said](/speaker-Farlina-Said)  | *Senior Analyst*<br>Institute of Strategic and International Studies (ISIS)                 |
-| [Mr Chris Foo](/speaker-Chris-Foo)  | *Senior Manager, SME Information Resource Centre (SIRC)*<br>Singapore Chinese Chamber of Commerce & Industry                |
+| [Mr Michael Karimian](/speaker-Michael-Karimian)  | *Director*<br>Microsoft               |
+| [Ms Shariffah Rashidah Syed Othman](/speaker-Shariffah-Rashidah-Syed-Othman)  | *Senior Principal Assistant Director, Chief Executive's Office*<br>National Cyber Security Agency, National Security Council of Malaysia                |
 | <br> **Moderator**          |                                                              |
 | [H.E. Tobias Feakin](/moderator-tobias-feakin)  | *Australian Ambassador for Cyber Affairs & Critical Technology*<br>Australian Department of Foreign Affairs and Trade                 |
 | | |
