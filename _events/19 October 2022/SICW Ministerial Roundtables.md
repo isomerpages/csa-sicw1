@@ -31,6 +31,7 @@ third_nav_title: 19 October 2022
 | [Mr Shamhary Mustapha](/speaker-Shamhary-Mustapha)  | *Minister of Transport and Infocommunications, Brunei*                  |
 | [Hon David Clark](/speaker-david-clark)  | *Minister for Digital Economy and Communications, New Zealand*                  |
 | [Ms Anne Neuberger](/speaker-Anne-Neuberger/) (Virtual Speaker) | *Deputy Assistant to the President and Deputy National Security Advisor for Cyber & Emerging Technology*<br>National Security Council, The White House                  |
+| [Dr Regine Maria Grienberger](/speaker-Regine-Maria-Grienberger) | *Director for Cyber Foreign and Security Policy*<br>Federal Foreign Office                  |
 | <br>**Moderator**    |                                                              |
 | [Ms Yong Ying–I](/moderator-yong-ying-I)  | *Senior Advisor*<br>Ministry of Communications and Information, Singapore 
                   |
