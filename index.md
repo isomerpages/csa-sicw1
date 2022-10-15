@@ -26,7 +26,7 @@ sections:
       title: SICW 2022 Distinguished Guests
       button: More about SICW 2022 events
       url: /events/calendar-of-events/
-      image: /images/Distinguished Guests SICW 2022.png
+      image: /images/SICW Distinguised Guests.png
       alt: Image alt text
   - resources:
       title: Past SICW Highlights
