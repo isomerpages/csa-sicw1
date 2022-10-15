@@ -22,3 +22,11 @@ The multistakeholder community has a vital role to play in shaping international
 But how involved can industry, civil society, academia and the broader multistakeholder community be in these discussions? What about the multistakeholder community in Asia and the Pacific who might feel excluded from these discussions heavily centred around Vienna, Geneva and New York?
 
 Hosted during Singapore International Cyber Week 2022, this Let’sTalkCyber session will aim to engage representatives from states and members of the Indo-Pacific multistakeholder community with a particular focus on local and regional civil society groups, NGOs and regional technology companies. The session will focus on exploring the important role that the multistakeholder community plays in UN cyber discussions, delving into the incentives for these actors to engage in these forums and the valuable input that they can provide.
+
+| **Panelists**    |                                                              |
+| [Mr Benjamin Ang](/speaker-benjaminn-ang)  | *Senior Fellow and Deputy Head of the Centre of Excellence for National Security (CENS)*<br>S. Rajaratnam School of International Studies                  |
+| [Mr Lee Kian Chong](/speaker-Lee-Kian-Chong)  | *CEO & Co-Founder*<br>CyberLitmus Pte Ltd                 |
+| [Mr Chris Foo](/speaker-Chris-Foo)  | *Senior Manager, SME Information Resource Centre (SIRC)*<br>Singapore Chinese Chamber of Commerce & Industry                |
+| <br> **Moderator**          |                                                              |
+| [H.E. Tobias Feakin](/moderator-tobias-feakin)  | *Australian Ambassador for Cyber Affairs & Critical Technology*<br>Australian Department of Foreign Affairs and Trade                 |
+| | |
