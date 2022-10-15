@@ -25,7 +25,7 @@ Hosted during Singapore International Cyber Week 2022, this Let’sTalkCyber ses
 
 | **Panelists**    |                                                              |
 | [Mr Benjamin Ang](/speaker-benjaminn-ang)  | *Senior Fellow and Deputy Head of the Centre of Excellence for National Security (CENS)*<br>S. Rajaratnam School of International Studies                  |
-| [Mr Lee Kian Chong](/speaker-Lee-Kian-Chong)  | *CEO & Co-Founder*<br>CyberLitmus Pte Ltd                 |
+| [Ms Farlina Said](/speaker-Farlina-Said)  | *Senior Analyst*<br>Institute of Strategic and International Studies (ISIS)                 |
 | [Mr Chris Foo](/speaker-Chris-Foo)  | *Senior Manager, SME Information Resource Centre (SIRC)*<br>Singapore Chinese Chamber of Commerce & Industry                |
 | <br> **Moderator**          |                                                              |
 | [H.E. Tobias Feakin](/moderator-tobias-feakin)  | *Australian Ambassador for Cyber Affairs & Critical Technology*<br>Australian Department of Foreign Affairs and Trade                 |
