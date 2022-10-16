@@ -21,3 +21,5 @@ Strengthening the global cybersecurity architecture is a team sport. Both public
 | <br> **Moderator**          |                                                              |
 | [Mr Ravi Velloor](/moderator-ravi-velloor)  | *Associate Editor*<br>The Straits Times                  |
 | | |
+
+![](/images/SICW%20Summit%20sponsors.jpg)
