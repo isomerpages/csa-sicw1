@@ -17,7 +17,6 @@ The SICW Women in Cyber event will be held on 20 October 2022. In its fourth edi
 | [Mrs Josephine Teo](/goh-mrs-josephine-teo)  | *Minister for Communications and Information, Second Minister for Home Affairs & Minister-in-charge of Smart Nation and Cybersecurity*<br>Singapore                   |
 
 <br>**Fireside Chat: Building the Next Generation of Cyber Leaders**
-
 | <br> **Panelists**    |                                                              |
 | [Dr Dorit Dor](/speaker-dr-dorit-Dor)  | *Chief Product Officer, R&D*<br>Check Point Software Technologies Ltd.                 |
 | [Ms Gwenda Fong](/speaker-gwenda-fong)  | *Assistant Chief Executive, Strategic Planning & Readiness*<br>Infocomm Media Development Authority of Singapore (IMDA)                 |
