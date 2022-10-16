@@ -40,6 +40,9 @@ third_nav_title: 19 October 2022
 <br>Cyber-attacks have developed in scale, sophistication and impact. In addition, recent geopolitical developments have increased tensions and risks of conflict arising from misunderstandings and misperception of cyber incidents. It is especially in such times that we should preserve avenues for dialogue, build up habits of cooperation and mutual trust, through an open and transparent exchange of views so that we reduce the risk of misunderstanding, escalation, and thus conflict in cyberspace.
 
 | **Panelist**    |                                                              |
+| [H.E. Tobias Feakin](/moderator-tobias-feakin)  | *Ambassador for Cyber Affairs & Critical Technology, Australia*                    |
 | [Mr Wang Lei](/speaker-wang-lei)  | *Coordinator for Cyber Affairs*<br>Ministry of Foreign Affairs, China                  |
+| [H.E. Martin Dvořák](/speaker-martin-Dvorak/)  | *Deputy Minister of Foreign Affairs*<br>Ministry of Foreign Affairs of the Czech Republic                 |
+| [Mr Nadhim Zahawi](/speaker-Nadhim-Zahawi)  | *Chancellor of the Duchy of Lancaster, United Kingdom*             |
 | <br>**Moderator**    |                                                              |
 | [Mr Alan Goh](/moderator-alan-goh)  | *Deputy Secretary (Development & Resilience), <br>Ministry of Communications and Information, Singapore*                  |
