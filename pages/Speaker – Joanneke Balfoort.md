@@ -3,7 +3,7 @@ title: Speaker – Joanneke Balfoort
 permalink: /speaker-Joanneke-Balfoort/
 description: ""
 ---
-#### **Mrs Joanneke Balfoort**
+#### **Ms Joanneke Balfoort**
 
 *Director, SECDEFPOL DMD - Security and Defence Policy*  
 EEAS European External Action Service
