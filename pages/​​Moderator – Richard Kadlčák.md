@@ -3,10 +3,9 @@ title: ​​Moderator – Richard Kadlčák
 permalink: /moderator-Richard-KADLCAK/
 description: ""
 ---
-
 ![](/images/Speakers/Richard%20KADLČÁK.jpg)
 
-#### **Mr Richard Kadlčák**
+#### **H.E. Richard Kadlčák**
 
 *Special Envoy for Cyber Space and Director of Cyber Security Department*  
 Ministry of Foreign Affairs of the Czech Republic
