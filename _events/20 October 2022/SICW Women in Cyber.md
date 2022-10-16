@@ -17,7 +17,8 @@ The SICW Women in Cyber event will be held on 20 October 2022. In its fourth edi
 | [Mrs Josephine Teo](/goh-mrs-josephine-teo)  | *Minister for Communications and Information, Second Minister for Home Affairs & Minister-in-charge of Smart Nation and Cybersecurity*<br>Singapore                   |
 
 **Fireside Chat: Building the Next Generation of Cyber Leaders**
-| **Panelists**    |                                                              |
+
+| <br> **Panelists**    |                                                              |
 | [Dr Dorit Dor](/speaker-dr-dorit-Dor)  | *Chief Product Officer, R&D*<br>Check Point Software Technologies Ltd.                 |
 | [Ms Gwenda Fong](/speaker-gwenda-fong)  | *Assistant Chief Executive, Strategic Planning & Readiness*<br>Infocomm Media Development Authority of Singapore (IMDA)                 |
 | [Ms Tay Bee Kheng](/moderator-tay-bee-kheng)  | *President, Cisco ASEAN*<br>Cisco Systems                 |
@@ -26,8 +27,8 @@ The SICW Women in Cyber event will be held on 20 October 2022. In its fourth edi
 | [Dr Ming Tan](/moderator-dr-ming-tan)  | *Founding Executive Director*<br>Tech for Good Institute                  |
 | | |
 
-**Strengthening Career Pathways for Women Cybersecurity Professionals**
-| **Panelists**    |                                                              |
+<br>**Strengthening Career Pathways for Women Cybersecurity Professionals**
+| <br>**Panelists**    |                                                              |
 | [Ms Abigail Bradshaw](/speaker-Abigail-Bradshaw)  | *Head*<br>Australian Cyber Security Centre                 |
 | [Ms Mihoko Matsubara](/speaker-Mihoko-Matsubara)  | *Chief Cybersecurity Strategist*<br>NTT Corporation                  |
 | [Clar Rosso](/speaker-clar-rosso)  | *Chief Executive Officer*<br>(ISC)²                |
