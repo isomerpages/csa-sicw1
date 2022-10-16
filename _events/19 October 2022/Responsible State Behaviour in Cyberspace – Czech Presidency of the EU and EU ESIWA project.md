@@ -22,7 +22,7 @@ After the Seminar, participants are invited to a Reception at the Foyer. The Rec
 
 | **Speakers**    |                                                              |
 | [H.E. Martin Dvořák](/speaker-martin-Dvorak)  | *Deputy Minister of Foreign Affairs*<br>Ministry of Foreign Affairs of the Czech Republic                 |
-| [Mr Tanel Sepp](/speaker-tanel-sepp)  | *Ambassador at Large for Cyber Diplomacy*<br>Ministry of Foreign Affairs, Estonia                 |
+| [H.E. Tanel Sepp](/speaker-tanel-sepp)  | *Ambassador at Large for Cyber Diplomacy*<br>Ministry of Foreign Affairs, Estonia                 |
 | [Mrs Joanneke Balfoort](/speaker-Joanneke-Balfoort)  | *Director, SECDEFPOL DMD - Security and Defence Policy*<br>EEAS European External Action Service                 |
 | [Col Radek Nezbeda](/speaker-col-Radek-Nezbeda)  | *Deputy Director*<br>National Centre for Combating Organised Crime                 |
 | [Mr Pavel Zeman](/speaker-pavel-zeman)  | *Public Prosecutor*<br>Prosecutor General's Office of the Czech Republic                |
@@ -32,6 +32,6 @@ After the Seminar, participants are invited to a Reception at the Foyer. The Rec
 | [Ms Irene Tan](/speaker-irene-tan)  | *Director, IT Services, Infocomm Division (IFC)*<br>Ministry of Health, Singapore                 |
 | [Mr Sithuraj Ponraj](/speaker-Sithuraj-Ponraj)  | *Director, International Cyber Policy Office*<br>Cyber Security Agency of Singapore                 |
 | <br> **Moderators**          |                                                              |
-| [Mr Richard Kadlčák](/moderator-richard-Kadlcak)  | *Special Envoy for Cyber Space and Director of Cyber Security Department*<br>Ministry of Foreign Affairs of the Czech Republic                 |
+| [H.E. Richard Kadlčák](/moderator-richard-Kadlcak)  | *Special Envoy for Cyber Space and Director of Cyber Security Department*<br>Ministry of Foreign Affairs of the Czech Republic                 |
 | [Mrs Marta Pelechová](/moderator-Marta-Pelechova)  | *International Dossiers Coordinator*<br>Ministry of Justice of the Czech Republic                |
 | | |
