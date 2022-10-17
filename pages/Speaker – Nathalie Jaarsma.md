@@ -3,10 +3,9 @@ title: Speaker – Nathalie Jaarsma
 permalink: /speaker-Nathalie-Jaarsma/
 description: ""
 ---
-
 ![](/images/Speakers/Nathalie%20Jaarsma.jpg)
 
-#### **Amb Nathalie Jaarsma**
+#### **H.E. Nathalie Jaarsma**
 
 *Ambassador at-Large for Security Policy and Cyber, <br>The Kingdom of the Netherlands*  
 
