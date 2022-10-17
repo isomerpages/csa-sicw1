@@ -43,6 +43,6 @@ third_nav_title: 19 October 2022
 | [H.E. Tobias Feakin](/moderator-tobias-feakin)  | *Ambassador for Cyber Affairs & Critical Technology, Australia*                    |
 | [Mr Wang Lei](/speaker-wang-lei)  | *Coordinator for Cyber Affairs*<br>Ministry of Foreign Affairs, China                  |
 | [H.E. Martin Dvořák](/speaker-martin-Dvorak/)  | *Deputy Minister of Foreign Affairs*<br>Ministry of Foreign Affairs of the Czech Republic                 |
-| [Mr Nadhim Zahawi](/speaker-Nadhim-Zahawi)  | *Chancellor of the Duchy of Lancaster, United Kingdom*             |
+| [Rt Hon Nadhim Zahawi MP](/speaker-Nadhim-Zahawi)  | *Chancellor of the Duchy of Lancaster and coordinating Minister for National Security*             |
 | <br>**Moderator**    |                                                              |
 | [Mr Alan Goh](/moderator-alan-goh)  | *Deputy Secretary (Development & Resilience), <br>Ministry of Communications and Information, Singapore*                  |
