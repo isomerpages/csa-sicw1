@@ -5,8 +5,7 @@ permalink: /events/19-October-2022/lets-talk-cyber/
 description: ""
 third_nav_title: 19 October 2022
 ---
-
-#### **Let’sTalkCyber Diplomacy and the Indo-Pacific - International Discussions on Cybersecurity**
+#### **Let’sTalkCyber Diplomacy and the Indo-Pacific - International Negotiations on Cybersecurity**
  
 **19 October 2022 (Wednesday)**  
 *12.30pm – 2.00pm (GMT +8)*
