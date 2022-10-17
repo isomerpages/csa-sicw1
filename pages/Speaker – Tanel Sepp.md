@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Speakers/Tanel%20Sepp.jpg)
 
-#### **Mr Tanel Sepp**
+#### **H.E. Tanel Sepp**
 
 *Ambassador at Large for Cyber Diplomacy*  
 Ministry of Foreign Affairs, Estonia

@@ -3,12 +3,11 @@ title: Speaker – Lim Thian Chin
 permalink: /speaker-lim-thian-chin/
 description: ""
 ---
-
 ![](/images/Speakers/Lim%20Thian%20Chin.jpg)
 
 #### **Mr Lim Thian Chin**
 
-*Director, Critical Information Infrastructure (CII)*  
+*Director, Critical Information Infrastructure (CII) Division*  
 Cybersecurity Agency Singapore (CSA)
 
 ##### **Biography**

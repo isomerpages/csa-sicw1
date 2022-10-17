@@ -19,7 +19,7 @@ third_nav_title: 19 October 2022
 | **Panelists**    |                                                              |
 | [Hon Ursula Owusu-Ekuful](/speaker-Ursula-Owusu-Ekuful)  | *Minister for Communications and Digitalisation, Ghana*                  |
 | [Dr Artur Lyukmanov](/speaker-Dr-Artur-Lyukmanov)  | *Acting Director of the Russian Ministry of Foreign Affairs Department on International Information Security, Russia*                  |
-| [Mr Ivan John Uy](/speaker-ivan-john)  | *Secretary of Information and Communications Technology, Philippines*                  |
+| [Hon Ivan John Uy](/speaker-ivan-john)  | *Secretary of Information and Communications Technology, Philippines*                  |
 | [Mr Gerardo Isaac Morales Tenorio](/speaker-Isaac-Morales)  | *Coordinator for Multidimensional Security, Ministry of Foreign Affairs, Mexico*                  |
 | <br>**Moderator**    |                                                              |
 | [Mr David Koh](/moderator-david-koh)  | *Commissioner of Cybersecurity <br>Chief Executive, Cyber Security Agency of Singapore <br>Chief (Digital Security & Technology), Ministry of Communications and Information, Singapore*                  |
@@ -28,9 +28,10 @@ third_nav_title: 19 October 2022
 <br>Increased connectivity and digitalisation has made the Internet and technology as ubiquitous as energy. Furthermore, considering the Internet’s cross-boundary nature, some might liken the Internet to the sea or the air. However, unlike traditional physical resources, the responsibilities of governing and securing the Internet are not clear. What are the priority digital challenges that leaders should tackle at the highest level? What principles and practices can government and industry align on to build trust in the Internet? Should digital be considered a common need? How can the public and private sectors collaborate to secure the digital commons?
 
 | **Panelists**    |                                                              |
-| [Mr Shamhary Mustapha](/speaker-Shamhary-Mustapha)  | *Minister of Transport and Infocommunications, Brunei*                  |
+| [H.E. Pengiran Dato Shamhary Mustapha](/speaker-Shamhary-Mustapha)  | *Minister of Transport and Infocommunications, Brunei*                  |
 | [Hon David Clark](/speaker-david-clark)  | *Minister for Digital Economy and Communications, New Zealand*                  |
 | [Ms Anne Neuberger](/speaker-Anne-Neuberger/) (Virtual Speaker) | *Deputy Assistant to the President and Deputy National Security Advisor for Cyber & Emerging Technology*<br>National Security Council, The White House                  |
+| [Dr Regine Maria Grienberger](/speaker-Regine-Maria-Grienberger) | *Director for Cyber Foreign and Security Policy*<br>Federal Foreign Office                  |
 | <br>**Moderator**    |                                                              |
 | [Ms Yong Ying–I](/moderator-yong-ying-I)  | *Senior Advisor*<br>Ministry of Communications and Information, Singapore 
                   |
@@ -39,6 +40,9 @@ third_nav_title: 19 October 2022
 <br>Cyber-attacks have developed in scale, sophistication and impact. In addition, recent geopolitical developments have increased tensions and risks of conflict arising from misunderstandings and misperception of cyber incidents. It is especially in such times that we should preserve avenues for dialogue, build up habits of cooperation and mutual trust, through an open and transparent exchange of views so that we reduce the risk of misunderstanding, escalation, and thus conflict in cyberspace.
 
 | **Panelist**    |                                                              |
+| [H.E. Tobias Feakin](/moderator-tobias-feakin)  | *Ambassador for Cyber Affairs & Critical Technology, Australia*                    |
 | [Mr Wang Lei](/speaker-wang-lei)  | *Coordinator for Cyber Affairs*<br>Ministry of Foreign Affairs, China                  |
+| [H.E. Martin Dvořák](/speaker-martin-Dvorak/)  | *Deputy Minister of Foreign Affairs*<br>Ministry of Foreign Affairs of the Czech Republic                 |
+| [Rt Hon Nadhim Zahawi MP](/speaker-Nadhim-Zahawi)  | *Chancellor of the Duchy of Lancaster and coordinating Minister for National Security*             |
 | <br>**Moderator**    |                                                              |
 | [Mr Alan Goh](/moderator-alan-goh)  | *Deputy Secretary (Development & Resilience), <br>Ministry of Communications and Information, Singapore*                  |

@@ -19,6 +19,7 @@ This session aims to touch on how governments and organisations can work togethe
 | [Mr Scott Jarkoff](/speaker-scott-jarkoff)  | *Director, Strategic Threat Advisory Group, APJ & EMEA*<br>CrowdStrike                  |
 | [Mr Brandon Wales](/speaker-brandon-wales)  | *Executive Director*<br>USA Cybersecurity and Infrastructure Security Agency (CISA)                 |
 | [Mr Daren Smith](/speaker-daren-smith)  | *Managing Director for International Government*<br>BAE Systems Digital Intelligence                 |
+| [Mr Gaby Portnoy](/speaker-Gaby-Portnoy)  | *Director General*  <br>Israel National Cyber Directorate - INCD                 |
 | <br> **Moderator**          |                                                              |
 | [Mr Charles Ng](/moderator-charles-ng)  | *Executive Vice-President, International Business and Key Accounts*<br>Ensign InfoSecurity                  |
 | | |

@@ -18,7 +18,7 @@ This session will share insights on the areas involving People, Process and Tech
 |**Speakers**    |                                                              |
 | [Mr Paul Griswold](/speaker-Paul-Griswold)  | *Chief Product Officer for Cybersecurity*<br>Honeywell                  |
 | [Mr Jeff Blake](/speaker-jeff-blake)  | *Global Head of Engineering*<br>Nozomi Networks                |
-| [Mr Lim Thian Chin](/speaker-lim-thian-chin)  | *Director, Critical Information Infrastructure (CII)*<br>Cybersecurity Agency Singapore (CSA)              |
+| [Mr Lim Thian Chin](/speaker-lim-thian-chin)  | *Director, Critical Information Infrastructure (CII) Division*<br>Cybersecurity Agency Singapore (CSA)              |
 | <br> **Panelists**    |                                                              |
 | [Mr Paul Griswold](/speaker-Paul-Griswold)  | *Chief Product Officer for Cybersecurity*<br>Honeywell                  |
 | [Mr Jeff Blake](/speaker-jeff-blake)  | *Global Head of Engineering*<br>Nozomi Networks                |

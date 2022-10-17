@@ -7,7 +7,7 @@ third_nav_title: 20 October 2022
 #### **Raising the Bar: Building Consensus for Consumer IoT Device Security**
  
 **20 October 2022 (Thursday)**  
-*3.00pm – 4.00pm (GMT +8)*
+*3.30pm – 4.30pm (GMT +8)*
 
 *Format: Hybrid*
 
@@ -18,4 +18,6 @@ This session will aim to help manufacturers of connected consumer “internet of
 | <br>**Panelists**    |                                                              |
 | [Mr Henry Tan](/speaker-Henry-tan)  | *Deputy Director, Lead of Certification Center Group*<br>Cyber Security Engineering Center (CSEC)                  |
 | [Ms Charmaine Ng](/speaker-charmaine-ng)  | *Director of Asia Pacific Digital Policy*<br>Schneider Electric                 |
+| [Mr Richard Koh](/speaker-richard-koh)  | *Chief Technology & Security & Customer Success Officer*<br>Microsoft Group                  |
+| [Mr Doug Kramer](/speaker-doug-Kramer)  | *Secretary/General Counsel*<br>Cloudflare Inc                 |
 | | |
