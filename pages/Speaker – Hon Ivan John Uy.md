@@ -3,11 +3,9 @@ title: Speaker – Hon Ivan John Uy
 permalink: /speaker-Ivan-john/
 description: ""
 ---
-
-
 ![](/images/Speakers/Ivan%20John%20UY.jpg)
 
-#### **Mr Ivan John Uy**
+#### **Hon Ivan John Uy**
 
 *Secretary of Information and Communications Technology, Philippines*  
 
