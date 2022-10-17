@@ -10,7 +10,7 @@ third_nav_title: 19 October 2022
 **19 October 2022 (Wednesday)**  
 *12.30pm – 2.00pm (GMT +8)*
 
-*Format: Hybrid*
+*Format: Hybrid - Sands Expo & Convention Centre, Level 5, Studio F*
 
 The multistakeholder community has a vital role to play in shaping international discussions at the United Nations on responsible state behaviour in cyberspace, cybercrime, and the future of global digital cooperation, including through the:
 
