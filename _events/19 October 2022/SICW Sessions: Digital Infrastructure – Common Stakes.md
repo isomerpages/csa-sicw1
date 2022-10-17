@@ -17,7 +17,7 @@ This session aims to touch on the governance of digital infrastructure and to ex
 
 | **Panelists**    |                                                              |
 | [Deputy Secretary Marc Ablong PSM](/speaker-marc-ablong)  | *Deputy Secretary, Strategy and National Resilience / Cyber Security Coordinator*<br>Department of Home Affairs, Australia               |
-| [Amb Nathalie Jaarsma](/speaker-Nathalie-Jaarsma)  | *Ambassador at-Large for Security Policy and Cyber, The Kingdom of the Netherlands*              |
+| [H.E. Nathalie Jaarsma](/speaker-Nathalie-Jaarsma)  | *Ambassador at-Large for Security Policy and Cyber, The Kingdom of the Netherlands*              |
 | [Mr Viktor Zhora](/speaker-viktor-zhora)  | *Deputy Chairman and Chief Digital Transformation Officer* <br> State Service of Special Communication and Information Protection of Ukraine              |
 | [Mr He Run](/speaker-he-run)  | *Solution Architect Lead, Channel Ecosystem*<br>Alibaba Cloud               |
 | <br> **Moderator**          |                                                              |
