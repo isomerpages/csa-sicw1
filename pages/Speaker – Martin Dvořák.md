@@ -3,6 +3,8 @@ title: Speaker – Martin Dvořák
 permalink: /speaker-martin-Dvorak/
 description: ""
 ---
+![](/images/Speakers/Martin%20Dvorak.jpg)
+
 #### **H.E. Martin Dvořák**
 
 *Deputy Minister of Foreign Affairs*  
