@@ -5,9 +5,9 @@ description: ""
 ---
 ![](/images/Speakers/Nadhim%20Zahawi.jpg)
 
-#### **Mr Nadhim Zahawi**
+#### **Rt Hon Nadhim Zahawi MP**
 
-*Chancellor of the Duchy of Lancaster, United Kingdom*  
+*Chancellor of the Duchy of Lancaster and coordinating Minister for National Security*  
 
 ##### **Biography**
 Nadhim Zahawi was appointed Chancellor of the Duchy of Lancaster, Minister for Intergovernmental Relations and Minister for Equalities on 6 September 2022.
