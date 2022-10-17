@@ -3,6 +3,8 @@ title: Moderator – Peter Stephens
 permalink: /moderator-peter-stephens/
 description: ""
 ---
+![](/images/Speakers/Peter%20Stephens.jpg)
+
 #### **Mr Peter Stephens**
 
 *Directorate for Science, Technology and Innovation*  
