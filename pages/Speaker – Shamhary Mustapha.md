@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Speakers/Shamhary%20Mustapha.jpg)
 
-#### **Mr Shamhary Mustapha**
+#### **H.E. Pengiran Dato Shamhary Mustapha**
 
 *Minister of Transport and Infocommunications, Brunei*  
 
