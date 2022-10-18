@@ -17,6 +17,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 11.00am to 12.00pm           | [SICW Sessions: Collective Insights on Cyber-Attacks](/events/20-October-2022/collective-insight-on-cyber-attacks/)     |
 | 1.00pm to 2.00pm           | [SICW Sessions: Internet or Splinternet - Implications on Securing the Digital Future](/events/20-October-2022/internet-or-splinternet/)     |
 | 2.00pm to 4.00pm              | [Operational Technology (OT) Conversation](/events/20-October-2022/ot-conversation)                                    |
+| 2.30pm to 3.00pm              | [SICW - Signing of Mutual Recognition Arrangement (MRA) of Cybersecurity Label Between CSA and BSI](/events/20-October-2022/signing-of-MRA)                                    |
 | 3.00pm to 5.30pm          | [SICW Women in Cyber](/events/20-October-2022/women-in-cyber)                                            |
 | 3.30pm to 4.30pm              | [Raising the Bar: Building Consensus for Consumer IoT Device Security](/events/20-October-2022/building-consensus-for-consumer-iot-device-security)                                    |
 | 4.45pm to 5.45pm          | [Data-Boosted International Collaboration for a Safer Internet](/events/20-October-2022/data-boosted-international-collaboration-for-a-safer-internet/)                                            |

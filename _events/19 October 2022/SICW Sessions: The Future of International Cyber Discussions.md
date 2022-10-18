@@ -17,4 +17,14 @@ There has also been much discussion on how the views of multi-stakeholders inclu
   
 This session will explore the future direction and possible modalities of regular institutional dialogue, with a view to discuss how these mechanisms can facilitate progress on substantive topics discussed at international cyber discussions. The panelists will share their perspectives on the achievements and gaps of existing discussion platforms, discuss possible synergies and forms of cooperation for various stakeholders, as well as explore the role of regional organisations and multilateral platforms in developing and supporting international cyber discussions. 
 
+| **Panelists**    |                                                              |
+| [H.E. Tanel Sepp](/speaker-tanel-sepp)  | *Ambassador at Large for Cyber Diplomacy*<br>Ministry of Foreign Affairs, Estonia                |
+| [H.E. Henri Verdier](/speaker-Henri-Verdier)  | *Ambassador for Digital Affairs*<br>Ministry for Europe and Foreign Affairs, France                 |
+| [Mr David Koh](/moderator-david-koh)  | *Commissioner of Cybersecurity <br>Chief Executive, Cyber Security Agency of Singapore <br>Chief (Digital Security & Technology), Ministry of Communications and Information, Singapore*                |
+| [H.E. Nathaniel Fick](/speaker-Nathaniel-Fick)  | *Ambassador at Large Bureau of Cyberspace and Digital Policy Department of State*                |
+
+| <br> **Moderator**          |                                                              |
+| [Mr James Crabtree](/moderator-james-crabtree)  | *Executive Director*<br>International Institute for Strategic Studies – Asia                 |
+| | |
+
 ***For an optimised experience, please view this site in desktop mode.**
