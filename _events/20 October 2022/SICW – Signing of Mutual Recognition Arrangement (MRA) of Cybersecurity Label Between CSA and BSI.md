@@ -10,7 +10,7 @@ third_nav_title: 20 October 2022
 **20 October 2022 (Thursday)**  
 *2.30pm to 3.00pm (GMT +8)*
 
-*Format: Physical*
+*Format: Hybrid*
 
 The signing of the Mutual Recognition Arrangement (MRA) on Cybersecurity Labels for Consumer Smart Products between the Cyber Security Agency of Singapore (CSA) and the Federal Office for Information Security (BSI) of Germany, to mutually recognise the cybersecurity labels issued by the Cyber Security Agency of Singapore and the Federal Office for Information Security of Germany. The establishment of the mutual recognition, will further promote the harmonisation of standards, reduce duplicated testing and costs for manufacturers globally, and lastly to improve market access for Consumer Internet-of-Things manufacturers between Germany and Singapore. 
 
