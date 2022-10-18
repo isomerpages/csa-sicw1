@@ -16,7 +16,7 @@ This session will aim to help manufacturers of connected consumer “internet of
 During this workshop, an expert panel featuring industry representatives, subject matter experts, and government regulators will discuss the importance of these capabilities and share insights and guidance to support adoption and implementation by manufacturers to raise the baseline security of consumer IoT devices. The event will also serve to launch a new online resource hub by the Cybersecurity Tech Accord featuring implementation examples and access to resources and materials to support manufacturers to improve IoT device security.
 
 | **Speaker**    |                                                              |
-| [Mr Henry Tan](/speaker-Henry-tan)  | *Deputy Director, Lead of Certification Center Group*<br>Cyber Security Engineering Center (CSEC)                  |
+| [Mr Henry Tan](/speaker-Henry-tan)  | *Deputy Director, Cybersecurity Engineering Centre (CSEC)*               |
 | <br>**Panelists**    |                                                              |
 | [Mr Henry Tan](/speaker-Henry-tan)  | *Deputy Director, Lead of Certification Center Group*<br>Cyber Security Engineering Center (CSEC)                  |
 | [Ms Charmaine Ng](/speaker-charmaine-ng)  | *Director of Asia Pacific Digital Policy*<br>Schneider Electric                 |
