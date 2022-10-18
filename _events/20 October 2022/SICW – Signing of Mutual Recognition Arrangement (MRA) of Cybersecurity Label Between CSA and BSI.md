@@ -16,6 +16,6 @@ The signing of the Mutual Recognition Arrangement (MRA) on Cybersecurity Labels 
 
 Germany and Singapore are the few countries in the world, who develop respective cybersecurity labels for consumer smart products. Both countries share mutual interests in encouraging products to be embedded with better cybersecurity provisions, to incentivise manufacturers to make better secure IoT devices, to empower buyers to make informed decisions when buying smart devices, and to eradicate duplicated assessments and reduce cost of compliance. The MRA establishment is a testament of the countries’ shared vision for a safer and more secure cyberspace.
 
-| **Speakers**    |                                                              |
+| |                                                              |
 | [Dr Gerhard Schabhüser](/speaker-Gerhard-Schabhuser)  | *Vice President of the Federal Office for Information Security (BSI)*                  |
 | [Mr David Koh](/moderator-david-koh/)  | *Commissioner of Cybersecurity <br>Chief Executive, Cyber Security Agency of Singapore <br>Chief (Digital Security & Technology), Ministry of Communications and Information, Singapore*                  |
