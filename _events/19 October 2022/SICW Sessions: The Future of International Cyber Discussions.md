@@ -22,6 +22,8 @@ This session will explore the future direction and possible modalities of regula
 | **Panelists**    |                                                              |
 | [H.E. Tanel Sepp](/speaker-tanel-sepp)  | *Ambassador at Large for Cyber Diplomacy*<br>Ministry of Foreign Affairs, Estonia                |
 | [H.E. Henri Verdier](/speaker-Henri-Verdier)  | *Ambassador for Digital Affairs*<br>Ministry for Europe and Foreign Affairs, France                 |
+| [Mr David Koh](/moderator-david-koh)  | *Commissioner of Cybersecurity <br>Chief Executive, Cyber Security Agency of Singapore <br>Chief (Digital Security & Technology), Ministry of Communications and Information, Singapore*                |
+| [H.E. Nathaniel Fick](/speaker-Nathaniel-Fick)  | *Ambassador at Large Bureau of Cyberspace and Digital Policy Department of State*                |
 
 | <br> **Moderator**          |                                                              |
 | [Mr James Crabtree](/moderator-james-crabtree)  | *Executive Director*<br>International Institute for Strategic Studies – Asia                 |
