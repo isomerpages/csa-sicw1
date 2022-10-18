@@ -1,11 +1,8 @@
 ---
 title: Media Accreditation
-permalink: /media/media-accreditation
+permalink: /media/media-accreditation/
 description: ""
 ---
-
-
-
 ### **Media Accreditation**
 
 **1.1 Media Accreditation Guidelines**
@@ -19,7 +16,7 @@ October 2022**. Applicants will need to fill in an online form and submit all r
 documents to be accredited. All media accreditation applications will be subject to the
 approval of the organisers.
 
-Please contact [**Maxine.Tan@hkstrategies.com**](mailto:Maxine.Tan@hkstrategies.com) for online application access.
+Please contact [**SICW2022media@hkstrategies.com**](mailto:SICW2022media@hkstrategies.com) for online application access.
 
 **1.2 Accreditation Principles**
 
