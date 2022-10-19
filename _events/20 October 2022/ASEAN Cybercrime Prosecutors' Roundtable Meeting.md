@@ -18,4 +18,4 @@ The ACPRM on **20 October 2022** provides a platform for the community of prosec
 | **Speaker**    |                                                              |
 	| [Mr Gordon Oh](/speaker-gordon-oh)  | *Senior Director*<br>Attorney-General’s Chambers                  |
 		| [Ms Aileen Yap](/speaker-Aileen-Yap)  | *Assistant Director, Anti-Scam Command, Commercial Affairs Department*<br>Singapore Police Force                  |
-			| [Mr Gordon Oh](/speaker-gordon-oh)  | *Senior Director*<br>Attorney-General’s Chambers                  |
+			| [Ms Choi Eun Young](/speaker-Choi-Eun-Young)  | *Director, National Cryptocurrency Enforcement Team*<br>United States Department of Justice                 |
