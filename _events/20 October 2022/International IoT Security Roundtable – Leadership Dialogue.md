@@ -17,7 +17,7 @@ To galvanise international efforts towards internationalising a common IoT Secur
 | [Ms Anne Neuberger](/speaker-Anne-Neuberger)  | *Deputy Assistant to the President and Deputy National Security Advisor for Cyber & Emerging Technology*<br>National Security Council, The White House             |
 | [Ms Lindy Cameron](/speaker-Lindy-Cameron)  | *Chief Executive Officer (CEO)*<br>National Cyber Security Centre, United Kingdom             |
 |**<br> Panelists**    |                                                              |
-| [Ms Helena Leurent](/speaker-Helena-Leurent)  | *Director General, Member of Executive of World Economic Forum*<br>Consumers International              |
+| [Mr Lim Soon Chia](/speaker-lim-soon-chia)  | *Director*<br>Cyber Security Agency Singapore (CSA)                |
 | [Ms Grace Burkard](/speaker-Grace-Burkard)  | *Director of Operations*<br>ioXt Alliance                  |
 | [Dr Cui Bao Qiu](/speaker-cui-bao-qiu)  | *VP & Chairman of Cybersecurity & Privacy Technical Committee*<br>Xiaomi               |
 | [Mr Tahata Shinya](/speaker-tahata-shinya)  | *Director, Office of the Director-General for Cybersecurity*<br>Ministry of Internal Affairs and Communications, Japan              |
