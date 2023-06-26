@@ -19,3 +19,8 @@ links:
         url: /faq
   - title: Registration
     url: /registration
+  - title: Gallery
+    url: /gallery2
+    sublinks:
+      - title: SICW 2021
+        url: https://photos.app.goo.gl/hCYxz86Xf9WAkGQE7
