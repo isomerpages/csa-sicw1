@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Joanneke Balfoort.md
       - Speaker – Joshua Kennedy–White.md
       - Speaker – Jeff Blake.md
       - Speaker – Irene Tan.md
