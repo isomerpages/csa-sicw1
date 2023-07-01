@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Chris Foo.md
       - Speaker – Chang Kai Fan.md
       - Speaker – Benjamin Ang.md
       - Speaker – Anne Neuberger.md
