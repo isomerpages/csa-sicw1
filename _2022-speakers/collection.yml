@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Viktor Zhora.md
       - Speaker – The Honorable Alejandro N Mayorkas.md
       - Speaker – Tahata Shinya.md
       - Speaker – Ryan Kalember.md
