@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Tahata Shinya.md
       - Speaker – Ryan Kalember.md
       - Speaker – Sithuraj Ponraj.md
       - Speaker – Rt Hon Nadhim Zahawi MP.md
