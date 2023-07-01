@@ -2,6 +2,8 @@ collections:
   events:
     output: true
     order:
+      - "19 October 2023/SICW Sessions: AI–Powered Cyber Attacks –Truth or
+        Myth?.md"
       - 19 October 2023/.keep
       - 18 October 2023/International IoT Security Roundtable – Technical
         Panel.md
