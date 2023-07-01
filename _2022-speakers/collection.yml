@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Craig Jones.md
       - Speaker – Charmaine Ng.md
       - Speaker – Brad Arkin.md
       - Speaker – Bryan Palma.md
