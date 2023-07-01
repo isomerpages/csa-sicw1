@@ -6,7 +6,7 @@ third_nav_title: 17 October 2023
 ---
 #### **SG Cyber Safe for Enterprises**
 
-**17 October 2023 (Wednesday)**  
+**17 October 2023 (Tuesday)**  
 *Time TBC (GMT +8)*
 
 *Access: Closed Door*
