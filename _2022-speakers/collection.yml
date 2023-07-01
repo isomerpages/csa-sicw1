@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Ed Soo Hoo.md
       - Speaker – Dr Gerhard Schabhüser.md
       - Speaker – Doug Kramer.md
       - Speaker – David Clark.md
