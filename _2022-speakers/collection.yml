@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Fernando Serto.md
       - Speaker – Erika Lewis.md
       - Speaker – Dr Regine Maria Grienberger.md
       - Speaker – Dr Dorit Dor.md
