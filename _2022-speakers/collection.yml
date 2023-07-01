@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Lim Soon Chia.md
       - Speaker – Lee Dolsen.md
       - Speaker – Kevin Mandia.md
       - Speaker – Juliette Wilcox CMG.md
