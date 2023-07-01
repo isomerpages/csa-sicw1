@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Kevin Mandia.md
       - Speaker – Juliette Wilcox CMG.md
       - Speaker – Jeff Moss.md
       - Speaker – Izumi Nakamitsu.md
