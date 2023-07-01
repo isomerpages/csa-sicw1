@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Gaby Portnoy.md
       - Speaker – Francesco Mancini.md
       - Speaker – Gordon Oh.md
       - Speaker – Grace Burkard.md
