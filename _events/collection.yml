@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Calendar of Events.md
       - 17 October 2023/.keep
       - 17 October 2023/SICW Women in Cyber.md
       - "17 October 2023/SICW Sessions: Insights on Ransomware Operation?.md"
@@ -15,7 +16,6 @@ collections:
       - 19 October 2023/Senior Officials Roundtable on Cybercrime.md
       - "19 October 2023/SICW Sessions: AI–Powered Cyber Attacks –Truth or
         Myth?.md"
-      - Calendar of Events.md
       - 18 October 2022/.keep
       - 18 October 2022/List of Events.md
       - 18 October 2022/8th ASEAN Senior Officials Roundtable on Cybercrime
