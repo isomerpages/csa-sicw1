@@ -32,16 +32,8 @@ Singapore is open to all travellers without quarantine or testing requirements, 
 **6. How do journalists apply to attend SICW 2023?**
 <br>Media personnel are invited to register for a media pass to gain access to events that are open for media coverage. More info on media accreditation requirements can be found [here](/media/media-accreditation).
 
-**8. What is the dress code for the event?**
-<br>The dress code for the SICW 2022 is business attire.
+**7. What is the dress code for the event?**
+<br>The dress code for the SICW 2023 is business attire.
 
-#### **Safe Management Measures (SMM)**
-
-**1.	What safe management measures will be taken for SICW 2022?**
-<br>SICW 2022 adheres to the prevailing national guidelines and safety considerations set by the Singapore Tourism Board (STB). The Event Organisers are working closely with the Venue and STB to ensure a safe and clean environment for all attendees and staff. For more information of the most updated SMM guidelines, please refer here<a href="https://www.stb.gov.sg/content/stb/en/home-pages/advisory-on-covid-19.html" target="_blank"></a>. 
-
-**2. Am I required to wear a mask throughout the event?**
-<br>In line with the Singapore government’s advisory, a mask must be worn at all times throughout the event.
-
-**3. What should I do if I tested positive for COVID-19?**
-<br>Travellers who test positive for COVID-19 may be placed on a recovery protocol and should follow the protocols for the recovery procedure assigned to them. More information on the protocol can be found here<a href="https://www.visitsingapore.com/travel-requirements/health-protocol/" target="_blank"></a>.
+**8. Am I required to wear a mask during the event?**
+<br>In line with the Singapore government’s advisory, mask-wearing is not required except in healthcare settings. However, do practise good personal hygiene and wear a mask if you are unwell.
