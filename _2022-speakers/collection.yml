@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – David Koh.md
       - Speaker – Deputy Secretary Marc Ablong PSM.md
       - Speaker – Col Radek Nezbeda.md
       - Speaker – Daren Smith.md
