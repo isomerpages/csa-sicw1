@@ -2,5 +2,6 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Moderator – Dr Steven Wong.md
       - Moderator – Paul O'Rourke.md
       - Moderator – Daryl Pereira.md
