@@ -2,6 +2,8 @@ collections:
   events:
     output: true
     order:
+      - 17 October 2023/International IoT Security Roundtable – Leadership
+        Dialogue.md
       - 17 October 2023/.keep
       - Calendar of Events.md
       - 18 October 2022/.keep
