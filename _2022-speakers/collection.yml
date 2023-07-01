@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Choi Eun Young.md
       - Speaker – Chris Foo.md
       - Speaker – Chang Kai Fan.md
       - Speaker – Benjamin Ang.md
