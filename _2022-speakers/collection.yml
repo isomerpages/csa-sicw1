@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Paul Griswold.md
       - Speaker – Nathalie Jaarsma.md
       - Speaker – Olaf Kolkman.md
       - Speaker – Mr Scott Jarkoff.md
