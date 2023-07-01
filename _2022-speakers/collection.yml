@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Arne Schönbohm.md
       - Speaker – Abigail Bradshaw.md
       - Moderator – Peter Stephens.md
       - Moderator – Tay Bee Kheng.md
