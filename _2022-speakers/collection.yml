@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Lee Kian Chong.md
       - Speaker – Le Quang Lan.md
       - Speaker – Keng Seng Wei.md
       - Speaker – Kemba Walden.md
