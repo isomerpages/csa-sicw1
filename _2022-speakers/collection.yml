@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Rt Hon Nadhim Zahawi MP.md
       - Speaker – Sami Khoury.md
       - Speaker – Rob Suárez.md
       - Speaker – Piotr Lewandowski.md
