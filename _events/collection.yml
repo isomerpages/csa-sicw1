@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 18 October 2023/.keep
       - 17 October 2023/International IoT Security Roundtable – Leadership
         Dialogue.md
       - 17 October 2023/.keep
