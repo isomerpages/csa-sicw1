@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 19 October 2023/Senior Officials Roundtable on Cybercrime.md
       - "19 October 2023/SICW Sessions: AI–Powered Cyber Attacks –Truth or
         Myth?.md"
       - 19 October 2023/.keep
