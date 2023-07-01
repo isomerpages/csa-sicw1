@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Grace Burkard.md
       - Speaker – Gerardo Isaac Morales Tenorio.md
       - Speaker – Fernando Serto.md
       - Speaker – Erika Lewis.md
