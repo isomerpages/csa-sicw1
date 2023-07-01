@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Koneru Kalyan Chakravarthy.md
       - Speaker – Lee Fook Sun.md
       - Speaker – Lim Thian Chin.md
       - Speaker – Marjo Baayen.md
