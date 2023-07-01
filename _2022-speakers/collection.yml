@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Gordon Oh.md
       - Speaker – Grace Burkard.md
       - Speaker – Gerardo Isaac Morales Tenorio.md
       - Speaker – Fernando Serto.md
