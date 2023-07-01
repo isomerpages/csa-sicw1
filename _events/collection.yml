@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 19 October 2023/.keep
       - 18 October 2023/International IoT Security Roundtable – Technical
         Panel.md
       - 18 October 2023/.keep
