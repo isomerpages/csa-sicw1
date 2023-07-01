@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Dr Dorit Dor.md
       - Speaker – Dr Artur Lyukmanov.md
       - Speaker – Dr Regine Grienberger.md
       - Speaker – Emma Raffray.md
