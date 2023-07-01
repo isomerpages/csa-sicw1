@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Speaker – Mr Brandon Wales.md
       - Speaker – Michael Lagana.md
       - Speaker – Mr John Suffolk.md
       - Speaker – Michaela Browning.md
