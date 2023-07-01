@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 17 October 2023/.keep
       - Calendar of Events.md
       - 18 October 2022/.keep
       - 18 October 2022/List of Events.md
