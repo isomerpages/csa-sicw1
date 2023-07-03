@@ -2,6 +2,7 @@ collections:
   2022-speakers:
     output: true
     order:
+      - Shariffah Rashidah Syed Othman.md
       - ​​Speaker – Clive Finlay.md
       - ​​Speaker – Damian Chung.md
       - ​​Speaker – Joel Moses.md
