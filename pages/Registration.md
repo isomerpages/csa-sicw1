@@ -5,8 +5,6 @@ description: ""
 ---
 **Singapore International Cyber Week 2023 Registration**
 
-Join us at Singapore International Cyber Week 2023 and register here today. We eagerly anticipate your presence this October!
-
 SICW 2023 returns as an in-person only event. Don’t miss this opportunity to meet and learn from global policy makers, senior executives, and cybersecurity experts from across the world. Register now!
 
 ![](/images/registration%20page%20table.png)
