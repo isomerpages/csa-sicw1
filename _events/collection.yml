@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - ASEAN Cybercrime Prosecutors' Roundtable Meeting.md
       - ASEAN Ministerial Conference on Cybersecurity.md
       - SICW Opening Ceremony.md
       - SICW Summit.md
