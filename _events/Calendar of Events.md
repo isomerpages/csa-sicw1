@@ -10,6 +10,5 @@ Singapore International Cyber Week 2023 is taking place from 17 to 19 October 20
 Event dates and timings below are in Singapore time (GMT +8). 
 
 | <br> **17 October 2023** <br>*(Tuesday)* |                                                                                                |
-| 9.00am to 5.00pm           | [GovWare Conference and 
 | <br> **18 October 2023** *(Wednesday)*          |                                                                                           |
 | <br> **19 October 2023** *(Thursday)* |                                                                                                |
