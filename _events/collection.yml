@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - GFCE Southeast Asia Regional Meeting.md
       - Calendar of Events.md
       - 17 October 2023/.keep
       - 17 October 2023/SICW Women in Cyber.md
