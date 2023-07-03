@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - SICW Opening Ceremony.md
       - SICW Summit.md
       - GFCE Southeast Asia Regional Meeting.md
       - Calendar of Events.md
