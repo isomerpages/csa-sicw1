@@ -9,7 +9,8 @@ third_nav_title: 17 October 2023
 **17 October 2023 (Tuesday)**  
 *Time TBC (GMT +8)*
 
-*Access: Open Session*
+*Access: Open Session, In-person*
+<br>*Live-stream: Yes*
 
 The Women in Cyber event aims to promote cybersecurity as a career to female students, professionals, and mothers returning to work.
 
