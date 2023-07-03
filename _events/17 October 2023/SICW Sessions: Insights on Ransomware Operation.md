@@ -9,7 +9,8 @@ third_nav_title: 17 October 2023
 **17 October 2023 (Tuesday)**  
 *Time TBC (GMT +8)*
 
-*Access: Open Session*
+*Access: Open Session, In-person*
+<br>*Live-stream: Yes*
 
 Ransomware threat actors are increasingly employing extortion techniques to gain leverage over targeted organizations. Organizations need to adapt their defences and ransomware operations to counter the various methods employed by threat actors to apply pressure. In today's landscape, ransomware operations must prioritize the safeguarding of an organization's reputation and the protection of employees or customers who may become targets of such tactics. Our panel will share their insights and experiences regarding the conduct of ransomware operations and provide guidance on how you can protect yourself from such attacks.
 
