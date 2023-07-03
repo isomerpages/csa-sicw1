@@ -5,16 +5,12 @@ description: ""
 ---
 #### **ASEAN Cybercrime Prosecutors' Roundtable Meeting**
 
-**20 October 2022 (Thursday)**  
-*9.00am – 6.00pm (GMT +8)*
+**18 October 2023 (Wednesday)**  
+*Time TBC (GMT +8)*
 
-*Format: Virtual (Closed Door Event)*
+*Access: Closed Door, In-person*
+<br>*Live-stream: No*
 
-The ACPRM on **20 October 2022** provides a platform for the community of prosecutors across the ASEAN Member States, especially those who specialise in prosecuting cybercrime, to gather and share ideas. As with the previous four meetings, it will focus on establishing a basis for enhancing capabilities and facilitating greater cooperation in the fight against cybercrime. 
- 
-**Attendance is strictly by invitation** and will be sent out separately to expert-level practitioners.
+The ACPRM on 18 October 2023 will provide a platform for the community of prosecutors across the ASEAN Member States, particularly those specializing in prosecuting cybercrime, to gather and exchange ideas. Similar to the previous five meetings, its primary focus will be on establishing a basis for enhancing capabilities and facilitating greater cooperation in the fight against cybercrime.
 
-| **Speaker**    |                                                              |
-	| [Mr Gordon Oh](/speaker-gordon-oh)  | *Senior Director*<br>Attorney-General’s Chambers                  |
-		| [Ms Aileen Yap](/speaker-Aileen-Yap)  | *Assistant Director, Anti-Scam Command, Commercial Affairs Department*<br>Singapore Police Force                  |
-			| [Ms Choi Eun Young](/speaker-Choi-Eun-Young)  | *Director, National Cryptocurrency Enforcement Team*<br>United States Department of Justice                 |
+Attendance to the event is strictly by invitation, and separate invitations will be sent out specifically to expert-level practitioners.
