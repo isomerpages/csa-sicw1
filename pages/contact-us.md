@@ -11,10 +11,10 @@ contacts:
     title: Please send your enquiries to
 locations:
   - address:
+      - Address Line 1
       - ""
       - ""
-      - ""
+    title: SICW
     operating_hours: []
     maps_link: ""
-    title: Test Location
 ---
