@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Calendar of Events.md
       - 17 October 2023/.keep
       - 17 October 2023/SICW Women in Cyber.md
       - "17 October 2023/SICW Sessions: Insights on Ransomware Operation.md"
