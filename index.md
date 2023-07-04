@@ -8,7 +8,8 @@ image: /images/logo_sicw.png
 permalink: /
 notification: ""
 sections:
-  - hero: {}
+  - hero:
+      background: /images/2022 website images/sicw_homebanner_temp.jpg
   - infobar:
       title: SICW
       subtitle: About
@@ -17,10 +18,6 @@ sections:
         leaders and industry experts.
       button: read more
       url: /about-sicw
-  - infopic:
-      title: SICW 2023 Guests of Honour
-      image: /images/GOH 3.png
-      alt: Image alt text
   - resources:
       title: Past SICW Highlights
       subtitle: Explore
