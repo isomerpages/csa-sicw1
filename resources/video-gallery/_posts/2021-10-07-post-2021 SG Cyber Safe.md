@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-#### **SICW 2021 - Launch of SG Cyber Safe Partnership Programme &amp; SG Cyber Safe for Enterprises Panel Discussion**
+#### **2021 - Launch of SG Cyber Safe Partnership Programme &amp; SG Cyber Safe for Enterprises Panel Discussion**
 
 While the Government takes a key role in leading cybersecurity efforts, cybersecurity is also everyone’s business and thus, a collective responsibility. For this reason, CSA works closely with industry to co-develop cybersecurity content or products that complement our efforts to drive cybersecurity awareness and adoption.
 
