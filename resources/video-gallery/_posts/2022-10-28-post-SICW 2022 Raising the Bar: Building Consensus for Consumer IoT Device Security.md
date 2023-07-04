@@ -13,4 +13,4 @@ This session will aim to help manufacturers of connected consumer “internet of
 
 During this workshop, an expert panel featuring industry representatives, subject matter experts, and government regulators will discuss the importance of these capabilities and share insights and guidance to support adoption and implementation by manufacturers to raise the baseline security of consumer IoT devices. The event will also serve to launch a new online resource hub by the Cybersecurity Tech Accord featuring implementation examples and access to resources and materials to support manufacturers to improve IoT device security.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/i7BVu0dXVII" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/i7BVu0dXVII" width="100%" height="445"></iframe>
