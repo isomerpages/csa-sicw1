@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-#### **SICW 2022 - SG Cyber Safe for Enterprises Dialogue &amp; Partner Appreciation**
+#### **2022 - SG Cyber Safe for Enterprises Dialogue &amp; Partner Appreciation**
 
 Employees tend to be the weakest link in an organisation’s security, as attackers continually evolve and advance the sophistication of social engineering attacks. For this reason, the human factor remains a critical issue in creating a secure digital environment.
 
