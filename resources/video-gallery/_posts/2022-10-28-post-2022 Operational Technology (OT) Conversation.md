@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-#### **SICW 2022 - Operational Technology (OT) Conversation**
+#### **2022 - Operational Technology (OT) Conversation**
 
 Detection and Response capabilities for cybersecurity incident in the Operational Technology environment Today may be challenging with legacy equipment and vendor restrictions limiting the extent of cybersecurity capabilities that can be deployed to ensure cyber threat visibility. With the constantly evolving cyber threat landscape, cyber threat detection and response capabilities for the operational technology capabilities also need to keep up and evolve to manage Tomorrow’s cyber threats.
 
