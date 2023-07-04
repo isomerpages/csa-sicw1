@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-#### **SICW 2022 - Cyber Supply Chain**
+#### **2022 - Cyber Supply Chain**
 
 Cyber supply chain risks are complex and of global concern. Cyber supply chains represent one of the most challenging areas for organisations to secure as vulnerabilities can be introduced at any point in the supply chain activities. Individual efforts by organisations to manage cyber supply chain risks are also insufficient to address the systemic risks from increased digitalisation and cyberattacks. 
 
