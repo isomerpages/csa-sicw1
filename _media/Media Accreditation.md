@@ -18,12 +18,11 @@ Please contact [**TeamSICW2023@hkstrategies.com**](mailto:TeamSICW2023@hkstrateg
 Editors of publications and media agencies are requested to take note of the following principles to ensure that media accreditation is restricted to professional journalists, photographers, camera crew and bloggers:
 <br><br>i.	The organiser considers the media pass to be a working tool to be used only by bona fide members of the press. Marketing personnel, sub-editors, staff of the publication’s secretariat, etc. cannot be accredited as media.
 <br><br>ii.	The organiser will only accredit media personnel from publications and agencies, and professional bloggers:
-* With a circulation size and quality that fulfil the criteria of the organiser
-* With a format and quality that fulfil the criteria of the organiser
-* With a sizeable following and sphere of influence, areas of interest and quality
-that fulfil the criteria of the organiser
+* With a circulation size and quality that fulfil the criteria of the organiser.
+* With a format and quality that fulfil the criteria of the organiser.
+* With a sizeable following and sphere of influence, areas of interest and quality that fulfil the criteria of the organiser.
 
-<br>iii.	Internal company publications cannot be accredited as media. However, at the sole discretion of the organiser, and where the quality and circulation criteria justify the organiser’s consideration, such publications may be eligible for accreditation on a case-by-case basis.
+iii.	Internal company publications cannot be accredited as media. However, at the sole discretion of the organiser, and where the quality and circulation criteria justify the organiser’s consideration, such publications may be eligible for accreditation on a case-by-case basis.
 <br><br>iv. Under no circumstance will advertising and public relations agencies (or similar
 companies and organisations) be accredited as media, nor will the organiser issue
 any media accreditation to representatives (press officers or otherwise) of sponsors,
