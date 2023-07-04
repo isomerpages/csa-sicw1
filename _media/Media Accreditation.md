@@ -15,7 +15,7 @@ Please contact [**TeamSICW2023@hkstrategies.com**](mailto:TeamSICW2023@hkstrateg
 
 **1.2 Accreditation Principles**
 
-Editors of publications and media agencies are requested to take note of the following principles to ensure that media accreditation is restricted to professional journalists, photographers, camera crew and bloggers:
+Editors of publications and media agencies are requested to take note of the following principles to ensure that media accreditation is restricted to professional journalists, photographers, camera crews and bloggers:
 <br><br>i.	The organiser considers the media pass to be a working tool to be used only by bona fide members of the press. Marketing personnel, sub-editors, staff of the publication’s secretariat, etc. cannot be accredited as media.
 <br><br>ii.	The organiser will only accredit media personnel from publications and agencies, and professional bloggers:
 * With a circulation size and quality that fulfil the criteria of the organiser.
