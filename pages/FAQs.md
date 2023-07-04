@@ -22,7 +22,7 @@ GovWare Conference and Exhibition 2023, the region’s premier trade show for cy
 
 
 **4.	How can I attend the event?**
-<br>SICW 2023 is open to registered attendees and registration can be done at https://www.sicw.gov.sg/registration/<a href="/registration/" target="_blank"></a>. Visitor Pass holders will have access to all SICW open sessions and GovWare Exhibition, including open programmes taking place on the exhibition floor. To access the GovWare Conference sessions, a Conference Pass is required. To learn more about GovWare 2023 which is held in conjunction with SICW 2023, please visit www.govware.sg<a href="https://www.govware.sg/" target="_blank"></a>. 
+<br>SICW 2023 is open to registered attendees and registration can be done at  [https://www.sicw.gov.sg/registration/](/registration/). Visitor Pass holders will have access to all SICW open sessions and GovWare Exhibition, including open programmes taking place on the exhibition floor. To access the GovWare Conference sessions, a Conference Pass is required. To learn more about GovWare 2023 which is held in conjunction with SICW 2023, please visit www.govware.sg<a href="https://www.govware.sg/" target="_blank"></a>. 
 
 **5.	What are the travel requirements to enter Singapore?**
 <br>Travellers seeking to enter Singapore should comply with the prevailing Public Health as well as Entry Requirements listed here<a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore" target="_blank"></a>.
