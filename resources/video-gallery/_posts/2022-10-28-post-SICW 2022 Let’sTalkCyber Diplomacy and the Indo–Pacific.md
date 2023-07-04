@@ -18,4 +18,4 @@ But how involved can industry, civil society, academia and the broader multistak
 
 Hosted during Singapore International Cyber Week 2022, this Let’sTalkCyber session will aim to engage representatives from states and members of the Indo-Pacific multistakeholder community with a particular focus on local and regional civil society groups, NGOs and regional technology companies. The session will focus on exploring the important role that the multistakeholder community plays in UN cyber discussions, delving into the incentives for these actors to engage in these forums and the valuable input that they can provide.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5IOhjuLbfcw" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5IOhjuLbfcw" width="100%" height="445"></iframe>
