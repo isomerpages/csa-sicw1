@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-#### **SICW 2022 - Raising the Bar: Building Consensus for Consumer IoT Device Security**
+#### **2022 - Raising the Bar: Building Consensus for Consumer IoT Device Security**
 
 This session will aim to help manufacturers of connected consumer “internet of things” (IoT) devices adopt critical capabilities to improve security in their products. Earlier this year, the Cybersecurity Tech Accord, a coalition of technology companies, joined with consumer advocates via Consumers International, and security researchers via I Am The Cavalry, to launch a joint statement on the five most important security capabilities for consumer IoT devices – no universal default passwords, implementation of a vulnerability disclosure policy, updated software, secure data, and secure communications.
 
