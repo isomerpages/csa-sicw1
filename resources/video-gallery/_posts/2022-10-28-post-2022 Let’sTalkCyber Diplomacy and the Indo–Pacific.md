@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-#### **SICW 2022 - Let’sTalkCyber Diplomacy and the Indo–Pacific – International Negotiations on Cybersecurity**
+#### **2022 - Let’sTalkCyber Diplomacy and the Indo–Pacific – International Negotiations on Cybersecurity**
 
 The multistakeholder community has a vital role to play in shaping international discussions at the United Nations on responsible state behaviour in cyberspace, cybercrime, and the future of global digital cooperation, including through the:
 
