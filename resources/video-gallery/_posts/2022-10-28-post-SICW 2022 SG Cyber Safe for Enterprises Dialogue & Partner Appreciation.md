@@ -14,4 +14,4 @@ Join us in the SG Cyber Safe for Enterprises Dialogue to understand more about t
 
 The SG Cyber Safe Partner Appreciation aims to recognise partnering organisations, CSA’s appointed Cyber Essentials and Cyber Trust certification bodies, and other third-party advocates that have made outstanding contributions to the programme. Join us in the appreciation ceremony and celebrate their achievements!
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GkMwIUsZDp4" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GkMwIUsZDp4" width="100%" height="445"></iframe>
