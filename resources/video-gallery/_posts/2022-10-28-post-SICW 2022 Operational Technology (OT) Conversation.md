@@ -12,4 +12,4 @@ Detection and Response capabilities for cybersecurity incident in the Operationa
 
 This session will share insights on the areas involving People, Process and Technology that should be considered to manage tomorrow’s cyber threat detection and response.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/udD9ry0-WAY" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/udD9ry0-WAY" width="100%" height="445"></iframe>
