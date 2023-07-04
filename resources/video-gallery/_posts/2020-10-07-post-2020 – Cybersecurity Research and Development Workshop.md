@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-#### **SICW 2020 - Cybersecurity R&amp;D Workshop**
+#### **2020 - Cybersecurity R&amp;D Workshop**
 
 The Cybersecurity R&amp;D Workshop was organised by the Singapore Cybersecurity Consortium under the National Cybersecurity R&amp;D Programme (NCRP). It served as a platform for the cross-pollination of ideas amongst cybersecurity R&amp;D stakeholders  - from government, industry and academia.
 
