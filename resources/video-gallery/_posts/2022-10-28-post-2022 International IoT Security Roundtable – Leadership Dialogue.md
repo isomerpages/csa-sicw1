@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-#### **SICW 2022 - International IoT Security Roundtable - Leadership Dialogue**
+#### **2022 - International IoT Security Roundtable - Leadership Dialogue**
 
 To galvanise international efforts towards internationalising a common IoT Security standard, to prevent standard fragmentation, eradicate duplicated evaluation/compliance across borders, and facilitate export.
 
