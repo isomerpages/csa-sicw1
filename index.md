@@ -8,8 +8,7 @@ image: /images/logo_sicw.png
 permalink: /
 notification: ""
 sections:
-  - hero:
-      background: /images/SICW Website banner.jpg
+  - hero: {}
   - infobar:
       title: SICW
       subtitle: About
