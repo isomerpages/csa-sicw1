@@ -10,4 +10,4 @@ image: ""
 
 To galvanise international efforts towards internationalising a common IoT Security standard, to prevent standard fragmentation, eradicate duplicated evaluation/compliance across borders, and facilitate export.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/6sXadReAuVQ" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/6sXadReAuVQ" width="100%" height="445"></iframe>
