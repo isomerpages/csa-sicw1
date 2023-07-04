@@ -7,7 +7,7 @@ description: ""
 
 SICW 2023 returns as an in-person only event. Don’t miss this opportunity to meet and learn from global policy makers, senior executives, and cybersecurity experts from across the world. Register now!
 
-![](/images/registration%20page%20table.png)
+![](/images/260623-table-v2.png)
 
 Notes:
 -	All prices are shown in Singapore Dollars (SGD)
