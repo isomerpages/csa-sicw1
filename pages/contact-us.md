@@ -9,4 +9,12 @@ contacts:
       - email: enquiries@govware.sg
       - other: ""
     title: Please send your enquiries to
+locations:
+  - address:
+      - ""
+      - ""
+      - ""
+    title: Test Location
+    operating_hours: []
+    maps_link: ""
 ---
