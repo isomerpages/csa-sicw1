@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-#### **SICW 2021 - Event Highlights**
+#### **2021 - Event Highlights**
 
 The sixth edition of the Singapore International Cyber Week (SICW) concluded on 8 October 2021 with nearly 2,000 local and international attendees participating in the hybrid event. With more than a dozen events covering a myriad of topics ranging from technology to operations to policy, SICW 2021 attracted a diverse audience mix of top government officials, business leaders, academics and cybersecurity professionals.
 
