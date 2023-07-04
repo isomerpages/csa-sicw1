@@ -9,9 +9,6 @@ third_nav_title: 17 October 2023
 **17 October 2023 (Tuesday)**  
 *Time TBC (GMT +8)*
 
-*Access: Open Session, In-person*
-<br>*Live-stream: Yes*
-
 To galvanise international efforts towards internationalising a common IoT Security standards, to prevent standards fragmentation, eradicate duplicated evaluation/compliance across borders, and facilitate export.
-
+<br><br><br>
 *Information is accurate at time of publication
