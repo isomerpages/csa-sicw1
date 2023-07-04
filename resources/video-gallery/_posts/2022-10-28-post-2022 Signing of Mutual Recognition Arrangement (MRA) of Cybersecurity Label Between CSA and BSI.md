@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-#### **SICW 2022 - Signing of Mutual Recognition Arrangement (MRA) of Cybersecurity Label Between CSA and BSI**
+#### **2022 - Signing of Mutual Recognition Arrangement (MRA) of Cybersecurity Label Between CSA and BSI**
 
 The signing of the Mutual Recognition Arrangement (MRA) on Cybersecurity Labels for Consumer Smart Products between the Cyber Security Agency of Singapore (CSA) and the Federal Office for Information Security (BSI) of Germany, to mutually recognise the cybersecurity labels issued by the Cyber Security Agency of Singapore and the Federal Office for Information Security of Germany. The establishment of the mutual recognition, will further promote the harmonisation of standards, reduce duplicated testing and costs for manufacturers globally, and lastly to improve market access for Consumer Internet-of-Things manufacturers between Germany and Singapore.
 
