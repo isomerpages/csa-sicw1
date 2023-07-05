@@ -13,4 +13,4 @@ The ACPRM on 18 October 2023 will provide a platform for the community of prosec
 
 Attendance to the event is strictly by invitation, and separate invitations will be sent out specifically to expert-level practitioners.
 <br><br><br>
-*Information is accurate at time of publication
+*Information is accurate at time of publication*
