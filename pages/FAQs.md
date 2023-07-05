@@ -16,7 +16,7 @@ Click [About SICW](/about-sicw) for more information.
 <br>SICW 2023 will take place from 16 to 19 October 2023 at Sands Expo and Convention Centre, Singapore.
 
 **3.	What are the key happenings at SICW 2023?** 
-<br>SICW 2023 encompasses a range of events, such as the SICW Summit, SICW Opening Ceremony &amp; Plenary, ), ASEAN Ministerial Conference on Cybersecurity (AMCC), ASEAN Cybercrime Prosecutors’ Roundtable Meeting (ACPRM), 9th ASEAN Senior Officials Roundtable on Cybercrime (SORC), International IoT Security Roundtable, Women in Cyber, and more. 
+<br>SICW 2023 encompasses a range of events, such as the SICW Summit, SICW Opening Ceremony &amp; Plenary, ASEAN Ministerial Conference on Cybersecurity (AMCC), ASEAN Cybercrime Prosecutors’ Roundtable Meeting (ACPRM), 9th ASEAN Senior Officials Roundtable on Cybercrime (SORC), International IoT Security Roundtable, Women in Cyber, and more. 
 
 GovWare Conference and Exhibition 2023, the region’s premier trade show for cybersecurity, will be held in conjunction with SICW 2023.
 
@@ -38,4 +38,4 @@ Singapore is open to all travellers without quarantine or testing requirements, 
 **8. Am I required to wear a mask during the event?**
 <br>In line with the Singapore government’s advisory, mask-wearing is not required except in healthcare settings. However, do practise good personal hygiene and wear a mask if you are unwell.
 <br><br><br>
-*Information is accurate at time of publication*
+*Information is accurate as of 20th July 2023*
