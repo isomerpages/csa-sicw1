@@ -11,4 +11,4 @@ third_nav_title: 17 October 2023
 
 To galvanise international efforts towards internationalising a common IoT Security standards, to prevent standards fragmentation, eradicate duplicated evaluation/compliance across borders, and facilitate export.
 <br><br><br>
-*Information is accurate at time of publication
+*Information is accurate at time of publication*
