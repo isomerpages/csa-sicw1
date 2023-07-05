@@ -13,4 +13,4 @@ The Women in Cyber event aims to promote cybersecurity as a career to female stu
 
 Esteemed international cybersecurity leaders and practitioners will be sharing best practices for attracting and retaining women in this field. The panel discussions may also cover topics such as cybersecurity policies, technology, and operations. Participants can look forward to networking opportunities with government agencies, industry partners, and professional associations following the panel sessions.
 <br><br><br>
-*Information is accurate at time of publication
+*Information is accurate at time of publication*
