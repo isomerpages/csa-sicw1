@@ -37,3 +37,5 @@ Singapore is open to all travellers without quarantine or testing requirements, 
 
 **8. Am I required to wear a mask during the event?**
 <br>In line with the Singapore government’s advisory, mask-wearing is not required except in healthcare settings. However, do practise good personal hygiene and wear a mask if you are unwell.
+<br><br><br>
+*Information is accurate at time of publication*
