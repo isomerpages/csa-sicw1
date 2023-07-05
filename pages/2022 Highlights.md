@@ -12,4 +12,4 @@ The seventh edition of the Singapore International Cyber Week (SICW) was held on
 ![](/images/highlightsstatsoverview-3.jpg)
 ##### **Some of 2022’s Distinguished Guests and Speakers**
 
-![](/images/sicw-2022-highlights-final-b.png)
+![](/images/copy%20of%20sicw%202022%20highlights.png)
