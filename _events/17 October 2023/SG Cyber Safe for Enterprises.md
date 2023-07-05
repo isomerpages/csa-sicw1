@@ -13,4 +13,4 @@ Organisations have accelerated their pace of digitalisation, and with a correspo
 
 Given that cybersecurity is a collective responsibility, this event also recognises organisations partnering with CSA to enable a Safer Cyberspace for Enterprises and have made outstanding contributions to CSA’s SG Cyber Safe programme. 
 <br><br><br>
-*Information is accurate at time of publication
+*Information is accurate at time of publication*
