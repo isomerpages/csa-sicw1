@@ -6,7 +6,7 @@ agency_name: SICW
 contacts:
   - content:
       - phone: ""
-      - email: enquiries@sicw.gov.sg
+      - email: contact@sicw.gov.sg
       - other: ""
     title: Please send your enquiries to
 locations:
@@ -14,7 +14,7 @@ locations:
       - ""
       - ""
       - ""
-    title: To be removed
     operating_hours: []
     maps_link: ""
+    title: To be removed
 ---
