@@ -15,7 +15,7 @@ Please contact [**TeamSICW2023@hkstrategies.com**](mailto:TeamSICW2023@hkstrateg
 
 **1.2 Accreditation Principles**
 
-Editors of publications and media agencies are requested to take note of the following principles to ensure that media accreditation is restricted to professional journalists, photographers, camera crews and bloggers:
+Editors of publications and media agencies are requested to take note of the following principles to ensure that media accreditation is restricted to professional journalists, photographers, camera crews and bloggers
 <br><br>i.	The organiser considers the media pass to be a working tool to be used only by bona fide members of the press. Marketing personnel, sub-editors, staff of the publication’s secretariat, etc. cannot be accredited as media.
 <br><br>ii.	The organiser will only accredit media personnel from publications and agencies, and professional bloggers:
 * With a circulation size and quality that fulfil the criteria of the organiser.
@@ -54,15 +54,8 @@ meet the following requirements, in addition to those above:
 * The web publication must belong to a registered company, such as a media
 organisation, and have a specific, verifiable non-web address and telephone
 number.
-* The online journal requesting accreditation for its correspondent(s) must have
-a substantial amount of original and topical news content or commentary or
-analysis on international issues.
-* If the website is new, the applicant seeking accreditation must provide the
-latest data on the site's visitorship or other relevant material (press citations,
-etc.) about the outlet's audience. The applicant must have an established
-record of having written extensively on international issues and must present
-copies of three recently published articles, not more than six months old, with
-his/her byline.
+* The online journal requesting accreditation for its correspondent(s) must have a substantial amount of original and topical news content, or commentary or analysis on international issues.
+* The applicant must have an established record of having written extensively on international issues and must present copies of three recently published articles, not more than six months old, with his/her byline
 * Please note that online publications that are intended for the communications
 outreach or advocacy of non-governmental or non-profit organisations do not
 qualify for media accreditation.
@@ -89,15 +82,13 @@ below.
 
 **VENUE**
 <br>Media Centre
-<br>Begonia 3010A, Level 3
+<br>Begonia 3110, Level 3
 <br>Sands Expo and Convention Centre
 <br>10 Bayfront Ave, Singapore 018956
 
 vii. The representative(s) must produce an email confirmation as well as two copies of his/her name cards when collecting the media badge at the event. **NO MEDIA PASS WILL BE ISSUED WITHOUT PROPER DOCUMENTATION.**
 
-viii. Accreditation does not guarantee journalists and photographers access to all media
-events/press conferences. Journalists and photographers should refer to the press kit
-for more details.
+viii. Accreditation does not guarantee journalists, camera crew and photographers access to all media events/press conferences. Journalists and photographers should refer to the press kit for more details.
 
 ix. The media pass is&nbsp;**NON-TRANSFERABLE**. It may only be used by the person
 whose name and publication name appear on the badge.
