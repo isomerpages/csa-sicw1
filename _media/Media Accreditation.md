@@ -54,8 +54,8 @@ meet the following requirements, in addition to those above:
 * The web publication must belong to a registered company, such as a media
 organisation, and have a specific, verifiable non-web address and telephone
 number.
-* The online journal requesting accreditation for its correspondent(s) must have a substantial amount of original and topical news content, or commentary or analysis on international issues.
-* The applicant must have an established record of having written extensively on international issues and must present copies of three recently published articles, not more than six months old, with his/her byline
+* The online journal requesting accreditation for its correspondent(s) must have a substantial amount of original and topical news content, commentary or analysis on international issues.
+* The applicant must have an established record of having written extensively on international issues and present copies of three recently published articles, not more than six months old, with his/her byline
 * Please note that online publications that are intended for the communications
 outreach or advocacy of non-governmental or non-profit organisations do not
 qualify for media accreditation.
