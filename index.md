@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "[This is a Staging Site] - Singapore International Cyber Week "
+title: "[This is a Staging Site] - Singapore International Cyber Week"
 description: Singapore International Cyber Week (SICW) is Asia-Pacific’s most
   established cybersecurity event for global policy makers, thought leaders and
   industry experts.
@@ -10,14 +10,16 @@ notification: ""
 sections:
   - hero:
       background: /images/2022 website images/sicw_homebanner_temp.jpg
-  - infobar:
+  - infopic:
       title: SICW
       subtitle: About
       description: Singapore International Cyber Week (SICW) is Asia-Pacific’s most
         established cybersecurity event for global policy makers, thought
         leaders and industry experts.
-      button: read more
+      button: Button Text
       url: /about-sicw
+      image: /images/amcc emily.jpg
+      alt: Image alt text
   - resources:
       title: Past SICW Highlights
       subtitle: Explore
