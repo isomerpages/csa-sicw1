@@ -4,7 +4,7 @@ permalink: /events/17-october-2023/gfce-sea-regional-meeting/
 description: ""
 third_nav_title: 17 October 2023
 ---
-#### **GFCE SEA Regional Meeting**
+#### **Global Forum on Cyber Expertise (GFCE) Southeast Asia Regional Meeting**
 
 **17 October 2023 (Tuesday)**  
 *Time TBC (GMT +8)*
