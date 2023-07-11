@@ -7,7 +7,7 @@ third_nav_title: 18 October 2023
 #### **ASEAN CERT Incident Drill (ACID)**
 
 **18 October 2023 (Wednesday)**  
-*Time: 9.30am - 4.00pm (GMT +8)*
+*Time: 9.30am to 4.00pm (GMT +8)*
 
 *Format: Closed Door Event*
 
