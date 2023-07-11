@@ -15,6 +15,6 @@ As the cybersecurity landscape continues to rapidly evolve, trust has become inc
 
 GovWare 2023 will feature cutting-edge tech showcases at the GovWare Exhibition, providing attendees with an opportunity to explore the latest advancements in cybersecurity technology. Moreover, the event offers invigorating programs and networking socials, enabling participants to connect with a global community and learn from domain experts.
 
-For further details about GovWare 2023 and pass purchases, please visit the official website at [www.govware.sg](http://www.govware.sg). Take note that GovWare Conference Pass holders will have access to the SICW 2023 open sessions.
+For further details about GovWare 2023 and pass purchases, please visit the official website at <a href="https://www.govware.sg/" target="blank">www.govware.sg</a>. Take note that GovWare Conference Pass holders will have access to the SICW 2023 open sessions.
 <br><br><br>
 *Information is accurate at time of publication*
