@@ -30,7 +30,6 @@ sections:
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/FWbGCw0b75g" height="315"
-        width="560"></iframe>
+        src="https://www.youtube.com/embed/FWbGCw0b75g" width="100%"></iframe>
       button: Button Text
 ---
