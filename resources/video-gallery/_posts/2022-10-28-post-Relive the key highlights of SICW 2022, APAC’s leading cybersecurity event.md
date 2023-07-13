@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-#### **Highlights of Singapore International Cyber Week 2022**
+#### **Relive the key highlights of SICW 2022, APAC’s leading cybersecurity event**
 
 Relive the key highlights of [#SICW2022](https://www.youtube.com/hashtag/sicw2022), APAC’s leading [#cybersecurity](https://www.youtube.com/hashtag/cybersecurity) event! See you at [#SICW2023](https://www.youtube.com/hashtag/sicw2023)!
 
