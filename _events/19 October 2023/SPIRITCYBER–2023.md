@@ -4,7 +4,7 @@ permalink: /events/19-october-2023/spiritcyber-2023/
 description: ""
 third_nav_title: 19 October 2023
 ---
-#### **SPIRITCYBER-2023**
+#### **IoT Hackathon: SPIRITCYBER-2023**
 
 **19 October 2023 (Thursday)**  
 *Time TBC (GMT +8)*
