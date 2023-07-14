@@ -16,6 +16,7 @@ sections:
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/k16svvZ5CnQ" width="100%"
         height="415"></iframe>
+      title: Relive the key highlights of SICW 2022
   - infopic:
       title: SICW
       subtitle: About
