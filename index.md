@@ -11,9 +11,10 @@ sections:
   - hero:
       background: /images/2022 website images/sicw_homebanner_temp.jpg
   - infobar:
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="YouTube video player"
+      description: <b>APAC's Leading Cybersecurity Event</b><br><iframe
+        allowfullscreen="" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture; web-share"
+        frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/k16svvZ5CnQ" width="100%"
         height="415"></iframe>
       title: Relive the key highlights of SICW 2022
