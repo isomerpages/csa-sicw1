@@ -5,7 +5,7 @@ permalink: /events/19-october-2023/sicw-sessions-combating-advanced-cybersecurit
 description: ""
 third_nav_title: 19 October 2023
 ---
-#### **Combating advanced cybersecurity threats amidst evolving digital frontiers**
+#### **SICW Sessions: Combating advanced cybersecurity threats amidst evolving digital frontiers**
 
 **19 October 2023 (Thursday)**  
 *Time TBC (GMT +8)*
