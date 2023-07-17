@@ -11,6 +11,10 @@ image: ""
 The SICW Opening Ceremony will be officiated by Singapore’s Senior Minister and Coordinating Minister for National Security, Mr Teo Chee Hean.
 
 ![](/images/screenshot_video_ceremony.jpg)
+
+<div align="center">
+[Watch Here](https://www.youtube.com/watch?v=K582VHwAcI8)
+</div>
 <div align="center">	
 	<a href="https://www.youtube.com/watch?v=K582VHwAcI8" target="_blank"><h5>Watch Here</h5></a>
 </div>
