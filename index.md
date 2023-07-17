@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2022 website images/sicw_homebanner_temp.jpg
+      background: /images/sicw-2023-home-banner-1.jpg
   - infobar:
       description: <h3>Relive the key highlights of SICW 2022 - APAC's Leading
         Cybersecurity Event</h3><br><iframe allowfullscreen=""
