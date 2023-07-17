@@ -12,9 +12,8 @@ The SICW Opening Ceremony will be officiated by Singapore’s Senior Minister an
 
 ![](/images/screenshot_video_ceremony.jpg)
 
-<div align="center">
-[Watch Here](https://www.youtube.com/watch?v=K582VHwAcI8)
-</div>
+##### **[Watch Here](https://www.youtube.com/watch?v=K582VHwAcI8)**
+
 <div align="center">	
 	<a href="https://www.youtube.com/watch?v=K582VHwAcI8" target="_blank"><h5>Watch Here</h5></a>
 </div>
