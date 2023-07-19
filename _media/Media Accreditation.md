@@ -77,7 +77,7 @@ days after registration, he/she is requested to contact the representatives stat
 below.
 <br><br>vi. Details for the collection of media passes are as follows:
 <br>
-<br>**16 - 19 OCTOBER 2023**
+<br>**17 - 19 OCTOBER 2023**
 <br>0830hrs – 1700hrs
 
 **VENUE**
