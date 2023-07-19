@@ -18,7 +18,7 @@ The message of global cooperation was emphasised by multiple speakers throughout
 
 “A multi-stakeholder approach is key because cybersecurity is a team effort. Governments cannot do it alone. Therefore, partnerships among stakeholders – governments, industry, academia – are needed… We also believe that this approach helps to minimise the spill-over of geopolitical tensions into the digital domain by keeping open channels of communications, and building shared expectations and norms on behaviour,” she said. 
 
-![AMCC 2022](https://www.csa.gov.sg/images/default-source/news/amcc-2022.jpg?sfvrsn=62c80cca_1)
+![](/images/j1040329_edited.jpg)
 *[Fourth from right]
 <br>Minister Josephine Teo with ASEAN Ministers at the ASEAN Ministerial Conference on Cybersecurity*
 
@@ -36,7 +36,7 @@ CSA, in partnership with the&nbsp;[Global Forum on Cyber Expertise (GFCE)](https
 
 As Mr David Koh summed up at one of the sessions, “the digital future can be bright if we can manage the risks. I believe there’s a possibility to put aside our differences and build upon consensus for the collective good for our digital future.”
 
-![SICW Ministerial Roundtable 1 - Cyber Resilience in the New Normal](https://www.csa.gov.sg/images/default-source/news/ministerial-roundtable_cyber-resilience.jpg?sfvrsn=69eee422_1)
+![](/images/img-197.jpg)
 *[Second from left\] CSA Chief Executive Mr David Koh moderated the first Ministerial Roundtable Session on “Cyber Resilience in the New Normal”. Speakers included Brunei’s Minister-in-Charge of Cybersecurity, Ghana’s Minister for Communications and Digitalization, New Zealand’s Minister for the Digital Economy and Communications, and the Philippines’ Secretary of Information and Communications Technology.*
 
 At the International IoT Security Roundtable session, Senior Minister of State for MCI Dr Janil Puthucheary announced that CSA has collaborated with the Ministry of Health (MOH), Health Sciences Authority (HSA) and Integrated Health Information Systems (IHiS) on the&nbsp;[Cybersecurity Labelling Scheme for Medical Devices \[CLS (MD)\]](https://www.csa.gov.sg/News-Events/Press-Releases/2022/cybersecurity-labelling-scheme-for-medical-devices). Medical devices are rated according to their levels of cybersecurity provisions, which will incentivise manufacturers to adopt a security-by-design approach and enable consumers and healthcare providers to make informed decisions about the use of devices.&nbsp;
@@ -47,7 +47,7 @@ A vibrant cybersecurity ecosystem is key to growing Singapore’s cybersecurity 
 
 To recognise Small-Medium Enterprises (SMEs) which have demonstrated commitment to good cybersecurity practices, Senior Minister of State, MCI Tan Kiat How launched a new&nbsp;[SME Cybersecurity Excellence Award](https://www.csa.gov.sg/News-Events/Press-Releases/2022/csa-launches-the-sme-cybersecurity-excellence-award-to-recognize-singapore-business-commitment-to-cybersecurity), developed jointly by CSA and the Association of Trade &amp; Commerce.
 
-![Cyber Essentials_ Cyber Trust](https://www.csa.gov.sg/images/default-source/news/cyber-essentials_cyber-trust.jpg?sfvrsn=424f5efe_1)
+![](/images/sicw0234%20-%20cropped.jpg)
 *[Fourth from left] Senior Minister of State Mr Tan Kiat How*
 
 To catch up on the events and key moments from SICW 2022, visit the&nbsp;[YouTube](https://www.youtube.com/watch?v=k16svvZ5CnQ&amp;list=PL16bIKOlGnmjcp0r7KPmt4AdAWuZsj8hX)&nbsp;page.
