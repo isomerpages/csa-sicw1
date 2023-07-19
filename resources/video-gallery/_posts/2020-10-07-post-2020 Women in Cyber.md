@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-#### **2020 Women in Cyber**
+#### **2020 - Women in Cyber**
 
 The theme of SICW 2020 was “Diversity in Cybersecurity under the New Normal” and aimed to reaffirm the international efforts by both the private and public sectors to increase the cybersecurity talent pipeline. Amid the impacts of Covid-19 on jobs and the economy, Women in Cyber also aimed to signal the continued availability of good jobs in the cybersecurity industry for both men and women. 
 
