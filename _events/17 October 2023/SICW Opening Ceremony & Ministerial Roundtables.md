@@ -4,7 +4,7 @@ permalink: /events/17-october-2023/sicw-oc-and-ministerial-roundtables/
 description: ""
 third_nav_title: 17 October 2023
 ---
-#### **SICW Opening Ceremony &amp; Ministerial Roundtables**
+#### **SICW Opening Ceremony and Ministerial Roundtables**
 
 **17 October 2023 (Tuesday)**  
 *Time TBC (GMT +8)*
