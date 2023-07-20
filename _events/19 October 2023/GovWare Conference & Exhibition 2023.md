@@ -9,12 +9,14 @@ third_nav_title: 19 October 2023
 **19 October 2023 (Thursday)**  
 *Time: 9.00am to 5.00pm (GMT +8)*
 
-GovWare 2023, the region's premier cybersecurity event, will be held in person from 17-19 October 2023, at Sands Expo and Convention Centre in Singapore. Supported by the Cybersecurity Agency of Singapore (CSA) and serving as part of the Singapore International Cyber Week (SICW), GovWare Conference and Exhibition brings together top policymakers, global business leaders and industry experts. The event offers a platform to discuss the latest cybersecurity issues, trends, tech advancements, policy developments, strategies and best practices.
+GovWare Conference and Exhibition (GovWare 2023) is the premier cybersecurity trade event featured alongside Singapore International Cyber Week on 17 - 19 October.  
 
-As the cybersecurity landscape continues to rapidly evolve, trust has become increasingly crucial for the success of digital initiatives. At GovWare 2023, the focus will be on exploring how trust can be built and maintained in the new digital reality with the theme **"Fostering Trust Through Collaboration in the New Digital Reality."** By adopting a holistic approach and fostering collaboration within the cybersecurity community, the event aims to examine the fundamental elements of digital trust.
+With a focus on "Fostering Trust Through Collaboration in the New Digital Reality" this year, GovWare 2023 will once again welcome a global community of policymakers, business leaders, and industry experts as they come together to address the increasing importance of trust in the ever-evolving cybersecurity landscape. 
 
-GovWare 2023 will feature cutting-edge tech showcases at the GovWare Exhibition, providing attendees with an opportunity to explore the latest advancements in cybersecurity technology. Moreover, the event offers invigorating programs and networking socials, enabling participants to connect with a global community and learn from domain experts.
+One of the key features is its unrivalled GovWare Exhibition, showcasing cutting-edge cybersecurity technology from over 300 exhibitors serving across the NIST framework. This expansive exhibition presents attendees with unparalleled opportunities to explore the latest advancements and solutions in the industry. From leading innovators to international pavilions and pioneering startups, the exhibition provides valuable insights and networking opportunities within the region. 
 
-For further details about GovWare 2023 and pass purchases, please visit the official website at <a href="https://www.govware.sg/" target="blank">www.govware.sg</a>. Take note that GovWare Conference Pass holders will have access to the SICW 2023 open sessions.
+Additionally, GovWare 2023 offers a diverse range of thought-leading programmes. These programmes include the CXO Plenary, GovWare Keynotes, Breakout Tracks, focused forums on Critical Information Infrastructure (CII) such as the FSI Forum, Startup Pitch Pit, and GovWare InDepth Roundtables. These programmes facilitate critical dialogues, foster collaborations, and provide a platform for attendees to connect with industry peers and learn from esteemed experts. 
+
+ For those interested in attending, visit the GovWare 2023 official website to secure your passes. GovWare Conference Pass holders also benefit from access to the SICW 2023 open sessions, enhancing their learning and networking opportunities even further.
 <br><br><br>
 *Information is accurate at time of publication*
