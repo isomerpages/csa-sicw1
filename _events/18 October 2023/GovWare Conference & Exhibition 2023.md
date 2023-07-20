@@ -17,6 +17,6 @@ One of the key features is its unrivalled **GovWare Exhibition**, showcasing cut
 
 Additionally, GovWare 2023 offers a diverse range of thought-leading programmes. These programmes include the **CXO Plenary, GovWare Keynotes**, Breakout Tracks, focused forums on Critical Information Infrastructure (CII) such as the **FSI Forum, Startup Pitch Pit**, and **GovWare InDepth Roundtables**. These programmes facilitate critical dialogues, foster collaborations, and provide a platform for attendees to connect with industry peers and learn from esteemed experts. 
 
-For those interested in attending, visit the <a href="http://www.govware.sg" target="blank">GovWare 2023 official website</a> to secure your passes. **GovWare Conference Pass** holders also benefit from access to the SICW 2023 open sessions, enhancing their learning and networking opportunities even further.
+For those interested in attending, visit the <a href="http://www.govware.sg" target="blank">GovWare 2023 official website</a> to secure your passes. **GovWare Conference Pass holders** also benefit from access to the SICW 2023 open sessions, enhancing their learning and networking opportunities even further.
 <br><br><br>
 *Information is accurate at time of publication*
