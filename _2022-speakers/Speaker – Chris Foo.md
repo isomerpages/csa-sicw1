@@ -1,6 +1,6 @@
 ---
 title: Speaker – Chris Foo
-permalink: /speaker-Chris-Foo/
+permalink: /speaker-chris-foo/
 description: ""
 ---
 ![](/images/Speakers/Chris%20Foo.jpg)

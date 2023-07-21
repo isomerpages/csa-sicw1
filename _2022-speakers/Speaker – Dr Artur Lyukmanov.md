@@ -1,6 +1,6 @@
 ---
 title: Speaker – Dr Artur Lyukmanov
-permalink: /speaker-Dr-Artur-Lyukmanov/
+permalink: /speaker-dr-artur-lyukmanov/
 description: ""
 ---
 ![](/images/Speakers/Artur%20Lyukmanov.jpg)

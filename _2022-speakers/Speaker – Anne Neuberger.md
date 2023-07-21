@@ -1,6 +1,6 @@
 ---
 title: Speaker – Anne Neuberger
-permalink: /speaker-Anne-Neuberger/
+permalink: /speaker-anne-neuberger/
 description: ""
 ---
 ![](/images/Speakers/Anne%20Neuberger.jpg)

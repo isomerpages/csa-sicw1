@@ -1,6 +1,6 @@
 ---
 title: Speaker – Joanneke Balfoort
-permalink: /speaker-Joanneke-Balfoort/
+permalink: /speaker-joanneke-balfoort/
 description: ""
 ---
 #### **Ms Joanneke Balfoort**

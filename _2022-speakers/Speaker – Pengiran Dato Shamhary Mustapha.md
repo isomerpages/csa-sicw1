@@ -1,6 +1,6 @@
 ---
 title: Speaker – Pengiran Dato Shamhary Mustapha
-permalink: /speaker-Shamhary-Mustapha/
+permalink: /speaker-shamhary-mustapha/
 description: ""
 ---
 ![](/images/Speakers/Shamhary%20Mustapha.jpg)

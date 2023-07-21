@@ -1,6 +1,6 @@
 ---
 title: Discovering Singapore
-permalink: /plan-your-visit/Discovering-Singapore/
+permalink: /plan-your-visit/discovering-singapore/
 description: ""
 ---
 #### **Discovering Singapore**

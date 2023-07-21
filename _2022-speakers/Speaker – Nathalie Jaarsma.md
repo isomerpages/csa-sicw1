@@ -1,6 +1,6 @@
 ---
 title: Speaker – Nathalie Jaarsma
-permalink: /speaker-Nathalie-Jaarsma/
+permalink: /speaker-nathalie-jaarsma/
 description: ""
 ---
 ![](/images/Speakers/Nathalie%20Jaarsma.jpg)

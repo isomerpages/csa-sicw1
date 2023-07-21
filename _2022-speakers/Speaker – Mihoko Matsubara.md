@@ -1,6 +1,6 @@
 ---
 title: Speaker – Mihoko Matsubara
-permalink: /speaker-Mihoko-Matsubara/
+permalink: /speaker-mihoko-matsubara/
 description: ""
 ---
 ![](/images/Speakers/Mihoko%20Matsubara.jpg)

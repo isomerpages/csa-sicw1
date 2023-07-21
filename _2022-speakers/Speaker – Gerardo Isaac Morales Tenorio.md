@@ -1,6 +1,6 @@
 ---
 title: Speaker – Gerardo Isaac Morales Tenorio
-permalink: /speaker-Isaac-Morales/
+permalink: /speaker-isaac-morales/
 description: ""
 ---
 ![](/images/Speakers/Gerardo%20Isaac%20Morales%20Tenorio.jpg)

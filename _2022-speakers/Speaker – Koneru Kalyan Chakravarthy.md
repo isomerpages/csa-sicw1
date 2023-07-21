@@ -1,6 +1,6 @@
 ---
 title: Speaker – Koneru Kalyan Chakravarthy
-permalink: /speaker-Koneru-Kalyan-Chakravarthy/
+permalink: /speaker-koneru-kalyan-chakravarthy/
 description: ""
 ---
 ![](/images/Speakers/Koneru%20Kalyan%20Chakravarthy.jpg)

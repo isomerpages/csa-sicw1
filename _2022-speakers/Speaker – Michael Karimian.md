@@ -1,6 +1,6 @@
 ---
 title: Speaker – Michael Karimian
-permalink: /speaker-Michael-Karimian/
+permalink: /speaker-michael-karimian/
 description: ""
 ---
 ![](/images/Speakers/Michael%20Karimian.jpg)

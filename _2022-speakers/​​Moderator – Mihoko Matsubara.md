@@ -1,6 +1,6 @@
 ---
 title: ​​Moderator – Mihoko Matsubara
-permalink: /moderator-Mihoko-Matsubara/
+permalink: /moderator-mihoko-matsubara/
 description: ""
 ---
 ![](/images/Speakers/Mihoko%20Matsubara.jpg)

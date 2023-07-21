@@ -1,6 +1,6 @@
 ---
 title: Speaker – Doug Kramer
-permalink: /speaker-Doug-Kramer/
+permalink: /speaker-doug-kramer/
 description: ""
 ---
 ![](/images/Speakers/Doug%20Kramer.jpg)

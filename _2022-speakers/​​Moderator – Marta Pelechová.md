@@ -1,6 +1,6 @@
 ---
 title: ​​Moderator – Marta Pelechová
-permalink: /moderator-Marta-Pelechova/
+permalink: /moderator-marta-pelechova/
 description: ""
 ---
 ![](/images/Speakers/Marta%20Pelechová.jpg)

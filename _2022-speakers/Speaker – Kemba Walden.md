@@ -1,6 +1,6 @@
 ---
 title: Speaker – Kemba Walden
-permalink: /speaker-Kemba-Walden/
+permalink: /speaker-kemba-walden/
 description: ""
 ---
 ![](/images/Speakers/Kemba%20walden.jpg)

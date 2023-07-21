@@ -1,6 +1,6 @@
 ---
 title: ​​Moderator – Richard Kadlčák
-permalink: /moderator-Richard-KADLCAK/
+permalink: /moderator-richard-kadlcak/
 description: ""
 ---
 ![](/images/Speakers/Richard%20KADLČÁK.jpg)

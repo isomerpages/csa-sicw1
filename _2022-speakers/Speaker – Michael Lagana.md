@@ -1,6 +1,6 @@
 ---
 title: Speaker – Michael Lagana
-permalink: /speaker-Michael-Lagana/
+permalink: /speaker-michael-lagana/
 description: ""
 ---
 ![](/images/Speakers/Michael%20Lagana.jpg)

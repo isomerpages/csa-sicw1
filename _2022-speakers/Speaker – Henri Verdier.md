@@ -1,6 +1,6 @@
 ---
 title: Speaker – Henri Verdier
-permalink: /speaker-Henri-Verdier/
+permalink: /speaker-henri-verdier/
 description: ""
 ---
 ![](/images/Speakers/Henri%20Verdier.jpg)

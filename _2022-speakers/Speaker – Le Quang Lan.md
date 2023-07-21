@@ -1,6 +1,6 @@
 ---
 title: Speaker – Le Quang Lan
-permalink: /speaker-Le-Quang-Lan/
+permalink: /speaker-le-quang-lan/
 description: ""
 ---
 ![](/images/Speakers/Le%20Quang%20Lan%20.jpg)

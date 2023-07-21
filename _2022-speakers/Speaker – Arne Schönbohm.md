@@ -1,6 +1,6 @@
 ---
 title: Speaker – Arne Schönbohm
-permalink: /speaker-Arne-Schonbohm/
+permalink: /speaker-arne-schonbohm/
 description: ""
 ---
 ![](/images/Speakers/Arne%20Schönbohm.jpg)

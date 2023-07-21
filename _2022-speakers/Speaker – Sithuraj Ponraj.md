@@ -1,6 +1,6 @@
 ---
 title: Speaker – Sithuraj Ponraj
-permalink: /speaker-Sithuraj-Ponraj/
+permalink: /speaker-sithuraj-ponraj/
 description: ""
 ---
 ![](/images/Speakers/Sithuraj%20Ponraj.jpg)

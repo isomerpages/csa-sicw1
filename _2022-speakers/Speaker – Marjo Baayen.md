@@ -1,6 +1,6 @@
 ---
 title: Speaker – Marjo Baayen
-permalink: /speaker-Marjo-Baayen/
+permalink: /speaker-marjo-baayen/
 description: ""
 ---
 ![](/images/Speakers/Marjo%20Baayen.jpg)

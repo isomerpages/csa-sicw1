@@ -1,6 +1,6 @@
 ---
 title: Speaker – The Honorable Alejandro N Mayorkas
-permalink: /speaker-Alejandro-Mayorkas/
+permalink: /speaker-alejandro-mayorkas/
 description: ""
 ---
 ![](/images/Speakers/Alejandro%20Mayorkas.jpg)

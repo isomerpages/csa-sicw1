@@ -1,6 +1,6 @@
 ---
 title: Speaker – Dr Regine Maria Grienberger
-permalink: /speaker-Regine-Maria-Grienberger/
+permalink: /speaker-regine-maria-grienberger/
 description: ""
 ---
 ![](/images/Speakers/Regine%20Grienberger.jpg)

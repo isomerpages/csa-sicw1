@@ -1,6 +1,6 @@
 ---
 title: Speaker – Helena Leurent
-permalink: /speaker-Helena-Leurent/
+permalink: /speaker-helena-leurent/
 description: ""
 ---
 ![](/images/Speakers/Helena%20Leurent%20Photo.jpg)

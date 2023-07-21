@@ -1,6 +1,6 @@
 ---
 title: Shariffah Rashidah Syed Othman
-permalink: /speaker-Shariffah-Rashidah-Syed-Othman/
+permalink: /speaker-shariffah-rashidah-syed-othman/
 description: ""
 ---
 ![](/images/Speakers/Shariffah%20Rashidah%20Syed%20Othman.jpg)

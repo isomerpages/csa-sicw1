@@ -1,6 +1,6 @@
 ---
 title: Speaker – Vijay Vaidyanathan
-permalink: /speaker-Vijay-Vaidyanathan/
+permalink: /speaker-vijay-vaidyanathan/
 description: ""
 ---
 ![](/images/Speakers/Vijay%20Vaidyanathan.jpg)

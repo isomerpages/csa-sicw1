@@ -1,6 +1,6 @@
 ---
 title: Speaker – Rt Hon Nadhim Zahawi MP
-permalink: /speaker-Nadhim-Zahawi/
+permalink: /speaker-nadhim-zahawi/
 description: ""
 ---
 ![](/images/Speakers/Nadhim%20Zahawi.jpg)

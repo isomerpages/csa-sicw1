@@ -1,6 +1,6 @@
 ---
 title: Speaker – Emma Raffray
-permalink: /speaker-Emma-Raffray/
+permalink: /speaker-emma-raffray/
 description: ""
 ---
 ![](/images/Speakers/Emma%20Raffray.jpg)

@@ -1,6 +1,6 @@
 ---
 title: ​​Moderator – Yong Ying–I
-permalink: /moderator-Yong-Ying-I/
+permalink: /moderator-yong-ying-i/
 description: ""
 ---
 ![](/images/Speakers/Yong%20Ying-I.jpg)

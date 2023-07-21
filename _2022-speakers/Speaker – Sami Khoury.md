@@ -1,6 +1,6 @@
 ---
 title: Speaker – Sami Khoury
-permalink: /speaker-Sami-Khoury/
+permalink: /speaker-sami-khoury/
 description: ""
 ---
 ![](/images/Speakers/Sami%20Khoury.jpg)

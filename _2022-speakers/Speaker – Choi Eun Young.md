@@ -1,6 +1,6 @@
 ---
 title: Speaker – Choi Eun Young
-permalink: /speaker-Choi-Eun-Young/
+permalink: /speaker-choi-eun-young/
 description: ""
 ---
 ![](/images/Speakers/Choi%20Eun%20Young.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Speaker – Gaby Portnoy
-permalink: /speaker-Gaby-Portnoy/
+permalink: /speaker-gaby-portnoy/
 description: ""
 ---
 ![](/images/Speakers/Gaby%20Portnoy.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Speaker – Assaf Keren
-permalink: /speaker-Assaf-Keren/
+permalink: /speaker-assaf-keren/
 description: ""
 ---
 ![](/images/Speakers/Assaf%20Keren.jpg)

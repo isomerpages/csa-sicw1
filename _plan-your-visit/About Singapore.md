@@ -1,6 +1,6 @@
 ---
 title: About Singapore
-permalink: /plan-your-visit/about-Singapore/
+permalink: /plan-your-visit/about-singapore/
 description: ""
 ---
 #### **About Singapore**

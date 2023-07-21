@@ -1,6 +1,6 @@
 ---
 title: Speaker – Dr Gerhard Schabhüser
-permalink: /speaker-Gerhard-Schabhuser/
+permalink: /speaker-gerhard-schabhuser/
 description: ""
 ---
 ![](/images/Speakers/Gerhard%20Schabhüser.jpg)

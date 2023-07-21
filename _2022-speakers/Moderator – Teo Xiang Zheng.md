@@ -1,6 +1,6 @@
 ---
 title: Moderator – Teo Xiang Zheng
-permalink: /moderator-Teo-Xiang-Zheng/
+permalink: /moderator-teo-xiang-zheng/
 description: ""
 ---
 ![](/images/Speakers/Teo%20Xiang%20Zheng.jpg)

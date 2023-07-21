@@ -1,6 +1,6 @@
 ---
 title: Speaker – Grace Burkard
-permalink: /speaker-Grace-Burkard/
+permalink: /speaker-grace-burkard/
 description: ""
 ---
 ![](/images/Speakers/Grace%20Burkard.jpg)

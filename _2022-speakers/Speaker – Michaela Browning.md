@@ -1,6 +1,6 @@
 ---
 title: Speaker – Michaela Browning
-permalink: /speaker-Michaela-browning/
+permalink: /speaker-michaela-browning/
 description: ""
 ---
 ![](/images/Speakers/Michaela%20Browning.jpg)

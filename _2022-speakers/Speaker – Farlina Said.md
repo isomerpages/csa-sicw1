@@ -1,6 +1,6 @@
 ---
 title: Speaker – Farlina Said
-permalink: /speaker-Farlina-Said/
+permalink: /speaker-farlina-said/
 description: ""
 ---
 ![](/images/Speakers/Farlina%20Said.jpg)

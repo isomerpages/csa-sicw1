@@ -1,6 +1,6 @@
 ---
 title: Speaker – Lindy Cameron
-permalink: /speaker-Lindy-Cameron/
+permalink: /speaker-lindy-cameron/
 description: ""
 ---
 ![](/images/Speakers/Lindy%20Cameron.jpg)

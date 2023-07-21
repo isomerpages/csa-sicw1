@@ -1,6 +1,6 @@
 ---
 title: Speaker – Guillaume Poupard
-permalink: /speaker-Guillaume-Poupard/
+permalink: /speaker-guillaume-poupard/
 description: ""
 ---
 ![](/images/Speakers/Guillaume%20Poupard.jpg)

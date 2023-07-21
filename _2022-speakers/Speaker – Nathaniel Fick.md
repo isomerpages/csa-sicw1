@@ -1,6 +1,6 @@
 ---
 title: Speaker – Nathaniel Fick
-permalink: /speaker-Nathaniel-Fick/
+permalink: /speaker-nathaniel-fick/
 description: ""
 ---
 ![](/images/Speakers/Nathaniel%20Fick.jpg)

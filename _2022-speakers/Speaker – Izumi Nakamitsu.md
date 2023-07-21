@@ -1,6 +1,6 @@
 ---
 title: Speaker – Izumi Nakamitsu
-permalink: /speaker-Izumi-Nakamitsu/
+permalink: /speaker-izumi-nakamitsu/
 description: ""
 ---
 ![](/images/Speakers/Izumi%20Nakamitsu.jpg)

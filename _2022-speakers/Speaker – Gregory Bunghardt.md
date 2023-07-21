@@ -1,6 +1,6 @@
 ---
 title: Speaker – Gregory Bunghardt
-permalink: /speaker-Gregory-Bunghardt/
+permalink: /speaker-gregory-bunghardt/
 description: ""
 ---
 ![](/images/Speakers/Gregory%20Bunghardt.jpg)

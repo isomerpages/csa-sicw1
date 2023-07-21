@@ -1,6 +1,6 @@
 ---
 title: Speaker – Rob Suárez
-permalink: /speaker-Rob-Suarez/
+permalink: /speaker-rob-suarez/
 description: ""
 ---
 ![](/images/Speakers/Rob%20Suárez.jpg)

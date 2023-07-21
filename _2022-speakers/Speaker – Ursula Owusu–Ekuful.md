@@ -1,6 +1,6 @@
 ---
 title: Speaker – Ursula Owusu–Ekuful
-permalink: /speaker-hon-Ursula-Owusu-Ekuful/
+permalink: /speaker-hon-ursula-owusu-ekuful/
 description: ""
 ---
 ![](/images/Speakers/Ursula%20Owusu-Ekuful.jpg)

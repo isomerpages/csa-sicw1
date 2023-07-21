@@ -1,6 +1,6 @@
 ---
 title: Speaker – Hon Ivan John Uy
-permalink: /speaker-Ivan-john/
+permalink: /speaker-ivan-john/
 description: ""
 ---
 ![](/images/Speakers/Ivan%20John%20UY.jpg)

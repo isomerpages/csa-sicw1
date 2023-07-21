@@ -1,6 +1,6 @@
 ---
 title: Speaker – Aileen Yap
-permalink: /speaker-Aileen-Yap/
+permalink: /speaker-aileen-yap/
 description: ""
 ---
 ![](/images/Speakers/Aileen%20Yap.jpg)

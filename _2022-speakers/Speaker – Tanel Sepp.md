@@ -1,6 +1,6 @@
 ---
 title: Speaker – Tanel Sepp
-permalink: /speaker-Tanel-Sepp/
+permalink: /speaker-tanel-sepp/
 description: ""
 ---
 ![](/images/Speakers/Tanel%20Sepp.jpg)

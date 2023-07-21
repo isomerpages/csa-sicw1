@@ -1,6 +1,6 @@
 ---
 title: Speaker – Christopher Painter
-permalink: /speaker-Christopher-Painter/
+permalink: /speaker-christopher-painter/
 description: ""
 ---
 ![](/images/Speakers/Christopher%20Painter.jpg)

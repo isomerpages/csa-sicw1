@@ -1,6 +1,6 @@
 ---
 title: Speaker – Ryan Kalember
-permalink: /Speaker-Ryan-Kalember/
+permalink: /speaker-ryan-kalember/
 description: ""
 ---
 ![](/images/Speakers/Ryan%20Kalember.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Moderator – Daryl Pereira
-permalink: /Moderator-Daryl-Pereira/
+permalink: /moderator-daryl-pereira/
 description: ""
 ---
 ![](/images/Speakers/Daryl%20Pereira%202.jpg)

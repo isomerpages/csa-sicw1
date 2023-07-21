@@ -1,6 +1,6 @@
 ---
 title: Speaker – Col Radek Nezbeda
-permalink: /speaker-col-Radek-Nezbeda/
+permalink: /speaker-col-radek-nezbeda/
 description: ""
 ---
 ![](/images/Speakers/col%20Radek%20Nezbeda.jpg)

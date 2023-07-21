@@ -1,6 +1,6 @@
 ---
 title: Speaker – Martin Dvořák
-permalink: /speaker-martin-Dvorak/
+permalink: /speaker-martin-dvorak/
 description: ""
 ---
 ![](/images/Speakers/Martin%20Dvorak.jpg)

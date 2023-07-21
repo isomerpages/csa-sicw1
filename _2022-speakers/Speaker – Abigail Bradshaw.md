@@ -1,6 +1,6 @@
 ---
 title: Speaker – Abigail Bradshaw
-permalink: /speaker-Abigail-Bradshaw/
+permalink: /speaker-abigail-bradshaw/
 description: ""
 ---
 ![](/images/Speakers/Abigail%20Bradshaw.jpg)

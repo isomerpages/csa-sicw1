@@ -1,6 +1,6 @@
 ---
 title: Speaker – Pavel Zeman
-permalink: /speaker-Pavel-Zeman/
+permalink: /speaker-pavel-zeman/
 description: ""
 ---
 ![](/images/Speakers/Pavel%20Zeman.jpg)

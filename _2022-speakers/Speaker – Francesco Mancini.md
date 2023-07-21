@@ -1,6 +1,6 @@
 ---
 title: Speaker – Francesco Mancini
-permalink: /speaker-Francesco-Mancini/
+permalink: /speaker-francesco-mancini/
 description: ""
 ---
 ![](/images/Speakers/Francesco%20Mancini.jpg)
