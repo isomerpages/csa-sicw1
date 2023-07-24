@@ -9,12 +9,4 @@ contacts:
       - email: ""
       - other: ""
     title: For enquiries, write to us <a href="enquiries@govware.sg">here</a>.
-locations:
-  - address:
-      - ""
-      - ""
-      - ""
-    title: TEST LOCATION
-    operating_hours: []
-    maps_link: ""
 ---
