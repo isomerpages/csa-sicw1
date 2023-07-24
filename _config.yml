@@ -51,11 +51,12 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://csa-sicw1-staging.netlify.app
-prod: https://csa-sicw1-prod.netlify.app
+staging: https://staging.d12eh8qwgmre3v.amplifyapp.com/
+prod: https://master.d12eh8qwgmre3v.amplifyapp.com/
 google_analytics: UA-201171889-1
 resources_name: resources
 shareicon: /images/logo_sicw.png
 is_government: false
 facebook-pixel: "8247478618625671"
 linkedin-insights: ""
+google_analytics_ga4: ""

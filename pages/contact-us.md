@@ -6,7 +6,7 @@ agency_name: SICW
 contacts:
   - content:
       - phone: ""
-      - email: enquiries@govware.sg
+      - email: ""
       - other: ""
-    title: Please send your enquiries to
+    title: For enquiries, write to us <a href="mailto:enquiries@govware.sg">here</a>.
 ---

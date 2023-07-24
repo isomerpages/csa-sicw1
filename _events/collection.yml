@@ -2,50 +2,35 @@ collections:
   events:
     output: true
     order:
-      - Calendar of Events.md
-      - 18 October 2022/.keep
-      - 18 October 2022/List of Events.md
-      - 18 October 2022/8th ASEAN Senior Officials Roundtable on Cybercrime
-        (SORC).md
-      - 18 October 2022/GovWare Conference and Exhibition.md
-      - 18 October 2022/Cyber Supply Chain.md
-      - 18 October 2022/GFCE Southeast Asia Regional Meeting.md
-      - "18 October 2022/SICW Sessions: Tackling the Ransomware Scourge ​​–
-        Global Cooperation for a Transboundary Issue.md"
-      - 18 October 2022/SICW Summit.md
-      - 19 October 2022/.keep
-      - 19 October 2022/List of Events.md
-      - 19 October 2022/SICW Opening Ceremony.md
-      - 19 October 2022/GovWare Conference and Exhibition.md
-      - 19 October 2022/SICW Ministerial Roundtables.md
-      - 19 October 2022/Let’sTalkCyber Diplomacy and the Indo–Pacific –
-        International Negotiations on Cybersecurity.md
-      - "19 October 2022/SICW Sessions: Digital Infrastructure – Common
-        Stakes.md"
-      - 19 October 2022/Responsible State Behaviour in Cyberspace – Czech
-        Presidency of the EU and EU ESIWA project.md
-      - "19 October 2022/SICW Sessions: Advancing Confidence–Building
-        Measures.md"
-      - 19 October 2022/International IoT Security Roundtable Technical Panel.md
-      - "19 October 2022/SICW Sessions: The Future of International Cyber
-        Discussions.md"
-      - 20 October 2022/.keep
-      - 20 October 2022/List of Events.md
-      - 20 October 2022/ASEAN Ministerial Conference on Cybersecurity.md
-      - 20 October 2022/GovWare Conference and Exhibition.md
-      - 20 October 2022/ASEAN Cybercrime Prosecutors' Roundtable Meeting.md
-      - 20 October 2022/International IoT Security Roundtable – Leadership
+      - 16 October 2023/SICW Summit.md
+      - 16 October 2023/.keep
+      - 17 October 2023/.keep
+      - 17 October 2023/Global Forum on Cyber Expertise (GFCE) Southeast Asia
+        Regional Meeting.md
+      - 17 October 2023/GovWare Conference & Exhibition 2023.md
+      - 17 October 2023/International IoT Security Roundtable – Leadership
         Dialogue.md
-      - 20 October 2022/SG Cyber Safe for Enterprises Dialogue & Partner
-        Appreciation.md
-      - "20 October 2022/SICW Sessions: Collective Insights on Cyber Attacks.md"
-      - "20 October 2022/SICW Sessions: Internet or Splinternet – Implications
-        on Securing the Digital Future.md"
-      - 20 October 2022/Operational Technology (OT) Conversation.md
-      - 20 October 2022/SICW – Signing of Mutual Recognition Arrangement (MRA)
-        of Cybersecurity Label Between CSA and BSI.md
-      - 20 October 2022/SICW Women in Cyber.md
-      - "20 October 2022/Raising the Bar: Building Consensus for Consumer IoT
-        Device Security.md"
-      - 20 October 2022/Data–Boosted International Collaboration for a Safer
-        Internet.md
+      - 17 October 2023/SG Cyber Safe for Enterprises.md
+      - 17 October 2023/SICW Opening Ceremony and Ministerial Roundtables.md
+      - 17 October 2023/SICW Sessions.md
+      - "17 October 2023/SICW Sessions: Insights on Ransomware Operation.md"
+      - 17 October 2023/SICW Women in Cyber.md
+      - 18 October 2023/.keep
+      - 18 October 2023/ASEAN CERT Incident Drill (ACID).md
+      - 18 October 2023/ASEAN Cybercrime Prosecutors' Roundtable Meeting.md
+      - 18 October 2023/ASEAN Ministerial Conference on Cybersecurity (AMCC).md
+      - 18 October 2023/GovWare Conference & Exhibition 2023.md
+      - 18 October 2023/International IoT Security Roundtable – Technical
+        Panel.md
+      - "18 October 2023/SICW Sessions: Reshaping cybersecurity in the era of
+        Generative AI.md"
+      - 18 October 2023/SICW Sessions.md
+      - 19 October 2023/.keep
+      - 19 October 2023/5G PT Symposium.md
+      - 19 October 2023/ASEAN CERT Incident Drill (ACID).md
+      - 19 October 2023/GovWare Conference & Exhibition 2023.md
+      - "19 October 2023/IoT Hackathon: SPIRITCYBER–2023.md"
+      - 19 October 2023/Senior Officials Roundtable on Cybercrime.md
+      - 19 October 2023/SICW Sessions.md
+      - "19 October 2023/SICW Sessions: Combating advanced cybersecurity threats
+        amidst evolving digital frontiers.md"
