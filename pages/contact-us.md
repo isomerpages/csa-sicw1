@@ -6,7 +6,15 @@ agency_name: SICW
 contacts:
   - content:
       - phone: ""
-      - email: contact@sicw.gov.sg
+      - email: enquiries@govware.sg
       - other: ""
-    title: Please send your enquiries to
+    title: For enquiries, write to us at
+locations:
+  - address:
+      - ""
+      - ""
+      - ""
+    title: TEST LOCATION
+    operating_hours: []
+    maps_link: ""
 ---
