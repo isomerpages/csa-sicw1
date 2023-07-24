@@ -8,5 +8,5 @@ contacts:
       - phone: ""
       - email: ""
       - other: ""
-    title: For enquiries, write to us <a href="enquiries@govware.sg">here</a>.
+    title: For enquiries, write to us <a href="mailto:enquiries@govware.sg">here</a>.
 ---
