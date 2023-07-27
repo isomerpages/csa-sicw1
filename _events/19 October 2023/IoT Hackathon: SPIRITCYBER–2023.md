@@ -7,7 +7,7 @@ third_nav_title: 19 October 2023
 #### **IoT Hackathon: SPIRITCYBER-2023**
 
 **19 October 2023 (Thursday)**  
-*Time TBC (GMT +8)*
+*Time: 8.30am to 12pm (GMT +8)*
 
 Smart Nation Research Centre – SPIRIT is a Singapore Government funded R&amp;D centre located at Nanyang Technological University (NTU). SPIRIT performs translational research on challenging technological problems faced by Smart Nation systems. The centre also works on Internet-of-Things (IoT) threat analytics cybersecurity projects funded by Singapore Cyber Security Agency (CSA).
 
