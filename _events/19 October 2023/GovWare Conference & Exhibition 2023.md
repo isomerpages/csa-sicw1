@@ -7,7 +7,7 @@ third_nav_title: 19 October 2023
 #### **GovWare Conference &amp; Exhibition 2023**
 
 **19 October 2023 (Thursday)**  
-*Time: 9.00am to 5.00pm (GMT +8)*
+*Time: 9.00am to 5.30pm (GMT +8)*
 
 **GovWare Conference and Exhibition** (GovWare 2023) is the premier cybersecurity trade event featured alongside Singapore International Cyber Week on 17 - 19 October.  
 
