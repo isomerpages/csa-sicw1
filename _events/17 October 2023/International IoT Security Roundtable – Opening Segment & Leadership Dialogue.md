@@ -4,10 +4,10 @@ permalink: /events/17-october-2023/iiot-leadership-dialogue/
 description: ""
 third_nav_title: 17 October 2023
 ---
-#### **International IoT Security Roundtable – Leadership Dialogue**
+#### **International IoT Security Roundtable – Opening Segment &amp; Leadership Dialogue**
 
 **17 October 2023 (Tuesday)**  
-*Time TBC (GMT +8)*
+*Time: 2.00pm to 4.30pm (GMT +8)*
 
 To galvanise international efforts towards internationalising common IoT Security standards, to prevent standards fragmentation, eradicate duplicated evaluation/compliance across borders, and facilitate export.
 
