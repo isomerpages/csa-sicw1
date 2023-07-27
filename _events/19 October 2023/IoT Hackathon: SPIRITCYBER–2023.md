@@ -13,6 +13,8 @@ Smart Nation Research Centre – SPIRIT is a Singapore Government funded R&amp;D
 
 To better understand our threat landscape and real-world deployment vulnerabilities of Smart Nation IoT devices, we are organizing a Hackathon event “SPIRITCYBER-2023” as part of the learning journey. SPIRITCYBER-2023 will be taking place during the Singapore International Cyber Week (SICW) under the International IoT Security Roundtable (IIOTSR) segment. Renowned Cyber Analysts and White Hats from the industry are invited to take part in a 3-day cyber exercise to help us discover cyber weaknesses in our mimic in-house Smart Nation cyber-physical system. 
 
+The closing and prize presentation ceremony will be held from 2.00pm to 4.00pm.
+
 **SPIRITCYBER 2022:**
 ![](/images/spiritcyber%201.jpg)
 <br>![](/images/spiritcyber%202.jpg)
