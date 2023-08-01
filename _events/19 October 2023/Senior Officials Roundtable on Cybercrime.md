@@ -7,7 +7,7 @@ third_nav_title: 19 October 2023
 #### **Senior Officials Roundtable on Cybercrime**
 
 **19 October 2023 (Thursday)**  
-*Time TBC (GMT +8)*
+*Time: 9.00am to 5.00pm (GMT +8)*
 
 *Format: Closed Door Event*
 
