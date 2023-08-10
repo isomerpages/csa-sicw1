@@ -13,6 +13,7 @@ The SICW Opening Ceremony and Ministerial Roundtables will be held on Tuesday, 1
 
 |**Guest of Honour**    |                                                              |
 | [Mr HENG Swee Keat](/speakers/mr-heng-swee-keat/)  | *Deputy Prime Minister and Coordinating Minister for Economic Policies* <br>Singapore                |
+| | |
 
 **Guest of Honour**
 ![](/images/2023%20Speakers/mr%20heng%20swee%20keat.jpg)
