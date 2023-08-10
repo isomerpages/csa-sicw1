@@ -12,8 +12,6 @@ third_nav_title: 17 October 2023
 The SICW Opening Ceremony and Ministerial Roundtables will be held on Tuesday, 17 October. More details will be available soon.
 
 |**Guest of Honour**    |                                                              |
-| [Mr Brad Arkin](/speaker-brad-arkin)  | *SVP and Chief Security and Trust Officer*<br>Cisco                |
-
-
+| [Mr HENG Swee Kiat](/speakers/mr-heng-swee-keat/)  | *Deputy Prime Minister and Coordinating Minister for Economic Policies, Singapore*                |
 <br><br><br>
 *Information is accurate at time of publication*
