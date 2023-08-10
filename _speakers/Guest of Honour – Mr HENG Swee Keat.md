@@ -3,7 +3,7 @@ title: Guest of Honour – Mr HENG Swee Keat
 permalink: /speakers/mr-heng-swee-keat/
 description: ""
 ---
-![](/images/2023%20Speakers/mr%20heng%20swee%20keat.png)
+
 
 #### **Mr HENG Swee Keat**
 
