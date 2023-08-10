@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/2023%20Speakers/mr%20heng%20swee%20keat.jpg)
 
-#### **Mr Heng Swee Keat**
+#### **Mr HENG Swee Keat**
 
 *Deputy Prime Minister and Coordinating Minister for Economic Policies, Singapore*  
 Singapore
