@@ -8,7 +8,6 @@ description: ""
 #### **Mr HENG Swee Keat**
 
 *Deputy Prime Minister and Coordinating Minister for Economic Policies, Singapore*  
-Singapore
 
 ##### **Biography**
 **Mr Heng Swee Keat** is Singapore’s Deputy Prime Minister and Coordinating Minister for Economic Policies. 
