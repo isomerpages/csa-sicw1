@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/website hero banner light v3.jpg
+      background: /images/website hero banner light_without logo_final.jpg
   - infobar:
       description: <h3>Relive the key highlights of SICW 2022 - APAC's Leading
         Cybersecurity Event</h3><br><iframe allowfullscreen=""
