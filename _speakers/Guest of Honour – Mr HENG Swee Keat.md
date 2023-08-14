@@ -7,7 +7,7 @@ description: ""
 
 #### **Mr HENG Swee Keat**
 
-*Deputy Prime Minister and Coordinating Minister for Economic Policies*
+*Deputy Prime Minister and <br>Coordinating Minister for Economic Policies*
 Singapore
 
 ##### **Biography**
