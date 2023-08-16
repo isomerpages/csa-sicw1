@@ -5,7 +5,7 @@ description: ""
 ---
 **Singapore International Cyber Week 2023 Registration**
 
-SICW 2023 returns as an in-person only event. Don’t miss this opportunity to meet and learn from global policy makers, senior executives, and cybersecurity experts from across the world. Register now!
+SICW 2023 returns as an in-person only event. Don’t miss this opportunity to meet and learn from global policy makers, senior executives, and cybersecurity experts from across the world. Register now! <a href="https://www.gevme.com/sicw-govware2023" target="_blank"></a>
 
 ![](/images/260623-table-v2.png)
 
