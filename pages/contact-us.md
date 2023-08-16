@@ -9,12 +9,4 @@ contacts:
       - email: contact@sicw.sg
       - other: ""
     title: For enquiries, write to us
-locations:
-  - address:
-      - singapore
-      - ""
-      - ""
-    title: ""
-    operating_hours: []
-    maps_link: ""
 ---
