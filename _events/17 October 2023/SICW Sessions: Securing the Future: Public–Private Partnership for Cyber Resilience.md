@@ -10,6 +10,6 @@ third_nav_title: 17 October 2023
 **17 October 2023 (Tuesday)**  
 *Time: 2.00pm to 3.00pm (GMT +8)*
 
-(event brief to be announced) 
+(Stay tuned for further event details&nbsp;to&nbsp;be&nbsp;revealed)
 <br><br><br>
 *Information is accurate at time of publication*
