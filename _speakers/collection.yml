@@ -1,0 +1,5 @@
+collections:
+  speakers:
+    output: true
+    order:
+      - Guest of Honour – Mr HENG Swee Keat.md
