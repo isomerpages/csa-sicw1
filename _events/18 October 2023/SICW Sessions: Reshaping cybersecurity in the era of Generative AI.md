@@ -7,7 +7,7 @@ third_nav_title: 18 October 2023
 #### **SICW Sessions: Reshaping cybersecurity in the era of Generative AI**
 
 **18 October 2023 (Wednesday)**  
-*Time TBC (GMT +8)*
+*Time: 2.00pm - 3.00pm (GMT +8)*
 
 The successive rollouts of Generative Artificial Intelligence (AI) models by OpenAI, SenseTime and other tech giants in the past year represent a significant milestone in the development of AI. This is especially so with the iconic debut of OpenAI’s ChatGPT and China’s SenseChat, which amazed the world with its text and code generation prowess. Such cutting-edge technology is based on Foundation Models (FMs) trained on big data at scale, which can be adapted for a wide variety of tasks in different domains (e.g. improvisation and generation of content). 
 
