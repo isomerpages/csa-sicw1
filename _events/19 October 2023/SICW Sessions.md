@@ -7,7 +7,7 @@ third_nav_title: 19 October 2023
 #### **SICW Sessions**
 
 **19 October 2023 (Thursday)**  
-*Time TBC (GMT +8)*
+*Time: 11.00am - 12.00pm (GMT +8)*
 
 (topic to be announced)
 <br><br><br>
