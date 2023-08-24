@@ -12,32 +12,15 @@ third_nav_title: 18 October 2023
 With the increasing proliferation of IoT related solutions and usage, what principles and practices can government and industry align on, in ensuring secured IoT products and solutions, such as development of guidelines to outline the essential baseline data structure and communication protocol of IoT devices to be secured (including software aspect of an IOT device)? How can the public, government and private sectors collaborate to secure the IoT devices and solutions? 
 
 |**Panelists**          |                                                              |
-| [Ms Desiree Lee](/speaker-desiree-lee)  | *Chief Technology Officer for Data*<br>ARMIS      |
-| [Mr Brian Behlendorf](/speaker-brian-behlendorf)  | *Chief Technology Officer*<br>Open Source Security Foundation (OpenSSF)      |
-| [Prof Lam Kwok Yan](/speaker-lam-kwok-yan)  | *Associate Vice President, Strategy and Partnerships*<br>Nanyang Technological University (NTU)           |
-| [Mr Eugene Liderman](/speaker-eugene-liderman)  | *Director of Mobile Security Strategy*<br>Google      |
+| [Ms Desiree Lee](/speakers/speaker-desiree-lee)  | *Chief Technology Officer for Data*<br>ARMIS      |
+| [Mr Brian Behlendorf](/speakers/speaker-brian-behlendorf)  | *Chief Technology Officer*<br>Open Source Security Foundation (OpenSSF)      |
+| [Prof Lam Kwok Yan](/speakers/speaker-lam-kwok-yan)  | *Associate Vice President, Strategy and Partnerships*<br>Nanyang Technological University (NTU)           |
+| [Mr Eugene Liderman](/speakers/speaker-eugene-liderman)  | *Director of Mobile Security Strategy*<br>Google      |
 | <br> **Moderator**          |                                                              |
-| [Courtney Lang](/moderator-courtney-lang)  | *Vice President of Policy for Trust, Data, and Technology*<br>Information Technology Industry Council (ITIC)                |
+| [Courtney Lang](/speakers/moderator-courtney-lang)  | *Vice President of Policy for Trust, Data, and Technology*<br>Information Technology Industry Council (ITIC)                |
 | | |
 
 
-
-**Moderator** 
-
-![](/images/courtney%20lang.png)
-
-#### **Courtney Lang**
-
-*Vice President of Policy for Trust, Data, and Technology,<br> Information Technology Industry Council (ITIC)*
-<br>US
-
-##### **Biography**
-
-**Courtney Lang** serves as&nbsp;Vice President of Policy for Trust, Data, and Technology&nbsp;at the Information Technology Industry Council. In this role, she serves as the director of ITI’s AI Futures Initiative and leads ITI’s global AI policy advocacy efforts, focusing on fostering the trustworthy and responsible use of AI. She also manages ITI’s global cybersecurity policy portfolio, including on issues related to 5G and nextgen network security, cybersecurity certification and labeling, cybersecurity standards, cyber supply chain security, and cybersecurity incident reporting. While at ITI, she has testified on AI regulation in front of the Brazilian Senate and on critical infrastructure security in front of the Australian Parliament.
-
-Prior to joining ITI, Courtney worked at the U.S. Department of Commerce's International Trade Administration (ITA), where she focused on understanding the business priorities of U.S. technology companies and devised strategies to help them overcome trade barriers in markets overseas. Courtney developed deep expertise in different industry segments, including mobile &amp; wireless communications and cybersecurity. During her time at ITA, Courtney worked to promote policies that would facilitate trade and support innovation. She established and led the Trade in the Digital Economy Working Group under the U.S.-Brazil Commercial Dialogue, aimed at addressing digital trade barriers in Brazil, as well as a long-term project to promote risk-based approaches to cybersecurity in the Asia-Pacific. She also worked on developing and executing a strategy aimed at supporting U.S. competitiveness in the 5G telecom technology sector.
-
-Courtney has been quoted in The New York Times, Protocol, The Washington Post, Inside Cybersecurity, and other publications. Courtney holds an MA in Security Studies from Georgetown University and a BA in Political Science from Duke University.
 
 **Panelists** 
 
