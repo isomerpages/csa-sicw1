@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Liu Feng Yuan.md
       - Speaker – Desiree Lee.md
       - Speaker – Mr Eugene Liderman.md
       - Speaker – Prof Lam Kwok Yan.md
