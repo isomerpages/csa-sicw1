@@ -7,7 +7,7 @@ third_nav_title: 18 October 2023
 #### **ASEAN Cybercrime Prosecutors' Roundtable Meeting**
 
 **18 October 2023 (Wednesday)**  
-*Time TBC (GMT +8)*
+*Time: 9.00am - 6.00pm*
 
 *Format: Closed Door Event*
 
