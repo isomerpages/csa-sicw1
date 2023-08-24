@@ -14,7 +14,7 @@ The successive rollouts of Generative Artificial Intelligence (AI) models by Ope
 This is a major game changer for how we use such technology; while Generative AI helps to improve sense-making and decision-making for cyber defenders, it lowers the barrier of entry for attackers to generate exploits for cyber attacks. This session aims to stimulate discussion on how stakeholders can collaborate to derive the benefits of using Generative AI and at the same time defend against threats arising from its use.
 <br><br><br>
 
-**Speakers** 
+**Panelists** 
 
 ![](/images/mr%20liu%20feng%20yuan%201.png)
 
