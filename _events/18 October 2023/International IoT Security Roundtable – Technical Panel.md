@@ -11,31 +11,15 @@ third_nav_title: 18 October 2023
 
 With the increasing proliferation of IoT related solutions and usage, what principles and practices can government and industry align on, in ensuring secured IoT products and solutions, such as development of guidelines to outline the essential baseline data structure and communication protocol of IoT devices to be secured (including software aspect of an IOT device)? How can the public, government and private sectors collaborate to secure the IoT devices and solutions? 
 
-| \*\*Moderator\*\*&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| \*\*Panelists\*\*&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
-| \[Courtney Lang\](/moderator-courtney-lang)&nbsp; | \*Vice President of Policy for Trust, Data, and Technology for Information Technology Industry Council (ITIC) of US\*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| \[Mr Henry Tan\](/speaker-Henry-tan)&nbsp; | \*Deputy Director, Cybersecurity Engineering Centre (CSEC)\*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
-**
+| \[Ms Charmaine Ng\](/speaker-charmaine-ng)&nbsp; | \*Director of Asia Pacific Digital Policy\*<br>Schneider Electric &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
-| \*\*Keynote Speaker\*\*&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| \[Mr Richard Koh\](/speaker-richard-koh)&nbsp; | \*Chief Technology &amp; Security &amp; Customer Success Officer\*<br>Microsoft Group&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
-| \[Hon Tim Watts MP\](/speaker-tim-watts)&nbsp; | \*Assistant Minister for Foreign Affairs of Australia\*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| <br> \*\*Panelists\*\*&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Dr Regine Grienberger\](/speaker-dr-Regine-Grienberger)&nbsp; | \*Cyber Ambassador\*<br>Federal Foreign Office, Germany &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Mr Gregory Bunghardt\](/speaker-Gregory-Bunghardt)&nbsp; | \*Acting Director of Cyber Policy, Department of Public Safety Canada\*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Mr Craig Jones\](/speaker-Craig-Jones)&nbsp; | \*Cybercrime Director\*<br>Interpol &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Mr Jeff Moss\](/speaker-Jeff-Moss)&nbsp; | \*Founder of Black Hat and DEF CON Computer Security Conferences\*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Mr Koneru Kalyan Chakravarthy\](/speaker-Koneru-Kalyan-Chakravarthy)&nbsp; | \*Cyber Security Practice Leader\*<br>Microsoft&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| <br> \*\*Moderator\*\*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Courtney Lang\](/moderator-benjamin-ang)&nbsp; | \*Vice President of Policy for Trust, Data, and Technology\*<br>Information Technology Industry Council (ITIC) of US &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| \[Mr Doug Kramer\](/speaker-doug-Kramer)&nbsp; | \*Secretary/General Counsel\*<br>Cloudflare Inc &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 | | |
 
