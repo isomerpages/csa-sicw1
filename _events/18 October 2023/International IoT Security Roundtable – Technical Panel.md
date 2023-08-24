@@ -11,24 +11,13 @@ third_nav_title: 18 October 2023
 
 With the increasing proliferation of IoT related solutions and usage, what principles and practices can government and industry align on, in ensuring secured IoT products and solutions, such as development of guidelines to outline the essential baseline data structure and communication protocol of IoT devices to be secured (including software aspect of an IOT device)? How can the public, government and private sectors collaborate to secure the IoT devices and solutions? 
 
-|**Keynote Speakers**    |                                                              |
-| [Mr Brad Arkin](/speaker-brad-arkin)  | *SVP and Chief Security and Trust Officer*<br>Cisco                |
-| [Ms Michaela Browning](/speaker-michaela-browning)  | *Vice President, Government Affairs and Public Policy*<br>Google Asia Pacific                |
-| [Mr Goh Eng Choon](/speaker-goh-eng-choon)  | *President, Cyber*<br>ST Engineering                |
-| [Mr Lee Fook Sun](/speaker-lee-fook-sun)  | *Chairman*<br>Ensign InfoSecurity             |
-| [Mr Kevin Mandia](/speaker-kevin-mandia)  | *Chief Executive Officer*<br>Mandiant            |
-| [Mr Bryan Palma](/speaker-bryan-palma)  | *Chief Executive Officer*<br>Trellix            |
-| [Mr John Suffolk](/speaker-john-suffolk)  | *President, Global Cyber Security &amp; Privacy Officer (GSPO)*<br>Huawei            |
-| [Ms Juliette Wilcox CMG](/speaker-juliette-wilcox/)  | *Cyber Security Ambassador*<br>UK Defence and Security Exports, Department for International Trade            |
-| <br> **Keynote Panelists**          |                                                              |
-| [Mr Damian Chung](/speaker-damian-chung)  | *Business Information Security Officer*<br>Netskope      |
-| [Mr Clive Finlay](/speaker-clive-finlay)  | *Chief Technology Officer, EMEA and APJ*<br>Broadcom Software      |
-| [Mr Assaf Keren](/speaker-Assaf-Keren)  | *Chief Information Security Officer &amp; VP, Enterprise Cyber Security*<br>PayPal            |
-| [Mr Joel Moses](/speaker-joel-moses)  | *Chief Technology Officer, Platforms and Systems &amp; Distinguished Engineer*<br>F5      |
-| [Mr Kumar Ritesh](/speaker-kumar-ritesh)  | *Founder and Chief Executive Officer*<br>Cyfirma      |
-| [Mr Ed Soo Hoo](/speaker-ed-soo-hoo)  | *Chief Technology Officer, WW Global Accounts*<br>Lenovo      |
+|**Panelists**          |                                                              |
+| [Ms Desiree Lee](/speaker-desiree-lee)  | *Chief Technology Officer for Data*<br>ARMIS      |
+| [Mr Brian Behlendorf](/speaker-brian-behlendorf)  | *Chief Technology Officer*<br>Open Source Security Foundation (OpenSSF)      |
+| [Prof Lam Kwok Yan](/speaker-lam-kwok-yan)  | *Associate Vice President, Strategy and Partnerships*<br>Nanyang Technological University (NTU)           |
+| [Mr Eugene Liderman](/speaker-eugene-liderman)  | *Director of Mobile Security Strategy*<br>Google      |
 | <br> **Moderator**          |                                                              |
-| [Mr Stanley Tsang](/moderator-stanley-tsang)  | *Distinguished Engineer and Senior Director (Special Projects)*<br>Cyber Security Agency of Singapore                  |
+| [Courtney Lang](/moderator-courtney-lang)  | *Vice President of Policy for Trust, Data, and Technology*<br>Information Technology Industry Council (ITIC)                |
 | | |
 
 
