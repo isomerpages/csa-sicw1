@@ -22,6 +22,5 @@ With the increasing proliferation of IoT related solutions and usage, what princ
 | <br> **Moderator**          |                                                              |
 | [Courtney Lang](/speakers/moderator-courtney-lang)  | *Vice President of Policy for Trust, Data, and Technology*<br>Information Technology Industry Council (ITIC)                |
 | | |
-
 <br><br><br>
 *Information is accurate at time of publication*
