@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Prof Lam Kwok Yan.md
       - Speaker – Mr Brian Behlendorf.md
       - Moderator – Courtney Lang.md
       - Guest of Honour – Mr HENG Swee Keat.md
