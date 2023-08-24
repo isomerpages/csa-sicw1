@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Benjamin Harris.md
       - Speaker – Mr Robert Hannigan.md
       - Speaker – Mr Liu Feng Yuan.md
       - Speaker – Desiree Lee.md
