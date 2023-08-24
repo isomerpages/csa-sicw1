@@ -15,6 +15,7 @@ third_nav_title: 18 October 2023
 With the increasing proliferation of IoT related solutions and usage, what principles and practices can government and industry align on, in ensuring secured IoT products and solutions, such as development of guidelines to outline the essential baseline data structure and communication protocol of IoT devices to be secured (including software aspect of an IOT device)? How can the public, government and private sectors collaborate to secure the IoT devices and solutions? 
 
 |**Panelists**          |                                                              |
+| -------- | -------- |
 | [Ms Desiree Lee](/speakers/speaker-desiree-lee)  | *Chief Technology Officer for Data*<br>ARMIS      |
 | [Mr Brian Behlendorf](/speakers/speaker-brian-behlendorf)  | *Chief Technology Officer*<br>Open Source Security Foundation (OpenSSF)      |
 | [Prof Lam Kwok Yan](/speakers/speaker-lam-kwok-yan)  | *Associate Vice President, Strategy and Partnerships*<br>Nanyang Technological University (NTU)           |
@@ -22,5 +23,7 @@ With the increasing proliferation of IoT related solutions and usage, what princ
 | <br> **Moderator**          |                                                              |
 | [Courtney Lang](/speakers/moderator-courtney-lang)  | *Vice President of Policy for Trust, Data, and Technology*<br>Information Technology Industry Council (ITIC)                |
 | | |
-<br><br><br>
+
+
+
 *Information is accurate at time of publication*
