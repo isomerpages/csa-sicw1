@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Scott Jarkoff.md
       - Speaker – Mr Brian Neuhaus.md
       - Speaker – Mr Benjamin Harris.md
       - Speaker – Mr Robert Hannigan.md
