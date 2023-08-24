@@ -16,7 +16,7 @@ This is a major game changer for how we use such technology; while Generative AI
 
 **Speakers** 
 
-![](/images/mr%20liu%20feng%20yuan.jpg)
+![](/images/mr%20liu%20feng%20yuan%201.png)
 
 #### **Mr Liu Feng Yuan**
 
@@ -30,7 +30,7 @@ Feng-Yuan has more than a decade of experience in building multi-disciplinary an
 
 He obtained degrees from the University of Oxford and the London School of Economics on a President’s Scholarship.
 
-![](/images/mr%20robert%20hannigan.jpg)
+![](/images/mr%20robert%20hannigan%201.png)
 
 #### **Mr Robert Hannigan**
 
@@ -42,5 +42,21 @@ He obtained degrees from the University of Oxford and the London School of Econo
 **Robert Hannigan** is a cybersecurity specialist currently serving as the Chairman of BlueVoyant International. During his career in government service,&nbsp; Robert was the Director of GCHQ, UK’s largest intelligence and security agency. At GCHQ, he established UK’s National Cyber Security Centre (NCSC) and oversaw the Active Cyber Defence Programme. Robert was the Prime Minister’s Security Adviser and created UK’s first cybersecurity strategy.&nbsp;
 
 Robert writes and speaks regularly on cybersecurity and technology and is the Head of Wadham College, Oxford University. He is a Fellow of the Belfer Center at Harvard and the Institution of Engineering and Technology in London.
+
+![](/images/mr%20benjamin%20harris.png)
+
+#### **Mr Benjamin Harris**
+
+*CEO and Founder of watchTowr*
+<br>United Kingdom
+
+##### **Biography**
+
+**Benjamin** is the CEO and Founder of watchTowr, an Attack Surface Management and Continuous Automated Red Teaming cybersecurity technology company – delivering autonomous human-like continuous security testing through technology.&nbsp;
+
+Benjamin has over a decade of experience helping some of the world's most targeted enterprises and industries prepare for, and defend themselves from, sophisticated ransomware gangs and APT groups – by simulating the persistence, aggression and sophistication of real-world hands-on-keyboard cyber attacks.  
+
+Benjamin was named within Forbes’ 30u30 for Enterprise Technology in 2022.
+
 
 *Information is accurate at time of publication*
