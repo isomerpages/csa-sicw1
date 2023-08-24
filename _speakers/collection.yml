@@ -2,5 +2,6 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Brian Behlendorf.md
       - ​​Speaker – Courtney Lang.md
       - Guest of Honour – Mr HENG Swee Keat.md
