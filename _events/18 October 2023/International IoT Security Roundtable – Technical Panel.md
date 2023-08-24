@@ -11,47 +11,26 @@ third_nav_title: 18 October 2023
 
 With the increasing proliferation of IoT related solutions and usage, what principles and practices can government and industry align on, in ensuring secured IoT products and solutions, such as development of guidelines to outline the essential baseline data structure and communication protocol of IoT devices to be secured (including software aspect of an IOT device)? How can the public, government and private sectors collaborate to secure the IoT devices and solutions? 
 
-**
-
-|\*\*Keynote Speakers\*\*&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Mr Brad Arkin\](/speaker-brad-arkin)&nbsp; | \*SVP and Chief Security and Trust Officer\*<br>Cisco&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Ms Michaela Browning\](/speaker-michaela-browning)&nbsp; | \*Vice President, Government Affairs and Public Policy\*<br>Google Asia Pacific&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Mr Goh Eng Choon\](/speaker-goh-eng-choon)&nbsp; | \*President, Cyber\*<br>ST Engineering&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Mr Lee Fook Sun\](/speaker-lee-fook-sun)&nbsp; | \*Chairman\*<br>Ensign InfoSecurity &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Mr Kevin Mandia\](/speaker-kevin-mandia)&nbsp; | \*Chief Executive Officer\*<br>Mandiant&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Mr Bryan Palma\](/speaker-bryan-palma)&nbsp; | \*Chief Executive Officer\*<br>Trellix&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Mr John Suffolk\](/speaker-john-suffolk)&nbsp; | \*President, Global Cyber Security &amp; Privacy Officer (GSPO)\*<br>Huawei&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Ms Juliette Wilcox CMG\](/speaker-juliette-wilcox/)&nbsp; | \*Cyber Security Ambassador\*<br>UK Defence and Security Exports, Department for International Trade&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| <br> \*\*Keynote Panelists\*\*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Mr Damian Chung\](/speaker-damian-chung)&nbsp; | \*Business Information Security Officer\*<br>Netskope&nbsp; &nbsp; &nbsp; |
-
-| \[Mr Clive Finlay\](/speaker-clive-finlay)&nbsp; | \*Chief Technology Officer, EMEA and APJ\*<br>Broadcom Software&nbsp; &nbsp; &nbsp; |
-
-| \[Mr Assaf Keren\](/speaker-Assaf-Keren)&nbsp; | \*Chief Information Security Officer &amp; VP, Enterprise Cyber Security\*<br>PayPal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Mr Joel Moses\](/speaker-joel-moses)&nbsp; | \*Chief Technology Officer, Platforms and Systems &amp; Distinguished Engineer\*<br>F5&nbsp; &nbsp; &nbsp; |
-
-| \[Mr Kumar Ritesh\](/speaker-kumar-ritesh)&nbsp; | \*Founder and Chief Executive Officer\*<br>Cyfirma&nbsp; &nbsp; &nbsp; |
-
-| \[Mr Ed Soo Hoo\](/speaker-ed-soo-hoo)&nbsp; | \*Chief Technology Officer, WW Global Accounts\*<br>Lenovo&nbsp; &nbsp; &nbsp; |
-
-| <br> \*\*Moderator\*\*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Mr Stanley Tsang\](/moderator-stanley-tsang)&nbsp; | \*Distinguished Engineer and Senior Director (Special Projects)\*<br>Cyber Security Agency of Singapore&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
+|**Keynote Speakers**    |                                                              |
+| [Mr Brad Arkin](/speaker-brad-arkin)  | *SVP and Chief Security and Trust Officer*<br>Cisco                |
+| [Ms Michaela Browning](/speaker-michaela-browning)  | *Vice President, Government Affairs and Public Policy*<br>Google Asia Pacific                |
+| [Mr Goh Eng Choon](/speaker-goh-eng-choon)  | *President, Cyber*<br>ST Engineering                |
+| [Mr Lee Fook Sun](/speaker-lee-fook-sun)  | *Chairman*<br>Ensign InfoSecurity             |
+| [Mr Kevin Mandia](/speaker-kevin-mandia)  | *Chief Executive Officer*<br>Mandiant            |
+| [Mr Bryan Palma](/speaker-bryan-palma)  | *Chief Executive Officer*<br>Trellix            |
+| [Mr John Suffolk](/speaker-john-suffolk)  | *President, Global Cyber Security &amp; Privacy Officer (GSPO)*<br>Huawei            |
+| [Ms Juliette Wilcox CMG](/speaker-juliette-wilcox/)  | *Cyber Security Ambassador*<br>UK Defence and Security Exports, Department for International Trade            |
+| <br> **Keynote Panelists**          |                                                              |
+| [Mr Damian Chung](/speaker-damian-chung)  | *Business Information Security Officer*<br>Netskope      |
+| [Mr Clive Finlay](/speaker-clive-finlay)  | *Chief Technology Officer, EMEA and APJ*<br>Broadcom Software      |
+| [Mr Assaf Keren](/speaker-Assaf-Keren)  | *Chief Information Security Officer &amp; VP, Enterprise Cyber Security*<br>PayPal            |
+| [Mr Joel Moses](/speaker-joel-moses)  | *Chief Technology Officer, Platforms and Systems &amp; Distinguished Engineer*<br>F5      |
+| [Mr Kumar Ritesh](/speaker-kumar-ritesh)  | *Founder and Chief Executive Officer*<br>Cyfirma      |
+| [Mr Ed Soo Hoo](/speaker-ed-soo-hoo)  | *Chief Technology Officer, WW Global Accounts*<br>Lenovo      |
+| <br> **Moderator**          |                                                              |
+| [Mr Stanley Tsang](/moderator-stanley-tsang)  | *Distinguished Engineer and Senior Director (Special Projects)*<br>Cyber Security Agency of Singapore                  |
 | | |
 
-**
 
 
 **Moderator** 
