@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Eugene Liderman.md
       - Speaker – Prof Lam Kwok Yan.md
       - Speaker – Mr Brian Behlendorf.md
       - Moderator – Courtney Lang.md
