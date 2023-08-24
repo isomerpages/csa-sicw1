@@ -13,4 +13,34 @@ The successive rollouts of Generative Artificial Intelligence (AI) models by Ope
 
 This is a major game changer for how we use such technology; while Generative AI helps to improve sense-making and decision-making for cyber defenders, it lowers the barrier of entry for attackers to generate exploits for cyber attacks. This session aims to stimulate discussion on how stakeholders can collaborate to derive the benefits of using Generative AI and at the same time defend against threats arising from its use.
 <br><br><br>
+
+**Speakers** 
+
+![](/images/mr%20liu%20feng%20yuan.jpg)
+
+#### **Mr Liu Feng Yuan**
+
+*Partner, Certitude, former CEO and <br> co-founder of BasisAI*
+<br>Singapore
+
+##### **Biography**
+**Feng Yuan**&nbsp;is a Partner at Certitude, an AI assurance company.
+
+Feng-Yuan has more than a decade of experience in building multi-disciplinary and category-defining data and AI teams that deliver impact on the business. He was a pioneer in the use of data science for the public good as the discipline was emerging, setting up an elite team of data scientists under the Prime Minister’s Office, delivering public sector impact through data science and machine learning and responsible for the National AI Strategy. He went on to be a founder and CEO of BasisAI, one of the first venture capital backed responsible AI platform startup companies to emerge out of the Asia Pacific region, successfully exiting the company through an acquisition. He was most recently Vice-President at Aicadium, Temasek’s AI Centre of Excellence where he helped incubate and launch new initiatives in the intersection of artificial intelligence, sustainability and governance.&nbsp;&nbsp;&nbsp;
+
+He obtained degrees from the University of Oxford and the London School of Economics on a President’s Scholarship.
+
+![](/images/mr%20robert%20hannigan.jpg)
+
+#### **Mr Robert Hannigan**
+
+*Chairman of BlueVoyant International*
+<br>United Kingdom
+
+##### **Biography**
+
+**Robert Hannigan** is a cybersecurity specialist currently serving as the Chairman of BlueVoyant International. During his career in government service,&nbsp; Robert was the Director of GCHQ, UK’s largest intelligence and security agency. At GCHQ, he established UK’s National Cyber Security Centre (NCSC) and oversaw the Active Cyber Defence Programme. Robert was the Prime Minister’s Security Adviser and created UK’s first cybersecurity strategy.&nbsp;
+
+Robert writes and speaks regularly on cybersecurity and technology and is the Head of Wadham College, Oxford University. He is a Fellow of the Belfer Center at Harvard and the Institution of Engineering and Technology in London.
+
 *Information is accurate at time of publication*
