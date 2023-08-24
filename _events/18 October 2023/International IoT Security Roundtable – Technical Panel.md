@@ -11,17 +11,6 @@ third_nav_title: 18 October 2023
 
 With the increasing proliferation of IoT related solutions and usage, what principles and practices can government and industry align on, in ensuring secured IoT products and solutions, such as development of guidelines to outline the essential baseline data structure and communication protocol of IoT devices to be secured (including software aspect of an IOT device)? How can the public, government and private sectors collaborate to secure the IoT devices and solutions? 
 
-| \*\*Panelists\*\*&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Mr Henry Tan\](/speaker-Henry-tan)&nbsp; | \*Deputy Director, Cybersecurity Engineering Centre (CSEC)\*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Ms Charmaine Ng\](/speaker-charmaine-ng)&nbsp; | \*Director of Asia Pacific Digital Policy\*<br>Schneider Electric &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Mr Richard Koh\](/speaker-richard-koh)&nbsp; | \*Chief Technology &amp; Security &amp; Customer Success Officer\*<br>Microsoft Group&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| \[Mr Doug Kramer\](/speaker-doug-Kramer)&nbsp; | \*Secretary/General Counsel\*<br>Cloudflare Inc &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| | |
 
 **Moderator** 
 
