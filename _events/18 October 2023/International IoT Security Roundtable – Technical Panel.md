@@ -15,6 +15,30 @@ With the increasing proliferation of IoT related solutions and usage, what princ
 
 | \[Courtney Lang\](/moderator-courtney-lang)&nbsp; | \*Vice President of Policy for Trust, Data, and Technology for Information Technology Industry Council (ITIC) of US\*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
+**
+
+| \*\*Keynote Speaker\*\*&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| \[Hon Tim Watts MP\](/speaker-tim-watts)&nbsp; | \*Assistant Minister for Foreign Affairs of Australia\*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| <br> \*\*Panelists\*\*&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| \[Dr Regine Grienberger\](/speaker-dr-Regine-Grienberger)&nbsp; | \*Cyber Ambassador\*<br>Federal Foreign Office, Germany &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| \[Mr Gregory Bunghardt\](/speaker-Gregory-Bunghardt)&nbsp; | \*Acting Director of Cyber Policy, Department of Public Safety Canada\*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| \[Mr Craig Jones\](/speaker-Craig-Jones)&nbsp; | \*Cybercrime Director\*<br>Interpol &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| \[Mr Jeff Moss\](/speaker-Jeff-Moss)&nbsp; | \*Founder of Black Hat and DEF CON Computer Security Conferences\*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| \[Mr Koneru Kalyan Chakravarthy\](/speaker-Koneru-Kalyan-Chakravarthy)&nbsp; | \*Cyber Security Practice Leader\*<br>Microsoft&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| <br> \*\*Moderator\*\*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| \[Courtney Lang\](/moderator-benjamin-ang)&nbsp; | \*Vice President of Policy for Trust, Data, and Technology\*<br>Information Technology Industry Council (ITIC) of US &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| | |
+
 **Moderator** 
 
 ![](/images/courtney%20lang.png)
