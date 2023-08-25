@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker  Ms Michelle MindalaFreeman.md
       - Speaker – Mr Claudia Plattner.md
       - Speaker – Mr Scott Jarkoff.md
       - Speaker – Mr Brian Neuhaus.md
