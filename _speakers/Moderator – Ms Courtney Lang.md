@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/courtney%20lang.png)
 
-#### **Courtney Lang**
+#### **Ms Courtney Lang**
 
 *Vice President of Policy for Trust, Data, and Technology,<br> Information Technology Industry Council (ITIC)*
 <br>US
