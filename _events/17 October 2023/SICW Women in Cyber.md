@@ -7,7 +7,7 @@ third_nav_title: 17 October 2023
 #### **SICW Women in Cyber**
 
 **17 October 2023 (Tuesday)**  
-*Time TBC (GMT +8)*
+*Time: 3.00pm to 5.30pm (GMT +8)*
 
 The Women in Cyber event aims to promote cybersecurity as a career to female students, professionals, and mothers returning to work.
 
