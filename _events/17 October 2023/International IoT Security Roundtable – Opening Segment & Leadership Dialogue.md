@@ -15,8 +15,9 @@ The International IoT Security Roundtable, scheduled for October 17<sup>th</sup>
 
 |**Guest of Honour**          |                                                          |
 | -------- | -------- |
-| [Dr Janil Puthucheary](/speakers/speaker-janil-puthucheary)  | *Chief Technology Officer for Data*<br>ARMIS      |
-| [Mr Brian Behlendorf](/speakers/speaker-brian-behlendorf)  | *Chief Technology Officer*<br>Open Source Security Foundation (OpenSSF)      |
+| [Dr Janil Puthucheary](/speakers/goh-janil-puthucheary)  | *Senior Minister of State*<br>Ministry of Communications and Information (MCI), &amp; Ministry of Health      |
+|**Speaker**          |                                                          |
+| [Ms Claudia Plattner](/speakers/speaker-claudia-plattner)  | *President*<br>BSI      |
 | [Prof Lam Kwok Yan](/speakers/speaker-lam-kwok-yan)  | *Associate Vice President, Strategy and Partnerships*<br>Nanyang Technological University (NTU)           |
 | [Mr Eugene Liderman](/speakers/speaker-eugene-liderman)  | *Director of Mobile Security Strategy*<br>Google      |
 | <br> **Moderator**          |                                                              |
