@@ -3,7 +3,7 @@ title: Speaker – Tal Goldstein
 permalink: /speakers/speaker-tal-goldstein/
 description: ""
 ---
-![](/images/mr%20tal%20goldstein.png)
+![](/images/tal%20goldstein.png)
 
 #### **Mr Tal Goldstein**
 
