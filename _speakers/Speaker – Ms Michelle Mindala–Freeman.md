@@ -3,7 +3,7 @@ title: Speaker – Ms Michelle Mindala–Freeman
 permalink: /speakers/speaker-michelle-mindala-freeman/
 description: ""
 ---
-![](/images/ms%20desiree%20lee.png)
+![](/images/ms%20michelle%20mindala%20freeman.png)
 
 #### **Ms Michelle Mindala-Freeman**
 
