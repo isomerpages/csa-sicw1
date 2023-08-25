@@ -16,13 +16,12 @@ The International IoT Security Roundtable, scheduled for October 17<sup>th</sup>
 |**Guest of Honour**          |                                                          |
 | -------- | -------- |
 | [Dr Janil Puthucheary](/speakers/goh-janil-puthucheary)  | *Senior Minister of State*<br>Ministry of Communications and Information (MCI), &amp; Ministry of Health      |
-|**Speaker**          |                                                          |
+|<br> **Speaker**          |                                                          |
 | [Ms Claudia Plattner](/speakers/speaker-claudia-plattner)  | *President*<br>BSI      |
-| [Prof Lam Kwok Yan](/speakers/speaker-lam-kwok-yan)  | *Associate Vice President, Strategy and Partnerships*<br>Nanyang Technological University (NTU)           |
-| [Mr Eugene Liderman](/speakers/speaker-eugene-liderman)  | *Director of Mobile Security Strategy*<br>Google      |
+|<br> **Panellist**          |      
+| [Ms Michelle Mindala-Freeman](/speakers/speaker-michelle-mindala-freeman)  | *Executive Vice President*<br>Connectivity Standards Alliance           |
 | <br> **Moderator**          |                                                              |
-| [Courtney Lang](/speakers/moderator-courtney-lang)  | *Vice President of Policy for Trust, Data, and Technology*<br>Information Technology Industry Council (ITIC)                |
+| [Tal Goldstein](/speakers/moderator-tal-goldstein)  | *Head of Strategy and Policy, Centre for Cybersecurity*<br>World Economic Forum                 |
 | | |
 
-<br><br><br>
 *Information is accurate at time of publication*
