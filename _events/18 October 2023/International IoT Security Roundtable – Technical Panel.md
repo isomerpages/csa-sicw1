@@ -21,7 +21,7 @@ With the increasing proliferation of IoT related solutions and usage, what princ
 | [Prof Lam Kwok Yan](/speakers/speaker-lam-kwok-yan)  | *Associate Vice President, Strategy and Partnerships*<br>Nanyang Technological University (NTU)           |
 | [Mr Eugene Liderman](/speakers/speaker-eugene-liderman)  | *Director of Mobile Security Strategy*<br>Google      |
 | <br> **Moderator**          |                                                              |
-| [Courtney Lang](/speakers/moderator-courtney-lang)  | *Vice President of Policy for Trust, Data, and Technology*<br>Information Technology Industry Council (ITIC)                |
+| [Ms Courtney Lang](/speakers/moderator-courtney-lang)  | *Vice President of Policy for Trust, Data, and Technology*<br>Information Technology Industry Council (ITIC)                |
 | | |
 
 
