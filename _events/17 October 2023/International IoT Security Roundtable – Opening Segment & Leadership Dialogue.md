@@ -21,7 +21,7 @@ The International IoT Security Roundtable, scheduled for October 17<sup>th</sup>
 |<br> **Panellist**          |      
 | [Ms Michelle Mindala-Freeman](/speakers/speaker-michelle-mindala-freeman)  | *Executive Vice President*<br>Connectivity Standards Alliance           |
 | <br> **Moderator**          |                                                              |
-| [Tal Goldstein](/speakers/moderator-tal-goldstein)  | *Head of Strategy and Policy, Centre for Cybersecurity*<br>World Economic Forum                 |
+| [Mr Tal Goldstein](/speakers/moderator-tal-goldstein)  | *Head of Strategy and Policy, Centre for Cybersecurity*<br>World Economic Forum                 |
 | | |
 
 *Information is accurate at time of publication*
