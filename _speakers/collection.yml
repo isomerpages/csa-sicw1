@@ -2,8 +2,8 @@ collections:
   speakers:
     output: true
     order:
+      - Guest of Honour – Mr HENG Swee Keat.md
       - Guest of Honour – Dr Janil Puthucheary.md
-      - Moderator – Mr Tal Goldstein.md
       - Speaker – Ms Michelle Mindala–Freeman.md
       - Speaker – Mr Claudia Plattner.md
       - Speaker – Mr Scott Jarkoff.md
@@ -16,4 +16,4 @@ collections:
       - Speaker – Prof Lam Kwok Yan.md
       - Speaker – Mr Brian Behlendorf.md
       - Moderator – Ms Courtney Lang.md
-      - Guest of Honour – Mr HENG Swee Keat.md
+      - Moderator – Mr Tal Goldstein.md
