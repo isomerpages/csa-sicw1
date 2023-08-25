@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Guest of Honour Dr Janil Puthucheary.md
       - Moderator – Tal Goldstein.md
       - Speaker – Ms Michelle Mindala–Freeman.md
       - Speaker – Mr Claudia Plattner.md
