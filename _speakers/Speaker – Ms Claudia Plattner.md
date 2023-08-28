@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/ms%20claudia%20plattner.png)
 
-#### **Mr Claudia Plattner**
+#### **Ms Claudia Plattner**
 
 *President of BSI<br>Germany*
 
