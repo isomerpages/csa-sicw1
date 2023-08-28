@@ -21,7 +21,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 2.00pm to 5.00pm           | [Global Forum on Cyber Expertise (GFCE) Southeast Asia Regional Meeting](/events/17-october-2023/gfce-sea-regional-meeting/)                               |
 | 3.00pm to 5.30pm           | [SICW Women in Cyber](/events/17-october-2023/sicw-women-in-cyber/)                               |
 | 4.00pm to 5.00pm           | [SICW Sessions: Insights on Ransomware Operation](/events/17-october-2023/sicw-sessions-insights-on-ransomware-operation/)                               |
-| <br> **18 October 2023** *(Wednesday)*          |                                                                                           |
+| <br> **18 October 2023** <br>*(Wednesday)*          |                                                                                           |
 | 8.30am to 5.00pm          | [IoT Hackathon: SPIRITCYBER–2023](/events/18-october-2023/iot-hackathon-spiritcyber-2023/)                                                                 |
 | 9.00am to 12.30pm           | [ASEAN Ministerial Conference on Cybersecurity (AMCC)](/events/18-october-2023/asean-ministerial-conference-on-cybersecurity/)                               |
 | 9.00am to 5.30pm              | [GovWare Conference &amp; Exhibition 2023](/events/18-october-2023/govware-conference-and-exhibition/)                                                                          |
@@ -30,7 +30,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 10.00am to 4.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/18-october-2023/asean-cert-incident-drill/)                               |
 | 2.00pm to 3.00pm          | [SICW Sessions: Reshaping cybersecurity in the era of Generative AI](/events/18-october-2023/sicw-sessions-reshaping-cybersecurity-in-the-era-of-generative-ai/)                                                                 |
 | 4.00pm to 5.00pm          | [SICW Sessions](/events/18-october-2023/sicw-sessions/)                                                                 |
-| <br> **19 October 2023** *(Thursday)* |                                                                                                |
+| <br> **19 October 2023** <br>*(Thursday)* |                                                                                                |
 | 8.30am to 12.00pm              | [IoT Hackathon: SPIRITCYBER–2023](/events/19-october-2023/iot-hackathon-spiritcyber-2023/)                                                                          |
 | 9.00am to 10.00am          | [SICW Sessions: Combating Advanced Cybersecurity Threats Amidst Evolving Digital Frontiers](/events/19-october-2023/sicw-sessions-combating-advanced-cybersecurity-threats/)                                                                 |
 | 9.00am to 5.00pm           | [5G PT Symposium](/events/19-october-2023/5g-pt-symposium/)                               |
