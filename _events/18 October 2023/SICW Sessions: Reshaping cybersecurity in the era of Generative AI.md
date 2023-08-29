@@ -19,7 +19,7 @@ This is a major game changer for how we use such technology; while Generative AI
 | [Mr Robert Hannigan](/speakers/speaker-robert-hannigan)  | *Chairman*<br>BlueVoyant International      |
 | [Mr Benjamin Harris](/speakers/speaker-benjamin-harris)  | *CEO and Founder*<br>watchTowr           |
 |<br> **Moderator**          |                                                           |
-| [Gaurav Keerthi](/speakers/moderator-gaurav-keerthi)  | *Deputy Chief Executive (Development)*<br>Cyber Security Agency of Singapore                |
+| [Gaurav Keerthi](/speakers/moderator-gaurav-keerthi)  | *Executive Vice President, Advisory and Emerging Business*<br>Ensign InfoSecurity                |
 | | |
 
 
