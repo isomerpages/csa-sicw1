@@ -17,7 +17,7 @@ Attendance to the event is strictly by invitation, and separate invitations will
 
 |**Guest of Honour**          |                                                              |
 | -------- | -------- |
-| [Mr Tai Wei Shyong]  | *Deputy Attorney-General*<br>Attorney-General’s Chambers           |
+| Mr Tai Wei Shyong  | *Deputy Attorney-General*<br>Attorney-General’s Chambers           |
 | | |
 
 
