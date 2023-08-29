@@ -3,6 +3,8 @@ title: Moderator – Mr Gaurav Keerthi
 permalink: /speakers/moderator-gaurav-keerthi/
 description: ""
 ---
+![](/images/gaurav%20keerthi.png)
+
 #### **Mr Gaurav Keerthi**
 
 *Executive Vice President, Advisory and Emerging Business,<br> Ensign InfoSecurity 
