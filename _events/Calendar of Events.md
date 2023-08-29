@@ -38,7 +38,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 5.00pm           | [9th ASEAN Senior Officials Roundtable on Cybercrime](/events/19-october-2023/senior-officials-roundtable-on-cybercrime/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2023](/events/19-october-2023/govware-conference-and-exhibition/)                               |
 | 10.00am to 12.30pm           | [ASEAN CERT Incident Drill (ACID)](/events/19-october-2023/asean-cert-incident-drill/)                               |
-| 11.00am to 12.00pm          | [SICW Sessions](/events/19-october-2023/sicw-sessions/)                                                                 |
+| 11.00am to 12.00pm          | [Cyber Multilateralism and the Race against Change: Affirming the UN’s relevance in the digital age](/events/19-october-2023/sicw-sessions-cyber-multilateralism-and-the-race-against-change/)                                                                 |
 
 
 *Information is accurate at time of publication*
