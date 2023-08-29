@@ -14,5 +14,8 @@ third_nav_title: 18 October 2023
 The ACPRM on 18 October 2023 will provide a platform for the community of prosecutors across the ASEAN Member States, particularly those specialising in prosecuting cybercrime, to gather and exchange ideas. Similar to the previous five meetings, its primary focus will be on establishing a basis for enhancing capabilities and facilitating greater cooperation in the fight against cybercrime.
 
 Attendance to the event is strictly by invitation, and separate invitations will be sent out specifically to expert-level practitioners.
-<br><br><br>
+
+|**Guest of Honour**          |                                                              |
+| -------- | -------- |
+| [Mr Tai Wei Shyong](/speakers/tai-wei-shyong)  | *Deputy Attorney-General*<br>Attorney-General’s Chambers ​           |<br><br><br>
 *Information is accurate at time of publication*
