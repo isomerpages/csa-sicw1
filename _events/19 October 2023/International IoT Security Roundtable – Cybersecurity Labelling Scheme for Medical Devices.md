@@ -14,7 +14,7 @@ In an era where technology intertwines with healthcare, ensuring the security of
 
 |**Speaker**          |                                                              |
 | -------- | -------- |
-| [Mr Leon Chang](/speakers/speaker-leon-chang)  | *Assistant Chief Executive*<br>Synapxe      |  
+| Mr Leon Chang  | *Assistant Chief Executive*<br>Synapxe      |  
 | | |
 
 *Information is accurate at time of publication*
