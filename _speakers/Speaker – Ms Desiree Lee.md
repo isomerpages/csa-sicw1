@@ -3,7 +3,7 @@ title: Speaker – Ms Desiree Lee
 permalink: /speakers/speaker-desiree-lee/
 description: ""
 ---
-![](/images/ms%20desiree%20lee.png)
+![](/images/2023%20Speakers/desiree%20lee.png)
 
 #### **Ms Desiree Lee**
 
