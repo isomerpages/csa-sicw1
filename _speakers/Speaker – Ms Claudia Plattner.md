@@ -3,7 +3,7 @@ title: Speaker – Ms Claudia Plattner
 permalink: /speakers/speaker-claudia-plattner/
 description: ""
 ---
-![](/images/ms%20claudia%20plattner.png)
+![](/images/claudia%20plattner.png)
 
 #### **Ms Claudia Plattner**
 
