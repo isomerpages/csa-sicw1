@@ -7,7 +7,7 @@ third_nav_title: 16 October 2023
 #### **SICW Summit**
 
 **16 October 2023 (Monday)**  
-*Time TBC (GMT +8)*
+*Time: 6.30pm to 10.00pm (GMT +8)*
 
 *Format: Closed Door Event*
 

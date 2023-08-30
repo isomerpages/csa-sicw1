@@ -9,6 +9,21 @@ third_nav_title: 18 October 2023
 **18 October 2023 (Wednesday)**  
 *Time: 10.00am to 12.30pm (GMT +8)*
 
+*Format: Physical (Open Session)*
+
+
 With the increasing proliferation of IoT related solutions and usage, what principles and practices can government and industry align on, in ensuring secured IoT products and solutions, such as development of guidelines to outline the essential baseline data structure and communication protocol of IoT devices to be secured (including software aspect of an IOT device)? How can the public, government and private sectors collaborate to secure the IoT devices and solutions? 
-<br><br><br>
+
+|**Panelists**          |                                                              |
+| -------- | -------- |
+| [Ms Desiree Lee](/speakers/speaker-desiree-lee)  | *Chief Technology Officer for Data*<br>ARMIS      |
+| [Mr Brian Behlendorf](/speakers/speaker-brian-behlendorf)  | *Chief Technology Officer*<br>Open Source Security Foundation (OpenSSF)      |
+| [Prof Lam Kwok Yan](/speakers/speaker-lam-kwok-yan)  | *Associate Vice President, Strategy and Partnerships*<br>Nanyang Technological University (NTU)           |
+| [Mr Eugene Liderman](/speakers/speaker-eugene-liderman)  | *Director of Mobile Security Strategy*<br>Google      |
+| <br> **Moderator**          |                                                              |
+| [Ms Courtney Lang](/speakers/moderator-courtney-lang)  | *Vice President of Policy for Trust, Data, and Technology*<br>Information Technology Industry Council (ITIC)                |
+| | |
+
+
+
 *Information is accurate at time of publication*

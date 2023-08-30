@@ -7,7 +7,7 @@ third_nav_title: 19 October 2023
 #### **5G PT Symposium**
 
 **19 October 2023 (Thursday)**  
-*Time TBC (GMT +8)*
+*Time: 9.00am - 5.00pm (GMT +8)*
 
 *Format: Closed Door Event*
 

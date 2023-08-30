@@ -2,38 +2,47 @@ collections:
   events:
     output: true
     order:
+      - Calendar of Events.md
+      - 16 October 2023/List of Events.md
       - 16 October 2023/SICW Summit.md
       - 16 October 2023/.keep
       - 17 October 2023/.keep
-      - 17 October 2023/Global Forum on Cyber Expertise (GFCE) Southeast Asia
-        Regional Meeting.md
-      - 17 October 2023/GovWare Conference & Exhibition 2023.md
-      - 17 October 2023/International IoT Security Roundtable – Opening Segment
-        & Leadership Dialogue.md
+      - 17 October 2023/List of Events.md
       - "17 October 2023/IoT Hackathon: SPIRITCYBER–2023.md"
-      - 17 October 2023/SG Cyber Safe for Enterprises.md
       - 17 October 2023/SICW Opening Ceremony and Ministerial Roundtables.md
+      - 17 October 2023/GovWare Conference & Exhibition 2023.md
       - "17 October 2023/SICW Sessions: Securing the Future: Public–Private
         Partnership for Cyber Resilience.md"
-      - "17 October 2023/SICW Sessions: Insights on Ransomware Operation.md"
+      - 17 October 2023/SG Cyber Safe for Enterprises.md
+      - 17 October 2023/International IoT Security Roundtable – Opening Segment
+        & Leadership Dialogue.md
+      - 17 October 2023/Global Forum on Cyber Expertise (GFCE) Southeast Asia
+        Regional Meeting.md
       - 17 October 2023/SICW Women in Cyber.md
+      - "17 October 2023/SICW Sessions: Insights on Ransomware Operation.md"
       - 18 October 2023/.keep
-      - 18 October 2023/ASEAN CERT Incident Drill (ACID).md
-      - 18 October 2023/ASEAN Cybercrime Prosecutors' Roundtable Meeting.md
+      - 18 October 2023/List of Events.md
+      - "18 October 2023/IoT Hackathon: SPIRITCYBER–2023.md"
       - 18 October 2023/ASEAN Ministerial Conference on Cybersecurity (AMCC).md
       - 18 October 2023/GovWare Conference & Exhibition 2023.md
+      - 18 October 2023/ASEAN Cybercrime Prosecutors' Roundtable Meeting.md
       - 18 October 2023/International IoT Security Roundtable – Technical
         Panel.md
-      - "18 October 2023/IoT Hackathon: SPIRITCYBER–2023.md"
+      - 18 October 2023/ASEAN CERT Incident Drill (ACID).md
       - "18 October 2023/SICW Sessions: Reshaping cybersecurity in the era of
         Generative AI.md"
-      - 18 October 2023/SICW Sessions.md
+      - "18 October 2023/SICW Sessions: The Cyber Attribution Conundrum: a sharp
+        sword or a blunt blade?.md"
       - 19 October 2023/.keep
-      - 19 October 2023/5G PT Symposium.md
-      - 19 October 2023/ASEAN CERT Incident Drill (ACID).md
-      - 19 October 2023/GovWare Conference & Exhibition 2023.md
+      - 19 October 2023/List of Events.md
       - "19 October 2023/IoT Hackathon: SPIRITCYBER–2023.md"
+      - "19 October 2023/SICW Sessions: Combating Advanced Cybersecurity Threats
+        Amidst Evolving Digital Frontiers.md"
+      - 19 October 2023/International IoT Security Roundtable – Cybersecurity
+        Labelling Scheme for Medical Devices.md
+      - 19 October 2023/5G PT Symposium.md
       - 19 October 2023/9th ASEAN Senior Officials Roundtable on Cybercrime.md
-      - 19 October 2023/SICW Sessions.md
-      - "19 October 2023/SICW Sessions: Combating advanced cybersecurity threats
-        amidst evolving digital frontiers.md"
+      - 19 October 2023/GovWare Conference & Exhibition 2023.md
+      - 19 October 2023/ASEAN CERT Incident Drill (ACID).md
+      - "19 October 2023/SICW Sessions: Cyber Multilateralism and the Race
+        against Change: Affirming the UN’s relevance.md"
