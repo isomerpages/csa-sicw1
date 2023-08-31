@@ -14,7 +14,7 @@ locations:
       - ""
       - ""
       - ""
-    title: Sands Expo & Convention Centre
     operating_hours: []
     maps_link: ""
+    title: Sands Expo & Convention Centre
 ---
