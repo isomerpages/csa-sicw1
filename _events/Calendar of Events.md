@@ -17,7 +17,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition](/events/17-october-2023/govware-conference-and-exhibition/)                               |
 | 2.00pm to 3.00pm           | [SICW Sessions: Securing the Future: Public–Private Partnership for Cyber Resilience](/events/17-october-2023/sicw-sessions-securing-the-future/)                               |
 | 2.00pm to 3.30pm           | [SG Cyber Safe for Enterprises](/events/17-october-2023/sg-cyber-safe-for-enterprises/)                               |
-| 2.00pm to 4.30pm           | [International IoT Security Roundtable – Opening Segment &amp; Leadership Dialogue](/events/17-october-2023/iiot-leadership-dialogue/)                               |
+| 2.30pm to 5.00pm           | [International IoT Security Roundtable – Opening Segment &amp; Leadership Dialogue](/events/17-october-2023/iiot-leadership-dialogue/)                               |
 | 2.00pm to 5.00pm           | [Global Forum on Cyber Expertise (GFCE) Southeast Asia Regional Meeting](/events/17-october-2023/gfce-sea-regional-meeting/)                               |
 | 3.00pm to 5.30pm           | [SICW Women in Cyber](/events/17-october-2023/sicw-women-in-cyber/)                               |
 | 4.00pm to 5.00pm           | [SICW Sessions: Insights on Ransomware Operation](/events/17-october-2023/sicw-sessions-insights-on-ransomware-operation/)                               |
@@ -26,7 +26,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 12.30pm           | [ASEAN Ministerial Conference on Cybersecurity (AMCC)](/events/18-october-2023/asean-ministerial-conference-on-cybersecurity/)                               |
 | 9.00am to 5.30pm              | [GovWare Conference &amp; Exhibition 2023](/events/18-october-2023/govware-conference-and-exhibition/)                                                                          |
 | 9.00am to 6.00pm           | [ASEAN Cybercrime Prosecutors' Roundtable Meeting](/events/18-october-2023/acprm/)                               |
-| 10.00am to 12.30pm           | [International IoT Security Roundtable – Technical Panel](/events/18-october-2023/iiot-technical-panel/)                               |
+| 10.00am to 12.00pm           | [International IoT Security Roundtable – Technical Panel](/events/18-october-2023/iiot-technical-panel/)                               |
 | 10.00am to 4.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/18-october-2023/asean-cert-incident-drill/)                               |
 | 2.00pm to 3.00pm          | [SICW Sessions: Reshaping cybersecurity in the era of Generative AI](/events/18-october-2023/sicw-sessions-reshaping-cybersecurity-in-the-era-of-generative-ai/)                                                                 |
 | 4.00pm to 5.00pm          | [SICW Sessions: The Cyber Attribution Conundrum: a sharp sword or a blunt blade?](/events/18-october-2023/sicw-sessions-the-cyber-attribution-conundrum/)                                                                 |
