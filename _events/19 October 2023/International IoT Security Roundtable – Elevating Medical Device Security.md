@@ -4,7 +4,7 @@ permalink: /events/19-october-2023/international-iot-security-roundtable-elevati
 description: ""
 third_nav_title: 19 October 2023
 ---
-#### **International IoT Security Roundtable – Cybersecurity Labelling Scheme for Medical Devices**
+#### **International IoT Security Roundtable – Elevating Medical Device Security**
 
 **19 October 2023 (Thursday)**  
 *Time: 9.00am - 12.00pm (GMT +8)*
