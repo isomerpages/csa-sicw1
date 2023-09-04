@@ -7,7 +7,7 @@ third_nav_title: 18 October 2023
 #### **International IoT Security Roundtable – Technical Panel**
 
 **18 October 2023 (Wednesday)**  
-*Time: 10.00am to 12.30pm (GMT +8)*
+*Time: 10.00am to 12.00pm (GMT +8)*
 
 *Format: Physical (Open Session)*
 
