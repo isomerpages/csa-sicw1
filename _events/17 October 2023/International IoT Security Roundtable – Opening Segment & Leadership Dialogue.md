@@ -16,7 +16,7 @@ The International IoT Security Roundtable, scheduled for October 17<sup>th</sup>
 |**Guest of Honour**          |                                                          |
 | -------- | -------- |
 | [Dr Janil Puthucheary](/speakers/goh-dr-janil-puthucheary/)  | *Senior Minister of State*<br>Ministry of Communications and Information (MCI), &amp; Ministry of Health      |
-|<br> **Speaker**          |                                                          |
+|<br> **Keynote Speaker**          |                                                          |
 | [Ms Claudia Plattner](/speakers/speaker-claudia-plattner)  | *President*<br>BSI      |
 |<br> **Panellist**          |      
 | [Ms Michelle Mindala-Freeman](/speakers/speaker-michelle-mindala-freeman)  | *Executive Vice President*<br>Connectivity Standards Alliance           |
