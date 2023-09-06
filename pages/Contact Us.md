@@ -3,9 +3,7 @@ title: Contact Us
 permalink: /contact-us-test/
 description: ""
 ---
-#### **Get in touch with Us**
-
-**Contact Us**
+#### **Get in touch with us**
 
 For enquiries, write to us <br>
 [contact@sicw.gov.sg](mailto:contact@sicw.gov.sg)
