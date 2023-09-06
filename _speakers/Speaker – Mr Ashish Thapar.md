@@ -7,8 +7,8 @@ description: ""
 
 #### **Mr Ashish Thapar**
 
-*VP &amp; Head – Cybersecurity (Asia Pacific)*  
-NTT Ltd.
+*VP &amp; Head – Cybersecurity (Asia Pacific) <br>
+NTT Ltd.*
 
 
 ##### **Biography**
