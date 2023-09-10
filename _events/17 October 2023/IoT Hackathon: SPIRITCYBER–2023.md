@@ -19,9 +19,9 @@ To better understand our threat landscape and real-world deployment vulnerabilit
 <br>![](/images/spiritcyber%203.jpg)
 <br>![](/images/spiritcyber%204.jpg)
 
-|**Opening Address Speaker**    |                                                              |
-|------|------|
-| [Prof Lam Kwok Yan](/speakers/speaker-lam-kwok-yan/)  | *Associate Vice President, Strategy and Partnerships, Nanyang Technological University (NTU)* <br>Singapore                |
-| | 
+|**Opening Address Speaker**          |                                                              |
+| -------- | -------- |
+| [Prof Lam Kwok Yan](/speakers/speaker-lam-kwok-yan)  | *Associate Vice President, Strategy and Partnerships*<br>Nanyang Technological University (NTU)           |
+
 <br><br><br>
 *Information is accurate at time of publication*
