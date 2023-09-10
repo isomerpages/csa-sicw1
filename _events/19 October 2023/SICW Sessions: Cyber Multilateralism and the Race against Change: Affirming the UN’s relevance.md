@@ -10,6 +10,6 @@ third_nav_title: 19 October 2023
 **19 October 2023 (Thursday)**  
 *Time: 11.00am - 12.00pm (GMT +8)*
 
-(topic to be announced)
+A panel discussion on Cyber Multilateralism and the United Nations. More details to come.
 <br><br><br>
 *Information is accurate at time of publication*
