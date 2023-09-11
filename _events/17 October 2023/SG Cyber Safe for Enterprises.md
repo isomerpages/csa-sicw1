@@ -11,7 +11,8 @@ third_nav_title: 17 October 2023
 
 *Format: Closed Door Event*
 
-1.30pm - Registration
+Programme
+<br>1.30pm - Registration
 <br>2.00pm - Arrival of Guest of Honour
 <br>3.30pm - End of programme
 
