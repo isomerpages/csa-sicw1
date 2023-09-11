@@ -10,6 +10,6 @@ third_nav_title: 18 October 2023
 **18 October 2023 (Wednesday)**  
 *Time: 4.00pm - 5.00pm (GMT +8)*
 
-(topic to be announced)
+A panel discussion on Cyber Attribution. More details to come. 
 <br><br><br>
 *Information is accurate at time of publication*
