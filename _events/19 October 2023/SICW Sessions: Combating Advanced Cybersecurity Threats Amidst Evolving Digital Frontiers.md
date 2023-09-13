@@ -15,7 +15,6 @@ In today's interconnected world, cyber threats are evolving rapidly and cyber de
 |**Panelists**          |                                                              |
 | -------- | -------- |
 | [Mr Brian Neuhaus](/speakers/speaker-brian-neuhaus)  | *Chief Technology Officer (CTO)*<br>Vectra AI      |
-| [Mr Scott Jarkoff](/speakers/speaker-scott-jarkoff)  | *Director, Intelligence Strategy, APJ &amp; META*<br>Crowdstrike   
 | | |
 
 *Information is accurate at time of publication*
