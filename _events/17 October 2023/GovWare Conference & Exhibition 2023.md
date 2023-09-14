@@ -22,6 +22,7 @@ For those interested in attending, visit the <a href="http://www.govware.sg" tar
 |  **Speakers**          |                                                              |
 | [Mr Brad Arkin](https://www.govware.sg/speakers/brad-arkin)  | *Senior Vice President, Chief Security and Trust Officer*<br>Cisco               |
 | [Ms Eva Chen](https://www.govware.sg/speakers/eva-chen)  | *Chief Executive Officer &amp; Co-Founder*<br>Trend Micro               |
+| [Ms Poornima DeBolle](https://www.govware.sg/speakers/poornima-debolle)  | *Co-Founder &amp; Chief Product Officer*<br>Menlo Security               |
 | | |
 
 <br><br><br>
