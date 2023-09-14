@@ -25,6 +25,9 @@ For those interested in attending, visit the <a href="http://www.govware.sg" tar
 | [Ms Poornima DeBolle](https://www.govware.sg/speakers/poornima-debolle)  | *Co-Founder &amp; Chief Product Officer*<br>Menlo Security               |
 | [Mr Goh Eng Choon](https://www.govware.sg/speakers/goh-eng-choon-wo4j)  | *President, Cyber*<br>ST Engineering                |
 | [Mr Lee Fook Sun](https://www.govware.sg/speakers/lee-fook-sun)  | *Chairman*<br>Ensign InfoSecurity                |
+| [Mr Kevin Mandia](https://www.govware.sg/speakers/kevin-mandia-1)  | *Chief Executive Officer*<br>Mandiant - Google Cloud                |
+| [Mr Sean Yang](https://www.govware.sg/speakers/sean-yang)  | *Global Cyber Security and Privacy Officer*<br> Huawei                |
+| [Mr Nir Zuk](https://www.govware.sg/speakers/nir-zuk)  | *Founder &amp; Chief Technology Officer*<br>  Palo Alto Networks                |
 | | |
 
 <br><br><br>
