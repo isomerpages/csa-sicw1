@@ -18,5 +18,15 @@ One of the key features is its unrivalled **GovWare Exhibition**, showcasing cut
 Additionally, GovWare 2023 offers a diverse range of thought-leading programmes. These programmes include the **CXO Plenary, GovWare Keynotes**, Breakout Tracks, focused forums on Critical Information Infrastructure (CII) such as the **FSI Forum, Startup Pitch Pit**, and **GovWare InDepth Roundtables**. These programmes facilitate critical dialogues, foster collaborations, and provide a platform for attendees to connect with industry peers and learn from esteemed experts. 
 
 For those interested in attending, visit the <a href="http://www.govware.sg" target="blank">GovWare 2023 official website</a> to secure your passes. **GovWare Conference Pass holders** also benefit from access to the SICW 2023 open sessions, enhancing their learning and networking opportunities even further.
+|  **Speakers**          |                                                              |
+| [Mr Brad Arkin](https://www.govware.sg/speakers/brad-arkin)  | *Senior Vice President, Chief Security and Trust Officer*<br>Cisco               |
+| [Ms Eva Chen](https://www.govware.sg/speakers/eva-chen)  | *Chief Executive Officer &amp; Co-Founder*<br>Trend Micro               |
+| [Ms Poornima DeBolle](https://www.govware.sg/speakers/poornima-debolle)  | *Co-Founder &amp; Chief Product Officer*<br>Menlo Security               |
+| [Mr Goh Eng Choon](https://www.govware.sg/speakers/goh-eng-choon-wo4j)  | *President, Cyber*<br>ST Engineering                |
+| [Mr Lee Fook Sun](https://www.govware.sg/speakers/lee-fook-sun)  | *Chairman*<br>Ensign InfoSecurity                |
+| [Mr Kevin Mandia](https://www.govware.sg/speakers/kevin-mandia-1)  | *Chief Executive Officer*<br>Mandiant - Google Cloud                |
+| [Mr Sean Yang](https://www.govware.sg/speakers/sean-yang)  | *Global Cyber Security and Privacy Officer*<br> Huawei                |
+| [Mr Nir Zuk](https://www.govware.sg/speakers/nir-zuk)  | *Founder &amp; Chief Technology Officer*<br>  Palo Alto Networks                |
+| | |
 <br><br><br>
 *Information is accurate at time of publication*
