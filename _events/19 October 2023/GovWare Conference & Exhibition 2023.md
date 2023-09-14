@@ -29,5 +29,6 @@ For those interested in attending, visit the <a href="http://www.govware.sg" tar
 | [Mr Sean Yang](https://www.govware.sg/speakers/sean-yang)  | *Global Cyber Security and Privacy Officer*<br> Huawei                |
 | [Mr Nir Zuk](https://www.govware.sg/speakers/nir-zuk)  | *Founder &amp; Chief Technology Officer*<br>  Palo Alto Networks                |
 | | |
+
 <br><br><br>
 *Information is accurate at time of publication*
