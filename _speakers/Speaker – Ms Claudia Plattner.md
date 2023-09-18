@@ -7,7 +7,8 @@ description: ""
 
 #### **Ms Claudia Plattner**
 
-*President of BSI<br>Germany*
+*President of the German Federal 
+Office for Information Security (BSI)<br>Germany*
 
 ##### **Biography**
 
