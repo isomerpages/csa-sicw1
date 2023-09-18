@@ -14,8 +14,8 @@ In an era where technology intertwines with healthcare, ensuring the security of
 |  **Speakers**          |                                                              |
 | [Mr Leon Chang](/speakers/mr-leon-chang)  | *Assistant Chief Executive, Cyber Defence Group &amp; Chief Risk Office, Co-chair of Medical Device Oversight Committee*<br>Synapxe               |
 | [Mr Paul Chua](/speakers/mr-paul-chua)  | *Cyber Security Officer, Greater Asia at BD, Cybersecurity Working Group Chair at APACMed*<br>BD, APACMed               |
-| [Ms Poornima DeBolle](https://www.govware.sg/speakers/poornima-debolle)  | *Co-Founder &amp; Chief Product Officer*<br>Menlo Security               |
-| [Mr Goh Eng Choon](https://www.govware.sg/speakers/goh-eng-choon-wo4j)  | *President, Cyber*<br>ST Engineering                |
+| [Mr Gavin Duan](/speakers/mr-gavin-duan)  | *Cybersecurity Lab Manager*<br>SGS Brightsight Singapore               |
+| [Mr Daryl Koh](/speakers/mr-daryl-koh)  | *General Manager*<br>SETSCO-An Security Pte Ltd                |
 | [Mr Lee Fook Sun](https://www.govware.sg/speakers/lee-fook-sun)  | *Chairman*<br>Ensign InfoSecurity                |
 | | |
 <br><br><br>
