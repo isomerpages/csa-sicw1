@@ -8,8 +8,10 @@ third_nav_title: 19 October 2023
 #### **SICW Sessions: Cyber Multilateralism and the Race against Change - *Affirming the UN’s relevance***
 
 **19 October 2023 (Thursday)**  
-*Time: 11.00am - 12.00pm (GMT +8)*
+*Time: 11.00am - 12.10pm (GMT +8)*
 
-A panel discussion on Cyber Multilateralism and the United Nations. More details to come.
+The United Nations provides a platform for all nations, big and small, to engage in open and inclusive dialogue and collective action. Given the fast-changing cyber landscape, how can we ensure stability, security, and inclusivity in this digital era? How can we foster global cooperation in pace with the developments in digital technology and cybersecurity?
+
+The session will take a multifaceted outlook on international cyber discussions from the perspective of big and small players, and critically assess the UN’s effectiveness as the apex platform in facilitating international cyber discussions and fostering cyber cooperation.
 <br><br><br>
 *Information is accurate at time of publication*
