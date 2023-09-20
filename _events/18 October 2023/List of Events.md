@@ -16,4 +16,4 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 10.00am to 12.00pm           | [International IoT Security Roundtable – Technical Panel](/events/18-october-2023/iiot-technical-panel/)                               |
 | 10.00am to 4.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/18-october-2023/asean-cert-incident-drill/)                               |
 | 2.00pm to 3.10pm          | [SICW Sessions: Reshaping Cybersecurity in the Era of Generative AI](/events/18-october-2023/sicw-sessions-reshaping-cybersecurity-in-the-era-of-generative-ai/)                                                                 |
-| 4.00pm to 5.10pm          | [SICW Sessions: The Cyber Attribution Conundrum - a sharp sword or a blunt blade?](/events/18-october-2023/sicw-sessions-the-cyber-attribution-conundrum/)                                                                 |
+| 4.00pm to 5.10pm          | [SICW Sessions: The Cyber Attribution Conundrum - A sharp sword or a blunt blade?](/events/18-october-2023/sicw-sessions-the-cyber-attribution-conundrum/)                                                                 |
