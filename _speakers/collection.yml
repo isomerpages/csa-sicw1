@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Goh Eng Choon.md
       - Speaker – Mr Daryl Koh.md
       - Speaker – Mr Gavin Duan.md
       - Speaker – Mr Paul Chua.md
