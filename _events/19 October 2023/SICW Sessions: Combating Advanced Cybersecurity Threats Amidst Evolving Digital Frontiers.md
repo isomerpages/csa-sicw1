@@ -17,4 +17,7 @@ In today's interconnected world, cyber threats are evolving rapidly and cyber de
 | [Mr Brian Neuhaus](/speakers/speaker-brian-neuhaus)  | *Chief Technology Officer (CTO)*<br>Vectra AI      |
 | | |
 
+|  **Moderator**          |                                                              |
+| [Mr Charles Ng](/speakers/mr-charles-ng)  | *Executive Vice-President, International Business*<br>Ensign InfoSecurity               |
+| | |
 *Information is accurate at time of publication*
