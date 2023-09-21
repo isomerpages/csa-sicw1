@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Christopher Autry.md
       - Speaker – Mr Charles Ng.md
       - Speaker – Mr Goh Eng Choon.md
       - Speaker – Mr Daryl Koh.md
