@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Masahiro Uemura.md
       - Speaker – Mr Christopher Autry.md
       - Speaker – Mr Charles Ng.md
       - Speaker – Mr Goh Eng Choon.md
