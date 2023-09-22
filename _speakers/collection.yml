@@ -2,21 +2,30 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Mr Ashish Thapar.md
       - Guest of Honour – Mr Heng Swee Keat.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tai Wei Shyong.md
+      - Speaker – Mr Ashish Thapar.md
       - Speaker – Mr Benjamin Harris.md
       - Speaker – Mr Brian Behlendorf.md
       - Speaker – Mr Brian Neuhaus.md
+      - Speaker – Mr Carlos Serratos.md
       - Speaker – Ms Claudia Plattner.md
+      - Speaker – Mr Christopher Autry.md
+      - Speaker – Mr Daryl Koh.md
       - Speaker – Ms Desiree Lee.md
       - Speaker – Mr Eugene Liderman.md
+      - Speaker – Mr Gavin Duan.md
+      - Speaker – Mr Goh Eng Choon.md
       - Speaker – Prof Lam Kwok Yan.md
+      - Speaker – Mr Leon Chang.md
       - Speaker – Mr Liu Feng Yuan.md
+      - Speaker – Mr Masahiro Uemura.md
       - Speaker – Ms Michelle Mindala–Freeman.md
+      - Speaker – Mr Paul Chua.md
       - Speaker – Mr Robert Hannigan.md
       - Speaker – Mr Scott Jarkoff.md
+      - Moderator – Mr Charles Ng.md
       - Moderator – Ms Courtney Lang.md
       - Moderator – Mr Gaurav Keerthi.md
       - Moderator – Mr Tal Goldstein.md

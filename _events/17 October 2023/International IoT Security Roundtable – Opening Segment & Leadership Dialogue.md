@@ -16,11 +16,13 @@ The International IoT Security Roundtable, scheduled for October 17<sup>th</sup>
 |**Guest of Honour**          |                                                          |
 | -------- | -------- |
 | [Dr Janil Puthucheary](/speakers/goh-dr-janil-puthucheary/)  | *Senior Minister of State*<br>Ministry of Communications and Information (MCI), &amp; Ministry of Health      |
-|<br> **Keynote Speaker**          |                                                          |
+|<br> **Keynote Speakers**          |                                                          |
 | [Ms Claudia Plattner](/speakers/speaker-claudia-plattner)  | *President*<br>German Federal Office for Information Security (BSI)      |
+| [Mr Masahiro Uemura](/speakers/mr-masahiro-uemura)  | *Deputy Director-General for Cybersecurity and Information Technology, Minister’s Secretariat*<br>Ministry of Economy, Trade and Industry (METI), Japan           |
 |<br> **Panellist**          |      
 | [Ms Michelle Mindala-Freeman](/speakers/speaker-michelle-mindala-freeman)  | *Executive Vice President*<br>Connectivity Standards Alliance           |
 | [Mr Ashish Thapar](/speakers/mr-ashish-thapar/)  | *VP &amp; Head – Cybersecurity (Asia Pacific)*<br>NTT Ltd.           |
+| [Mr Christopher Autry](/speakers/mr-christopher-autry)  | *Founder &amp; CEO*<br>Iothic Ltd.           |
 | <br> **Moderator**          |                                                              |
 | [Mr Tal Goldstein](/speakers/moderator-tal-goldstein)  | *Head of Strategy and Policy, Centre for Cybersecurity*<br>World Economic Forum                 |
 | | |
