@@ -14,6 +14,6 @@ Ransomware threat actors are increasingly employing extortion techniques to gain
 
 |  **Moderator**          |                                                              |
 | [Mr Goh Eng Choon](/speakers/mr-goh-eng-choon)  | *President, Cyber*<br>ST Engineering               |
-| | |
+
 <br><br><br>
 *Information is accurate at time of publication*
