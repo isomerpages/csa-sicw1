@@ -7,7 +7,7 @@ description: ""
 
 #### **Ms Desiree Lee**
 
-*Chief Technology Officer for Data, ARMIS<br>US*
+*Chief Technology Officer for Data, ARMIS<br>United States of America*
 
 ##### **Biography**
 
