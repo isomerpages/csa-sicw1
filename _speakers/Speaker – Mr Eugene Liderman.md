@@ -3,12 +3,11 @@ title: Speaker – Mr Eugene Liderman
 permalink: /speakers/speaker-eugene-liderman/
 description: ""
 ---
-
 ![](/images/mr%20eugene%20liderman.png)
 
 #### **Mr Eugene Liderman**
 
-*Director of Mobile Security Strategy, Google<br>US*
+*Director of Mobile Security Strategy, Google<br>United States of America*
 
 ##### **Biography**
 
