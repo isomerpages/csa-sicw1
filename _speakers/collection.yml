@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Ng Soon Lee.md
       - Speaker – Mr Mei (Arthur) Jian.md
       - Speaker – Mr Dean Zwarts.md
       - Speaker – Mr Edwin Sin.md
