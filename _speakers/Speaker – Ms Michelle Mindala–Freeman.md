@@ -8,7 +8,7 @@ description: ""
 #### **Ms Michelle Mindala-Freeman**
 
 *Executive Vice President, Connectivity Standards Alliance
-<br>US*
+<br>United States of America*
 
 ##### **Biography**
 
