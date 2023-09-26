@@ -7,7 +7,7 @@ description: ""
 
 #### **Mr Liu Feng Yuan**
 
-*Partner, Certitude, former CEO and co-founder of BasisAI <br>Singapore*
+*Partner and Vice-President of Product, <br>former CEO and Co-Founder of BasisAI <br>Resaro.ai*
 
 ##### **Biography**
 
