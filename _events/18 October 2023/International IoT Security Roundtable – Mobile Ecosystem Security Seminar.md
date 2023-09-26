@@ -16,6 +16,5 @@ With mobile applications becoming the most popular way users conduct online bank
 | [Mr Eugene Liderman](/speakers/speaker-eugene-liderman)  | *Director of Mobile Security Strategy*<br>Google      |
 | | |
 
-
-
+<br><br><br>
 *Information is accurate at time of publication*
