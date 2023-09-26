@@ -2,15 +2,10 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Dr Amit Elazari.md
-      - Speaker – Mr Nathaniel Aliño.md
-      - Speaker – Mr Ng Soon Lee.md
-      - Speaker – Mr Mei (Arthur) Jian.md
-      - Speaker – Mr Dean Zwarts.md
-      - Speaker – Mr Edwin Sin.md
       - Guest of Honour – Mr Heng Swee Keat.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tai Wei Shyong.md
+      - Speaker – Dr Amit Elazari.md
       - Speaker – Mr Ashish Thapar.md
       - Speaker – Mr Benjamin Harris.md
       - Speaker – Mr Brian Behlendorf.md
@@ -19,7 +14,9 @@ collections:
       - Speaker – Ms Claudia Plattner.md
       - Speaker – Mr Christopher Autry.md
       - Speaker – Mr Daryl Koh.md
+      - Speaker – Mr Dean Zwarts.md
       - Speaker – Ms Desiree Lee.md
+      - Speaker – Mr Edwin Sin.md
       - Speaker – Mr Eugene Liderman.md
       - Speaker – Mr Gavin Duan.md
       - Speaker – Mr Goh Eng Choon.md
@@ -27,7 +24,10 @@ collections:
       - Speaker – Mr Leon Chang.md
       - Speaker – Mr Liu Feng Yuan.md
       - Speaker – Mr Masahiro Uemura.md
+      - Speaker – Mr Mei (Arthur) Jian.md
       - Speaker – Ms Michelle Mindala–Freeman.md
+      - Speaker – Mr Nathaniel Aliño.md
+      - Speaker – Mr Ng Soon Lee.md
       - Speaker – Mr Paul Chua.md
       - Speaker – Mr Robert Hannigan.md
       - Speaker – Mr Scott Jarkoff.md
