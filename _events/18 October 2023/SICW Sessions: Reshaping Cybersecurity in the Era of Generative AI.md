@@ -15,7 +15,7 @@ This is a major game changer for how we use such technology; while Generative AI
 
 |**Panelists**          |                                                              |
 | -------- | -------- |
-| [Mr Liu Feng Yuan](/speakers/speaker-liu-feng-yuan)  | *Partner, Certitude, former CEO and<br>co-founder*<br>BasisAI      |
+| [Mr Liu Feng Yuan](/speakers/speaker-liu-feng-yuan)  | *Partner and Vice-President of Product, former CEO and Co-Founder of BasisAI*<br>Resaro.ai      |
 | [Mr Robert Hannigan](/speakers/speaker-robert-hannigan)  | *Chairman*<br>BlueVoyant International      |
 | [Mr Benjamin Harris](/speakers/speaker-benjamin-harris)  | *CEO and Founder*<br>watchTowr           |
 |<br> **Moderator**          |                                                           |
