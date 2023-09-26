@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Dr Amit Elazari.md
       - Speaker – Mr Nathaniel Aliño.md
       - Speaker – Mr Ng Soon Lee.md
       - Speaker – Mr Mei (Arthur) Jian.md
