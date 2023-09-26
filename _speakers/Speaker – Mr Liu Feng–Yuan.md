@@ -5,9 +5,9 @@ description: ""
 ---
 ![](/images/mr%20liu%20feng%20yuan%202.png)
 
-#### **Mr Liu Feng Yuan**
+#### **Mr Liu Feng-Yuan**
 
-*Partner and Vice-President of Product, <br>former CEO and Co-Founder of BasisAI <br>Resaro.ai*
+*Partner and Vice President of Product, Resaro.ai, <br>former CEO and co-founder of BasisAI*
 
 ##### **Biography**
 
