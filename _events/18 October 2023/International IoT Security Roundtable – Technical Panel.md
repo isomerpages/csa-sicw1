@@ -14,7 +14,6 @@ With the increasing proliferation of IoT related solutions and usage, what princ
 |**Panelists**          |                                                              |
 | -------- | -------- |
 | [Ms Desiree Lee](/speakers/speaker-desiree-lee)  | *Chief Technology Officer for Data*<br>Armis      |
-| [Mr Brian Behlendorf](/speakers/speaker-brian-behlendorf)  | *Chief Technology Officer*<br>Open Source Security Foundation (OpenSSF)      |
 | [Prof Lam Kwok Yan](/speakers/speaker-lam-kwok-yan)  | *Associate Vice President, Strategy and Partnerships*<br>Nanyang Technological University (NTU)           |
 | [Mr Eugene Liderman](/speakers/speaker-eugene-liderman)  | *Director of Mobile Security Strategy*<br>Google      |
 | [Mr Carlos Serratos](/speakers/mr-carlos-serratos/)  | *IoT Certification Expert*<br>NXP Semiconductors      |
