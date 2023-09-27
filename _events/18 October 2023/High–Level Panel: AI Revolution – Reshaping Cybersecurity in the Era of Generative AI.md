@@ -5,7 +5,7 @@ permalink: /events/18-october-2023/sicw-sessions-reshaping-cybersecurity-in-the-
 description: ""
 third_nav_title: 18 October 2023
 ---
-#### **SICW Sessions: Reshaping Cybersecurity in the Era of Generative AI**
+#### **High-Level Panel: AI Revolution - Reshaping Cybersecurity in the Era of Generative&nbsp;AI**
 
 **18 October 2023 (Wednesday)**  
 *Time: 2.00pm - 3.10pm (GMT +8)*
