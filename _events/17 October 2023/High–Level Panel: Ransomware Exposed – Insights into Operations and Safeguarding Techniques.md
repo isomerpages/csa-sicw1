@@ -5,7 +5,7 @@ permalink: /events/17-october-2023/sicw-sessions-insights-on-ransomware-exposed/
 description: ""
 third_nav_title: 17 October 2023
 ---
-#### **SICW Sessions: Ransomware Exposed – *Insights into Operations and Safeguarding Techniques***
+#### **High-Level Panel: Ransomware Exposed – *Insights into Operations and Safeguarding Techniques***
 
 **17 October 2023 (Tuesday)**  
 *Time: 4.00pm to 5.10pm (GMT +8)*
