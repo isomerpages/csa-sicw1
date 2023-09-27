@@ -13,9 +13,14 @@ In an era where technology intertwines with healthcare, ensuring the security of
 
 |  **Speakers**          |                                                              |
 | [Mr Leon Chang](/speakers/mr-leon-chang)  | *Assistant Chief Executive, Cyber Defence Group &amp; Chief Risk Office, Co-chair of Medical Device Oversight Committee*<br>Synapxe               |
+| [Mr Edwin Sin](/speakers/mr-edwin-sin)  | *Senior Consultant, Cybersecurity Certification Centre*<br>Cyber Security Agency of Singapore               |
 | [Mr Paul Chua](/speakers/mr-paul-chua)  | *Cyber Security Officer, Greater Asia at BD, Cybersecurity Working Group Chair at APACMed*<br>BD, APACMed               |
-| [Mr Gavin Duan](/speakers/mr-gavin-duan)  | *Cybersecurity Lab Manager*<br>SGS Brightsight Singapore               |
+| [Mr Mei (Arthur) Jian](/speakers/mr-mei-arthur-jian)  | *Managing Director*<br>Riscure China                |
 | [Mr Daryl Koh](/speakers/mr-daryl-koh)  | *General Manager*<br>SETSCO-An Security Pte Ltd                |
+| [Mr Gavin Duan](/speakers/mr-gavin-duan)  | *Cybersecurity Lab Manager*<br>SGS Brightsight Singapore               |
+| [Mr Nathaniel Aliño](/speakers/mr-nathaniel-alino)  | *CC Program Manager and Evaluation Lead*<br>T-Systems Singapore Pte. Ltd.                |
+| [Mr Ng Soon Lee](/speakers/mr-ng-soon-lee)  | *Head of Product Service, TÜV SÜD ASEAN*<br>TÜV SÜD PSB Pte Ltd                |
+| [Mr Dean Zwarts](/speakers/mr-dean-zwarts)  | *Global Business Manager Cybersecurity*<br>UL Solutions                |
 | | |
 
 <br><br><br>

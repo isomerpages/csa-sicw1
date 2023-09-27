@@ -1,10 +1,11 @@
 ---
-title: "SICW Sessions: Reshaping Cybersecurity in the Era of Generative AI"
+title: "High–Level Panel: AI Revolution – Reshaping Cybersecurity in the Era of
+  Generative AI"
 permalink: /events/18-october-2023/sicw-sessions-reshaping-cybersecurity-in-the-era-of-generative-ai/
 description: ""
 third_nav_title: 18 October 2023
 ---
-#### **SICW Sessions: Reshaping Cybersecurity in the Era of Generative AI**
+#### **High-Level Panel: AI Revolution - *Reshaping Cybersecurity in the Era of Generative&nbsp;AI***
 
 **18 October 2023 (Wednesday)**  
 *Time: 2.00pm - 3.10pm (GMT +8)*
@@ -15,7 +16,7 @@ This is a major game changer for how we use such technology; while Generative AI
 
 |**Panelists**          |                                                              |
 | -------- | -------- |
-| [Mr Liu Feng Yuan](/speakers/speaker-liu-feng-yuan)  | *Partner, Certitude, former CEO and<br>co-founder*<br>BasisAI      |
+| [Mr Liu Feng-Yuan](/speakers/speaker-liu-feng-yuan)  | *Partner and Vice President of Product, Resaro.ai,* <br>*former CEO and co-founder of BasisAI*     |
 | [Mr Robert Hannigan](/speakers/speaker-robert-hannigan)  | *Chairman*<br>BlueVoyant International      |
 | [Mr Benjamin Harris](/speakers/speaker-benjamin-harris)  | *CEO and Founder*<br>watchTowr           |
 |<br> **Moderator**          |                                                           |

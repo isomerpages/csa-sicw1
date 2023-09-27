@@ -1,11 +1,11 @@
 ---
-title: "SICW Sessions: Cyber Multilateralism and the Race against Change –
-  Affirming the UN’s relevance"
+title: "High–Level Panel: Cyber Multilateralism and the Race against Change –
+  Affirming the UN’s relevance"
 permalink: /events/19-october-2023/sicw-sessions-cyber-multilateralism-and-the-race-against-change/
 description: ""
 third_nav_title: 19 October 2023
 ---
-#### **SICW Sessions: Cyber Multilateralism and the Race against Change - *Affirming the UN’s relevance***
+#### **High-Level Panel: Cyber&nbsp;Multilateralism&nbsp;and&nbsp;the&nbsp;Race&nbsp;against&nbsp;Change -*Affirming&nbsp;the&nbsp;UN’s&nbsp;relevance***
 
 **19 October 2023 (Thursday)**  
 *Time: 11.00am - 12.10pm (GMT +8)*

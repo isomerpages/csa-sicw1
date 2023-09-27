@@ -1,13 +1,13 @@
 ---
-title: Speaker – Mr Liu Feng Yuan
+title: Speaker – Mr Liu Feng–Yuan
 permalink: /speakers/speaker-liu-feng-yuan/
 description: ""
 ---
 ![](/images/mr%20liu%20feng%20yuan%202.png)
 
-#### **Mr Liu Feng Yuan**
+#### **Mr Liu Feng-Yuan**
 
-*Partner, Certitude, former CEO and co-founder of BasisAI <br>Singapore*
+*Partner and Vice President of Product, Resaro.ai, <br>former CEO and co-founder of BasisAI*
 
 ##### **Biography**
 

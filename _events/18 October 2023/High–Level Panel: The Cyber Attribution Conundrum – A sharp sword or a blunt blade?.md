@@ -1,11 +1,11 @@
 ---
-title: "SICW Sessions: The Cyber Attribution Conundrum – A sharp sword or a
-  blunt blade?"
+title: "High–Level Panel: The Cyber Attribution Conundrum – A sharp sword or a
+  blunt blade?"
 permalink: /events/18-october-2023/sicw-sessions-the-cyber-attribution-conundrum/
 description: ""
 third_nav_title: 18 October 2023
 ---
-#### **SICW Sessions: The Cyber Attribution Conundrum - *A sharp sword or a blunt blade?***
+#### **High-Level Panel: The Cyber Attribution&nbsp;Conundrum - *A sharp&nbsp;sword or a blunt&nbsp;blade?***
 
 **18 October 2023 (Wednesday)**  
 *Time: 4.00pm - 5.10pm (GMT +8)*

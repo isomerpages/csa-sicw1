@@ -23,6 +23,7 @@ The International IoT Security Roundtable, scheduled for October 17<sup>th</sup>
 | [Ms Michelle Mindala-Freeman](/speakers/speaker-michelle-mindala-freeman)  | *Executive Vice President*<br>Connectivity Standards Alliance           |
 | [Mr Ashish Thapar](/speakers/mr-ashish-thapar/)  | *VP &amp; Head – Cybersecurity (Asia Pacific)*<br>NTT Ltd.           |
 | [Mr Christopher Autry](/speakers/mr-christopher-autry)  | *Founder &amp; CEO*<br>Iothic Ltd.           |
+| [Dr Amit Elazari](/speakers/dr-amit-elazari)  | *Co-Founder and CEO*<br>OpenPolicy           |
 | <br> **Moderator**          |                                                              |
 | [Mr Tal Goldstein](/speakers/moderator-tal-goldstein)  | *Head of Strategy and Policy, Centre for Cybersecurity*<br>World Economic Forum                 |
 | | |
