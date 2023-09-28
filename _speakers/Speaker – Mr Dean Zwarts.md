@@ -3,6 +3,7 @@ title: Speaker – Mr Dean Zwarts
 permalink: /speakers/mr-dean-zwarts/
 description: ""
 ---
+![](/images/2023%20Speakers/dean%20zwarts.jpg)
 
 
 #### **Mr Dean Zwarts**
