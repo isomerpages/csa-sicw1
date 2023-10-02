@@ -10,7 +10,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 
 | **17 October 2023** <br>*(Tuesday)*   |                                 
 | 8.30am to 5.00pm              | [IoT Hackathon: SPIRITCYBER-2023](/events/17-october-2023/iot-hackathon-spiritcyber-2023/)                                                                          |
-| 9.00am to 12.20pm          | [SICW Opening Ceremony and Ministerial Roundtables](/events/17-october-2023/sicw-oc-and-ministerial-roundtables/)                                                                 |
+| 9.00am to 9.30am          | [SICW Opening Ceremony](/events/17-october-2023/sicw-oc/)                                                                 |
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition](/events/17-october-2023/govware-conference-and-exhibition/)                               |
 | 2.00pm to 3.10pm           | [High-Level Panel: Securing the Future – Public-Private Partnership for Cyber Resilience](/events/17-october-2023/sicw-sessions-securing-the-future/)                               |
 | 2.00pm to 3.30pm           | [SG Cyber Safe for Enterprises](/events/17-october-2023/sg-cyber-safe-for-enterprises/)                               |
