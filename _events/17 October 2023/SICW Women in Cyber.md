@@ -19,5 +19,6 @@ Esteemed international cybersecurity leaders and practitioners will be sharing b
 | <br> **Moderator**          |                                                              |
 | [Dr Ming Tan](/speakers/dr-ming-tan)  | *Founding Executive Director*<br>Tech for Good Institute                 |
 | | |
+
 <br><br><br>
 *Information is accurate at time of publication*
