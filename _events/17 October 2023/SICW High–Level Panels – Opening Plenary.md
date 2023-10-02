@@ -12,9 +12,9 @@ third_nav_title: 17 October 2023
 The SICW High-Level Panels – Opening Plenary will be held on Tuesday, 17 October. 
 
 Programme
-1. SICW High-Level Panel – Opening Plenary: Death of Multilateralism? – Future of International Cyber Discussions
-2. SICW High-Level Panel – Opening Plenary: Navigating Tech Bifurcation: the age of walls and bridges
-3. SICW High-Level Panel – Opening Plenary: Ally or Adversary? Defining the relationship and roles of Big Tech and Government in the Cyberspace
+* High-Level Panel: Death of Multilateralism? – Future of International Cyber Discussions
+* High-Level Panel: Navigating Tech Bifurcation: The Age of Walls and Bridges
+* High-Level Panel: Ally or Adversary? Defining the Relationship and Roles of Big Tech and Government in the Cyberspace
 
 <br><br><br>
 *Information is accurate at time of publication*
