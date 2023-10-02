@@ -12,10 +12,8 @@ third_nav_title: 19 October 2023
 
 In today's interconnected world, cyber threats are evolving rapidly and cyber defenders need to stay ahead of the game. Advanced threat actors are using diverse and sophisticated techniques, exploiting vulnerabilities in various systems and networks, including those commonly used in enterprise, cloud, Internet of Things (IoT) and Operational Technologies (OT) environments. As such, there is an impetus to reflect on defence strategies and countermeasures to mitigate the risks posed by advanced cyber attacks. This session aims to shed light on advanced attack techniques and their implications for individuals, businesses and governments.
 
-|**Panelists**          |                                                              |
-| [Mr Brian Neuhaus](/speakers/speaker-brian-neuhaus)  | *Chief Technology Officer (CTO)*<br>Vectra AI      |
-|<br> **Moderator**          |                                                              |
-| [Mr Charles Ng](/speakers/mr-charles-ng)  | *Executive Vice-President, International Business*<br>Ensign InfoSecurity               |
+|**Moderator**          |                                                              |
+| [Mr Goh Eng Choon](/speakers/mr-goh-eng-choon)  | *President, Cyber*<br>ST Engineering               |
 | | |
 
 *Information is accurate at time of publication*

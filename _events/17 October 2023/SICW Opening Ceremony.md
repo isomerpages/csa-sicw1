@@ -1,15 +1,16 @@
 ---
-title: SICW Opening Ceremony and Ministerial Roundtables
-permalink: /events/17-october-2023/sicw-oc-and-ministerial-roundtables/
+title: SICW Opening Ceremony
+permalink: /events/17-october-2023/sicw-oc/
 description: ""
 third_nav_title: 17 October 2023
 ---
-#### **SICW Opening Ceremony and Ministerial Roundtables**
+#### **SICW Opening Ceremony**
 
 **17 October 2023 (Tuesday)**  
-*Time: 9.00am - 12.20pm (GMT +8)*
+*Time: 9.00am - 9.30am (GMT +8)*
 
-The SICW Opening Ceremony and Ministerial Roundtables will be held on Tuesday, 17 October. More details will be available soon.
+The SICW Opening Ceremony will be held on Tuesday, 17 October. More details will be available soon.
+
 
 |**Guest of Honour**    |                                                              |
 |------|------|
