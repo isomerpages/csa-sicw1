@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Chua Kuan Seah.md
       - Moderator – Dr Ming Tan.md
       - Speaker – Ms Clar Rosso.md
       - Guest of Honour – Mr Heng Swee Keat.md
