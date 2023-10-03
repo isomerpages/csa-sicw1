@@ -4,7 +4,7 @@ permalink: /events/18-october-2023/scams-and-mobile-security/
 description: ""
 third_nav_title: 18 October 2023
 ---
-#### **SICW Scams and Mobile Security**
+#### **Scams and Mobile Security**
 
 **18 October 2023 (Wednesday)**  
 *Time: 2.00pm to 5.00pm (GMT +8)*
