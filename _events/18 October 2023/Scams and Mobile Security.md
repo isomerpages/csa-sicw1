@@ -1,13 +1,13 @@
 ---
-title: SICW Scams and Mobile Security
-permalink: /events/18-october-2023/sicw-scams-and-mobile-security/
+title: Scams and Mobile Security
+permalink: /events/18-october-2023/scams-and-mobile-security/
 description: ""
 third_nav_title: 18 October 2023
 ---
-#### **SICW Scams and Mobile Security**
+#### **Scams and Mobile Security**
 
 **18 October 2023 (Wednesday)**  
-*Time: 2.00pm to 5.00pm (GMT +8)*
+*Time: 2.00pm to 6.00pm (GMT +8)*
 
 Apps are becoming the most popular way for users to conduct online transactions, communicate with friends and family, and even perform their work activities. It is therefore imperative to ensure that devices are trustworthy, safe and secure, against phishing threats and scams. This requires strong collaboration between app developers, operating system owners, device manufacturers, and policy makers – to ensure that the right policies, tools, and programmes are put in place, across the ecosystem.
 
