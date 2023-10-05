@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Scott Morgan.md
       - Speaker – Ambassador Benedikt Wechsler.md
       - Speaker – Mr KC Choi.md
       - Speaker – Mr Brad Arkin.md
