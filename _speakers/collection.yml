@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ambassador Benedikt Wechsler.md
       - Speaker – Mr KC Choi.md
       - Speaker – Mr Brad Arkin.md
       - Moderator – Ms Phua Puay Li.md
