@@ -2,19 +2,14 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Air Marshal Darren Goldie AM CSC.md
-      - Speaker – Mr Nitzan Amar.md
-      - Speaker – Mr Scott Morgan.md
-      - Speaker – Ambassador Benedikt Wechsler.md
-      - Speaker – Mr KC Choi.md
-      - Speaker – Mr Brad Arkin.md
-      - Moderator – Ms Phua Puay Li.md
       - Guest of Honour – Mr Heng Swee Keat.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tai Wei Shyong.md
       - Speaker – Dr Amit Elazari.md
       - Speaker – Mr Ashish Thapar.md
+      - Speaker – Ambassador Benedikt Wechsler.md
       - Speaker – Mr Benjamin Harris.md
+      - Speaker – Mr Brad Arkin.md
       - Speaker – Mr Brian Behlendorf.md
       - Speaker – Mr Brian Neuhaus.md
       - Speaker – Mr Carlos Serratos.md
@@ -22,6 +17,7 @@ collections:
       - Speaker – Ms Claudia Plattner.md
       - Speaker – Mr Christopher Autry.md
       - Speaker – Mr Chua Kuan Seah.md
+      - Speaker – Air Marshal Darren Goldie AM CSC.md
       - Speaker – Mr Daryl Koh.md
       - Speaker – Mr Dean Zwarts.md
       - Speaker – Ms Desiree Lee.md
@@ -30,6 +26,7 @@ collections:
       - Speaker – Mr Gavin Duan.md
       - Speaker – Mr Goh Eng Choon.md
       - Speaker – Mr Julian Gordon.md
+      - Speaker – Mr KC Choi.md
       - Speaker – Prof Lam Kwok Yan.md
       - Speaker – Mr Leon Chang.md
       - Speaker – Mr Liu Feng–Yuan.md
@@ -38,10 +35,13 @@ collections:
       - Speaker – Ms Michelle Mindala–Freeman.md
       - Speaker – Mr Nathaniel Aliño.md
       - Speaker – Mr Ng Soon Lee.md
+      - Speaker – Mr Nitzan Amar.md
       - Speaker – Mr Paul Chua.md
       - Speaker – Mr Robert Hannigan.md
+      - Speaker – Mr Scott Morgan.md
       - Moderator – Mr Charles Ng.md
       - Moderator – Ms Courtney Lang.md
       - Moderator – Mr Gaurav Keerthi.md
       - Moderator – Dr Ming Tan.md
+      - Moderator – Ms Phua Puay Li.md
       - Moderator – Mr Tal Goldstein.md
