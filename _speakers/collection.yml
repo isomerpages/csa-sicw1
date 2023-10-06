@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Air Marshal Darren Goldie AM CSC.md
       - Speaker – Mr Nitzan Amar.md
       - Speaker – Mr Scott Morgan.md
       - Speaker – Ambassador Benedikt Wechsler.md
