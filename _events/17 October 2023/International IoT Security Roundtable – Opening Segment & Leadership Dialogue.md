@@ -7,7 +7,7 @@ third_nav_title: 17 October 2023
 #### **International IoT Security Roundtable – Opening Segment &amp; Leadership Dialogue**
 
 **17 October 2023 (Tuesday)**  
-*Time: 2.30pm to 5.00pm (GMT +8)*
+*Time: 2.45pm to 5.45pm (GMT +8)*
 
 To galvanise international efforts towards internationalising common IoT Security standards, to prevent standards fragmentation, eradicate duplicated evaluation/compliance across borders, and facilitate export.
 
