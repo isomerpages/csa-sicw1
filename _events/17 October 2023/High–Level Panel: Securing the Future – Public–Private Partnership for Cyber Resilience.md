@@ -21,7 +21,7 @@ The objective of this session is to critically examine the approaches to public-
 | [Ambassador Benedikt Wechsler](/speakers/ambassador-benedikt-wechsler/)  | *Head of Digitalization*<br>Federal Department of Foreign Affairs of Switzerland           |
 | [Mr Brad Arkin](/speakers/mr-brad-arkin/)  | *Senior Vice President and Chief Security and Trust Officer*<br>Cisco           |
 | [Mr KC Choi](/speakers/mr-kc-choi/)  | *Executive Vice President, GM of Global Mobile B2B/B2G Team Mobile eXperience Business*<br>Samsung Electronics          |
-| [Air Marshal Darren Goldie AM CSC](/speakers/air-marshal-darren-goldie-am-csc/)  | *Head of Digitalization*<br>Federal Department of Foreign Affairs of Switzerland           |
+| [Air Marshal Darren Goldie AM CSC](/speakers/air-marshal-darren-goldie-am-csc/)  | *National Cyber Security Coordinator*<br>Department of Home Affairs, Australia           |
 | <br> **Moderator**          |                                                              |
 | [Ms Phua Puay Li](/speakers/ms-phua-puay-li/)  | *Senior Director, Policy &amp; Corporate Development*<br>Cyber Security Agency of Singapore      |
 | | |
