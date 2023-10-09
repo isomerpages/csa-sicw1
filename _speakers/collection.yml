@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Andrew Ong.md
       - Speaker – Mr Iranga Kahangama.md
       - Speaker – Mr Jim Allen.md
       - Guest of Honour – Mr Heng Swee Keat.md
