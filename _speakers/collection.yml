@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Tanel Sepp.md
       - Moderator – Ms Julia Voo.md
       - Speaker – Ms Lindy Cameron.md
       - Speaker – Mr Brendan Dowling.md
