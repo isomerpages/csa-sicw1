@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Markham Cho Erickson.md
       - Speaker – Secretary Ivan John E Uy.md
       - Speaker – Ms Anne Marie Engtoft Meldgaard.md
       - Speaker – Ms Anne Neuberger.md
