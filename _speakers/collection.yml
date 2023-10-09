@@ -2,10 +2,10 @@ collections:
   speakers:
     output: true
     order:
-      - Guest of Honour – SMS Tan Kiat How.md
       - Guest of Honour – Mr Heng Swee Keat.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tai Wei Shyong.md
+      - Guest of Honour – SMS Tan Kiat How.md
       - Speaker – Dr Amit Elazari.md
       - Speaker – Mr Andrew Ong.md
       - Speaker – Mr Ashish Thapar.md
