@@ -7,7 +7,7 @@ description: ""
 
 #### **Mr Liu Feng-Yuan**
 
-*Partner and Vice-President of Product, Resaro.ai, <br>and co-founder of BasisAI*
+*Partner and Vice-President of Product, Resaro.ai <br>and co-founder of BasisAI*
 
 ##### **Biography**
 
