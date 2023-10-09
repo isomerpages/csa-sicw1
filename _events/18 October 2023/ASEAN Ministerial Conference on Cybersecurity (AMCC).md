@@ -7,7 +7,7 @@ third_nav_title: 18 October 2023
 #### **ASEAN Ministerial Conference on Cybersecurity (AMCC)**
 
 **18 October 2023 (Wednesday)**  
-*Time: 9.00am to 12.30pm (GMT +8)*
+*Time: 8.30am to 12.30pm (GMT +8)*
 
 *Format: Closed Door Event*
 
