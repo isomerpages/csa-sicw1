@@ -3,6 +3,8 @@ title: Speaker – Mr Iranga Kahangama
 permalink: /speakers/mr-iranga-kahangama/
 description: ""
 ---
+![](/images/2023%20Speakers/iranga%20kahangama.png)
+
 #### **Mr Iranga Kahangama**
 
 *Assistant Secretary <br>
