@@ -11,7 +11,7 @@ description: ""
 <br>Singapore
 
 ##### **Biography**
-**Mr Heng Swee Keat** is Singapore’s Deputy Prime Minister and Coordinating Minister for Economic Policies. 
+Mr Heng Swee Keat is Singapore’s Deputy Prime Minister and Coordinating Minister for Economic Policies. 
 
 Mr Heng chairs the tripartite Future Economy Council which oversees the on-going restructuring of Singapore’s economy, through upgrading the skills of workers and transformation of industry, to create better career prospects for Singaporeans. He leads a team to oversee the design and implementation of national strategies in areas such as skills and capabilities development, innovation and productivity as well as the internationalisation of companies. 
 
