@@ -23,8 +23,8 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 3.00pm to 5.30pm           | [SICW Women in Cyber](/events/17-october-2023/sicw-women-in-cyber/)                               |
 | 4.00pm to 5.10pm           | [High-Level Panel: Ransomware Exposed – Insights into Operations and Safeguarding Techniques](/events/17-october-2023/sicw-sessions-insights-on-ransomware-exposed/)                               |
 | <br> **18 October 2023** <br>*(Wednesday)*          |                                                                                           |
+| 8.30am to 12.30pm           | [ASEAN Ministerial Conference on Cybersecurity (AMCC)](/events/18-october-2023/asean-ministerial-conference-on-cybersecurity/)                               |
 | 8.30am to 5.00pm          | [IoT Hackathon: SPIRITCYBER–2023](/events/18-october-2023/iot-hackathon-spiritcyber-2023/)                                                                 |
-| 9.00am to 12.30pm           | [ASEAN Ministerial Conference on Cybersecurity (AMCC)](/events/18-october-2023/asean-ministerial-conference-on-cybersecurity/)                               |
 | 9.00am to 5.30pm              | [GovWare Conference &amp; Exhibition 2023](/events/18-october-2023/govware-conference-and-exhibition/)                                                                          |
 | 9.00am to 6.00pm           | [ASEAN Cybercrime Prosecutors' Roundtable Meeting](/events/18-october-2023/acprm/)                               |
 | 10.00am to 12.30pm           | [International IoT Security Roundtable – Technical Panel](/events/18-october-2023/iiot-technical-panel/)                               |
