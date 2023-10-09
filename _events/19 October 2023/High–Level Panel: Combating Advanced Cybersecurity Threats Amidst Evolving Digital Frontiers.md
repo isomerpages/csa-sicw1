@@ -15,6 +15,8 @@ In today's interconnected world, cyber threats are evolving rapidly and cyber de
 |**Panellist**          |                                                              |
 | [Mr Nitzan Amar](/speakers/mr-nitzan-amar/)  | *Deputy General for Defense*<br>Israel National Cyber Directorate               |
 | [Mr Jim Allen](/speakers/mr-jim-allen/)  | *Executive Vice President*<br>Booz Allen Hamilton               |
+| [Mr Iranga Kahangama](/speakers/mr-iranga-kahangama/)  | *Assistant Secretary*<br>Homeland Security for Cyber, Infrastructure Risk and Resilience, United States of America               |
+| [Mr Andrew Ong](/speakers/mr-andrew-ong/)  | *Regional Director, Asia*<br>Vectra Ai               |
 |<br> **Moderator**          |                                                              |
 | [Mr Goh Eng Choon](/speakers/mr-goh-eng-choon)  | *President, Cyber*<br>ST Engineering               |
 | | |
