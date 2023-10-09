@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Anne Marie Engtoft Meldgaard.md
       - Speaker – Ms Anne Neuberger.md
       - Speaker – Dr Ibraheem Saleh Al–furaih.md
       - Guest of Honour – Mr Heng Swee Keat.md
