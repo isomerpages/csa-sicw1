@@ -2,17 +2,14 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Mr Markham Cho Erickson.md
-      - Speaker – Secretary Ivan John E Uy.md
-      - Speaker – Ms Anne Marie Engtoft Meldgaard.md
-      - Speaker – Ms Anne Neuberger.md
-      - Speaker – Dr Ibraheem Saleh Al–furaih.md
       - Guest of Honour – Mr Heng Swee Keat.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tai Wei Shyong.md
       - Guest of Honour – SMS Tan Kiat How.md
       - Speaker – Dr Amit Elazari.md
       - Speaker – Mr Andrew Ong.md
+      - Speaker – Ms Anne Marie Engtoft Meldgaard.md
+      - Speaker – Ms Anne Neuberger.md
       - Speaker – Mr Ashish Thapar.md
       - Speaker – Ambassador Benedikt Wechsler.md
       - Speaker – Mr Benjamin Harris.md
@@ -34,7 +31,9 @@ collections:
       - Speaker – Mr Eugene Liderman.md
       - Speaker – Mr Gavin Duan.md
       - Speaker – Mr Goh Eng Choon.md
+      - Speaker – Dr Ibraheem Saleh Al–furaih.md
       - Speaker – Mr Iranga Kahangama.md
+      - Speaker – Secretary Ivan John E Uy.md
       - Speaker – Mr Jim Allen.md
       - Speaker – Mr Julian Gordon.md
       - Speaker – Mr KC Choi.md
@@ -43,6 +42,7 @@ collections:
       - Speaker – Mr Leon Chang.md
       - Speaker – Ms Lindy Cameron.md
       - Speaker – Mr Liu Feng–Yuan.md
+      - Speaker – Mr Markham Cho Erickson.md
       - Speaker – Mr Masahiro Uemura.md
       - Speaker – Mr Mei (Arthur) Jian.md
       - Speaker – Ms Michelle Mindala–Freeman.md
