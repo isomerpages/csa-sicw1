@@ -3,6 +3,8 @@ title: Speaker – Mr Ernst Noorman
 permalink: /speakers/mr-ernst-noorman/
 description: ""
 ---
+![](/images/2023%20Speakers/ernst%20noorman.png)
+
 #### **Mr Ernst Noorman**
 
 *Ambassador at Large for Security and Cyber <br>
@@ -15,4 +17,4 @@ Before that he worked amongst others at the Ministry of Finance in the Euroteam,
 
 As a junior diplomat he has served in India and Tanzania.
 
-Ambassador Noorman obtained his master’s degree in economics at the University of Amsterdam, the city where he was born and presently is living with his wife.  
+Ambassador Noorman obtained his master’s degree in economics at the University of Amsterdam, the city where he was born and presently is living with his wife.
