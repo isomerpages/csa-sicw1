@@ -2,12 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Ms Kelly Anderson.md
-      - Speaker – Mr Ernst Noorman.md
-      - Speaker – Mr Tanel Sepp.md
-      - Moderator – Ms Julia Voo.md
-      - Speaker – Ms Lindy Cameron.md
-      - Speaker – Mr Brendan Dowling.md
       - Guest of Honour – Mr Heng Swee Keat.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tai Wei Shyong.md
@@ -16,6 +10,7 @@ collections:
       - Speaker – Ambassador Benedikt Wechsler.md
       - Speaker – Mr Benjamin Harris.md
       - Speaker – Mr Brad Arkin.md
+      - Speaker – Mr Brendan Dowling.md
       - Speaker – Mr Brian Behlendorf.md
       - Speaker – Mr Brian Neuhaus.md
       - Speaker – Mr Carlos Serratos.md
@@ -28,13 +23,16 @@ collections:
       - Speaker – Mr Dean Zwarts.md
       - Speaker – Ms Desiree Lee.md
       - Speaker – Mr Edwin Sin.md
+      - Speaker – Mr Ernst Noorman.md
       - Speaker – Mr Eugene Liderman.md
       - Speaker – Mr Gavin Duan.md
       - Speaker – Mr Goh Eng Choon.md
       - Speaker – Mr Julian Gordon.md
       - Speaker – Mr KC Choi.md
+      - Speaker – Ms Kelly Anderson.md
       - Speaker – Prof Lam Kwok Yan.md
       - Speaker – Mr Leon Chang.md
+      - Speaker – Ms Lindy Cameron.md
       - Speaker – Mr Liu Feng–Yuan.md
       - Speaker – Mr Masahiro Uemura.md
       - Speaker – Mr Mei (Arthur) Jian.md
@@ -45,9 +43,11 @@ collections:
       - Speaker – Mr Paul Chua.md
       - Speaker – Mr Robert Hannigan.md
       - Speaker – Mr Scott Morgan.md
+      - Speaker – Mr Tanel Sepp.md
       - Moderator – Mr Charles Ng.md
       - Moderator – Ms Courtney Lang.md
       - Moderator – Mr Gaurav Keerthi.md
+      - Moderator – Ms Julia Voo.md
       - Moderator – Dr Ming Tan.md
       - Moderator – Ms Phua Puay Li.md
       - Moderator – Mr Tal Goldstein.md
