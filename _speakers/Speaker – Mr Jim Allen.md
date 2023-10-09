@@ -11,11 +11,4 @@ description: ""
 Booz Allen Hamilton*
 
 ##### **Biography**
-Jim Allen leads cyber across the National Security Sector in collaboration with the Booz Allen’s National Cyber Platform. He also enables cyber-related business in other parts of government and in Booz Allen’s commercial and international markets.
-
-Jim has over 40 years of experience leading or supporting cyber and intelligence missions in the U.S. and abroad. He has advised U.S. and foreign intelligence organizations on intelligence, cyber, technical, and organizational issues; served on advisory boards; and provided expertise to nonprofit and research organizations. He was an adjunct professor for cyber warfare at Georgetown University from 2012 to 2014. Jim joined Booz Allen in 2004 after a distinguished career at the National Security Agency (NSA), including service as deputy director for analysis and production. His assignments included positions with other members of the intelligence community.
-
-Prior to joining the NSA, he served in the U.S. Navy as a cryptologic officer and surface warfare officer, with service afloat and ashore.
-
-Jim holds an M.A. in telecommunications from The George Washington University, an M.A. in national security studies from Georgetown University, and a B.A. with distinction in Russian from the University of Virginia
-.
+Executive Vice President James (Jim) Allen leads strategic planning for Booz Allen Hamilton's national security business, setting the direction of the National Security Group's $3 billion business with a focus of cyber security in the intelligence community and other markets. Following 36 years supporting cyber and intelligence missions in the U.S. and abroad for the National Security Agency (NSA), Jim joined Booz Allen to continue pushing the mission forward, most recently leading the Cyber Account. Jim led the firm's support of clients at NSA, U.S. Cyber Command, and the armed forces cyber elements, in addition to enabling cyber-related business in other governmental agencies and commercial/international markets. Jim holds an M.A. degree in Telecommunications from The George Washington University, an M.A. in National Security Studies from Georgetown University, and a B.A. with distinction in Russian from University of Virginia.
