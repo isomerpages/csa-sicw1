@@ -16,8 +16,11 @@ In the pursuit of national cyber resilience, governments are progressively explo
 
 The objective of this session is to critically examine the approaches to public-private partnerships and to delve into the strategies that have achieved success.
 
-|**Panellist**          |                                                          |
+|**Speaker**          |                                                          |
 | -------- | -------- | 
+| [Undersecretary Jeffrey Ian C. Dy](/speakers/undersecretary-jeffrey-ian-c-dy/)  | *Undersecretary for Connectivity, Cybersecurity and Upskilling*<br>Department of Information and Communications Technology, Philippines
+           |
+|<br>**Panellist**          |                                                          |
 | [Ambassador Benedikt Wechsler](/speakers/ambassador-benedikt-wechsler/)  | *Head of Digitalization*<br>Federal Department of Foreign Affairs of Switzerland           |
 | [Mr Brad Arkin](/speakers/mr-brad-arkin/)  | *Senior Vice President and Chief Security and Trust Officer*<br>Cisco           |
 | [Mr KC Choi](/speakers/mr-kc-choi/)  | *Executive Vice President, GM of Global Mobile B2B/B2G Team Mobile eXperience Business*<br>Samsung Electronics          |
