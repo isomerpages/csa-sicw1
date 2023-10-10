@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Christopher Gogoel.md
       - Speaker – Mr Sven Schleier.md
       - Speaker – Mr Jorge Wallace.md
       - Moderator – Mr Rodney Tan.md
