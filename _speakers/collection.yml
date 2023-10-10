@@ -2,27 +2,13 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Mr Christopher Gogoel.md
-      - Speaker – Mr Sven Schleier.md
-      - Speaker – Mr Jorge Wallace.md
-      - Moderator – Mr Rodney Tan.md
-      - Speaker – Mr Andrew Elliot.md
-      - Speaker – Ms Leow Zhi Ting.md
-      - Speaker – Mr Gert Auväärt.md
-      - Moderator – Mr Justiin Ang.md
-      - Speaker – Ms Rae Wang.md
-      - Speaker – Mr Shane Huntley.md
-      - Speaker – Ms Rashmy Chatterjee.md
-      - Speaker – Mr Steven Ng.md
-      - Speaker – Ms Poornima DeBolle.md
-      - Guest of Honour – Minister Josephine Teo.md
-      - Speaker – Professor Johanna Weaver.md
-      - Speaker – Undersecretary Jeffrey Ian C Dy.md
       - Guest of Honour – Mr Heng Swee Keat.md
       - Guest of Honour – Dr Janil Puthucheary.md
+      - Guest of Honour – Minister Josephine Teo.md
       - Guest of Honour – Mr Tai Wei Shyong.md
       - Guest of Honour – SMS Tan Kiat How.md
       - Speaker – Dr Amit Elazari.md
+      - Speaker – Mr Andrew Elliot.md
       - Speaker – Mr Andrew Ong.md
       - Speaker – Ms Anne Marie Engtoft Meldgaard.md
       - Speaker – Ms Anne Neuberger.md
@@ -33,6 +19,7 @@ collections:
       - Speaker – Mr Brendan Dowling.md
       - Speaker – Mr Brian Behlendorf.md
       - Speaker – Mr Carlos Serratos.md
+      - Speaker – Mr Christopher Gogoel.md
       - Speaker – Ms Clar Rosso.md
       - Speaker – Ms Claudia Plattner.md
       - Speaker – Mr Christopher Autry.md
@@ -45,16 +32,21 @@ collections:
       - Speaker – Mr Ernst Noorman.md
       - Speaker – Mr Eugene Liderman.md
       - Speaker – Mr Gavin Duan.md
+      - Speaker – Mr Gert Auväärt.md
       - Speaker – Mr Goh Eng Choon.md
       - Speaker – Dr Ibraheem Saleh Al–furaih.md
       - Speaker – Mr Iranga Kahangama.md
       - Speaker – Secretary Ivan John E Uy.md
+      - Speaker – Undersecretary Jeffrey Ian C Dy.md
       - Speaker – Mr Jim Allen.md
+      - Speaker – Professor Johanna Weaver.md
+      - Speaker – Mr Jorge Wallace.md
       - Speaker – Mr Julian Gordon.md
       - Speaker – Mr KC Choi.md
       - Speaker – Ms Kelly Anderson.md
       - Speaker – Prof Lam Kwok Yan.md
       - Speaker – Mr Leon Chang.md
+      - Speaker – Ms Leow Zhi Ting.md
       - Speaker – Ms Lindy Cameron.md
       - Speaker – Mr Liu Feng–Yuan.md
       - Speaker – Mr Markham Cho Erickson.md
@@ -65,13 +57,21 @@ collections:
       - Speaker – Mr Ng Soon Lee.md
       - Speaker – Mr Nitzan Amar.md
       - Speaker – Mr Paul Chua.md
+      - Speaker – Ms Poornima DeBolle.md
+      - Speaker – Ms Rae Wang.md
+      - Speaker – Ms Rashmy Chatterjee.md
       - Speaker – Mr Robert Hannigan.md
       - Speaker – Mr Scott Morgan.md
+      - Speaker – Mr Shane Huntley.md
+      - Speaker – Mr Steven Ng.md
+      - Speaker – Mr Sven Schleier.md
       - Speaker – Mr Tanel Sepp.md
       - Moderator – Mr Charles Ng.md
       - Moderator – Ms Courtney Lang.md
       - Moderator – Mr Gaurav Keerthi.md
       - Moderator – Ms Julia Voo.md
+      - Moderator – Mr Justiin Ang.md
       - Moderator – Dr Ming Tan.md
       - Moderator – Ms Phua Puay Li.md
+      - Moderator – Mr Rodney Tan.md
       - Moderator – Mr Tal Goldstein.md
