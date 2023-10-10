@@ -19,6 +19,7 @@ This event will invite government agencies, industry leaders like Google, app de
 | [Ms Rae Wang](/speakers/ms-rae-wang/)  | *Director of Product Management, Android Security and Privacy*<br>Google      |
 | <br> **Panellist**          |                                                              |
 | [Mr Gert Auväärt](/speakers/mr-gert-auvaart/)  | *Director of Cyber Security*<br>NCSC-EE, Estonia                |
+| [Ms Leow Zhi Ting](/speakers/ms-leow-zhi-ting/)  | *Deputy Director*<br>MHA                |
 | [Mr Andrew Elliot](/speakers/mr-andrew-elliot/)  | *Deputy Director*<br>Department for Science, Innovation and Technology (DSIT)                |
 | [Mr Jorge Wallace](/speakers/mr-jorge-wallace/)  | *Cyber Security Technical Officer*<br>DEKRA Testing and Certification                |
 | [Mr Sven Schleier](/speakers/mr-sven-schleier/)  | OWASP Mobile Application Security Testing Guide (MASTG) and OWASP Mobile Application Security Verification Standard (MASVS)                |
@@ -26,7 +27,6 @@ This event will invite government agencies, industry leaders like Google, app de
 | [Mr Christopher Gogoel](/speakers/mr-christopher-gogoel/)  | *VP, Business Development &amp; Program Management*<br>Quokka                |
 | <br> **Moderator**          |                                                              |
 | [Mr Justiin Ang](/speakers/mr-justiin-ang/)  | *Senior Director (Security and Resilience)*<br>MCI                |
-| [Ms Leow Zhi Ting](/speakers/ms-leow-zhi-ting/)  | *Deputy Director*<br>MHA                |
 | [Mr Rodney Tan](/speakers/mr-rodney-tan/)  | *Director, Cybersecurity Engineering Center*<br>CSA                |
 | | |
 
