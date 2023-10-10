@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Steven Ng.md
       - Speaker – Ms Poornima DeBolle.md
       - Guest of Honour – Minister Josephine Teo.md
       - Speaker – Professor Johanna Weaver.md
