@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Rashmy Chatterjee.md
       - Speaker – Mr Steven Ng.md
       - Speaker – Ms Poornima DeBolle.md
       - Guest of Honour – Minister Josephine Teo.md
