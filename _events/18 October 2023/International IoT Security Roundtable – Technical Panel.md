@@ -21,7 +21,7 @@ With the increasing proliferation of IoT related solutions and usage, what princ
 | <br> **Speaker**          |                                                              |
 | [Mr Chua Kuan Seah](/speakers/mr-chua-kuan-seah/)  | *Deputy Commissioner of Cybersecurity &amp; Deputy Chief Executive (Development)*<br>Cyber Security Agency of Singapore (CSA)                |
 | <br> **Moderator**          |                                                              |
-| [Ms Courtney Lang](/speakers/moderator-courtney-lang)  | *Vice President of Policy for Trust, Data, and Technology*<br>Information Technology Industry Council (ITIC)                |
+| [Ms Courtney Lang](/speakers/moderator-courtney-lang)  | *Vice President of Policy for Trust, Data, and Technology*<br>Information Technology Industry Council (ITI)                |
 | | |
 
 

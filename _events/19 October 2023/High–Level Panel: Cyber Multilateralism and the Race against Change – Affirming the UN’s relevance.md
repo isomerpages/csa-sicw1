@@ -10,8 +10,12 @@ third_nav_title: 19 October 2023
 **19 October 2023 (Thursday)**  
 *Time: 11.00am - 12.10pm (GMT +8)*
 
-The United Nations provides a platform for all nations, big and small, to engage in open and inclusive dialogue and collective action. Given the fast-changing cyber landscape, how can we ensure stability, security, and inclusivity in this digital era? How can we foster global cooperation in pace with the developments in digital technology and cybersecurity?
+The United Nations is seen to provide a platform for all nations, big and small, to engage in open and inclusive dialogue and collective action. Yet, the UN has been also accused of being ineffective in delivering concrete results and guaranteeing security in the multilateral order. Given the fast-changing cyber landscape, how can the UN continue to be relevant in ensuring stability, security, and inclusivity in this digital era? How can we as the international community support the UN in fostering global cooperation in pace with the developments in digital technology and cybersecurity?
 
-The session will take a multifaceted outlook on international cyber discussions from the perspective of big and small players, and critically assess the UN’s effectiveness as the apex platform in facilitating international cyber discussions and fostering cyber cooperation.
+The session will take a multifaceted outlook on international cyber discussions from the perspective of big and small players, and critically assess the UN's effectiveness as the apex platform in facilitating international cyber discussions and fostering cyber cooperation.
+
+|**Panellist**          |                                                              |
+| [Ms Kelly Anderson](/speakers/ms-kelly-anderson/)  | *Director for International Cyber Policy*<br>Global Affairs Canada               |
+
 <br><br><br>
 *Information is accurate at time of publication*

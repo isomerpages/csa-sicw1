@@ -15,5 +15,15 @@ In 2020, the SolarWinds hack demonstrated that a breach of a single company coul
 In the pursuit of national cyber resilience, governments are progressively exploring cybersecurity strategies that prioritize collaboration and information sharing between the public and private sectors to address this challenge. Amidst an environment marked by the escalating scale and sophistication of cyber threats, fostering public-private partnership has taken on a greater urgency. Establishing these partnerships requires a foundation of trust. Each partner must jointly shoulder the responsibility for a secure digital future and actively contribute to its realization.
 
 The objective of this session is to critically examine the approaches to public-private partnerships and to delve into the strategies that have achieved success.
+
+|**Panellist**          |                                                          |
+| [Ambassador Benedikt Wechsler](/speakers/ambassador-benedikt-wechsler/)  | *Head of Digitalization*<br>Federal Department of Foreign Affairs of Switzerland           |
+| [Mr Brad Arkin](/speakers/mr-brad-arkin/)  | *Senior Vice President and Chief Security and Trust Officer*<br>Cisco           |
+| [Mr KC Choi](/speakers/mr-kc-choi/)  | *Executive Vice President, GM of Global Mobile B2B/B2G Team Mobile eXperience Business*<br>Samsung Electronics          |
+| [Air Marshal Darren Goldie AM CSC](/speakers/air-marshal-darren-goldie-am-csc/)  | *National Cyber Security Coordinator*<br>Department of Home Affairs, Australia           |
+| <br> **Moderator**          |                                                              |
+| [Ms Phua Puay Li](/speakers/ms-phua-puay-li/)  | *Senior Director, Policy &amp; Corporate Development*<br>Cyber Security Agency of Singapore      |
+| | |
+
 <br><br><br>
 *Information is accurate at time of publication*
