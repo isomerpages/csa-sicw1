@@ -17,6 +17,7 @@ The International IoT Security Roundtable, scheduled for October 17<sup>th</sup>
 | -------- | -------- |
 | [Dr Janil Puthucheary](/speakers/goh-dr-janil-puthucheary/)  | *Senior Minister of State*<br>Ministry of Communications and Information (MCI), &amp; Ministry of Health      |
 |<br> **Keynote Speakers**          |                                                          |
+| [Ms Anne Neuberger](/speakers/ms-anne-neuberger/)  | *Deputy Assistant to the President &amp; Deputy National Security Advisor for Cyber &amp; Emerging Technologies at National Security Council*<br>The White House      |
 | [Ms Claudia Plattner](/speakers/speaker-claudia-plattner)  | *President*<br>German Federal Office for Information Security (BSI)      |
 | [Mr Masahiro Uemura](/speakers/mr-masahiro-uemura)  | *Deputy Director-General for Cybersecurity and Information Technology, Minister’s Secretariat*<br>Ministry of Economy, Trade and Industry (METI), Japan           |
 |<br> **Panellist**          |      
