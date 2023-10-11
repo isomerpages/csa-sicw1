@@ -5,7 +5,7 @@ description: ""
 ---
 #### **Ms Julia Voo**
 
-*Senior Fellow <br>
+*Senior Fellow, Cyber Power and Future Conflict <br>
 International Institute for Strategic Studies Asia*
 
 ##### **Biography**
