@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Air Vice Marshal Amorn Chomchoey.md
       - Speaker – Ambassador Brian D McFeeters.md
       - Speaker – Ms Danielle Yeow.md
       - Speaker – Mr William Middleton.md
