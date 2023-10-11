@@ -3,7 +3,7 @@ title: Speaker – Ms Nina Paine
 permalink: /speakers/ms-nina-paine/
 description: ""
 ---
-![](/images/2023%20Speakers/amit%20elazari.png)
+![](/images/2023%20Speakers/nina%20paine.png)
 
 #### **Ms Nina Paine**
 
