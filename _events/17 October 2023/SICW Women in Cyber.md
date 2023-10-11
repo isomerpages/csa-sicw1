@@ -15,7 +15,8 @@ Esteemed international cybersecurity leaders and practitioners will be sharing b
 
 |**Guest of Honour**          |                                                          |
 | -------- | -------- |
-| [Minister Josephine Teo](/speakers/minister-josephine-teo/)  | *Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity*<br>MCI, Singapore      |
+| [Minister Josephine Teo](/speakers/minister-josephine-teo/)  | *Minister, Ministry of Communications and Information <br>Second Minister Ministry of Home Affairs
+<br>Minister-in-charge of Smart Nation and Cybersecurity Republic of Singapore*      |
 |<br>**Panellist**          |                                                          |
 | [Ms Clar Rosso](/speakers/ms-clar-rosso/)  | *CEO*<br>ISC2      |
 | [Ms Poornima DeBolle](/speakers/ms-poornima-debolle/)  | *Co-Founder and Chief Product Officer*<br>Menlo Security      |
