@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr William Middleton.md
       - Speaker – Mr Sami Khoury.md
       - Speaker – Ms Nina Paine.md
       - Speaker – Director Jen Easterly.md
