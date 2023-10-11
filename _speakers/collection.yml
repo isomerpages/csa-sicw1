@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Director Jen Easterly.md
       - Moderator – Ms Gwenda Fong.md
       - Speaker – Dr Markus Richter.md
       - Speaker – The Baroness Lucy Neville–Rolfe DBE CMG.md
