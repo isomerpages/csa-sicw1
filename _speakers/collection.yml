@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Danielle Yeow.md
       - Speaker – Mr William Middleton.md
       - Speaker – Mr Sami Khoury.md
       - Speaker – Ms Nina Paine.md
