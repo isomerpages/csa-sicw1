@@ -37,6 +37,7 @@ Programme
 
 |  **Panellist**          |                                                              |
 | [Ms Anne Marie Engtoft Meldgaard](/speakers/ms-anne-marie-engtoft-meldgaard/)  | *Tech Ambassador of Denmark*<br>Ministry of Foreign Affairs              |
+| [Dr Markus Richter](/speakers/dr-markus-richter/)  | *State Secretary at the Federal Ministry of the Interior and Community and Federal Government Commissioner for Information Technology*<br>Federal Government of Germany              |
 | [Mr Markham Cho Erickson](/speakers/mr-markham-cho-erickson/)  | *Vice President, Government Affairs &amp; Public Policy, Centers of Excellence*<br>Google              |
 | | |
 
