@@ -29,6 +29,7 @@ Programme
 
 |  **Panellist**          |                                                              |
 | [Secretary Ivan John E. Uy](/speakers/secretary-ivan-john-e-uy/)  | *Secretary*<br>Department of Information and Communications Technology, Philippines              |
+| [The Baroness Lucy Neville-Rolfe DBE CMG](/speakers/the-baroness-lucy-neville-rolfe/)  | *Minister of State at the Cabinet Office*<br>United Kingdom              |
 | | |
 
 **Ally or Adversary? Defining the relationship and roles of Big Tech and Government in Cyberspace** 
