@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Stephen Kavanagh.md
       - Speaker – Air Vice Marshal Amorn Chomchoey.md
       - Speaker – Ambassador Brian D McFeeters.md
       - Speaker – Ms Danielle Yeow.md
