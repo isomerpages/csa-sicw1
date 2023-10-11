@@ -17,11 +17,14 @@ Esteemed international cybersecurity leaders and practitioners will be sharing b
 | -------- | -------- |
 | [Minister Josephine Teo](/speakers/minister-josephine-teo/)  | *Minister, Ministry of Communications and Information <br>Second Minister Ministry of Home Affairs <br>Minister-in-charge of Smart Nation and Cybersecurity Republic of Singapore*      |
 |<br>**Panellist**          |                                                          |
+| [Director Jen Easterly](/speakers/director-jen-easterly/)  | *Director*<br>Cybersecurity and Infrastructure Security Agency, United States of America      |
 | [Ms Clar Rosso](/speakers/ms-clar-rosso/)  | *CEO*<br>ISC2      |
 | [Ms Poornima DeBolle](/speakers/ms-poornima-debolle/)  | *Co-Founder and Chief Product Officer*<br>Menlo Security      |
 | [Mr Steven Ng](/speakers/mr-steven-ng/)  | *Chief Information Officer*<br>Ensign InfoSecurity      |
 | [Ms Rashmy Chatterjee](/speakers/ms-rashmy-chatterjee/)  | *CEO*<br>ISTARI      |
+| [Ms Nina Paine](/speakers/ms-nina-paine/)  | *Global Head, Cyber Partnerships and Government Engagement*<br>Standard Chartered Bank      |
 | <br> **Moderator**          |                                                              |
+| [Ms Gwenda Fong](/speakers/ms-gwenda-fong/)  | *Deputy Secretary, Development and Regulation*<br>Ministry of Communication and Information (MCI), Singapore                 |
 | [Dr Ming Tan](/speakers/dr-ming-tan)  | *Founding Executive Director*<br>Tech for Good Institute                 |
 | | |
 
