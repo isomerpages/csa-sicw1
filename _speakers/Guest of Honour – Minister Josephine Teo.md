@@ -3,8 +3,9 @@ title: Guest of Honour – Minister Josephine Teo
 permalink: /speakers/minister-josephine-teo/
 description: ""
 ---
-#### **Minister Josephine Teo**
+![](/images/2023%20Speakers/minister%20josephine%20teo.png)
 
+#### **Minister Josephine Teo**
 *Minister, Ministry of Communications and Information 
 <br>Second Minister Ministry of Home Affairs 
 <br>Minister-in-charge of Smart Nation and Cybersecurity Republic of Singapore*
