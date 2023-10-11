@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Nina Paine.md
       - Speaker – Director Jen Easterly.md
       - Moderator – Ms Gwenda Fong.md
       - Speaker – Dr Markus Richter.md
