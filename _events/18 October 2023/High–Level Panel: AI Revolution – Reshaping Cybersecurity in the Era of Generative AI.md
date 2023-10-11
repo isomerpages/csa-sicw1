@@ -17,8 +17,10 @@ This is a major game changer for how we use such technology; while Generative AI
 |**Keynote Speaker**          |                                                              |
 | -------- | -------- |
 | [Ms Lindy Cameron](/speakers/ms-lindy-cameron/)  | *Chief Executive Officer*<br>National Cyber Security Centre, United Kingdom           |
-|<br>**Panelists**          |                                                              |
-| [Mr Liu Feng-Yuan](/speakers/speaker-liu-feng-yuan)  | *Partner and Vice-President of Product, Resaro.ai <br>and co-founder of BasisAI*     |
+|<br>**Speaker**          |                                                              |
+| [Ms Lindy Cameron](/speakers/ms-lindy-cameron/)  | *Chief Executive Officer* <br>National Cyber Security Centre, United Kingdom     |
+|<br>**Panelist**          |                                                              |
+| [Mr Liu Feng-Yuan](/speakers/speaker-liu-feng-yuan)  | *Partner and Vice-President of Product* <br>Resaro.ai     |
 | [Mr Robert Hannigan](/speakers/speaker-robert-hannigan)  | *Chairman*<br>BlueVoyant International      |
 | [Mr Benjamin Harris](/speakers/speaker-benjamin-harris)  | *CEO and Founder*<br>watchTowr           |
 | [Mr Brendan Dowling](/speakers/mr-brendan-dowling/)  | *Ambassador for Cyber Affairs and Critical Technology*<br>Department of Foreign Affairs and Trade, Australia           |
