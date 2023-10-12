@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Moderator – Ms Karolina Mensikova.md
       - Speaker – Mr Tomas Krejci.md
       - Speaker – Mr Jiri Kozak.md
       - Speaker – Ms HE Iwona PIÓRKO.md
