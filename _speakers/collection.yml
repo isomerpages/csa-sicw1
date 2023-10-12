@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Mel Migriño.md
       - Speaker – Mr Angelo Trias.md
       - Speaker – Mr Phannarith Ou.md
       - Speaker – Mr Benjamin Ang.md
