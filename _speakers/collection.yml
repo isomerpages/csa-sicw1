@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Manon Le Blanc.md
       - Speaker – Ms Marta Pelechova.md
       - Speaker – Mr Tadeusz Chomicki.md
       - Speaker – Ms Tupou'tuah Baravilala.md
