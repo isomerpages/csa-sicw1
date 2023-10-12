@@ -8,7 +8,7 @@ description: ""
 #### **Mr Philip Reiner**
 
 *Chief Executive Officer <br>
-Institute for Security and Technology*
+Institute for Security and Technology, United States of America*
 
 ##### **Biography**
 Philip Reiner is the Chief Executive Officer of the Institute for Security and Technology, bringing decades of experience working in technology and international security to IST’s mission. Philip previously served as Senior Director for South Asia on the White House National Security Council staff; in the Office of the Under Secretary of Defense for Policy in the Pentagon, where he received the Office of the Secretary of Defense Medal for Exceptional Civilian Service; and in Raytheon’s Space and Airborne Systems in the Electronic Warfare, Remote Sensing and Vision Systems business units.
