@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Dr Regine Grienberger.md
       - Speaker – Ms Maartje Peters.md
       - Speaker – Ms Jacqueline Barr.md
       - Speaker – Ms Gemma Ungoed–Thomas.md
