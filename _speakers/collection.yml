@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Moderator – Mr Richard Kadlcak.md
       - Speaker – Mr Anton Demokhin.md
       - Speaker – Dato Ts Dr Haji Amirudin Abdul Wahab FASc.md
       - Speaker – Mr Keiichi Ichikawa.md
