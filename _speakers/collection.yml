@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Angelo Trias.md
       - Speaker – Mr Phannarith Ou.md
       - Speaker – Mr Benjamin Ang.md
       - Speaker – Mr Allan Salim Cabanlong.md
