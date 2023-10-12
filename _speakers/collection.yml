@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Jacqueline Barr.md
       - Speaker – Ms Gemma Ungoed–Thomas.md
       - Guest of Honour – Ms Izumi Nakamitsu.md
       - Moderator – Ms Farlina Said.md
