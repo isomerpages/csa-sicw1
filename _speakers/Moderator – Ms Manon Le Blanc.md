@@ -3,6 +3,8 @@ title: Moderator – Ms Manon Le Blanc
 permalink: /speakers/ms-manon-le-blanc/
 description: ""
 ---
+![](/images/manon%20le%20blanc.png)
+
 #### **Ms Manon Le Blanc**
 
 *Coordinator for Cyber Issues <br>
