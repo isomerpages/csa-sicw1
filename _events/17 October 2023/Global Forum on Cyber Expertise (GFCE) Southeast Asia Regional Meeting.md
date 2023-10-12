@@ -52,8 +52,9 @@ The meeting also provides participants an opportunity to highlight achievements,
 <br>President
 <br>Global Forum on Cyber Expertise (GFCE) Foundation                <br>               
 **David Koh**                                                                                                <br> 5mins
-<br>Chief Executive
-<br>Cyber Security Agency of Singapore (CSA)   
+<br>Commissioner of Cyber Security 
+<br>Chief Executive, Cyber Security Agency of Singapore<br>Chief (Digital Security and Technology),
+Ministry of Communications and Information
 
 Speaker 1: Introduction to the SEA Hub + Plans                            
 10 mins 
