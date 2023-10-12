@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Benjamin Ang.md
       - Speaker – Mr Allan Salim Cabanlong.md
       - Speaker – Mr Christopher Painter.md
       - Speaker – Mr Philip Reiner.md
