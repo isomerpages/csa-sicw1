@@ -18,7 +18,7 @@ The Cyber Security Agency of Singapore, the Czech Ministry of Foreign Affairs, t
 |**Panelists**          |                                                              |
 | -------- | -------- |
 | [Ms H.E. Iwona PIÓRKO](/speakers/ms-he-iwona-piorko/)  | *Ambassador of the European Union to Singapore*<br>European Union Delegation to Singapore      |
-| [Mr Jiri kozak](/speakers/mr-jiri-kozak/)  | *Deputy Minister*<br>Ministry of Foreign Affairs of the Czech Republic      |
+| [Mr Jiri Kozak](/speakers/mr-jiri-kozak/)  | *Deputy Minister*<br>Ministry of Foreign Affairs of the Czech Republic      |
 | [Mr Tomas Krejci](/speakers/mr-tomas-krejci/)  | *Deputy Director*<br>NÚKIB           |
 | [Ms Veronika Kolek Netolicka](/speakers/ms-veronika-kolek-netolicka/)  | *Cyber Attaché for the Indo-Pacific*<br>NÚKIB      |
 | [Mr Christopher Anthony](/speakers/mr-christopher-anthony/)  | *Director, Critical Information Infrastructure Division (CIID)*<br> Cyber Security Agency of Singapore      |
