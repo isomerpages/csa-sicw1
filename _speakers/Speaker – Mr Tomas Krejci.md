@@ -3,7 +3,7 @@ title: Speaker – Mr Tomas Krejci
 permalink: /speakers/mr-tomas-krejci/
 description: ""
 ---
-![](/images/2023%20Speakers/amit%20elazari.png)
+![](/images/2023%20Speakers/tomas%20krejci.png)
 
 #### **Mr Tomas Krejci**
 
