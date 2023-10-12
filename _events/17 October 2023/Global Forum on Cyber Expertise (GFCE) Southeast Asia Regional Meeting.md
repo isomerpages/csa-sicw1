@@ -85,7 +85,17 @@ Regional Director for Southeast Asia
 
 **Networking with refreshments**                                                               <br> 45 mins
 
-
+|**Speaker**          |                                                          |
+| -------- | -------- |
+| [Mr Christopher Painter](/speakers/mr-christopher-painter/)  | *President of the GFCE Foundation Board*<br>Global Forum on Cyber Expertise      |
+| [Mr Allan Salim Cabanlong](/speakers/mr-allan-salim-cabanlong/)  | *Regional Director for Southeast Asia*<br>Global Forum on Cyber Expertise      |
+| [Mr Benjamin Ang](/speakers/mr-benjamin-ang/)  | *Head, Cyber and Homeland Defence*<br>Centre of Excellence for National Security, RSIS NTU, Singapore      |
+| [Mr Phannarith Ou](/speakers/mr-phannnarith-ou/)  | *Director*<br>ICT Security, Ministry of Post and Telecommunications, Cambodia      |
+| [Mr Angelo Trias](/speakers/mr-angelo-trias/)  | *Project Manager*<br>Cybercrime Directorate, INTERPOL      |
+| [Ms Mel Migriño](/speakers/ms-mel-migrino/)  | *Chairman and President*<br>Women in Security Alliance Philippines, and; Regional Director for Southeast Asia Information Security and Regulatory Alliance, Gogolook      |
+| <br> **Moderator**          |                                                              |
+| [Ms Farlina Said](/speakers/ms-farlina-said/)  | *Senior Analyst*<br>Institute of Strategic and International Studies Malaysia                 |
+| | |
 
 <br><br><br>
 *Information is accurate at time of publication*
