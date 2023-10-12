@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Tupou'tuah Baravilala.md
       - Speaker – Mr Sithuraj Ponraj.md
       - Speaker – Mr Ian Lim.md
       - Speaker – Mr Christopher Anthony.md
