@@ -19,6 +19,7 @@ Cyber attacks are often considered to be too complex to accurately attribute. Th
 | [Mr Tanel Sepp](/speakers/mr-tanel-sepp/)  | *Ambassador at Large for Cyber Diplomacy* <br>Ministry of Foreign Affairs, Estonia     |
 | [Mr Ernst Noorman](/speakers/mr-ernst-noorman/)  | *Ambassador at Large for Security and Cyber*<br>Ministry of Foreign Affairs, Netherlands       |
 | [Mr Sami Khoury](/speakers/mr-sami-khoury/)  | *Head*<br>Canadian Centre for Cyber Security       |
+| [Ms Liesyl Franz](/speakers/ms-liesyl-franz/)  | *Deputy Assistant Secretary*<br>US Department of State       |
 |<br> **Moderator**          |                                                           |
 | [Ms Julia Voo](/speakers/ms-julia-voo/)  | *Senior Fellow, Cyber Power and Future Conflict*<br>International Institute for Strategic Studies Asia                |
 | | |
