@@ -17,7 +17,7 @@ Ransomware threat actors are increasingly employing extortion techniques to gain
 | [Air Vice Marshal Amorn Chomchoey](/speakers/air-vice-marshal-amorn-chomchoey/)  | *Secretary General*<br>National Cybersecurity Agency, Thailand             |
 | [Mr Stephen Kavanagh](/speakers/mr-stephen-kavanagh/)  | *Executive Director*<br>The International Criminal Police Organization, United Kingdom             |
 | [Mr Shane Huntley](/speakers/mr-shane-huntley/)  | *Chief Privacy, Safety, Security Officer for APAC; Senior Director of Threat Analysis Group*<br>Google             |
-| [Mr Philip Reiner](/speakers/mr-philip-reiner/)  | *Chief Executive Officer*<br>Institute for Security and Technology             |
+| [Mr Philip Reiner](/speakers/mr-philip-reiner/)  | *Chief Executive Officer*<br>Institute for Security and Technology, United States of America             |
 |  <br>**Moderator**          |                                                              |
 | [Mr Charles Ng](/speakers/mr-charles-ng)  | *Executive Vice-President, International Business*<br>Ensign InfoSecurity               |
 | | |
