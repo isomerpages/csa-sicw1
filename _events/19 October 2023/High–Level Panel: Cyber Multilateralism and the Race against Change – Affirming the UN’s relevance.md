@@ -18,6 +18,7 @@ The session will take a multifaceted outlook on international cyber discussions 
 | [Mr William Middleton](/speakers/mr-william-middleton/)  | *Head of Cyber Policy Department*<br>Foreign, Commonwealth &amp; Development Office (FCDO), United Kingdom               |
 | [Ms Kelly Anderson](/speakers/ms-kelly-anderson/)  | *Director for International Cyber Policy*<br>Global Affairs Canada               |
 | [Ms Danielle Yeow](/speakers/ms-danielle-yeow/)  | *Adjunct Senior Research Fellow*<br>Centre for International Law, National University of Singapore               |
+| [Dr Regine Grienberger](/speakers/dr-regine-grienberger/)  | *Cyber Ambassador*<br>Federal Foreign Office, Germany               |
 
 <br><br><br>
 *Information is accurate at time of publication*
