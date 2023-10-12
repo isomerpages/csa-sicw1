@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Allan Salim Cabanlong.md
       - Speaker – Mr Christopher Painter.md
       - Speaker – Mr Philip Reiner.md
       - Speaker – Mr Stephen Kavanagh.md
