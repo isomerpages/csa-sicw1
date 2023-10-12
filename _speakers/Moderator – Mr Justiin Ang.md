@@ -3,6 +3,9 @@ title: Moderator – Mr Justiin Ang
 permalink: /speakers/mr-justiin-ang/
 description: ""
 ---
+
+![](/images/2023%20Speakers/justiin%20ang.png)
+
 #### **Mr Justiin Ang**
 
 *Director (Security and Resilience) <br>
