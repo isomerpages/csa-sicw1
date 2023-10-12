@@ -3,7 +3,8 @@ title: Speaker – Mr Sithuraj Ponraj
 permalink: /speakers/mr-sithuraj-ponraj/
 description: ""
 ---
-![](/images/2023%20Speakers/sithuraj%20ponraj.png)
+
+![](/images/2023%20Speakers/czech%20event%20sithuraj%20ponraj.png)
 
 #### **Mr Sithuraj Ponraj**
 
