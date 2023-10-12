@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Moderator – Ms Farlina Said.md
       - Speaker – Ms Mel Migriño.md
       - Speaker – Mr Angelo Trias.md
       - Speaker – Mr Phannarith Ou.md
