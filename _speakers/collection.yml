@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Moderator – Mr Poon Hong Yuen.md
       - Speaker – Amb Tadeusz Chomicki.md
       - Moderator – Mr David Koh.md
       - Speaker – Ms Liesyl Franz.md
