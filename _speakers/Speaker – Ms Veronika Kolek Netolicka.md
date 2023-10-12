@@ -3,7 +3,7 @@ title: Speaker – Ms Veronika Kolek Netolicka
 permalink: /speakers/ms-veronika-kolek-netolicka/
 description: ""
 ---
-![](/images/2023%20Speakers/amit%20elazari.png)
+![](/images/2023%20Speakers/veronika%20kolek%20netolicka.png)
 
 #### **Ms Veronika Kolek Netolicka**
 
