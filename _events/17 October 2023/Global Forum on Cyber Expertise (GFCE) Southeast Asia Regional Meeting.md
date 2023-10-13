@@ -18,78 +18,65 @@ The meeting also provides participants an opportunity to highlight achievements,
 "Catalyzing Cyber Synergy: Empowering Southeast Asia's Digital Future" encapsulates the desire to bring about positive change in the region's cybersecurity landscape by fostering collaboration, sharing knowledge, and collectively addressing cyber priorities.
 
 **Objectives**
+1. Strengthen Collaboration
+2. Identify Country-Specific Cyber Priorities
+3. Foster Cyber Expertise Exchange
+4. Encourage Cyber Capacity Building
+5. Promote Regional Cybersecurity Cooperation
+6. Facilitate Digital Transformation
 
-1. **Strengthen Collaboration**: To encourage greater collaboration and cooperation among Southeast Asian countries in the field of cybersecurity. By bringing together representatives from various nations, the meeting seeks to foster information sharing, joint initiatives, and the development of partnerships to address common cyber challenges.
-
-2. **Identify Country-Specific Cyber Priorities**: The meeting intends to provide a platform for each participating country to share its unique cyber priorities, challenges, and strategies. This enables a deeper understanding of individual needs and facilitates targeted support and assistance from regional partners.
-
-3. **Foster Cyber Expertise Exchange**: Through presentations, workshops, and networking opportunities, the meeting seeks to facilitate the exchange of cyber expertise and best practices. This knowledge-sharing process can enhance the collective cybersecurity capabilities of the region.
-
-4. **Encourage Cyber Capacity Building**: To empower Southeast Asian countries to build their cyber capacity. This may involve leveraging international expertise, technology transfers, and training programs to strengthen their cybersecurity workforce and infrastructure.
-
-5. **Promote Regional Cybersecurity Cooperation**: By working together to address shared cybersecurity concerns, the meeting aims to promote regional cybersecurity cooperation. This may involve the establishment of regional mechanisms, frameworks, or agreements to enhance cyber resilience across Southeast Asia.
-
-6. **Facilitate Digital Transformation**: To highlight the objective of supporting the region's digital transformation. By addressing cybersecurity challenges and promoting a safe digital environment, the meeting aims to enable the seamless adoption of technology for economic growth and societal development in Southeast Asia.
 
 **Deliverables**
 
-1. Inputs to the developing Regional Cyber Capacity Building Strategy: The outcome of the discussion will be used as input to the perceived regional cyber capacity building strategy as well as to the forthcoming GC3B in November 2023. 
-
-2. Country-Specific Cyber Priorities Updates: Each participating country will present updates detailing its unique cyber priorities, challenges, and strategies. These will serve as a basis for targeted support and assistance from regional partners to address individual country needs, through the GFCE Clearing House Mechanism.
-
-3. Inputs to the GFCE Cybil Portal: The regional meeting can be an avenue for sharing of capacity building initiatives of Southeast Asian member countries and partners that can help populate the Cybil portal, a comprehensive resource mapping projects in the field of cyber capacity building. . 
-
-4. Clearing House Mechanism: To identify concrete avenues for assistance to ASEAN member states by making meaningful connections with the global community.
-
-5. Regional Cybersecurity Expert Network: Establish a network of cybersecurity experts, policymakers, and practitioners from the region to maintain ongoing communication and cooperation beyond the meeting.
-
-7. Commitment to Follow-up Meetings: Agreement and commitment to hold regular follow-up meetings to assess progress, evaluate the impact of implemented initiatives, and identify further areas of collaboration.
+1. Inputs to the developing Regional Cyber Capacity Building Strategy
+2. Country-Specific Cyber Priorities Updates
+3. Inputs to the GFCE Cybil Portal
+4. Clearing House Mechanism
+5. Regional Cybersecurity Expert Network
+6. Commitment to Follow-up Meetings
 
 **Programme** 
 
 **Opening Remarks**
-<br>**Chris Painter**                                                                                 <br>5mins
-<br>President
-<br>Global Forum on Cyber Expertise (GFCE) Foundation                <br>               
-**David Koh**                                                                                                <br> 5mins
-<br>Commissioner of Cyber Security 
-<br>Chief Executive, Cyber Security Agency of Singapore<br>Chief (Digital Security and Technology),
-Ministry of Communications and Information
+<br>Christopher Painter
+<br>Yum Shoen Yih
+              <br>               
+**Introduction to the SEA Hub + Plans**                                         
+Allan S Cabanlong
 
-Speaker 1: Introduction to the SEA Hub + Plans                            
-10 mins 
-<br>**Allan S Cabanlong, ASEAN Eng.**
-<br>Regional Director for Southeast Asia
-<br>Global Forum on Cyber Expertise
-
-Speaker 2:  Cyber Capacity Building Needs and Priorities in SEA     <br> 15mins
- <br>Dutch NCSC and KPMG
+**Cyber Capacity Building for ASEAN – Opportunities and Insight, conducted by the Dutch government and National Cyber Security Center in collaboration with KPMG**  
+Augustinus Mohn
 
 **Opening Panel**
  
-“**Catalyzing Cyber Synergy: Empowering Southeast Asia's Digital Future**” <br>45 mins (Q&amp;A + 15mins)
+“**Catalyzing Cyber Synergy: Empowering Southeast Asia's Digital Future**” 
  
-1. **Mr. Benjamin Ang**, Head, Cyber and Homeland Defence, Centre of Excellence for National Security, RSIS NTU, Singapore
-2. **Mr. Phannarith Ou**, Director, ICT Security, Ministry of Post and Telecommunications, Cambodia
-3. **Mr. Angelo Trias**, Project Manager, Cybercrime Directorate, INTERPOL
-4. **Ms. Shariffah Rashidah Syed Othman**, Acting Director, National Cyber Security Agency, National Security Council, Malaysia (TBC)
-5. **Ms. Mel Migrino**, Chairman and President, Women in Security Alliance Philippines, and; Regional Director for Southeast Asia Information Security and Regulatory Alliance, Gogolook.
- 
-**Moderator: Ms. Farlina Said**, Senior Analyst, Institute of Strategic and International Studies Malaysia
+1. Mr. Benjamin Ang, Head, Cyber and Homeland Defence, Centre of Excellence for National Security, RSIS NTU, Singapore
+2. Mr. Phannarith Ou, Director, ICT Security, Ministry of Post and Telecommunications, Cambodia
+3. Mr. Angelo Trias, Project Manager, Cybercrime Directorate, INTERPOL
+4. Ms. Mel Migrino, Chairman and President, Women in Security Alliance Philippines, and; Regional Director for Southeast Asia Information Security and Regulatory Alliance, Gogolook.
+5. Sadie Creese, Director, Global Cyber Security Capacity Centre (GCSCC) at the Oxford Martin School.
 
-**Interactive Discussion on GC3B (small groups)**                                <br> 35 mins
+Moderator: Ms. Farlina Said, Senior Analyst, Institute of Strategic and International Studies Malaysia
+
+**Interactive Discussion on GC3B (small groups)**                       
 <br>Scene setting by Chris Painter
 
-**Closing Statement:   Allan S Cabanlong, ASEAN Eng**.                    <br> 5mins
-Regional Director for Southeast Asia
-<br>Global Forum on Cyber Expertise
+**Closing Statement**.                    
+<br> Allan S Cabanlong
 
-**Networking with refreshments**                                                               <br> 45 mins
+**Networking with Refreshments                                                                     <br>GFCE ITU with Microsoft**                                                               <br> Workshop on Mainstreaming cybersecurity in digital transformation and development in the context of Southeast Asia, organized by Sweden, GFCE, ITU and Microsoft 
+Sweden, the International Telecommunication Union (ITU), the Global Forum on Cyber Expertise (GFCE) and Microsoft cordially invite you to join our consultation held during the SICW on: Mainstreaming cybersecurity in digital transformation and development in the context of Southeast Asia. The achievement of sustainable development is intrinsically linked to the effective utilization of digital transformation, whether through the digital transformation of countries, or the use of digital technologies in development work. However, digital technologies can only support sustainable development if they are also trustworthy and secure, building more resilient societies. Understanding the challenges that the development community is faced with in terms of integrating cybersecurity principles and practices into their interventions is key in bridging the current gap between the development community and cybersecurity. 
+
+During this interactive workshop, the primary focus will be on four key aspects: firstly, identifying the various actors engaged in development and digital transformation processes. Secondly, pinpointing vulnerabilities in areas where development work lacks cybersecurity support will be a central concern. Thirdly, the workshop will delve into the customization of cybersecurity practices to align with the specific needs of local contexts. Lastly, it will explore the strategic utilization of partnerships to effectively integrate cybersecurity into broader development objectives. This workshop is organized as part of a broader project to develop a compendium aiming to mainstream cybersecurity into digital development.
+
 
 |**Speaker**          |                                                          |
 | -------- | -------- |
 | [Mr Christopher Painter](/speakers/mr-christopher-painter/)  | *President of the GFCE Foundation Board*<br>Global Forum on Cyber Expertise      |
+| [Mr Yum Shoen Yih](/speakers/mr-yum-shoen-yih/)  | *Head Special Projects*<br>Cyber Security Agency (CSA) of Singapore      |
 | [Mr Allan Salim Cabanlong](/speakers/mr-allan-salim-cabanlong/)  | *Regional Director for Southeast Asia*<br>Global Forum on Cyber Expertise      |
+| [Mr Augustinus Mohn](/speakers/mr-augustinus-mohn/)  | *Senior Manager*<br>KPMG      |
 | [Mr Benjamin Ang](/speakers/mr-benjamin-ang/)  | *Head, Cyber and Homeland Defence*<br>Centre of Excellence for National Security, RSIS NTU, Singapore      |
 | [Mr Phannarith Ou](/speakers/mr-phannnarith-ou/)  | *Director*<br>ICT Security, Ministry of Post and Telecommunications, Cambodia      |
 | [Mr Angelo Trias](/speakers/mr-angelo-trias/)  | *Project Manager*<br>Cybercrime Directorate, INTERPOL      |
