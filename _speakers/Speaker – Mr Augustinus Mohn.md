@@ -3,9 +3,9 @@ title: Speaker – Mr Augustinus Mohn
 permalink: /speakers/mr-augustinus-mohn/
 description: ""
 ---
-![](/images/2023%20Speakers/avm%20amorn%20chomchoey.png)
+![](/images/augustinus%20mohn.png)
 
-#### **Air Vice Marshal Amorn Chomchoey**
+#### **Mr Augustinus Mohn**
 
 *Senior Manager <br>
 KPMG*
