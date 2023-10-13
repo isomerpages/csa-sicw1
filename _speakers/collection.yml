@@ -2,9 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Mr Augustinus Mohn.md
-      - Speaker – Mr Yum Shoen Yih.md
-      - Speaker – Mr Teo Chee Hean.md
       - Guest of Honour – Mr Heng Swee Keat.md
       - Guest of Honour – Ms Izumi Nakamitsu.md
       - Guest of Honour – Dr Janil Puthucheary.md
@@ -21,6 +18,7 @@ collections:
       - Speaker – Ms Anne Neuberger.md
       - Speaker – Mr Anton Demokhin.md
       - Speaker – Mr Ashish Thapar.md
+      - Speaker – Mr Augustinus Mohn.md
       - Speaker – Ambassador Benedikt Wechsler.md
       - Speaker – Mr Benjamin Ang.md
       - Speaker – Mr Benjamin Harris.md
@@ -103,11 +101,13 @@ collections:
       - Speaker – Amb Tadeusz Chomicki.md
       - Speaker – Mr Tadeusz Chomicki.md
       - Speaker – Mr Tanel Sepp.md
+      - Speaker – Mr Teo Chee Hean.md
       - Speaker – Mr Tomas Krejci.md
       - Speaker – Ms Tupou'tuah Baravilala.md
       - Speaker – Ms Veronika Kolek Netolicka.md
       - Speaker – Mr Vincent Strubel.md
       - Speaker – Mr William Middleton.md
+      - Speaker – Mr Yum Shoen Yih.md
       - Moderator – Mr Charles Ng.md
       - Moderator – Ms Courtney Lang.md
       - Moderator – Mr David Koh.md
