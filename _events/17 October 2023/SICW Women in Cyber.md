@@ -15,13 +15,20 @@ Esteemed international cybersecurity leaders and practitioners will be sharing b
 
 |**Guest of Honour**          |                                                          |
 | -------- | -------- |
-| [Minister Josephine Teo](/speakers/minister-josephine-teo/)  | *Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity*<br>MCI, Singapore      |
+| [Minister Josephine Teo](/speakers/minister-josephine-teo/)  | *Minister, Ministry of Communications and Information <br>Second Minister Ministry of Home Affairs <br>Minister-in-charge of Smart Nation and Cybersecurity Republic of Singapore*      |
+| [Ms Izumi Nakamitsu](/speakers/ms-izumi-nakamitsu/)  | *Under Secretary-General and High Representative for Disarmament Affairs, United Nations*      |
 |<br>**Panellist**          |                                                          |
+| [Director Jen Easterly](/speakers/director-jen-easterly/)  | *Director*<br>Cybersecurity and Infrastructure Security Agency, United States of America      |
 | [Ms Clar Rosso](/speakers/ms-clar-rosso/)  | *CEO*<br>ISC2      |
+| [Ms Gemma Ungoed-Thomas](/speakers/ms-gemma-ungoed-thomas/)  | *Cabinet Office Director for Cyber &amp; State Threats*<br>United Kingdom      |
+| [Ms Jacqueline Barr](/speakers/ms-jacqueline-barr/)  | *Assistant Director-General Technical Threats and Visibility*<br>Australian Cyber Security Centre (ACSC)      |
 | [Ms Poornima DeBolle](/speakers/ms-poornima-debolle/)  | *Co-Founder and Chief Product Officer*<br>Menlo Security      |
 | [Mr Steven Ng](/speakers/mr-steven-ng/)  | *Chief Information Officer*<br>Ensign InfoSecurity      |
 | [Ms Rashmy Chatterjee](/speakers/ms-rashmy-chatterjee/)  | *CEO*<br>ISTARI      |
+| [Ms Nina Paine](/speakers/ms-nina-paine/)  | *Global Head, Cyber Partnerships and Government Engagement*<br>Standard Chartered Bank      |
+| [Ms Maartje Peters](/speakers/ms-maartje-peters/)  | *Head of the Taskforce International Cyber Policy*<br>Ministry of Foreign Affairs, Kingdom of the Netherlands      |
 | <br> **Moderator**          |                                                              |
+| [Ms Gwenda Fong](/speakers/ms-gwenda-fong/)  | *Deputy Secretary, Development and Regulation*<br>Ministry of Communication and Information (MCI), Singapore                 |
 | [Dr Ming Tan](/speakers/dr-ming-tan)  | *Founding Executive Director*<br>Tech for Good Institute                 |
 | | |
 

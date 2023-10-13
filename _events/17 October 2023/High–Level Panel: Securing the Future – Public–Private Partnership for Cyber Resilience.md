@@ -21,6 +21,7 @@ The objective of this session is to critically examine the approaches to public-
 | [Mr Brad Arkin](/speakers/mr-brad-arkin/)  | *Senior Vice President and Chief Security and Trust Officer*<br>Cisco           |
 | [Mr KC Choi](/speakers/mr-kc-choi/)  | *Executive Vice President, GM of Global Mobile B2B/B2G Team Mobile eXperience Business*<br>Samsung Electronics          |
 | [Air Marshal Darren Goldie AM CSC](/speakers/air-marshal-darren-goldie-am-csc/)  | *National Cyber Security Coordinator*<br>Department of Home Affairs, Australia           |
+| [Ambassador Brian D. McFeeters](/speakers/ambassador-brain-d-mcfeeters/)  | *Senior Vice President and Regional Managing Director*<br>US-ASEAN Business Council           |
 | <br> **Moderator**          |                                                              |
 | [Ms Phua Puay Li](/speakers/ms-phua-puay-li/)  | *Senior Director, Policy &amp; Corporate Development*<br>Cyber Security Agency of Singapore      |
 | | |

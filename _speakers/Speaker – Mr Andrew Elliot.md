@@ -5,5 +5,5 @@ description: ""
 ---
 #### **Mr Andrew Elliot**
 
-*Deputy Director<br>
+*Director<br>
 Department for Science, Innovation and Technology (DSIT)*

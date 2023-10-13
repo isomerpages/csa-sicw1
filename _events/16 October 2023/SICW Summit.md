@@ -11,6 +11,12 @@ third_nav_title: 16 October 2023
 
 *Format: Closed Door Event*
 
-The SICW Summit is a by-invitation only event which will be held on Monday, 16 October (evening). Dinner will be served during the event. More details will be available soon.
+The SICW Summit is a by-invitation only gala dinner kicking off the SICW. It will feature an opening address from our Senior Minister and Coordinating Minister for National Security, Teo Chee Hean and a Keynote Address from United Nations Office for Disarmament Affairs Under-Secretary-General and High Representative for Disarmament Affairs Izumi Nakamitsu. This year’s Summit will also feature a Q&amp;A discussion with USG Nakamitsu moderated by CSA Chief Executive David Koh.
+
+|**Opening Address**          |                                                          |
+| [Mr Teo Chee Hean](/speakers/mr-teo-chee-hean/)  | *Senior Minister and Coordinating Minister for National Security*           |
+|<br>**Keynote Address**          |       
+| [Ms Izumi Nakamitsu](/speakers/ms-izumi-nakamitsu/)  | *United Nations Office for Disarmament Affairs Under-Secretary-General and High Representative for Disarmament Affairs*           |
+
 <br><br><br>
 *Information is accurate at time of publication*
