@@ -18,9 +18,10 @@ The SICW Summit is a by-invitation only gala dinner kicking off the SICW. It wil
 Keynote Address: United Nations Office for Disarmament Affairs Under-Secretary-General and High Representative for Disarmament Affairs Izumi Nakamitsu
 
 
-|**Panellist**          |                                                          |
-| [Ms Izumi Nakamitsu](/speakers/ms-izumi-nakamitsu/)  | *United Nations Office for Disarmament Affairs Under-Secretary-General and High Representative for Disarmament Affairs*           |
+|**Opening Address**          |                                                          |
 | [Mr Teo Chee Hean](/speakers/mr-teo-chee-hean/)  | *Senior Minister and Coordinating Minister for National Security*           |
+|<br>**Keynote Address**          |       
+| [Ms Izumi Nakamitsu](/speakers/ms-izumi-nakamitsu/)  | *United Nations Office for Disarmament Affairs Under-Secretary-General and High Representative for Disarmament Affairs*           |
 
 <br><br><br>
 *Information is accurate at time of publication*
