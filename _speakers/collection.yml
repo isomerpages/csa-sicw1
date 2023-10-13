@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Augustinus Mohn.md
       - Speaker – Mr Yum Shoen Yih.md
       - Speaker – Mr Teo Chee Hean.md
       - Guest of Honour – Mr Heng Swee Keat.md
