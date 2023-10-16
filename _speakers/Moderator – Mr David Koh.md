@@ -8,8 +8,7 @@ description: ""
 #### **Mr David Koh**
 
 *Commissioner of Cyber Security 
-<br>Chief Executive, Cyber Security Agency of Singapore<br>Chief (Digital Security and Technology),
-Ministry of Communications and Information*
+<br>Chief Executive, Cyber Security Agency of Singapore<br>Chief (Digital Security and Technology), Ministry of Communications and Information<br>Singapore*
 
 
 ##### **Biography**

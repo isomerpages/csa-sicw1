@@ -15,6 +15,8 @@ The SICW Opening Ceremony will be held on Tuesday, 17 October. More details will
 |**Guest of Honour**    |                                                              |
 |------|------|
 | [Mr Heng Swee Keat](/speakers/mr-heng-swee-keat/)  | *Deputy Prime Minister and Coordinating Minister for Economic Policies* <br>Singapore                |
+|<br>**Speaker**    |                                                              |
+| [Mr David Koh](/speakers/mr-david-koh/)  | *Commissioner of Cyber Security<br>Chief Executive, Cyber Security Agency of Singapore<br>Chief (Digital Security and Technology), Ministry of Communications and Information* <br>Singapore                |
 | | 
 
 **Guest of Honour**
