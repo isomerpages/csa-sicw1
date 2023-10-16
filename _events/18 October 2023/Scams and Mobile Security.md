@@ -20,7 +20,7 @@ This event will invite government agencies, industry leaders like Google, app de
 | <br> **Panellist**          |                                                              |
 | [Mr Jorge Wallace](/speakers/mr-jorge-wallace/)  | *Cyber Security Technical Officer*<br>DEKRA Testing and Certification                |
 | [Mr Andrew Elliot](/speakers/mr-andrew-elliot/)  | *Director*<br>Department for Science, Innovation and Technology (DSIT)                |
-| [Mr Eugene Linderman](/speaker-eugene-liderman/)  | *Director of Mobile Security Strategy* <br> Google                |
+| [Mr Eugene Liderman](/speakers/speaker-eugene-liderman/)  | *Director of Mobile Security Strategy* <br> Google                |
 | [Ms Leow Zhi Ting](/speakers/ms-leow-zhi-ting/)  | *Deputy Director*<br>MHA                |
 | [Mr Gert Auväärt](/speakers/mr-gert-auvaart/)  | *Director of Cyber Security*<br>NCSC-EE, Estonia                |
 | [Mr Sven Schleier](/speakers/mr-sven-schleier/)  | OWASP Mobile Application Security Testing Guide (MASTG) and OWASP Mobile Application Security Verification Standard (MASVS)                |
