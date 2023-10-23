@@ -28,7 +28,7 @@ This event will invite government agencies, industry leaders like Google, app de
 | [Mr KC Choi](/speakers/mr-kc-choi/)  | *Executive Vice President, <br> GM of Global Mobile B2B/B2G Team Mobile eXperience Business <br> Samsung Electronics*                |
 | <br> **Moderator**          |                                                              |
 | [Mr Rodney Tan](/speakers/mr-rodney-tan/)  | *Director, Cybersecurity Engineering Center*<br>CSA                |
-| [Mr Justiin Ang](/speakers/mr-justiin-ang/)  | *Director (Security and Resilience)*<br>MCI                |
+| [Mr Justiin Ang](/speakers/mr-justiin-ang/)  | *Senior Director of CSA’s National Cyber Incident Response Centre (NCIRC)<br>Director of MCI’s Security and Resilience Division*<br>Singapore                |
 | | |
 
  <br><br><br>
