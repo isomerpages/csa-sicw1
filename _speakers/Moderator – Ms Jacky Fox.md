@@ -4,6 +4,9 @@ permalink: /speakers/ms-jacky-fox/
 description: ""
 ---
 
+
+![](/images/jacky%20fox%20%20headshot.png)
+
 #### **Ms Jacky Fox**
 
 *Senior Managing Director, EMEA Security Lead<br>
