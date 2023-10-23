@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Lieutenant General Hinsa Siburian.md
       - Speaker – Mr Stewart Garrick.md
       - Speaker – Ms Tarja Fernández.md
       - Speaker – IR Dr Megat Zuhairy Bin Megat Tajuddin.md
