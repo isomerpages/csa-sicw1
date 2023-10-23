@@ -2,7 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Moderator – Ms Jacky Fox.md
       - Guest of Honour – Mr Heng Swee Keat.md
       - Guest of Honour – Ms Izumi Nakamitsu.md
       - Guest of Honour – Dr Janil Puthucheary.md
@@ -115,6 +114,7 @@ collections:
       - Moderator – Ms Farlina Said.md
       - Moderator – Mr Gaurav Keerthi.md
       - Moderator – Ms Gwenda Fong.md
+      - Moderator – Ms Jacky Fox.md
       - Moderator – Ms Julia Voo.md
       - Moderator – Mr Justiin Ang.md
       - Moderator – Ms Karolina Mensikova.md
