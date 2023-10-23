@@ -12,7 +12,9 @@ third_nav_title: 17 October 2023
 
 Ransomware threat actors are increasingly employing extortion techniques to gain leverage over targeted organisations. Organisations need to adapt their defences and ransomware operations to counter the various methods employed by threat actors to apply pressure. In today's landscape, ransomware operations must prioritise the safeguarding of an organisation's reputation and the protection of employees or customers who may become targets of such tactics. Our panel will share their insights and experiences regarding the conduct of ransomware operations and provide guidance on how you can protect yourself from such attacks.
 
-|  **Panellist**          |                                                              |
+|  **Speaker**          |                                                              |
+| [Lieutenant General Hinsa Siburian](/speakers/lieutenant-general-hinsa-siburian/)  | *Head*<br>National Cyber and Crypto Agency (BSSN), Indonesia              |
+|  <br>**Panellist**          |                                                              |
 | [Mr Scott Morgan](/speakers/mr-scott-morgan/)  | *Senior Vice President, Chief Legal Officer, Global Affairs &amp; Secretary*<br>Splunk Inc.              |
 | [Air Vice Marshal Amorn Chomchoey](/speakers/air-vice-marshal-amorn-chomchoey/)  | *Secretary General*<br>National Cybersecurity Agency, Thailand             |
 | [Mr Stephen Kavanagh](/speakers/mr-stephen-kavanagh/)  | *Executive Director*<br>The International Criminal Police Organization, United Kingdom             |
