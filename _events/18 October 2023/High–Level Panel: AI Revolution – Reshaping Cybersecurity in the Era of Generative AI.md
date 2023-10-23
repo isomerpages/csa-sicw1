@@ -14,16 +14,13 @@ The successive rollouts of Generative Artificial Intelligence (AI) models by Ope
 
 This is a major game changer for how we use such technology; while Generative AI helps to improve sense-making and decision-making for cyber defenders, it lowers the barrier of entry for attackers to generate exploits for cyber attacks. This session aims to stimulate discussion on how stakeholders can collaborate to derive the benefits of using Generative AI and at the same time defend against threats arising from its use.
 
-|**Keynote Speaker**          |                                                              |
-| -------- | -------- |
-| [Ms Lindy Cameron](/speakers/ms-lindy-cameron/)  | *Chief Executive Officer*<br>National Cyber Security Centre, United Kingdom           |
-|<br>**Speaker**          |                                                              |
+|**Speaker**          |                                                              |
 | [Ms Lindy Cameron](/speakers/ms-lindy-cameron/)  | *Chief Executive Officer* <br>National Cyber Security Centre, United Kingdom     |
 |<br>**Panelist**          |                                                              |
 | [Mr Liu Feng-Yuan](/speakers/speaker-liu-feng-yuan)  | *Partner and Vice-President of Product* <br>Resaro.ai     |
-| [Mr Robert Hannigan](/speakers/speaker-robert-hannigan)  | *Chairman*<br>BlueVoyant International      |
 | [Mr Benjamin Harris](/speakers/speaker-benjamin-harris)  | *CEO and Founder*<br>watchTowr           |
 | [Mr Brendan Dowling](/speakers/mr-brendan-dowling/)  | *Ambassador for Cyber Affairs and Critical Technology*<br>Department of Foreign Affairs and Trade, Australia           |
+| [Mr Harry Krejsa](/speakers/mr-harry-krejsa/)  | *Assistant National Cyber Director for Strategy and Research*<br>Office of the National Cyber Director, United States of America           |
 |<br> **Moderator**          |                                                           |
 | [Mr Gaurav Keerthi](/speakers/moderator-gaurav-keerthi)  | *Executive Vice President, Advisory and Emerging Business*<br>Ensign InfoSecurity                |
 | | |
