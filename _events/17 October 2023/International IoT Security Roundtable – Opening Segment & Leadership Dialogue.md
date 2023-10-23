@@ -23,9 +23,9 @@ The International IoT Security Roundtable, scheduled for October 17<sup>th</sup>
 |<br> **Panellist**          |      
 | [Mr Ashish Thapar](/speakers/mr-ashish-thapar/)  | *VP &amp; Head – Cybersecurity (Asia Pacific)*<br>NTT Ltd.           |
 | [Mr Christopher Autry](/speakers/mr-christopher-autry)  | *Founder &amp; CEO*<br>Iothic Ltd.           |
-| [Dr Amit Elazari](/speakers/dr-amit-elazari)  | *Co-Founder and CEO*<br>OpenPolicy           |
+| [Ms Courtney Lang](/speakers/moderator-courtney-lang)  | *Vice President of Policy for Trust, Data, and Technology*<br>Information Technology Industry Council (ITI)                |
 | <br> **Moderator**          |                                                              |
-| [Mr Tal Goldstein](/speakers/moderator-tal-goldstein)  | *Head of Strategy and Policy, Centre for Cybersecurity*<br>World Economic Forum                 |
+| [Ms Jacky Fox](/speakers/ms-jacky-fox/)  | *Senior Managing Director, EMEA Security Lead*<br>Accenture, Ireland                 |
 | | |
 
 *Information is accurate at time of publication*
