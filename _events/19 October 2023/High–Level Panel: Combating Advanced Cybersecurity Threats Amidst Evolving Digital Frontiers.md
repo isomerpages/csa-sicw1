@@ -18,6 +18,7 @@ In today's interconnected world, cyber threats are evolving rapidly and cyber de
 | [Mr Jim Allen](/speakers/mr-jim-allen/)  | *Executive Vice President*<br>Booz Allen Hamilton               |
 | [Mr Andrew Ong](/speakers/mr-andrew-ong/)  | *Regional Director, Asia*<br>Vectra Ai               |
 | [Mr Chua Kuan Seah](/speakers/mr-chua-kuan-seah/)  | *Deputy Commissioner of Cybersecurity &amp; Deputy Chief Executive (Development)*<br>Cyber Security Agency of Singapore (CSA)              |
+| [Mr Stewart Garrick](/speakers/mr-stewart-garrick/)  | *Law Enforcement Liaison*<br>The Shadowserver Foundation              |
 | [Ms Jacqueline Barr](/speakers/ms-jacqueline-barr/)  | *Assistant Director-General Technical Threats &amp; Visibility*<br>Australian Cyber Security Centre              |
 |<br> **Moderator**          |                                                              |
 | [Mr Goh Eng Choon](/speakers/mr-goh-eng-choon)  | *President, Cyber*<br>ST Engineering               |
