@@ -17,10 +17,10 @@ This is a major game changer for how we use such technology; while Generative AI
 |**Speaker**          |                                                              |
 | [Ms Lindy Cameron](/speakers/ms-lindy-cameron/)  | *Chief Executive Officer* <br>National Cyber Security Centre, United Kingdom     |
 |<br>**Panelist**          |                                                              |
-| [Mr Liu Feng-Yuan](/speakers/speaker-liu-feng-yuan)  | *Partner and Vice-President of Product* <br>Resaro.ai     |
-| [Mr Benjamin Harris](/speakers/speaker-benjamin-harris)  | *CEO and Founder*<br>watchTowr           |
 | [Mr Brendan Dowling](/speakers/mr-brendan-dowling/)  | *Ambassador for Cyber Affairs and Critical Technology*<br>Department of Foreign Affairs and Trade, Australia           |
 | [Mr Harry Krejsa](/speakers/mr-harry-krejsa/)  | *Assistant National Cyber Director for Strategy and Research*<br>Office of the National Cyber Director, United States of America           |
+| [Mr Liu Feng-Yuan](/speakers/speaker-liu-feng-yuan)  | *Partner and Vice-President of Product* <br>Resaro.ai     |
+| [Mr Benjamin Harris](/speakers/speaker-benjamin-harris)  | *CEO and Founder*<br>watchTowr           |
 |<br> **Moderator**          |                                                           |
 | [Mr Gaurav Keerthi](/speakers/moderator-gaurav-keerthi)  | *Executive Vice President, Advisory and Emerging Business*<br>Ensign InfoSecurity                |
 | | |
