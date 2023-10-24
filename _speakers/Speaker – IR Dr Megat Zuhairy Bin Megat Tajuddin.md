@@ -3,7 +3,6 @@ title: Speaker – IR Dr Megat Zuhairy Bin Megat Tajuddin
 permalink: /speakers/ir-dr-megat-zuhairy-bin-megat-tajuddin/
 description: ""
 ---
-
 ![](/images/2023%20Speakers/megat%20zuhairy.png)
 
 #### **IR Dr Megat Zuhairy Bin Megat Tajuddin**
