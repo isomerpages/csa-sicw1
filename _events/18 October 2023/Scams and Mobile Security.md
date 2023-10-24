@@ -18,17 +18,17 @@ This event will invite government agencies, industry leaders like Google, app de
 | [Mr Shane Huntley](/speakers/mr-shane-huntley/)  | *Chief Privacy, Safety, Security Officer for APAC; Senior Director of Threat Analysis Group*<br>Google      |
 | [Ms Rae Wang](/speakers/ms-rae-wang/)  | *Director of Product Management, Android Security and Privacy*<br>Google      |
 | <br> **Panellist**          |                                                              |
-| [Mr Jorge Wallace](/speakers/mr-jorge-wallace/)  | *Cyber Security Technical Officer*<br>DEKRA Testing and Certification                |
+| [Mr Gert Auväärt](/speakers/mr-gert-auvaart/)  | *Director of Cyber Security*<br>NCSC-EE, Estonia                |
+| [Ms Leow Zhi Ting](/speakers/ms-leow-zhi-ting/)  | *Deputy Director*<br>MHA                |
 | [Mr Andrew Elliot](/speakers/mr-andrew-elliot/)  | *Director*<br>Department for Science, Innovation and Technology (DSIT)                |
 | [Mr Eugene Liderman](/speakers/speaker-eugene-liderman/)  | *Director of Mobile Security Strategy* <br> Google                |
-| [Ms Leow Zhi Ting](/speakers/ms-leow-zhi-ting/)  | *Deputy Director*<br>MHA                |
-| [Mr Gert Auväärt](/speakers/mr-gert-auvaart/)  | *Director of Cyber Security*<br>NCSC-EE, Estonia                |
+| [Mr Jorge Wallace](/speakers/mr-jorge-wallace/)  | *Cyber Security Technical Officer*<br>DEKRA Testing and Certification                |
 | [Mr Sven Schleier](/speakers/mr-sven-schleier/)  | OWASP Mobile Application Security Testing Guide (MASTG) and OWASP Mobile Application Security Verification Standard (MASVS)                |
-| [Mr Christopher Gogoel](/speakers/mr-christopher-gogoel/)  | *VP, Business Development &amp; Program Management*<br>Quokka                |
 | [Mr KC Choi](/speakers/mr-kc-choi/)  | *Executive Vice President, <br> GM of Global Mobile B2B/B2G Team Mobile eXperience Business <br> Samsung Electronics*                |
+| [Mr Christopher Gogoel](/speakers/mr-christopher-gogoel/)  | *VP, Business Development &amp; Program Management*<br>Quokka                |
 | <br> **Moderator**          |                                                              |
-| [Mr Rodney Tan](/speakers/mr-rodney-tan/)  | *Director, Cybersecurity Engineering Center*<br>CSA                |
 | [Mr Justiin Ang](/speakers/mr-justiin-ang/)  | *Senior Director of CSA’s National Cyber Incident Response Centre (NCIRC)<br>Director of MCI’s Security and Resilience Division*<br>Singapore                |
+| [Mr Rodney Tan](/speakers/mr-rodney-tan/)  | *Director, Cybersecurity Engineering Center*<br>CSA                |
 | | |
 
  <br><br><br>
