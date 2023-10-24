@@ -3,6 +3,9 @@ title: Speaker – Mr Andrew Ong
 permalink: /speakers/mr-andrew-ong/
 description: ""
 ---
+
+![](/images/andrew%20ong.png)
+
 #### **Mr Andrew Ong**
 
 *Regional Director, Asia <br>
