@@ -4,6 +4,7 @@ permalink: /speakers/ms-tarja-fernandez/
 description: ""
 ---
 
+![](/images/tarja%20fernandez.png)
 #### **Ms Tarja Fernández**
 
 *Ambassador for Cyber Affairs <br>
