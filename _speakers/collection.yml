@@ -2,11 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Lieutenant General Hinsa Siburian.md
-      - Speaker – Mr Stewart Garrick.md
-      - Speaker – Ms Tarja Fernández.md
-      - Speaker – IR Dr Megat Zuhairy Bin Megat Tajuddin.md
-      - Speaker – Mr Harry Krejsa.md
       - Guest of Honour – Mr Heng Swee Keat.md
       - Guest of Honour – Ms Izumi Nakamitsu.md
       - Guest of Honour – Dr Janil Puthucheary.md
@@ -52,6 +47,8 @@ collections:
       - Speaker – Mr Gert Auväärt.md
       - Speaker – Mr Goh Eng Choon.md
       - Speaker – Dato Ts Dr Haji Amirudin Abdul Wahab FASc.md
+      - Speaker – Mr Harry Krejsa.md
+      - Speaker – Lieutenant General Hinsa Siburian.md
       - Speaker – Mr Ian Lim.md
       - Speaker – Dr Ibraheem Saleh Al–furaih.md
       - Speaker – Mr Iranga Kahangama.md
@@ -81,6 +78,7 @@ collections:
       - Speaker – Dr Markus Richter.md
       - Speaker – Ms Marta Pelechova.md
       - Speaker – Mr Masahiro Uemura.md
+      - Speaker – IR Dr Megat Zuhairy Bin Megat Tajuddin.md
       - Speaker – Mr Mei (Arthur) Jian.md
       - Speaker – Ms Mel Migriño.md
       - Speaker – Ms Michelle Mindala–Freeman.md
@@ -102,10 +100,12 @@ collections:
       - Speaker – Mr Sithuraj Ponraj.md
       - Speaker – Mr Stephen Kavanagh.md
       - Speaker – Mr Steven Ng.md
+      - Speaker – Mr Stewart Garrick.md
       - Speaker – Mr Sven Schleier.md
       - Speaker – Amb Tadeusz Chomicki.md
       - Speaker – Mr Tadeusz Chomicki.md
       - Speaker – Mr Tanel Sepp.md
+      - Speaker – Ms Tarja Fernández.md
       - Speaker – Mr Teo Chee Hean.md
       - Speaker – Mr Tomas Krejci.md
       - Speaker – Ms Tupou'tuah Baravilala.md
