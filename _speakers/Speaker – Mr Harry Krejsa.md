@@ -5,6 +5,8 @@ description: ""
 ---
 
 
+![](/images/harry%20kresja.png)
+
 #### **Mr Harry Krejsa**
 
 *Assistant National Cyber Director for Strategy and Research <br>
