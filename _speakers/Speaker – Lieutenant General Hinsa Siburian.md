@@ -4,6 +4,7 @@ permalink: /speakers/lieutenant-general-hinsa-siburian/
 description: ""
 ---
 
+![](/images/2023%20Speakers/hinsa%20siburian.png)
 
 #### **Lieutenant General Hinsa Siburian**
 
