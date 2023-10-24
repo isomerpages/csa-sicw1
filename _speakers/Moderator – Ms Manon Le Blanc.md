@@ -3,7 +3,8 @@ title: Moderator – Ms Manon Le Blanc
 permalink: /speakers/ms-manon-le-blanc/
 description: ""
 ---
-![](/images/manon%20le%20blanc.png)
+
+![](/images/manon%20le%20blanc%20picture.png)
 
 #### **Ms Manon Le Blanc**
 
