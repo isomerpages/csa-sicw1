@@ -20,7 +20,7 @@ In an era where technology intertwines with healthcare, ensuring the security of
 | [Mr Gavin Duan](/speakers/mr-gavin-duan)  | *Cybersecurity Lab Manager*<br>SGS Brightsight Singapore               |
 | [Mr Nathaniel Aliño](/speakers/mr-nathaniel-alino)  | *CC Program Manager and Evaluation Lead*<br>T-Systems Singapore Pte. Ltd.                |
 | [Mr Ng Soon Lee](/speakers/mr-ng-soon-lee)  | *Head of Product Service, TÜV SÜD ASEAN*<br>TÜV SÜD PSB Pte Ltd                |
-| [Mr Dean Zwarts](/speakers/mr-dean-zwarts)  | *Global Business Manager Cybersecurity*<br>UL Solutions                |
+| [Mr Ling Moh Lung](/speakers/mr-ling-moh-lung/)  | *Senior Common Criteria Evaluator*<br>UL Solutions                |
 | | |
 
 <br><br><br>
