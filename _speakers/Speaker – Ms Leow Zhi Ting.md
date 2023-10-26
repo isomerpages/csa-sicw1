@@ -5,5 +5,5 @@ description: ""
 ---
 #### **Ms Leow Zhi Ting**
 
-*Deputy Director <br>
-MHA*
+*Deputy Director (Policy Development and Security) <br>
+Ministry of Home Affairs*
