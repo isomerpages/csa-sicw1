@@ -3,6 +3,9 @@ title: Speaker – Mr Stephen Kavanagh
 permalink: /speakers/mr-stephen-kavanagh/
 description: ""
 ---
+
+![](/images/2023%20Speakers/stephen%20kavanagh.png)
+
 #### **Mr Stephen Kavanagh**
 
 *Executive Director <br>
@@ -13,4 +16,3 @@ Mr Kavanagh has held a number of senior roles including Commander Counter Terror
 
 
 He is decorated with the Queen’s Policing Medal (QPM) for his distinguished service and contribution to policing in the United Kingdom and also appointed by the Lord Lieutenant of Essex, as a Deputy Lieutenant for the county.
-
