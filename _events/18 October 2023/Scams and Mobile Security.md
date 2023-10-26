@@ -19,7 +19,7 @@ This event will invite government agencies, industry leaders like Google, app de
 | [Ms Rae Wang](/speakers/ms-rae-wang/)  | *Director of Product Management, Android Security and Privacy*<br>Google      |
 | <br> **Panellist**          |                                                              |
 | [Mr Gert Auväärt](/speakers/mr-gert-auvaart/)  | *Director of Cyber Security*<br>NCSC-EE, Estonia                |
-| [Ms Leow Zhi Ting](/speakers/ms-leow-zhi-ting/)  | *Deputy Director*<br>MHA                |
+| [Ms Leow Zhi Ting](/speakers/ms-leow-zhi-ting/)  | *Deputy Director (Policy Development and Security)*<br>Ministry of Home Affairs                |
 | [Mr Andrew Elliot](/speakers/mr-andrew-elliot/)  | *Director*<br>Department for Science, Innovation and Technology (DSIT)                |
 | [Mr Eugene Liderman](/speakers/speaker-eugene-liderman/)  | *Director of Mobile Security Strategy* <br> Google                |
 | [Mr Jorge Wallace](/speakers/mr-jorge-wallace/)  | *Cyber Security Technical Officer*<br>DEKRA Testing and Certification                |
