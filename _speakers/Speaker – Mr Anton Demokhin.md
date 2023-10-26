@@ -5,10 +5,10 @@ description: ""
 ---
 ![](/images/2023%20Speakers/anton%20demokhin.png)
 
-#### **Mr Anton Demokhin**
+#### **H.E. Anton Demokhin**
 
 *Deputy Foreign Minister, Chief Digital Transformation Officer <br>
-The Ministry of Foreign Affairs of Ukraine*
+Ministry of Foreign Affairs<br>Ukraine*
 
 
 ##### **Biography**
@@ -19,4 +19,4 @@ The team took an active part in the development of public key infrastructure in 
 
 2012-2022 – Executive Partner of “DEKOM UKRAINE” LLC (audiovisual technologies and infrastructure solutions). 
 Full-cycle professional solutions in the field of integration of information and telecommunication systems (ITS). Development of architectures and implementation of industrial solutions for creating fault tolerant ITS’s, data center systems, modern computer networks, data storage systems, virtualization platforms for computing resources and workplaces, telecommunication and audiovisual systems for the commercial and public sectors. 
-In August 2022, Mr.Demokhin was appointed as the Deputy Foreign Minister of Ukraine, Chief Digital Transformation Officer. 
+In August 2022, Mr.Demokhin was appointed as the Deputy Foreign Minister of Ukraine, Chief Digital Transformation Officer.
