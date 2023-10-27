@@ -7,7 +7,7 @@ description: ""
 
 #### **Dr Markus Richter**
 
-*State Secretary at the Federal Ministry of the Interior and Community <br>and Federal Government Commissioner for Information Technology <br>
+*State Secretary at the Federal Ministry of the Interior and Community <br>Federal Government Commissioner for Information Technology <br>
 Federal Government of Germany<br>Germany*
 
 ##### **Biography**
