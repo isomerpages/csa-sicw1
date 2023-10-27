@@ -2,7 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Mr Ling Moh Lung.md
       - Guest of Honour – Mr Heng Swee Keat.md
       - Guest of Honour – Ms Izumi Nakamitsu.md
       - Guest of Honour – Dr Janil Puthucheary.md
@@ -70,6 +69,7 @@ collections:
       - Speaker – Ms Leow Zhi Ting.md
       - Speaker – Ms Liesyl Franz.md
       - Speaker – Ms Lindy Cameron.md
+      - Speaker – Mr Ling Moh Lung.md
       - Speaker – Mr Liu Feng–Yuan.md
       - Speaker – The Baroness Lucy Neville–Rolfe DBE CMG.md
       - Speaker – Ms Maartje Peters.md
