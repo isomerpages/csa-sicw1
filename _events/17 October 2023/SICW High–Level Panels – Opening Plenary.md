@@ -47,7 +47,7 @@ Big Tech has significantly changed the way we live. Whether to gain access to in
 
 |  **Panellist**          |                                                              |
 | [Ms Anne Marie Engtoft Meldgaard](/speakers/ms-anne-marie-engtoft-meldgaard/)  | *Tech Ambassador of Denmark*<br>Ministry of Foreign Affairs<br>Denmark              |
-| [Dr Markus Richter](/speakers/dr-markus-richter/)  | *State Secretary at the Federal Ministry of the Interior and Community<br> and Federal Government Commissioner for Information Technology*<br>Federal Government of Germany<br>Germany              |
+| [Dr Markus Richter](/speakers/dr-markus-richter/)  | *State Secretary at the Federal Ministry of the Interior and Community<br>Federal Government Commissioner for Information Technology*<br>Federal Government of Germany<br>Germany              |
 | [Dato’ Ts. Dr. Haji Amirudin Abdul Wahab FASc](/speakers/dato-ts-dr-haji-amirudin-abdul-wahab-fasc/)  | *Chief Executive Officer (CEO)*<br>CyberSecurity Malaysia<br>Malaysia              |
 | [Mr Markham Cho Erickson](/speakers/mr-markham-cho-erickson/)  | *Vice President, Government Affairs &amp; Public Policy, Centers of Excellence*<br>Google              |
 | [H.E. Anton Demokhin](/speakers/mr-anton-demokhin/)  | *Deputy Foreign Minister, Chief Digital Transformation Officer*<br>Ministry of Foreign Affairs<br>Ukraine              |
