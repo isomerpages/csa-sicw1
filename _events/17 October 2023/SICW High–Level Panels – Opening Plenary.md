@@ -22,7 +22,7 @@ Programme
 |  **Panellist**          |                                                              |
 | [Ms Tupou'tuah Baravilala](/speakers/ms-tupoutuah-baravilala/)  | *Director-General Digital Government Transformation, Cybersecurity and Communications*<br>Ministry Of Communications<br>Fiji              |
 | [Amb Tadeusz Chomicki](/speakers/amb-tadeusz-chomicki/)  | *Ambassador For Cyber and Tech Affairs*<br>Ministry Of Foreign Affairs<br>Poland              |
-| [Dr. Ibraheem Saleh Al-furaih](/speakers/dr-ibraheem-saleh-al-furaih/)  | *Advisor to the Governor of the National Cybersecurity Authority<br>Kingdom of Saudi Arabia*<br>The National Cybersecurity Authority (NCA)              |
+| [Dr. Ibraheem Saleh Al-furaih](/speakers/dr-ibraheem-saleh-al-furaih/)  | *Advisor to the Governor of the National Cybersecurity Authority<br>Kingdom of Saudi Arabia*              |
 | [Ms Anne Neuberger](/speakers/ms-anne-neuberger/)  | *Deputy Assistant to the President and Deputy National Security Advisor for Cyber and Emerging Technologies*<br>National Security Council, The White House<br>United States of America              |
 |  <br>**Moderator**          |                                                              |
 | [Mr David Koh](/speakers/mr-david-koh/)  | *Commissioner of Cyber Security<br>Chief Executive, Cyber Security Agency of Singapore<br>Chief (Digital Security and Technology), Ministry of Communications and Information<br>Singapore*              |
