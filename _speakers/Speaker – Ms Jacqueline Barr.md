@@ -12,4 +12,6 @@ Australian Cyber Security Centre (ACSC)*
 
 
 ##### **Biography**
+Jacqueline Barr is the Assistant Director-General Technical Threats and Visibility at the Australian Cyber Security Centre (ACSC). 
+
 Jacqueline leads the Australian Signals Directorate’s cyber visibility program and the operational teams for Discovery and Detection, Malware Reverse Engineering, Hunt, Active Vulnerability Assessments and Dynamic Defence, including Australia’s Cyber Threat Intelligence Sharing platform.  

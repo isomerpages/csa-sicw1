@@ -22,7 +22,7 @@ Programme
 |  **Panellist**          |                                                              |
 | [Ms Tupou'tuah Baravilala](/speakers/ms-tupoutuah-baravilala/)  | *Director-General Digital Government Transformation, Cybersecurity and Communications*<br>Ministry Of Communications<br>Fiji              |
 | [Amb Tadeusz Chomicki](/speakers/amb-tadeusz-chomicki/)  | *Ambassador For Cyber and Tech Affairs*<br>Ministry Of Foreign Affairs<br>Poland              |
-| [Dr. Ibraheem Saleh Al-furaih](/speakers/dr-ibraheem-saleh-al-furaih/)  | *Advisor to the Governor of the National Cybersecurity Authority*<br>The National Cybersecurity Authority (NCA)<br>Kingdom of Saudi Arabia              |
+| [Dr. Ibraheem Saleh Al-furaih](/speakers/dr-ibraheem-saleh-al-furaih/)  | *Advisor to the Governor of the National Cybersecurity Authority<br>Kingdom of Saudi Arabia*<br>The National Cybersecurity Authority (NCA)              |
 | [Ms Anne Neuberger](/speakers/ms-anne-neuberger/)  | *Deputy Assistant to the President and Deputy National Security Advisor for Cyber and Emerging Technologies*<br>National Security Council, The White House<br>United States of America              |
 |  <br>**Moderator**          |                                                              |
 | [Mr David Koh](/speakers/mr-david-koh/)  | *Commissioner of Cyber Security<br>Chief Executive, Cyber Security Agency of Singapore<br>Chief (Digital Security and Technology), Ministry of Communications and Information<br>Singapore*              |
@@ -47,10 +47,10 @@ Big Tech has significantly changed the way we live. Whether to gain access to in
 
 |  **Panellist**          |                                                              |
 | [Ms Anne Marie Engtoft Meldgaard](/speakers/ms-anne-marie-engtoft-meldgaard/)  | *Tech Ambassador of Denmark*<br>Ministry of Foreign Affairs<br>Denmark              |
-| [Dr Markus Richter](/speakers/dr-markus-richter/)  | *State Secretary at the Federal Ministry of the Interior and Community and Federal Government Commissioner for Information Technology*<br>Federal Government of Germany<br>Germany              |
+| [Dr Markus Richter](/speakers/dr-markus-richter/)  | *State Secretary at the Federal Ministry of the Interior and Community<br>Federal Government Commissioner for Information Technology*<br>Federal Government of Germany<br>Germany              |
 | [Dato’ Ts. Dr. Haji Amirudin Abdul Wahab FASc](/speakers/dato-ts-dr-haji-amirudin-abdul-wahab-fasc/)  | *Chief Executive Officer (CEO)*<br>CyberSecurity Malaysia<br>Malaysia              |
 | [Mr Markham Cho Erickson](/speakers/mr-markham-cho-erickson/)  | *Vice President, Government Affairs &amp; Public Policy, Centers of Excellence*<br>Google              |
-| [Mr Anton Demokhin](/speakers/mr-anton-demokhin/)  | *Deputy Foreign Minister, Chief Digital Transformation Officer*<br>The Ministry of Foreign Affairs of Ukraine<br>Ukraine              |
+| [H.E. Anton Demokhin](/speakers/mr-anton-demokhin/)  | *Deputy Foreign Minister, Chief Digital Transformation Officer*<br>Ministry of Foreign Affairs<br>Ukraine              |
 |  <br>**Moderator**          |                                                              |
 | [Ms Gwenda Fong](/speakers/ms-gwenda-fong/)  | *Deputy Secretary (Development and Regulation)*<br>Ministry of Communications and Information<br>Singapore              |
 | | |

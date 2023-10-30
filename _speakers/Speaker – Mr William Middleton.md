@@ -8,7 +8,7 @@ description: ""
 #### **Mr William Middleton**
 
 *Head of Cyber Policy Department <br>
-Foreign, Commonwealth &amp; Development Office (FCDO), United Kingdom *
+Foreign, Commonwealth &amp; Development Office (FCDO), United Kingdom*
 
 
 ##### **Biography**

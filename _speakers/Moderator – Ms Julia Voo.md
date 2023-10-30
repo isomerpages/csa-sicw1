@@ -3,6 +3,9 @@ title: Moderator – Ms Julia Voo
 permalink: /speakers/ms-julia-voo/
 description: ""
 ---
+
+![](/images/2023%20Speakers/julia%20voo.png)
+
 #### **Ms Julia Voo**
 
 *Senior Fellow, Cyber Power and Future Conflict <br>

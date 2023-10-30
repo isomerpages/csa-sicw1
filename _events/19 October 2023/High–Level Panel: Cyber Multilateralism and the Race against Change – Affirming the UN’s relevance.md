@@ -14,11 +14,16 @@ The United Nations is seen to provide a platform for all nations, big and small,
 
 The session will take a multifaceted outlook on international cyber discussions from the perspective of big and small players, and critically assess the UN's effectiveness as the apex platform in facilitating international cyber discussions and fostering cyber cooperation.
 
-|**Panellist**          |                                                              |
-| [Mr William Middleton](/speakers/mr-william-middleton/)  | *Head of Cyber Policy Department*<br>Foreign, Commonwealth &amp; Development Office (FCDO), United Kingdom               |
+|**Speaker**          |                                                              |
+| [Ms Manon Le Blanc](/speakers/ms-manon-le-blanc)  | *Coordinator for Cyber Issues*<br>European External Action Service               |
+|<br>**Panellist**          |                                                              |
 | [Ms Kelly Anderson](/speakers/ms-kelly-anderson/)  | *Director for International Cyber Policy*<br>Global Affairs Canada               |
-| [Ms Danielle Yeow](/speakers/ms-danielle-yeow/)  | *Adjunct Senior Research Fellow*<br>Centre for International Law, National University of Singapore               |
+| [Ms Tarja Fernández](/speakers/ms-tarja-fernandez/)  | *Ambassador for Cyber Affairs*<br>Ministry of Foreign Affairs, Finland               |
 | [Dr Regine Grienberger](/speakers/dr-regine-grienberger/)  | *Cyber Ambassador*<br>Federal Foreign Office, Germany               |
+| [Mr William Middleton](/speakers/mr-william-middleton/)  | *Head of Cyber Policy Department*<br>Foreign, Commonwealth &amp; Development Office (FCDO), United Kingdom               |
+| [Ms Danielle Yeow](/speakers/ms-danielle-yeow/)  | *Adjunct Senior Research Fellow*<br>Centre for International Law, National University of Singapore               |
+|<br>**Moderator**          |                                                              |
+| [Mr Sithuraj Ponraj](/speakers/mr-sithuraj-ponraj/)  | *Director of the International Cyber Policy Office (D/ICPO)*<br>Cyber Security Agency of Singapore (CSA)               |
 
 <br><br><br>
 *Information is accurate at time of publication*
