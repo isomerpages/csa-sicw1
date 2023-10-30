@@ -8,7 +8,7 @@ description: ""
 #### **Dr Ibraheem Saleh Al-furaih**
 
 *Advisor to the Governor of the National Cybersecurity Authority <br>
-The National Cybersecurity Authority (NCA), Kingdom of Saudi Arabia*
+Kingdom of Saudi Arabia*
 
 
 ##### **Biography**
