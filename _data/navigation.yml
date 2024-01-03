@@ -1,0 +1,23 @@
+logo: /images/logo_sicw.png
+links:
+  - title: About SICW
+    url: /about-sicw
+  - title: 2022 Highlights
+    url: /sicw-2022-highlights
+  - title: Events
+    collection: events
+  - title: Plan Your Visit
+    collection: plan-your-visit
+  - title: Media
+    collection: media
+  - title: Resources
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us
+    sublinks:
+      - title: Enquiry
+        url: /contact-us
+      - title: FAQs
+        url: /faq
+  - title: Registration
+    url: /registration
