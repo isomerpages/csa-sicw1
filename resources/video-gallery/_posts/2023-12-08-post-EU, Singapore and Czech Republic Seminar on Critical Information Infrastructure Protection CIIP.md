@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### **EU, Singapore and Czech Republic Seminar on Critical Information Infrastructure Protection CIIP**
+#### **2023 EU, Singapore and Czech Republic Seminar on Critical Information Infrastructure Protection CIIP**
 
 The European Union has long been striving to find ways to provide better protection and increased resilience from cyber-attacks, as well as to promote stability in cyberspace, at national, regional and multilateral levels. Implementation of the norms of responsible state behaviour is one of them. Enhanced resilience and promoting stability require a global solution since it is a global problem and a shared responsibility. The Czech Republic is also committed to strengthen cyber security at the multilateral level.&nbsp;
 
