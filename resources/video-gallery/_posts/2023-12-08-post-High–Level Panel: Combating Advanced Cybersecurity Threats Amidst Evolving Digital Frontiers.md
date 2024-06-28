@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### **High-Level Panel: Combating Advanced Cybersecurity Threats Amidst Evolving Digital Frontiers**
+#### **2023 High-Level Panel: Combating Advanced Cybersecurity Threats Amidst Evolving Digital Frontiers**
 
 In today’s interconnected world, cyber threats are evolving rapidly and cyber defenders need to stay ahead of the game. Advanced threat actors are using diverse and sophisticated techniques, exploiting vulnerabilities in various systems and networks, including those commonly used in enterprise, cloud, Internet of Things (IoT) and Operational Technologies (OT) environments. As such, there is an impetus to reflect on defence strategies and countermeasures to mitigate the risks posed by advanced cyber attacks. This session shed light on advanced attack techniques and their implications for individuals, businesses and governments. 
 
