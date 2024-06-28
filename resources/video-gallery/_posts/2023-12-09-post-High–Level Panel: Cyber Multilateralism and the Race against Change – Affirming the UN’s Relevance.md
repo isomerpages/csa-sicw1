@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### **High-Level Panel: Cyber Multilateralism and the Race against Change - Affirming the UN’s Relevance**
+#### **2023 High-Level Panel: Cyber Multilateralism and the Race against Change - Affirming the UN’s Relevance**
 
 The United Nations is seen to provide a platform for all nations, big and small, to engage in open and inclusive dialogue and collective action. Yet, the UN has been also accused of being ineffective in delivering concrete results and guaranteeing security in the multilateral order. Given the fast-changing cyber landscape, how can the UN continue to be relevant in ensuring stability, security, and inclusivity in this digital era? How can we, as the international community, support the UN in fostering global cooperation in pace with the developments in digital technology and cybersecurity?&nbsp;
 
