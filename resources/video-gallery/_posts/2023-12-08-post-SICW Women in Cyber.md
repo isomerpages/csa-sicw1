@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### **SICW Women in Cyber**
+#### **2023 SICW Women in Cyber**
 
 The Women in Cyber event promotes cybersecurity as a career to female students, professionals, and mothers returning to work. 
 
