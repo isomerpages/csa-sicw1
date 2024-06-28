@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### **International IoT Security Roundtable – Opening Segment &amp; Leadership Dialogue**
+#### **2023 International IoT Security Roundtable – Opening Segment &amp; Leadership Dialogue**
 
 To galvanise international efforts towards internationalising common IoT Security standards, to prevent standards fragmentation, eradicate duplicated evaluation/compliance across borders, and facilitate export. 
 
