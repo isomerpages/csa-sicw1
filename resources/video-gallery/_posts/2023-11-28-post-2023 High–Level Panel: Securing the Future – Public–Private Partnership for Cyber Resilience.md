@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### **High-Level Panel: Securing the Future – Public-Private Partnership for Cyber Resilience**
+#### **2023 High-Level Panel: Securing the Future – Public-Private Partnership for Cyber Resilience**
 
 In 2020, the SolarWinds hack demonstrated that a breach of a single company could trigger a significantly larger supply chain incident, impacting thousands of organizations, including government systems. As our interconnectivity deepens, it has become increasingly evident to both the public and private sectors that ensuring security in the shared digital space necessitates collaborative efforts.  
 
