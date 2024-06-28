@@ -2,7 +2,6 @@ collections:
   2023-events:
     output: true
     order:
-      - Calendar of Events.md
       - 16 October 2023/List of Events.md
       - 16 October 2023/SICW Summit.md
       - 16 October 2023/.keep
