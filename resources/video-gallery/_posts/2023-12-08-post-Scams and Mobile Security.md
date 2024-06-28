@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### **Scams and Mobile Security**
+#### **2023 Scams and Mobile Security**
 
 Apps are becoming the most popular way for users to conduct online transactions, communicate with friends and family, and even perform their work activities. It is therefore imperative to ensure that devices are trustworthy, safe and secure, against phishing threats and scams. This requires strong collaboration between app developers, operating system owners, device manufacturers, and policy makers – to ensure that the right policies, tools, and programmes are put in place, across the ecosystem. 
 
