@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### **ASEAN Ministerial Conference on Cybersecurity AMCC Opening Ceremony**
+#### **2023 ASEAN Ministerial Conference on Cybersecurity AMCC Opening Ceremony**
 
 The 8th AMCC Main and Special Sessions are Ministerial-level dialogues that bring together ASEAN Information and Communications Technology (ICT) and Cybersecurity Ministers, as well as ASEAN Dialogue Partners, to discuss key cyber issues in the region and means to enhance regional cybersecurity cooperation among Member States. These sessions are by-invitation only. 
 
