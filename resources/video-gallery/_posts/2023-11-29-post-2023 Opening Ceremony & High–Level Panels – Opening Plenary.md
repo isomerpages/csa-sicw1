@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### **SICW Opening Ceremony &amp; SICW High-Level Panels - Opening Plenary **
+#### **2023 Opening Ceremony &amp; High-Level Panels - Opening Plenary**
 
 The SICW Opening Ceremony took place on Tuesday, 17 October 2023, and was officiated by Mr. Heng Swee Keat, Deputy Prime Minister and Coordinating Minister for Economic Policies, Singapore. 
 
