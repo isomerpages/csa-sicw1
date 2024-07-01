@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 15 October 2024
 ---
-#### **Breaking down barriers - Mutual recognition of IoT Schemes **
+#### **Breaking down barriers - Mutual recognition of IoT Schemes**
 
 **15 October 2023 (Tuesday)**  
 *Time: 2.00pm to 4.30pm (GMT +8)*
