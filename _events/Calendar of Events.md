@@ -17,6 +17,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | <br> **16 October 2024** <br>*(Wednesday)* |                                                                                                |
 | Full Day           | [ASEAN Cybercrime Prosecutors' Roundtable Meeting](/events/16-oct/acprm/)                               |
 | 8.30am to 12.30pm           | [9th ASEAN Ministerial Conference on Cybersecurity (AMCC)](/events/16-oct/amcc/)                               |
+| 9.00am to 11.30am           | [Securing our Mobile Landscape: Navigating the Myriad of Cyber Threats](/events/16-oct/securing-our-mobile-landscape-navigating-the-myriad-of-cyber-threats/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference and Exhibition 2024](/events/16-oct/govware-conference-and-exhibition-2024/)                               |
 | 10.00am to 12.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/16-oct/asean-cert-incident-drill-acid/)                               |
 | 1.00pm to 5.00pm           | [Global Forum on Cyber Expertise Southeast Asia Hub Regional Meeting](/events/16-oct/global-forum-on-cyber-expertise-southeast-asia-hub-regional-meeting/)                               |
