@@ -20,6 +20,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 5.30pm           | [GovWare Conference and Exhibition 2024](/events/16-oct/govware-conference-and-exhibition-2024/)                               |
 | 10.00am to 12.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/16-oct/asean-cert-incident-drill-acid/)                               |
 | 1.00pm to 5.00pm           | [Global Forum on Cyber Expertise Southeast Asia Hub Regional Meeting](/events/16-oct/global-forum-on-cyber-expertise-southeast-asia-hub-regional-meeting/)                               |
+| 2.00pm to 4.30pm           | [High-Level Panel: Trust and Security in the Quantum Era](/events/16-oct/high-level-panel-trust-and-security-in-the-quantum-era/)                               |
 | <br> **17 October 2023** <br>*(Thursday)*          |                                                                                           |
 | 9.00am to 5.30pm           | [GovWare Conference and Exhibition 2024](/events/17-oct/govware-conference-and-exhibition-2024/)                               |
 
