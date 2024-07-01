@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 14 October 2024/.keep
       - Calendar of Events.md
       - 15 October 2024/SICW Opening Ceremony.md
       - "15 October 2024/High–Level Panel: Policy.md"
