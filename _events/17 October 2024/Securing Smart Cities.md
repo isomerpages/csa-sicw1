@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 17 October 2024
 ---
-#### **GovWare Conference &amp; Exhibition 2024**
+#### **Securing Smart Cities**
 
 **17 October 2024 (Thursday)**  
 *Time: 2.00pm to 3.20pm (GMT +8)*
