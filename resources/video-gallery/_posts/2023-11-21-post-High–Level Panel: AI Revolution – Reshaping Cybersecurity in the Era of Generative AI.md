@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### **High-Level Panel: AI Revolution - Reshaping Cybersecurity in the Era of Generative AI**
+#### **2023 High-Level Panel: AI Revolution - Reshaping Cybersecurity in the Era of Generative AI**
 
 The successive rollouts of Generative Artificial Intelligence (AI) models by OpenAI, SenseTime and other tech giants in the past year represent a significant milestone in the development of AI. This is especially so with the iconic debut of OpenAI’s ChatGPT and China’s SenseChat, which amazed the world with its text and code generation prowess. Such cutting-edge technology is based on Foundation Models (FMs) trained on big data at scale, which can be adapted for a wide variety of tasks in different domains (e.g. improvisation and generation of content).
  
