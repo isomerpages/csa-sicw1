@@ -13,6 +13,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | <br> **15 October 2024** <br>*(Tuesday)* |                                                                                                |                            
 | 9.00am to 5.30pm           | [GovWare Conference and Exhibition 2024](/events/15-oct/govware-conference-and-exhibition-2024/)                               |
 | 10.00am to 4.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/15-oct/asean-cert-incident-drill-acid/)                               |
+| 2.00pm to 3.00pm           | [High-Level Panel: Insights into 2024’s Cyber Threats](/events/15-oct/high-level-panel-insights-into-2024-s-cyber-threats/)                               |
 | 2.00pm to 4.00pm           | [SG Cyber Safe for Enterprises](/events/15-oct/sg-cyber-safe-for-enterprises/)                               |
 | 2.00pm to 4.30pm           | [Breaking down barriers - Mutual recognition of IoT Schemes](/events/15-oct/breaking-down-barriers-mutual-recognition-of-iot-schemes/)                               |
 | <br> **16 October 2024** <br>*(Wednesday)* |                                                                                                |
