@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### **SG Cyber Safe for Enterprises**
+#### **2023 SG Cyber Safe for Enterprises**
 
 Organisations have accelerated their pace of digitalisation, and with a corresponding increase in attack surface, cybersecurity is a critical enabler for organisations. As organisations adopt cloud computing, it is important for them to have the know-how to operate in a secure cloud computing environment. This event explored the latest initiatives from the Cyber Security Agency of Singapore (CSA) to help organisations stay “cyber safe” in the cloud.&nbsp;
 
