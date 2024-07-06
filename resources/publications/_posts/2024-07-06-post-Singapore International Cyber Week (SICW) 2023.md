@@ -20,7 +20,7 @@ The GovWare Conference and Exhibition 2023, the region’s premier trade show fo
 
 ![](/images/2023%20highlights%20publication/D1_Exhibition_149.jpg)
 *SICW 2023 and GovWare programmes include expert-led keynotes and a cutting-edge tech showcase by leading global and local innovators
-[Source: GovWare] *
+[Source: GovWare]*
 
 **Building Trust and Security in the Digital Domain**
 
