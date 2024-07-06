@@ -10,13 +10,6 @@ notification: ""
 sections:
   - hero:
       background: /images/website hero banner light_without logo_final.jpg
-  - infobar:
-      description: <h3>Relive the key highlights of SICW 2022 - APAC's Leading
-        Cybersecurity Event</h3><br><iframe allowfullscreen=""
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-        gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube
-        video player" src="https://www.youtube.com/embed/k16svvZ5CnQ"
-        width="100%" height="415"></iframe>
   - infopic:
       title: SICW
       subtitle: About
@@ -25,8 +18,15 @@ sections:
         leaders and industry experts.
       button: Read more
       url: /about-sicw
-      image: /images/amcc emily.jpg
+      image: /images/2023 highlights publication/AMCC.jpg
       alt: Image alt text
+  - infobar:
+      description: <h3>Relive the key highlights of SICW 2023</h3><br><iframe
+        allowfullscreen="" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture; web-share"
+        frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/lDYctN_5ZPA?si=9G4XhQSZ8o0BkKDH"
+        width="100%" height="415"></iframe>
   - resources:
       title: Past SICW Highlights
       subtitle: Explore
