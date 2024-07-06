@@ -7,7 +7,7 @@ third_nav_title: 16 October 2024
 ---
 #### **9th ASEAN Ministerial Conference on Cybersecurity (AMCC)**
 
-**16 October 2023 (Wednesday)**  
+**16 October 2024 (Wednesday)**  
 *Time: 8.30am to 12.30pm (GMT +8)*
 
 *Format: Closed Door Event*
