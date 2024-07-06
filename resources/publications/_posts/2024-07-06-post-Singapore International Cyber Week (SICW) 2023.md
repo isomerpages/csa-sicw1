@@ -9,8 +9,6 @@ variant: markdown
 ---
 #### **Eighth Edition of Singapore International Cyber Week Concludes Successfully with International and Regional Partners Committed to Building Trust and Security in the Emerging Digital Order**
 
-![](/images/sicw%202021%20banner.png)
-
 The eighth edition of the Singapore International Cyber Week (SICW) was held on 16 – 19 Oct 2023 with more than 12,000 delegates from 80 countries participating. 
 SICW 2023 attracted a diverse audience mix of government officials, industry experts, academics, and cybersecurity professionals. Over 270 speakers covered a myriad of topics ranging from reshaping cybersecurity in the era of generative artificial intelligence, public-private sectors roles and partnership in the cyberspace, and combating advanced cybersecurity threats. 
 Among the global leaders and industry experts who spoke were Izumi Nakamitsu, the United Nations’ Under-Secretary-General and High Representative for Disarmament Affairs; Anne Neuberger, Deputy National Security Advisor, United States; Baroness Neville-Rolfe, Cabinet Office Minister of State, United Kingdom; Johanna Weaver, Director of the Tech Policy Design Centre, Australian National University;  K C Choi, Executive Vice President and Global Head, Mobile Enterprise Business, Samsung; and Brad Arkin, Chief Security and Trust Officer, CISCO. 
@@ -71,4 +69,4 @@ Minister Josephine Teo, also launched the SG Cyber Associates, a new programme u
 
 In the years to come, SICW will continue to be a leading global event to enable a safer cyberspace for all, develop a vibrant cybersecurity ecosystem, and enhance international cyber cooperation. As Senior Minister Teo Chee Hean summed up, “the challenge of building and maintaining trust in the digital domain is complex, but it is imperative that we collectively achieve a better understanding of each other’s perspectives, recognise our shared interests in cyberspace, and work towards building the trust we need for a digital world and a better future.”
 
-To catch up on the event and key moments from SICW 2023, visit the [YouTube page](https://www.youtube.com/@sicwsg). 
+To catch up on the event and key moments from SICW 2023, visit the [YouTube page](https://www.youtube.com/@sicwsg).
