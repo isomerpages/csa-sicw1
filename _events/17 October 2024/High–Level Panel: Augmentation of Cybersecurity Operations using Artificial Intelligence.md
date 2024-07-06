@@ -11,6 +11,7 @@ third_nav_title: 17 October 2024
 **17 October 2024 (Thursday)**  
 *Time: 11.00am to 12.00pm (GMT +8)*
 
+More information will be made available soon.
 
 <br><br><br>
 *Information is accurate at time of publication*
