@@ -7,7 +7,7 @@ third_nav_title: 16 October 2024
 ---
 #### **High-Level Panel: Trust and Security in the Quantum Era**
 
-**16 October 2023 (Wednesday)**  
+**16 October 2024 (Wednesday)**  
 *Time: 2.00pm to 4.30pm (GMT +8)*
 
 In the Quantum era, with the advent of quantum computing comes quantum risks which threaten to undermine the cryptographic foundations upon which digital trust is built, prompting the necessary re-examination of the way digital trust is secured and changes to cryptography and keys used.
