@@ -7,7 +7,7 @@ third_nav_title: 15 October 2024
 ---
 #### **SG Cyber Safe for Enterprises**
 
-**15 October 2023 (Tuesday)**  
+**15 October 2024 (Tuesday)**  
 *Time: 2.00pm to 4.00pm (GMT +8)*
 
 *Format: Closed Door Event*
