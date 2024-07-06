@@ -7,7 +7,7 @@ third_nav_title: 16 October 2024
 ---
 #### **ASEAN Cybercrime Prosecutors' Roundtable Meeting**
 
-**18 October 2023 (Wednesday)**  
+**18 October 2024 (Wednesday)**  
 *Time: Full Day*
 
 *Format: Closed Door Event*
