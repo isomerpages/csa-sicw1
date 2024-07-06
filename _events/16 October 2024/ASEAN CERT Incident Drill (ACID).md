@@ -7,7 +7,7 @@ third_nav_title: 16 October 2024
 ---
 #### **ASEAN CERT Incident Drill (ACID)**
 
-**16 October 2023 (Wednesday)**  
+**16 October 2024 (Wednesday)**  
 *Time: 10.00am to 12.00pm (GMT +8)*
 
 *Format: Closed Door Event*
