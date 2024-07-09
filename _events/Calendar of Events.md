@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### **Overview**
 
-Singapore International Cyber Week 2024 is taking place from 15 to 17 October 2024.
+Singapore International Cyber Week 2024 is taking place from 14 to 17 October 2024.
 
 Event dates and timings below are in Singapore time (GMT +8). 
 
@@ -14,7 +14,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 5.30pm           | [SICW Summit](/events/14-oct/sicw-summit/)                               |
 | <br> **15 October 2024** <br>*(Tuesday)* |                                                                                                |                            
 | 9.00am to 5.30pm           | [GovWare Conference and Exhibition 2024](/events/15-oct/govware-conference-and-exhibition-2024/)                               |
-| 10.00am to 12.30pm           | [SICW Opening Ceremony](/events/15-oct/sicw-opening-ceremony/)                               |
+| 9.30am to 12.30pm           | [SICW Opening Ceremony](/events/15-oct/sicw-opening-ceremony/)                               |
 | 10.00am to 4.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/15-oct/asean-cert-incident-drill-acid/)                               |
 | TBC           | [High-Level Panel: Policy](/events/15-oct/high-level-panel-policy/)                               |
 | 2.00pm to 3.00pm           | [High-Level Panel: Insights into 2024’s Cyber Threats](/events/15-oct/high-level-panel-insights-into-2024-s-cyber-threats/)                               |
@@ -29,7 +29,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 10.00am to 12.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/16-oct/asean-cert-incident-drill-acid/)                               |
 | 1.00pm to 5.00pm           | [Global Forum on Cyber Expertise Southeast Asia Hub Regional Meeting](/events/16-oct/global-forum-on-cyber-expertise-southeast-asia-hub-regional-meeting/)                               |
 | 2.00pm to 4.30pm           | [High-Level Panel: Trust and Security in the Quantum Era](/events/16-oct/high-level-panel-trust-and-security-in-the-quantum-era/)                               |
-| <br> **17 October 2023** <br>*(Thursday)*          |                                                                                           |
+| <br> **17 October 2024** <br>*(Thursday)*          |                                                                                           |
 | Full Day           | [10th Senior Officials Roundtable on Cybercrime](/events/17-oct/10th-senior-officials-roundtable-on-cybercrime/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference and Exhibition 2024](/events/17-oct/govware-conference-and-exhibition-2024/)                               |
 | 11.00am to 12.00pm           | [High-Level Panel: Augmentation of Cybersecurity Operations using Artificial Intelligence](/events/17-oct/high-level-panel-augmentation-of-cybersecurity-operations-using-ai/)                               |
