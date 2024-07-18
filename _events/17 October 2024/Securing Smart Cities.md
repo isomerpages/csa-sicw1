@@ -10,11 +10,11 @@ third_nav_title: 17 October 2024
 **17 October 2024 (Thursday)**  
 *Time: 2.00pm to 3.20pm (GMT +8)*
 
-Securing Smart Cities event aims to promote collaboration, sharing of real-world case studies and security issues, best cybersecurity practices and provide insights in the role of government policies and regulations in ensuring the safety, security and privacy of the citizens living in an ever-growing connected places.
-
-This event will invite government agencies, industry leaders, and other ecosystem partners to share their perspectives on how we can better protect their systems to address the threats to Cyber-Physical security.
-
-The topic of focus this year revolves around the development of a Cyber-Physical Risk Management Strategy and will feature a panel discussion on how governments and industry players can cooperate and collaborate in the cyber-physical space to achieve a balance between usability, cost, and security.
+Securing Smart Cities is an event that aims to promote collaboration, sharing of real-world case studies, discussing unique cyber-physical issues, as well as providing insights into the role of government policies and regulations to ensure the safety, security and privacy of the citizens living in an ever-growing connected space. Smart cities integrate various technologies to enhance urban living, but this integration also increases the attack surface and allows exploitation of vulnerabilities by cyber threat actors.
+ 
+This event will invite government agencies, industry &amp; technology leaders, and other cybersecurity ecosystem partners to explore the challenges and solutions that better protect systems deployment in the Smart City space. 
+ 
+This year's main focus is on the emergence of Cyber-Physical Risks, with a panel discussion to explore how governments and industry leaders can work together to effectively identify and tackle these issues, whilst striking a balance between usability, cost, and security.
 
 <br><br><br>
 *Information is accurate at time of publication*
