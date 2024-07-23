@@ -8,7 +8,7 @@ third_nav_title: 16 October 2024
 #### **Mobile x Scams**
 
 **16 October 2024 (Wednesday)**  
-*Time: 9.00am to 10.50am*
+*Time: 9.00am to 10.50am (GMT +8)*
 
 *09:00am – 10:05am*
 <br>**Government Panel on International Scams Policy**
