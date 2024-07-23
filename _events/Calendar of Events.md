@@ -36,6 +36,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 2.00pm to 4.30pm           | [High-Level Panel: Trust and Security in the Quantum Era](/events/16-oct/high-level-panel-trust-and-security-in-the-quantum-era/)                               |
 | <br> **17 October 2024** <br>*(Thursday)*          |                                                                                           |
 | Full Day           | [10th Senior Officials Roundtable on Cybercrime](/events/17-oct/10th-senior-officials-roundtable-on-cybercrime/)                               |
+| 8.30am to 4.00pm           | [IoT Hackathon: SPIRITCYBER 2024](/events/17-oct/iot-hackathon-spiritcyber-2024/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference and Exhibition 2024](/events/17-oct/govware-conference-and-exhibition-2024/)                               |
 | 11.00am to 12.00pm           | [High-Level Panel: Augmentation of Cybersecurity Operations using Artificial Intelligence](/events/17-oct/high-level-panel-augmentation-of-cybersecurity-operations-using-ai/)                               |
 | 2.00pm to 3.20pm           | [Securing Smart Cities](/events/17-oct/securing-smart-cities/)                               |
