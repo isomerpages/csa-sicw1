@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 15 October 2024
 ---
-#### **IIOTSRT Opening and Mutual Recognition Agreement (MRA) Signing**
+#### **International IoT Security Roundtable - Opening and Mutual Recognition Agreement (MRA) Signing**
 
 **15 October 2024 (Tuesday)**  
 *Time: 3.00pm to 5.00pm (GMT +8)*
