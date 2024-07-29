@@ -15,3 +15,5 @@ SICW 2023 attracted a diverse audience mix of government officials, industry exp
 
 ![](/images/HighlightsStatsOverview.jpg)
 
+![](/images/sicw_highlights_2023_collage.png)
+
