@@ -15,10 +15,11 @@ In the Quantum era, with the advent of quantum computing comes quantum risks whi
 The theme for this High-Level Panel Tech event for Quantum is **Trust and Security in the Quantum Era**, and it will consist of two segments:
 
 **Segment I: Securing Trust amidst Quantum Risks**
-This aims to stimulate a discussion to explore the current state of and the implications of quantum computing on digital security and trust, and. It will also seek to address the challenges of building awareness and providing suitable advisories for quantum-safe solutions in light of the emerging quantum threat.
+This dialogue explores the current state of and the impact of quantum computing on digital security and trust. It also aims to address the challenges of raising awareness, providing appropriate advisories for quantum-safe solutions; and identifying opportunities for international collaboration amongst governments and industry.
 
 **Segment II: Key Changes towards Quantum Safety** 
-This aims to explore the quantum-safe solutions aimed at mitigating these threats and how assurance in these new solutions can be built.  The adoption and integrating these solutions will be discussed in the context of how the journey towards quantum-safety can be charted and what are the key actions and changes needed in this migration to maintain digital resiliency and secure digital assets in this Quantum era.
+This panel aims to explore quantum-safe solutions designed to mitigate quantum risk, and establish assurance in these new solutions. Delving into the technical challenges of adopting and integrating these solutions, the discussion will pivot towards charting a path to
+develop and operationalise agile quantum-safe solutions and strategies, ensuring digital resiliency and safeguarding digital assets against the quantum threat.
 
 <br><br><br>
 *Information is accurate at time of publication*
