@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 16 October 2024
 ---
-#### **Mobile x Scams**
+#### **Mobile Security x Scams**
 
 **16 October 2024 (Wednesday)**  
 *Time: 9.00am to 10.50am (GMT +8)*
