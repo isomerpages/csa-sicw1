@@ -8,8 +8,8 @@ variant: markdown
 
 Explore Singapore<a href="https://www.visitsingapore.com/see-do-singapore/" target="_blank"></a>, where passion and possibilities meet, and get more ideas for dining, shopping, curated itineraries and festivals and events. 
 
-**Booking a Hotel**
-<br>You can book your stay for SICW 2024, from 11 - 20 October 2024 with our Partner Hotels and enjoy exclusive discounts – including reduced room rates and F&amp;B savings.
+#### **Book Your Hotel**
+You can book your stay for SICW 2024, from 11 - 20 October 2024 with our Partner Hotels and enjoy exclusive discounts – including reduced room rates and F&amp;B savings.
 * Mandarin Oriental Singapore
 * ParkRoyal Collection Marina Bay, Singapore
 * Grand Park City Hall 
