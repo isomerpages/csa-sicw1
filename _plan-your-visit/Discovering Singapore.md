@@ -21,7 +21,7 @@ Room rates start from SGD $620.00++ per night (rate inclusive of daily breakfast
 
 *Disclaimer: All room categories are subject to availability upon time of reservation request.*
 
-**Book Now**<a href="https://book.passkey.com/event/50864754/owner/2731134/home" target="_blank"></a>
+<a href="https://book.passkey.com/event/50864754/owner/2731134/home" target="_blank">**Book Now**</a>
 
 **ParkRoyal Collection Marina Bay, Singapore**
 <br>Sitting in the heart of the central business district and Marina Bay, with panoramic views of the Singapore city skyline, the 583-room PARKROYAL COLLECTION Marina Bay, Singapore is a champion of sustainability, environmental responsibility and advocate for green innovations in the hospitality industry, and home to Southeast Asia’s largest indoor sky-lit atrium, containing over 2,400 plants, trees, shrubs and groundcovers from more than 60 varieties of flora spread across 1,400 square metres of space throughout. 
@@ -44,4 +44,3 @@ Room rates start from SGD $270.00++ per night (rate inclusive of daily breakfast
 *Disclaimer: All room categories are subject to availability upon time of reservation request.*
 
 **Book Now**<a href="https://www.parkhotelgroup.com/grand-park-city-hall/book/dates-of-stay?domain=www.govware.sg&amp;groupID=4405053" target="_blank"></a>
-
