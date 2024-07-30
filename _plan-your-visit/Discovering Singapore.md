@@ -31,7 +31,7 @@ Room rates start from SGD $350.00++ per night (rate inclusive of daily breakfast
 *Note: Peppermint Restaurant is a Halal Restaurant
 <br>Disclaimer: All room categories are subject to availability upon time of reservation request.*
 
-**Book Now**<a href="https://book.passkey.com/event/50843178/owner/3322522/home" target="_blank"></a>
+<a href="https://book.passkey.com/event/50843178/owner/3322522/home" target="_blank">**Book Now**</a>
 
 **Grand Park City Hall**
 <br>Located in a prime spot in Singapore’s Civic District and within the Central Business District, Grand Park City Hall stands as a top-notch 5-star hotel. Situated near major shopping malls like Raffles City and Capitol Piazza, offering a myriad of dining options. Suntec City and the Marina Bay entertainment and business district are minutes away by car. We look forward to welcoming you with our warm and loving hospitality. 
@@ -43,4 +43,4 @@ Room rates start from SGD $270.00++ per night (rate inclusive of daily breakfast
 
 *Disclaimer: All room categories are subject to availability upon time of reservation request.*
 
-**Book Now**<a href="https://www.parkhotelgroup.com/grand-park-city-hall/book/dates-of-stay?domain=www.govware.sg&amp;groupID=4405053" target="_blank"></a>
+<a href="https://www.parkhotelgroup.com/grand-park-city-hall/book/dates-of-stay?domain=www.govware.sg&amp;groupID=4405053" target="_blank">**Book Now**</a>
