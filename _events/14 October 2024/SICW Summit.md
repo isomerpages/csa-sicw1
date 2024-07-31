@@ -8,7 +8,7 @@ third_nav_title: 14 October 2024
 #### **SICW Summit**
 
 **14 October 2024 (Monday)**  
-*Time: TBC (GMT +8)*
+*Time: 6.00pm to 9.30pm (GMT +8)*
 
 *Format: Closed Door Event*
 
