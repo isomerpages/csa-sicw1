@@ -17,7 +17,6 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 5.30pm           | [GovWare Conference and Exhibition 2024](/events/15-oct/govware-conference-and-exhibition-2024/)                               |
 | 9.30am to 12.30pm           | [SICW Opening Ceremony](/events/15-oct/sicw-opening-ceremony/)                               |
 | 10.00am to 4.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/15-oct/asean-cert-incident-drill-acid/)                               |
-| TBC           | [High-Level Panel: Policy](/events/15-oct/high-level-panel-policy/)                               |
 | 2.00pm to 3.00pm           | [High-Level Panel: Insights into 2024’s Cyber Threats](/events/15-oct/high-level-panel-insights-into-2024-s-cyber-threats/)                               |
 | 2.00pm to 3.30pm           | [SICW Women in Cyber](/events/15-oct/sicw-women-in-cyber/)                               |
 | 2.00pm to 4.00pm           | [SG Cyber Safe for Enterprises](/events/15-oct/sg-cyber-safe-for-enterprises/)                               |
