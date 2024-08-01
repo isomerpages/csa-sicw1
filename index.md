@@ -18,7 +18,7 @@ sections:
         leaders and industry experts.
       button: Read more
       url: /about-sicw
-      image: /images/2023 highlights publication/AMCC.jpg
+      image: /images/4__AMCC.jpg
       alt: Image alt text
   - infobar:
       description: <h3>Relive the key highlights of SICW 2023</h3><br><iframe
