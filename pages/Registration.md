@@ -8,7 +8,7 @@ variant: markdown
 
 Join international policy makers, industry leaders and top academics from across the world in exchanging best practices and strengthening regional as well as global cooperation. 
 
-![](/images/2024_tickets_registration.png)
+![](/images/2024_tickets.png)
 
 <a href="https://www.gevme.com/sicw-govware2024" target="blank">![](/images/Register_Now_button.png)</a>
 
