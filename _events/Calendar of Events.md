@@ -32,7 +32,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 10.30am to 12.00pm           | [High-Level Panel: Can AI be Secure?](/events/16-oct/high-level-panel-can-ai-be-secure/)                               |
 | 1.00pm to 5.00pm           | [Global Forum on Cyber Expertise Southeast Asia Hub Regional Meeting](/events/16-oct/global-forum-on-cyber-expertise-southeast-asia-hub-regional-meeting/)                               |
 | 2.00pm to 4.30pm           | [High-Level Panel: Trust and Security in the Quantum Era](/events/16-oct/high-level-panel-trust-and-security-in-the-quantum-era/)                               |
-| 2.30pm to 4.30pm           | [Scams x Mobile Security](/events/16-oct/scams-x-mobile-security/)                               |
+| 2.30pm to 4.00pm           | [Scams x Mobile Security](/events/16-oct/scams-x-mobile-security/)                               |
 | 4.00pm to 5.50pm           | [Securing our mobile landscape: Navigating the Myriad of Cyber Threats](/events/16-oct/securing-our-mobile-landscape/)                               |
 | <br> **17 October 2024** <br>*(Thursday)*          |                                                                                           |
 | Full Day           | [10th Senior Officials Roundtable on Cybercrime](/events/17-oct/10th-senior-officials-roundtable-on-cybercrime/)                               |
