@@ -8,7 +8,7 @@ third_nav_title: 16 October 2024
 #### **Scams x Mobile Security**
 
 **16 October 2024 (Wednesday)**  
-*Time: 2.30pm to 4.30pm (GMT +8)*
+*Time: 2.30pm to 4.00pm (GMT +8)*
 
 **Government Roundtable on International Scams Policy**
 <br>Over the last five years, the total number of scam cases in Singapore alone has increased five fold, while losses to scams have more than quadrupled. Increasingly, most scams are carried out online by syndicates that operate across jurisdictions, and scams have become a serious transboundary issue. To tackle scams more effectively, countries must come together to share experiences and expertise, and to step up on international cooperation. This roundtable gathers government leaders from countries who have been tough on scams, to discuss the domestic policies and measures they have implemented and how countries can work together to protect our citizens. 
