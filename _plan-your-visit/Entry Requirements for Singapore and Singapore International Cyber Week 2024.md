@@ -12,5 +12,4 @@ comply with the prevailing Entry and Public Health Requirements listed
 </a>. </p>
 <p><strong>b) What You Need to Know</strong>
 <br>Find out everything about Singapore before you arrive. Get all the essential
-information&nbsp;<a href="https://www.visitsingapore.com/travel-guide-tips/travel-requirements/" class="Hyperlink SCXW164315338 BCX0" rel="noreferrer noopener" target="_blank"><u>here.</u></a>
-</p>
+information&nbsp;<a href="https://www.visitsingapore.com/travel-guide-tips/travel-requirements/" class="Hyperlink SCXW164315338 BCX0" rel="noreferrer noopener" target="_blank"><u>here</u></a>.</p>
