@@ -29,7 +29,7 @@ GovWare Conference and Exhibition 2024, the region’s premier trade show for cy
 
 Singapore is open to all travellers without quarantine or testing requirements, regardless of their COVID-19 vaccination status. Find out more details on travel requirements to Singapore here<a href="https://www.visitsingapore.com/travel-guide-tips/travel-requirements/" target="_blank"></a>.
 
-**6. How do journalists apply to attend SICW 2023?**
+**6. How do journalists apply to attend SICW 2024?**
 <br>Media personnel are invited to register for a media pass to gain access to events that are open for media coverage. More info on media accreditation requirements can be found [here](/media/media-accreditation).
 
 **7. What is the dress code for the event?**
