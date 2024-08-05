@@ -15,14 +15,14 @@ In the Quantum era, with the advent of quantum computing comes quantum risks whi
 The theme for this High-Level Panel Tech event for Quantum is **Trust and Security in the Quantum Era**, and it will consist of two segments:
 
 **Segment I: Securing Trust amidst Quantum Risks**
-The advent of quantum computing, specifically with Cryptographically Relevant Quantum Computers (CRQCs), heralds an unprecedented computational prowess that introduces significant threats to cybersecurity in breaking existing public key infrastructure (PKI) and encryption systems. While CRQCs are still some years away from being realised, the threat of Harvest Now, Decrypt Later has brought forward the considerations of the need to address these risks today.
+<br>The advent of quantum computing, specifically with Cryptographically Relevant Quantum Computers (CRQCs), heralds an unprecedented computational prowess that introduces significant threats to cybersecurity in breaking existing public key infrastructure (PKI) and encryption systems. While CRQCs are still some years away from being realised, the threat of Harvest Now, Decrypt Later has brought forward the considerations of the need to address these risks today.
 
 These quantum risks threaten to undermine the cryptographic foundations upon which we have built digital trust to compromise digital security and trust and render confidential information vulnerable to malicious exploitation. The world needs to re-examine how we **secure digital trust in the quantum era**.
 
 This panel aims to stimulate a discussion to explore the current state of and the implications of quantum computing on digital security and trust, and. It will also seek to address the challenges of building **awareness** and providing suitable **advisories** for quantum-safe solutions; and identify opportunities for international collaboration amongst governments and industry. 
 
 **Segment II: Key Changes towards Quantum Safety** 
-The quantum threat is real and there is a need to migrate to quantum safety. The challenge lies in the charting the quantum-safe migration journey, from the key changes to the organisation needs for the migration. These changes can relate to the assets, people, process, technology, and security.
+<br>The quantum threat is real and there is a need to migrate to quantum safety. The challenge lies in the charting the quantum-safe migration journey, from the key changes to the organisation needs for the migration. These changes can relate to the assets, people, process, technology, and security.
 
 The difficulty is exacerbated by the need to consider and change the crypto keys and algorithms used, often overlooked as they are usually assumed to be the strongest link in the cybersecurity chain.
 
