@@ -8,7 +8,7 @@ third_nav_title: 17 October 2024
 #### **Securing Smart Cities**
 
 **17 October 2024 (Thursday)**  
-*Time: 2.00pm to 3.20pm (GMT +8)*
+*Time: 2.00pm to 3.30pm (GMT +8)*
 
 Securing Smart Cities is an event that aims to promote collaboration, sharing of real-world case studies, discussing unique cyber-physical issues, as well as providing insights into the role of government policies and regulations to ensure the safety, security and privacy of the citizens living in an ever-growing connected space. Smart cities integrate various technologies to enhance urban living, but this integration also increases the attack surface and allows exploitation of vulnerabilities by cyber threat actors.
  
