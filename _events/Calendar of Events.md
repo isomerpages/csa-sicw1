@@ -13,7 +13,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | <br> **14 October 2024** <br>*(Monday)* |                                                                                                |                            
 | 6.00pm to 9.30pm           | [SICW Summit](/events/14-oct/sicw-summit/)                               |
 | <br> **15 October 2024** <br>*(Tuesday)* |                                                                                                |                            
-| 9.00am to 5.00pm           | [IoT Hackathon: SPIRITCYBER 2024](/events/15-oct/iot-hackathon-spiritcyber-2024/)                               |
+| 9.00am to 5.30pm           | [IoT Hackathon: SPIRITCYBER 2024](/events/15-oct/iot-hackathon-spiritcyber-2024/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference and Exhibition 2024](/events/15-oct/govware-conference-and-exhibition-2024/)                               |
 | 9.30am to 9.50am           | [SICW Opening Ceremony](/events/15-oct/sicw-opening-ceremony/)                               |
 | 9.50am to 12.30pm           | [SICW High-Level Panels – Opening Plenary](/events/15-oct/sicw-high-level-panels-opening-plenary/)                               |
@@ -26,7 +26,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | Full Day           | [ASEAN Cybercrime Prosecutors' Roundtable Meeting](/events/16-oct/acprm/)                               |
 | 8.30am to 12.30pm           | [9th ASEAN Ministerial Conference on Cybersecurity (AMCC)](/9th-asean-ministerial-conference-on-cybersecurity-amcc/)                               |
 | 9.00am to 10.30am           | [International IoT Security Roundtable(IIoTSRT) - Opening and Mutual Recognition Agreement Signing](/events/16-oct/iiotsrt-opening-and-mutual-recognition-agreement-mra-signing/)                               |
-| 9.00am to 5.00pm           | [IoT Hackathon: SPIRITCYBER 2024](/events/16-oct/iot-hackathon-spiritcyber-2024/)                               |
+| 9.00am to 5.30pm           | [IoT Hackathon: SPIRITCYBER 2024](/events/16-oct/iot-hackathon-spiritcyber-2024/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference and Exhibition 2024](/events/16-oct/govware-conference-and-exhibition-2024/)                               |
 | 10.00am to 12.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/16-oct/asean-cert-incident-drill-acid/)                               |
 | 10.30am to 12.00pm           | [High-Level Panel: Can AI be Secure?](/events/16-oct/high-level-panel-can-ai-be-secure/)                               |
