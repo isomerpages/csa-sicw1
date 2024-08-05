@@ -8,9 +8,9 @@ variant: markdown
 
 Join international policy makers, industry leaders and top academics from across the world in exchanging best practices and strengthening regional as well as global cooperation. 
 
-![](/images/2024_tickets.png)
+![](/images/2024_tickets_table.jpg)
 
-<a href="https://www.gevme.com/sicw-govware2024" target="blank">![](/images/Register_Now_button.png)</a>
+<a href="https://www.gevme.com/sicw-govware2024" target="blank">![](/images/2024_regi_button.jpg)</a>
 
 **Notes:**
 * All prices are shown in Singapore Dollars (SGD)
