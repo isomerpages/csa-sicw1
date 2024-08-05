@@ -10,10 +10,9 @@ third_nav_title: 15 October 2024
 **15 October 2024 (Tuesday)**  
 *Time: 2.00pm to 3.30pm (GMT +8)*
 
-Building and sustaining trust in our digital domain requires a whole-of-ecosystem effort. As cybersecurity threats continue to evolve and impact our communities, it's essential to tap into the unique perspectives and talents within our society to strengthen our collective defence. The SICW Women in Cyber event aims to promote cybersecurity as a career to female students, professionals, and non-professionals by featuring the achievements of trail blazing women who break barriers and bring inspiration to others in the cybersecurity field.
+Creating and sustaining trust in our digital world calls for a comprehensive, ecosystem-wide collaboration. As cybersecurity threats become more sophisticated and impact our communities, tapping into the unique perspectives and talents across society is essential to strengthen our collective defenses. The SICW Women in Cyber event seeks to promote cybersecurity as a career for female students and working professionals, and inspire those new to the field by highlighting the remarkable achievements of trailblazing women who are breaking barriers and inspiring others in the cybersecurity field. These women will share their personal journeys of overcoming challenges in a traditionally male-dominated field, explore their pioneering contributions to the industry, present innovative solutions to cyber threats, and emphasize the importance of fostering diversity for a more secure future.
 
-This year, participants can look forward to lighting talks, Q&amp;A segment, and networking opportunities with government agencies, industry partners, and professional associations.
-
+This year, participants can look forward to lighting talks, Q&amp;A segment, and networking opportunities with leaders from government agencies, industry partners, and professional associations.
 
 <br><br><br>
 *Information is accurate at time of publication*
