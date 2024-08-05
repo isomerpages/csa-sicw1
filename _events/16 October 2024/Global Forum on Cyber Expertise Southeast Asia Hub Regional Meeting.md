@@ -8,7 +8,7 @@ third_nav_title: 16 October 2024
 #### **Global Forum on Cyber Expertise Southeast Asia Hub Regional Meeting**
 
 **16 October 2024 (Wednesday)**  
-*Time: 1.00pm to 5.00pm (GMT +8)*
+*Time: 2.00pm to 6.00pm (GMT +8)*
 
 *Format: Closed Door Event*
 
