@@ -11,7 +11,7 @@ Singapore International Cyber Week 2024 is taking place from 14 to 17 October 20
 Event dates and timings below are in Singapore time (GMT +8). 
 
 | <br> **14 October 2024** <br>*(Monday)* |                                                                                                |                            
-| 6.00pm to 9.30pm           | [SICW Summit](/events/14-oct/sicw-summit/)                               |
+| 7.00pm to 9.45pm           | [SICW Summit](/events/14-oct/sicw-summit/)                               |
 | <br> **15 October 2024** <br>*(Tuesday)* |                                                                                                |                            
 | 9.00am to 5.30pm           | [IoT Hackathon: SPIRITCYBER 2024](/events/15-oct/iot-hackathon-spiritcyber-2024/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference and Exhibition 2024](/events/15-oct/govware-conference-and-exhibition-2024/)                               |
