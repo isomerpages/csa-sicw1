@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 15 October 2024
 ---
-#### **SICW High-Level Panels – Opening Plenary**
+#### **High–Level Panels: Opening Plenary**
 
 **15 October 2024 (Tuesday)**  
 *Time: 9.50am to 12.30pm (GMT +8)*
