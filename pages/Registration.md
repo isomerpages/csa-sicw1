@@ -10,7 +10,7 @@ Join international policy makers, industry leaders and top academics from across
 
 ![](/images/2024_tickets_table.jpg)
 
-<a href="https://www.gevme.com/sicw-govware2024" target="blank">![](/images/2024_regi_button.jpg)</a>
+Registration will be launching soon. Watch this space!
 
 **Notes:**
 * All prices are shown in Singapore Dollars (SGD)
