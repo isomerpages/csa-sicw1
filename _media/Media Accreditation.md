@@ -29,7 +29,7 @@ iii.	Internal company publications cannot be accredited as media. However, at th
 
 **2. Criteria for Accreditation**
 
-i. i.	Applications **MUST** be made online. Accreditation will only be granted upon presentation of valid press credentials including:
+i. Applications **MUST** be made online. Accreditation will only be granted upon presentation of valid press credentials including:
 * Completed online accreditation application form.
 * Photocopy or a scanned copy of the Press Accreditation Card (for Singapore-based media) issued by the Ministry of Digital Development and Information (MDDI) **OR** official national press card(s) of the representative who will be covering SICW 2024 **OR** letter of assignment on the official letterhead of a media organisation signed by the Publisher, Assignment Editor, Editor-in-chief or Bureau Chief, specifying the name and functional title of the journalist, and stating their role at SICW 2024, **OR** links to three (3) most recently published posts (500 words or more) relating to the relevant areas of interest of the events.
 * Professional blogs must be active in the most recent six (6) months, with a minimum of one (1) published post per month relating to the relevant areas of interest of the events.
