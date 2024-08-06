@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 16 October 2024
 ---
-#### **Securing our mobile landscape: Navigating the Myriad of Cyber Threats**
+#### **Securing Our Mobile Landscape: Navigating the Myriad of Cyber Threats**
 
 **16 October 2024 (Wednesday)**  
 *Time: 4.00pm to 5.30pm (GMT +8)*
