@@ -21,7 +21,6 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 2.00pm to 3.00pm           | [High-Level Panel: Insights into 2024’s Cyber Threats](/events/15-oct/high-level-panel-insights-into-2024-s-cyber-threats/)                               |
 | 2.00pm to 3.30pm           | [SICW Women in Cyber](/events/15-oct/sicw-women-in-cyber/)                               |
 | 2.00pm to 4.00pm           | [SG Cyber Safe for Enterprises](/events/15-oct/sg-cyber-safe-for-enterprises/)                               |
-| 2.00pm to 4.30pm           | [Breaking down barriers - Mutual recognition of IoT Schemes](/events/15-oct/breaking-down-barriers-mutual-recognition-of-iot-schemes/)                               |
 | <br> **16 October 2024** <br>*(Wednesday)* |                                                                                                |
 | Full Day           | [ASEAN Cybercrime Prosecutors’ Roundtable Meeting](/events/16-oct/acprm/)                               |
 | 8.30am to 12.30pm           | [9th ASEAN Ministerial Conference on Cybersecurity (AMCC)](/9th-asean-ministerial-conference-on-cybersecurity-amcc/)                               |
