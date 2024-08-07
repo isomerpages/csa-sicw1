@@ -3,52 +3,40 @@ collections:
     output: true
     order:
       - Calendar of Events.md
-      - 16 October 2023/List of Events.md
-      - 16 October 2023/SICW Summit.md
-      - 16 October 2023/.keep
-      - 17 October 2023/.keep
-      - 17 October 2023/List of Events.md
-      - "17 October 2023/IoT Hackathon: SPIRITCYBER–2023.md"
-      - 17 October 2023/SICW Opening Ceremony.md
-      - 17 October 2023/GovWare Conference & Exhibition 2023.md
-      - 17 October 2023/SICW High–Level Panels – Opening Plenary.md
-      - "17 October 2023/High–Level Panel: Securing the Future – Public–Private
-        Partnership for Cyber Resilience.md"
-      - 17 October 2023/SG Cyber Safe for Enterprises.md
-      - 17 October 2023/Global Forum on Cyber Expertise (GFCE) Southeast Asia
+      - 14 October 2024/.keep
+      - 14 October 2024/SICW Summit.md
+      - 15 October 2024/.keep
+      - "15 October 2024/IoT Hackathon: SPIRITCYBER 2024.md"
+      - 15 October 2024/GovWare Conference and Exhibition 2024.md
+      - 15 October 2024/SICW Opening Ceremony.md
+      - "15 October 2024/High–Level Panels: Opening Plenary.md"
+      - 15 October 2024/ASEAN CERT Incident Drill (ACID).md
+      - "15 October 2024/High–Level Panel: Insights into 2024’s Cyber Threats.md"
+      - 15 October 2024/SICW Women in Cyber.md
+      - 15 October 2024/SG Cyber Safe for Enterprises.md
+      - 16 October 2024/.keep
+      - 16 October 2024/ASEAN Cybercrime Prosecutors’ Roundtable Meeting.md
+      - 16 October 2024/International IoT Security Roundtable (IIoTSRT) –
+        Opening and Mutual Recognition Agreement Signing.md
+      - 16 October 2024/9th ASEAN Ministerial Conference on Cybersecurity
+        (AMCC).md
+      - "16 October 2024/IoT Hackathon: SPIRITCYBER 2024.md"
+      - 16 October 2024/GovWare Conference and Exhibition 2024.md
+      - 16 October 2024/ASEAN CERT Incident Drill (ACID).md
+      - "16 October 2024/High–Level Panel: Can AI be Secure?.md"
+      - "16 October 2024/High–Level Panel: Trust and Security in the Quantum
+        Era.md"
+      - 16 October 2024/Global Forum on Cyber Expertise Southeast Asia Hub
         Regional Meeting.md
-      - 17 October 2023/International IoT Security Roundtable – Opening Segment
-        & Leadership Dialogue.md
-      - 17 October 2023/SICW Women in Cyber.md
-      - "17 October 2023/High–Level Panel: Ransomware Exposed – Insights into
-        Operations and Safeguarding Techniques.md"
-      - 18 October 2023/.keep
-      - 18 October 2023/List of Events.md
-      - 18 October 2023/ASEAN Ministerial Conference on Cybersecurity (AMCC).md
-      - "18 October 2023/IoT Hackathon: SPIRITCYBER–2023.md"
-      - 18 October 2023/GovWare Conference & Exhibition 2023.md
-      - 18 October 2023/ASEAN Cybercrime Prosecutors' Roundtable Meeting.md
-      - 18 October 2023/International IoT Security Roundtable – Technical
-        Panel.md
-      - 18 October 2023/ASEAN CERT Incident Drill (ACID).md
-      - "18 October 2023/High–Level Panel: AI Revolution – Reshaping
-        Cybersecurity in the Era of Generative AI.md"
-      - 18 October 2023/EU, Singapore and Czech Republic Seminar on Critical
-        Information Infrastructure Protection (CIIP).md
-      - 18 October 2023/Scams and Mobile Security.md
-      - "18 October 2023/High–Level Panel: The Cyber Attribution Conundrum – A
-        sharp sword or a blunt blade?.md"
-      - 19 October 2023/.keep
-      - 19 October 2023/List of Events.md
-      - "19 October 2023/IoT Hackathon: SPIRITCYBER–2023.md"
-      - "19 October 2023/High–Level Panel: Combating Advanced Cybersecurity
-        Threats Amidst Evolving Digital Frontiers.md"
-      - 19 October 2023/International IoT Security Roundtable – Elevating
-        Medical Device Security.md
-      - 19 October 2023/5G PT Symposium.md
-      - 19 October 2023/9th ASEAN Senior Officials Roundtable on Cybercrime.md
-      - 19 October 2023/GovWare Conference & Exhibition 2023.md
-      - 19 October 2023/ASEAN CERT Incident Drill (ACID).md
-      - "19 October 2023/High–Level Panel:
-        Cyber Multilateralism and the Race against Change –
-        Affirming the UN’s relevance.md"
+      - 16 October 2024/Scams x Mobile Security.md
+      - "16 October 2024/Securing Our Mobile Landscape: Navigating the Myriad of
+        Cyber Threats.md"
+      - 17 October 2024/.keep
+      - 17 October 2024/10th Senior Officials Roundtable on Cybercrime.md
+      - 17 October 2024/GovWare Conference and Exhibition 2024.md
+      - "17 October 2024/IoT Hackathon: SPIRITCYBER 2024.md"
+      - "17 October 2024/High–Level Panel: When the Next Disruption Strikes, Who
+        is Responsible for Digital Resilience?.md"
+      - "17 October 2024/High–Level Panel: Augmentation of Cybersecurity
+        Operations using Artificial Intelligence.md"
+      - 17 October 2024/Securing Smart Cities.md

@@ -2,46 +2,44 @@
 title: Calendar of Events
 permalink: /events/calendar-of-events/
 description: ""
+variant: markdown
 ---
 #### **Overview**
 
-Singapore International Cyber Week 2023 is taking place from 16 to 19 October 2023.
+Singapore International Cyber Week 2024 is taking place from 14 to 17 October 2024.
 
 Event dates and timings below are in Singapore time (GMT +8). 
 
-| <br> **16 October 2023** <br>*(Monday)* |                                                                                                |                            
-| 6.30pm to 10.00pm           | [SICW Summit](/events/16-october-2023/sicw-summit/)                               |
-| <br> **17 October 2023** <br>*(Tuesday)* |                                                                                                |
-| 8.30am to 5.00pm              | [IoT Hackathon: SPIRITCYBER-2023](/events/17-october-2023/iot-hackathon-spiritcyber-2023/)                                                                          |
-| 9.00am to 9.30am          | [SICW Opening Ceremony](/events/17-october-2023/sicw-oc/)                                                                 |
-| 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition](/events/17-october-2023/govware-conference-and-exhibition/)                               |
-| 9.30am to 12.30pm          | [SICW High-Level Panels – Opening Plenary](/events/17-october-2023/sicw-high-level-panels-opening-plenary/)                                                                 |
-| 2.00pm to 3.10pm           | [High-Level Panel: Securing the Future – Public-Private Partnership for Cyber Resilience](/events/17-october-2023/sicw-sessions-securing-the-future/)                               |
-| 2.00pm to 3.30pm           | [SG Cyber Safe for Enterprises](/events/17-october-2023/sg-cyber-safe-for-enterprises/)                               |
-| 2.00pm to 5.00pm           | [Global Forum on Cyber Expertise (GFCE) Southeast Asia Regional Meeting](/events/17-october-2023/gfce-sea-regional-meeting/)                               |
-| 2.45pm to 5.45pm           | [International IoT Security Roundtable – Opening Segment &amp; Leadership Dialogue](/events/17-october-2023/iiot-leadership-dialogue/)                               |
-| 3.00pm to 5.30pm           | [SICW Women in Cyber](/events/17-october-2023/sicw-women-in-cyber/)                               |
-| 4.00pm to 5.10pm           | [High-Level Panel: Ransomware Exposed – Insights into Operations and Safeguarding Techniques](/events/17-october-2023/sicw-sessions-insights-on-ransomware-exposed/)                               |
-| <br> **18 October 2023** <br>*(Wednesday)*          |                                                                                           |
-| 8.30am to 12.30pm           | [ASEAN Ministerial Conference on Cybersecurity (AMCC)](/events/18-october-2023/asean-ministerial-conference-on-cybersecurity/)                               |
-| 8.30am to 5.00pm          | [IoT Hackathon: SPIRITCYBER–2023](/events/18-october-2023/iot-hackathon-spiritcyber-2023/)                                                                 |
-| 9.00am to 5.30pm              | [GovWare Conference &amp; Exhibition 2023](/events/18-october-2023/govware-conference-and-exhibition/)                                                                          |
-| 9.00am to 6.00pm           | [ASEAN Cybercrime Prosecutors' Roundtable Meeting](/events/18-october-2023/acprm/)                               |
-| 10.00am to 12.30pm           | [International IoT Security Roundtable – Technical Panel](/events/18-october-2023/iiot-technical-panel/)                               |
-| 10.00am to 4.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/18-october-2023/asean-cert-incident-drill/)                               |
-| 2.00pm to 3.10pm          | [High-Level Panel: AI Revolution - Reshaping Cybersecurity in the Era of Generative&nbsp;AI](/events/18-october-2023/sicw-sessions-reshaping-cybersecurity-in-the-era-of-generative-ai/)                                                                 |
-| 2.00pm to 5.00pm          | [EU, Singapore and Czech Republic Seminar on Critical Information Infrastructure Protection (CIIP)](/events/18-october-2023/ciip/)                                                                 |
-| 2.00pm to 6.00pm          | [Scams and Mobile Security](/events/18-october-2023/scams-and-mobile-security/)                                                                 |
-| 4.00pm to 5.10pm          | [High-Level Panel: The Cyber Attribution&nbsp;Conundrum - A sharp&nbsp;sword or a blunt&nbsp;blade?](/events/18-october-2023/sicw-sessions-the-cyber-attribution-conundrum/)                                                                 |
-| <br> **19 October 2023** <br>*(Thursday)* |                                                                                                |
-| 8.30am to 4.00pm              | [IoT Hackathon: SPIRITCYBER–2023](/events/19-october-2023/iot-hackathon-spiritcyber-2023/)                                                                          |
-| 9.00am to 10.10am          | [High-Level Panel: Combating Advanced Cybersecurity Threats&nbsp;Amidst Evolving Digital Frontiers](/events/19-october-2023/sicw-sessions-combating-advanced-cybersecurity-threats/)                                                                 |
-| 9.00am to 12.00pm           | [International IoT Security Roundtable – Elevating Medical Device Security](/events/19-october-2023/international-iot-security-roundtable-elevating-medical-device-security/)                               |
-| 9.00am to 5.00pm           | [5G PT Symposium](/events/19-october-2023/5g-pt-symposium/)                               |
-| 9.00am to 5.00pm           | [9th ASEAN Senior Officials Roundtable on Cybercrime](/events/19-october-2023/senior-officials-roundtable-on-cybercrime/)                               |
-| 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2023](/events/19-october-2023/govware-conference-and-exhibition/)                               |
-| 10.00am to 12.30pm           | [ASEAN CERT Incident Drill (ACID)](/events/19-october-2023/asean-cert-incident-drill/)                               |
-| 11.00am to 12.10pm          | [High-Level Panel: Cyber&nbsp;Multilateralism&nbsp;and&nbsp;the&nbsp;Race&nbsp;against&nbsp;Change - Affirming&nbsp;the&nbsp;UN’s&nbsp;relevance](/events/19-october-2023/sicw-sessions-cyber-multilateralism-and-the-race-against-change/)                                                                 |
+| <br> **14 October 2024** <br>*(Monday)* |                                                                                                |                            
+| 7.00pm to 9.45pm           | [SICW Summit](/events/14-oct/sicw-summit/)                               |
+| <br> **15 October 2024** <br>*(Tuesday)* |                                                                                                |                            
+| 9.00am to 5.30pm           | [IoT Hackathon: SPIRITCYBER 2024](/events/15-oct/iot-hackathon-spiritcyber-2024/)                               |
+| 9.00am to 5.30pm           | [GovWare Conference and Exhibition 2024](/events/15-oct/govware-conference-and-exhibition-2024/)                               |
+| 9.30am to 9.50am           | [SICW Opening Ceremony](/events/15-oct/sicw-opening-ceremony/)                               |
+| 9.50am to 12.30pm           | [High–Level Panels: Opening Plenary](/events/15-oct/sicw-high-level-panels-opening-plenary/)                               |
+| 10.00am to 4.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/15-oct/asean-cert-incident-drill-acid/)                               |
+| 2.00pm to 3.00pm           | [High-Level Panel: Insights into 2024’s Cyber Threats](/events/15-oct/high-level-panel-insights-into-2024-s-cyber-threats/)                               |
+| 2.00pm to 3.30pm           | [SICW Women in Cyber](/events/15-oct/sicw-women-in-cyber/)                               |
+| 2.00pm to 4.00pm           | [SG Cyber Safe for Enterprises](/events/15-oct/sg-cyber-safe-for-enterprises/)                               |
+| <br> **16 October 2024** <br>*(Wednesday)* |                                                                                                |
+| Full Day           | [ASEAN Cybercrime Prosecutors’ Roundtable Meeting](/events/16-oct/acprm/)                               |
+| 8.30am to 12.30pm           | [9th ASEAN Ministerial Conference on Cybersecurity (AMCC)](/9th-asean-ministerial-conference-on-cybersecurity-amcc/)                               |
+| 9.00am to 10.30am           | [International IoT Security Roundtable(IIoTSRT) - Opening and Mutual Recognition Agreement Signing](/events/16-oct/iiotsrt-opening-and-mutual-recognition-agreement-mra-signing/)                               |
+| 9.00am to 5.30pm           | [IoT Hackathon: SPIRITCYBER 2024](/events/16-oct/iot-hackathon-spiritcyber-2024/)                               |
+| 9.00am to 5.30pm           | [GovWare Conference and Exhibition 2024](/events/16-oct/govware-conference-and-exhibition-2024/)                               |
+| 10.00am to 12.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/16-oct/asean-cert-incident-drill-acid/)                               |
+| 10.30am to 12.00pm           | [High-Level Panel: Can AI be Secure?](/events/16-oct/high-level-panel-can-ai-be-secure/)                               |
+| 1.00pm to 3.30pm           | [High-Level Panel: Trust and Security in the Quantum Era](/events/16-oct/high-level-panel-trust-and-security-in-the-quantum-era/)                               |
+| 2.00pm to 6.00pm           | [Global Forum on Cyber Expertise Southeast Asia Hub Regional Meeting](/events/16-oct/global-forum-on-cyber-expertise-southeast-asia-hub-regional-meeting/)                               |
+| 2.30pm to 4.00pm           | [Scams x Mobile Security](/events/16-oct/scams-x-mobile-security/)                               |
+| 4.00pm to 5.30pm           | [Securing Our Mobile Landscape: Navigating the Myriad of Cyber Threats](/events/16-oct/securing-our-mobile-landscape/)                               |
+| <br> **17 October 2024** <br>*(Thursday)*          |                                                                                           |
+| Full Day           | [10th Senior Officials Roundtable on Cybercrime](/events/17-oct/10th-senior-officials-roundtable-on-cybercrime/)                               |
+| 9.00am to 5.30pm           | [GovWare Conference and Exhibition 2024](/events/17-oct/govware-conference-and-exhibition-2024/)                               |
+| 10.00am to 12.00pm           | [IoT Hackathon: SPIRITCYBER 2024](/events/17-oct/iot-hackathon-spiritcyber-2024/)                               |
+| 11.00am to 12.00pm           | [High-Level Panel: When the Next Disruption Strikes, Who is Responsible for Digital Resilience?](/events/17-oct/when-the-next-disruption-strikes-who-is-responsible-for-digital-resilience/)                               |
+| 1.00pm to 2.00pm           | [High-Level Panel: Augmentation of Cybersecurity Operations using Artificial Intelligence](/events/17-oct/high-level-panel-augmentation-of-cybersecurity-operations-using-ai/)                               |
+| 2.00pm to 3.30pm           | [Securing Smart Cities](/events/17-oct/securing-smart-cities/)                               |
 
 
 *Information is accurate at time of publication*
