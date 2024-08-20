@@ -38,7 +38,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 5.30pm           | [GovWare Conference and Exhibition 2024](/events/17-oct/govware-conference-and-exhibition-2024/)                               |
 | 10.00am to 12.00pm           | [IoT Hackathon: SPIRITCYBER 2024](/events/17-oct/iot-hackathon-spiritcyber-2024/)                               |
 | 11.00am to 12.00pm           | [High-Level Panel: When the Next Disruption Strikes, Who is Responsible for Digital Resilience?](/events/17-oct/when-the-next-disruption-strikes-who-is-responsible-for-digital-resilience/)                               |
-| 1.00pm to 2.00pm           | [High-Level Panel: Augmentation of Cybersecurity Operations using Artificial Intelligence](/events/17-oct/high-level-panel-augmentation-of-cybersecurity-operations-using-ai/)                               |
+| 1.00pm to 2.00pm           | [High-Level Panel: Augmentation of Cybersecurity Operations Using Artificial Intelligence](/events/17-oct/high-level-panel-augmentation-of-cybersecurity-operations-using-ai/)                               |
 | 2.00pm to 3.30pm           | [Securing Smart Cities](/events/17-oct/securing-smart-cities/)                               |
 
 
