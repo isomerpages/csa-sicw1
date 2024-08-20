@@ -6,7 +6,7 @@ variant: markdown
 description: ""
 third_nav_title: 17 October 2024
 ---
-#### **High-Level Panel: Augmentation of Cybersecurity Operations using Artificial Intelligence**
+#### **High-Level Panel: Augmentation of Cybersecurity Operations Using Artificial Intelligence**
 
 **17 October 2024 (Thursday)**  
 *Time: 1.00pm to 2.00pm (GMT +8)*
