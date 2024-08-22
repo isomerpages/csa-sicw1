@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024_hero_banner.jpg
+      background: /images/SICW2024_Banner_v20240822.jpg
   - infopic:
       title: SICW
       subtitle: About
