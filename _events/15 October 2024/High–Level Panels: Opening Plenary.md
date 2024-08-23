@@ -8,7 +8,7 @@ third_nav_title: 15 October 2024
 #### **High–Level Panels: Opening Plenary**
 
 **15 October 2024 (Tuesday)**  
-*Time: 9.50am to 12.30pm (GMT +8)*
+*Time: 9.20am to 12.30pm (GMT +8)*
 
 More information will be made available soon.
 
