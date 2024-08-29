@@ -6,7 +6,7 @@ variant: markdown
 description: ""
 third_nav_title: 16 October 2024
 ---
-#### **International IoT Security Roundtable (IIoTSRT) - Opening and Mutual Recognition Agreement Signing**
+#### **International IoT Security Roundtable (IIoTSRT)**
 
 **16 October 2024 (Wednesday)**  
 *Time: 9.00am to 10.30am (GMT +8)*
