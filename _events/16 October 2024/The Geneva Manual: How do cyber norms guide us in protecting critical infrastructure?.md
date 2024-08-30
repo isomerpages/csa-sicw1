@@ -23,5 +23,14 @@ The inaugural edition of the Geneva Manual focuses on the two norms related to s
 **Format**
 <br>The session invites public policymakers, private sector representatives, including critical infrastructure operators, experts from the cybersecurity and cyber defence community, and compliance representatives.
 
+**Programme**
+
+| 15 mins     | **Welcome Address** |
+| 40 mins     | **Presentation of the Geneva Manual on Responsible Behaviour in Cyberspace (7–10 mins) by DiploFoundation** <br>**Roundtable:**<br>1.	How can we effectively protect critical infrastructure, facilities, and assets that have regional or international impact? What measures should be implemented, and which stakeholders need to be engaged?<br>2.	Is it possible for cyber operations to avoid targeting critical infrastructure, or is that an unrealistic expectation?<br>3.	How to establish accountability for harm caused by threats to critical infrastructure, especially when agreed upon norms are violated? |
+| 40 mins     | **Geneva Manual tabletop exercise: Defining the minimum cybersecurity measures for critical infrastructure protection (CIP)** |
+| 10 mins     | **Conclusion: Exchange of views ** |
+
+
+
 <br><br><br>
 *Information is accurate at time of publication*
