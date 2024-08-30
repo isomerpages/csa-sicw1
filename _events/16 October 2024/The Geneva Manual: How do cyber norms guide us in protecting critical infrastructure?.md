@@ -18,10 +18,10 @@ To maintain international security and peace, do we – both state and non-state
  
 Join us on 16 October to discuss these questions in the context of the Geneva Manual on Responsible Behaviour in Cyberspace, a comprehensive guide on the implementation of cyber norms and confidence-building measures (CBMs) by non-state stakeholders. The Geneva Manual was launched by the Geneva Dialogue, established by the Swiss Federal Department of Foreign Affairs and led by DiploFoundation with support of the Republic and State of Geneva, Center for Digital Trust (C4DT) at EPFL, Swisscom, and UBS. The Geneva Dialogue is a global dialogue which engages over 50 organisations and experts representing different stakeholder groups from all over the world.
 
-The inaugural edition of the Geneva Manual focuses on the two norms related to supply chain security and responsible reporting of ICT vulnerabilities. This session will discuss the zero-draft of the new Geneva Manual chapters on  critical infrastructure protection, including the actual implementation of relevant cyber norms, and thus will help collect necessary input to finalise the next chapter of the Manual. 
-Format
-The session invites public policymakers, private sector representatives, including critical infrastructure operators, experts from the cybersecurity and cyber defence community, and compliance representatives.
+The inaugural edition of the Geneva Manual focuses on the two norms related to supply chain security and responsible reporting of ICT vulnerabilities. **This session will discuss the zero-draft of the new Geneva Manual chapters on critical infrastructure protection, including the actual implementation of relevant cyber norms, and thus will help collect necessary input to finalise the next chapter of the Manual.** 
 
+**Format**
+<br>The session invites public policymakers, private sector representatives, including critical infrastructure operators, experts from the cybersecurity and cyber defence community, and compliance representatives.
 
 <br><br><br>
 *Information is accurate at time of publication*
