@@ -6,7 +6,7 @@ variant: markdown
 description: ""
 third_nav_title: 16 October 2024
 ---
-#### **The Geneva Manual: How do cyber norms guide us in protecting critical infrastructure?**
+#### **The Geneva Manual: How Do Cyber Norms Guide Us In Protecting Critical Infrastructure?**
 
 **16 October 2024 (Wednesday)**  
 *Time: 10.00am to 12.00pm (GMT +8)*
