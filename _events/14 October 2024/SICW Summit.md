@@ -8,7 +8,7 @@ third_nav_title: 14 October 2024
 #### **SICW Summit**
 
 **14 October 2024 (Monday)**  
-*Time: 7.00pm to 9.45pm (GMT +8)
+*Time: 7.00pm to 9.30pm (GMT +8)
 <br>Registration starts at 6.00pm. Guests to be seated by 6.45pm*
 
 *Format: Closed Door Event*
