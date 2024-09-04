@@ -75,7 +75,7 @@ ix.	The media pass is **NON-TRANSFERABLE**. It may only be used by the person wh
 
 **4. Media Centre**
 
-i.	There will be a Media Centre located at Sands Expo and Convention Centre, Level 4, Begonia 3010A, with free Internet access.
+i.	There will be a Media Centre located at Sands Expo and Convention Centre, Level 4, with free Internet access.
 <br><br>ii.	Limited workstations will be available on a first-come-first-served basis to the media in the Media Centre.
 <br><br>iii.	A confirmed schedule of events will be available in the press kit, which will be provided to all accredited journalists.
 <br><br>iv.	Please note that the Media Centre will be open from **15-17 October 2024, 0830 to 1800hrs**.
