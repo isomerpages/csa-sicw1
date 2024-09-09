@@ -31,7 +31,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 10.00am to 12.00pm           | [The Geneva Manual: How Do Cyber Norms Guide Us In Protecting Critical Infrastructure?](/events/16-oct/the-geneva-manual/)                               |
 | 10.30am to 12.00pm           | [High-Level Panel: Can AI be Secure?](/events/16-oct/high-level-panel-can-ai-be-secure/)                               |
 | 1.00pm to 3.30pm           | [High-Level Panel: Trust and Security in the Quantum Era](/events/16-oct/high-level-panel-trust-and-security-in-the-quantum-era/)                               |
-| 2.00pm to 6.00pm           | [Bridging the Capacity Gap: Empowering Stakeholders for Secure Digital Southeast Asia](/events/16-oct/bridging-the-capacity-gap/)                               |
+| 2.00pm to 6.00pm           | [Global Forum on Cyber Expertise Southeast Asia Regional Meeting 2024](/events/16-oct/GFCE/)                               |
 | 2.30pm to 4.30pm           | [Mobile Security x Scams](/events/16-oct/mobile-security-x-scams/)                               |
 | 4.30pm to 5.30pm           | [Securing Our Mobile Landscape: Navigating the Myriad of Cyber Threats](/events/16-oct/securing-our-mobile-landscape/)                               |
 | <br> **17 October 2024** <br>*(Thursday)*          |                                                                                           |
