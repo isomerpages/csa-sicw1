@@ -30,7 +30,7 @@ This session will delve into the critical role of digital trust in upholding ele
 
 **SICW HLP Opening Plenary – Panel 3**
 
-**Regulating the Tech Industry: Too little, Too Late?**
+**Regulating the Tech Industry: Too Little, Too Late?**
 <br>As cyber threats evolve and grow more sophisticated, the challenge of regulating the technology industry becomes increasingly complex. The rapid pace of innovation and global reach of digital platforms have created a landscape where traditional regulatory approaches are often too little too late. 
 These challenges are further compounded by the tension between innovation and security. 
 
