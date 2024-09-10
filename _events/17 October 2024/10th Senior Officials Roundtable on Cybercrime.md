@@ -8,7 +8,7 @@ third_nav_title: 17 October 2024
 #### **10th Senior Officials Roundtable on Cybercrime**
 
 **17 October 2024 (Thursday)**  
-*Time: Full Day (GMT +8)*
+*Time: 9.00am to 4.00pm (GMT +8)*
 
 *Format: Closed Door Event*
 
