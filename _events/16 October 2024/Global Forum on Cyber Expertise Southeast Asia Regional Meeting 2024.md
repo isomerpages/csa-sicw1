@@ -1,12 +1,11 @@
 ---
-title: "Bridging the Capacity Gap: Empowering Stakeholders for Secure Digital
-  Southeast Asia"
-permalink: /events/16-oct/bridging-the-capacity-gap/
+title: Global Forum on Cyber Expertise Southeast Asia Regional Meeting 2024
+permalink: /events/16-oct/gfce/
 variant: markdown
 description: ""
 third_nav_title: 16 October 2024
 ---
-#### **Bridging the Capacity Gap: Empowering Stakeholders for Secure Digital Southeast Asia**
+#### **Global Forum on Cyber Expertise Southeast Asia Regional Meeting 2024**
 
 **16 October 2024 (Wednesday)**  
 *Time: 2.00pm to 6.00pm (GMT +8)*
