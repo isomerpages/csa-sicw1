@@ -1,5 +1,5 @@
 collections:
-  speakers:
+  2023-speakers:
     output: true
     order:
       - Guest of Honour – Mr Heng Swee Keat.md
