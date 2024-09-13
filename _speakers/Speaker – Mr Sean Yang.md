@@ -4,7 +4,7 @@ permalink: /speakers/mr-sean-yang/
 variant: markdown
 description: ""
 ---
-![](/images/2023%20Speakers/benedikt%20wechsler.png)
+![](/images/2024%20speakers/Sean_Yang.png)
 
 #### **Mr Sean Yang**
 
