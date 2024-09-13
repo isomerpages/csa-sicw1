@@ -4,7 +4,7 @@ permalink: /speakers/dr-jerry-park/
 variant: markdown
 description: ""
 ---
-![](/images/2023%20Speakers/allan%20salim%20cabanlong.png)
+![](/images/2024%20speakers/Jerry_Park.png)
 
 #### **Dr Jerry Park**
 
