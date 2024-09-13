@@ -2,4 +2,5 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Sean Yang.md
       - Speaker – Dr Jerry Park.md
