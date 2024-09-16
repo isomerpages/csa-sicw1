@@ -14,7 +14,7 @@ third_nav_title: 15 October 2024
 
 GovWare 2024 confronts the core issues of modern cybersecurity challenges head-on, under the theme of **"Securing Dynamic Digital Roadmaps: Relooking Signposts in Identity, Trust, and Resilience"**, uniting policymakers, tech innovators, and end-users across Asia and beyond, driving pertinent dialogues on the latest trends and critical information flow.&nbsp;
 
-A key feature is the **GovWare Exhibition**, showcasing cutting-edge cybersecurity technologies from over 300 exhibitors serving across the NIST framework. Attendees get unparalleled opportunities to explore the latest advancements and solutions in the industry, from leading innovators to international pavilions, pioneering startups, and Critical Information Infrastructure (CII) innovation showcases from the Finance, Healthcare, and Transport sectors.&nbsp;
+A key feature is the **GovWare Exhibition**, showcasing cutting-edge cybersecurity technologies from over 300 exhibitors serving across the NIST framework. Attendees get unparalleled opportunities to explore the latest advancements and solutions in the industry, from leading innovators to international pavilions, pioneering startups, and Critical Information Infrastructure (CII) showcases featuring the latest digital innovations transforming the FSI, Healthcare, and Energy sectors.
 
 From the blurred lines between AI and cybersecurity to the proliferation of scams and deep fakes eroding public trust, the digital landscape is undergoing seismic shifts. It is imperative for stakeholders to come together to address modern security issues, rebuild trust, and chart a secure, inclusive digital future.&nbsp;
 
