@@ -8,7 +8,8 @@ third_nav_title: 15 October 2024
 #### **SG Cyber Safe for Enterprises**
 
 **17 October 2024 (Thursday)**  
-*Time: 11.00am to 1.00pm (GMT +8)*
+*Registration: 10.30am (GMT +8)*
+<br>*Time: 11.00am to 1.00pm (GMT +8)*
 
 *Format: Closed Door Event*
 
