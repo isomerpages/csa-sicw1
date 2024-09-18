@@ -1,5 +1,5 @@
 collections:
-  2023-events:
+  2023-past-events:
     output: true
     order:
       - 16 October 2023/List of Events.md
