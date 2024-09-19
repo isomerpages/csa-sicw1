@@ -15,13 +15,7 @@ You can book your stay for SICW 2024, from 11 - 20 October 2024 with our Partner
 * Grand Park City Hall 
 
 **Mandarin Oriental Singapore**
-<br>Mandarin Oriental, Singapore, is a sanctuary of luxury and sophistication overlooking the iconic Marina Bay. Our recently reimagined space invites you to experience Exceptionally Singapore in every detail, providing a gateway to the vibrant energy and heritage that define our city. With 510 opulent rooms and suites boasting stunning views, eight exquisite restaurants including the award-winning MO BAR, The Spa at Mandarin Oriental, Singapore, and the transformed lounge HAUS 65, we are excited to bring the soul of Singapore to life through our transformation. 
-
-Room rates start from SGD $620.00++ per night (rate inclusive of daily breakfast) and benefit includes 15% off Food &amp; Beverage within Mandarin Oriental Singapore.
-
-*Disclaimer: All room categories are subject to availability upon time of reservation request.*
-
-<a href="https://book.passkey.com/event/50864754/owner/2731134/home" target="_blank">**Book Now**</a>
+<br>The partner rates at Mandarin Oriental Hotel no longer apply as of 15 September 2024. Rooms may still be available, so if you are interested to make a booking, please contact them directly at mosin-reservations@mohg.com 
 
 **ParkRoyal Collection Marina Bay, Singapore**
 <br>Sitting in the heart of the central business district and Marina Bay, with panoramic views of the Singapore city skyline, the 583-room PARKROYAL COLLECTION Marina Bay, Singapore is a champion of sustainability, environmental responsibility and advocate for green innovations in the hospitality industry, and home to Southeast Asia’s largest indoor sky-lit atrium, containing over 2,400 plants, trees, shrubs and groundcovers from more than 60 varieties of flora spread across 1,400 square metres of space throughout. 
