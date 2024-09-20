@@ -19,7 +19,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.20am to 12.30pm           | [High–Level Panels: Opening Plenary](/events/15-oct/sicw-high-level-panels-opening-plenary/)                               |
 | 10.00am to 4.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/15-oct/asean-cert-incident-drill-acid/)                               |
 | 2.00pm to 3.00pm           | [High-Level Panel: Insights into 2024’s Cyber Threats](/events/15-oct/high-level-panel-insights-into-2024-s-cyber-threats/)                               |
-| 2.00pm to 3.30pm           | [SICW Women in Cyber](/events/15-oct/sicw-women-in-cyber/)                               |
+| 2.00pm to 3.20pm           | [SICW Women in Cyber](/events/15-oct/sicw-women-in-cyber/)                               |
 | 2.00pm to 3.45pm           | [Empowering Innovation through Research &amp; Enterprise](/events/15-oct/empowering-innovation-through-research-enterprise/)                               |
 | 2.00pm to 6.00pm           | [World Economic Forum Systems of Cyber Resilience : Electricity Initiative Global Community Meeting](/events/15-oct/world-economic-forum-systems-of-cyber-resilience/)                               |
 | <br> **16 October 2024** <br>*(Wednesday)* |                                                                                                |
