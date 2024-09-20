@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Selina Yuan.md
       - Speaker – Ms Eva Chen.md
       - Moderator – Mr Garrettson Blight.md
       - Speaker – Mr Christopher Ahlberg.md
