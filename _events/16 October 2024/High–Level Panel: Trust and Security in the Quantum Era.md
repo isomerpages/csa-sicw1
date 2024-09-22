@@ -37,7 +37,7 @@ Following the earlier panel on awareness and advisories relating to the threat a
 | [Mr Alexey Bocharniko](/speakers/mr-alexey-bocharniko/)  | *Director of Cybersecurity Strategy* <br>Accenture      |
 | [Prof Ronald Cramer](/speakers/prof-ronald-cramer/)  | *Head of the Cryptology Group* <br>Centrum Wiskunde informatica (CWI)      |
 | [Mr Ben Packman](/speakers/mr-ben-packman/)  | *Chief Strategy Officer* <br>PQShield      |
-| [Mr John Buselli](/speakers/ms-barbara-kluge/)  | *IBM Research*      |
+| [Mr John Buselli](/speakers/mr-john-buselli/)  | *IBM Research*      |
 
 <br><br><br>
 *Information is accurate at time of publication*
