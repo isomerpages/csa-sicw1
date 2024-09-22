@@ -28,5 +28,16 @@ The difficulty is exacerbated by the need to consider and change the crypto keys
 
 Following the earlier panel on awareness and advisories relating to the threat and risk, this panel aims to examine the quantum-safe solutions aimed at mitigating these threats, and how **assurance** in these new solutions can be built.  The discussion of the technical challenges in adopting and integrating these solutions will lead into an exchange on how we can chart a course to develop and operationalise quantum-safe solutions and strategies with agility to maintain digital resiliency and secure digital assets against the quantum threat.
 
+|**Speakers**          |                                                              |
+| [Mr Quek Gim Pew](/speakers/mr-quek-gim-pew/)  | *Senior R&amp;D, Consultant* <br>MINDEF      |
+| [Dr Vikram Sharma](/speakers/dr-vikram-sharma/)  | *CEO &amp; Founder* <br>Quintessence Labs      |
+| [Dr Matt Henricksen](/speakers/dr-matt-henricksen/)  | *Principal Engineer* <br>Huawei      |
+| [Mr Gaurav Keerthi](/speakers/mr-gaurav-keerthi/)  | *EnsignExecutive Vice President* <br>Ensign Infosecurity      |
+| [Prof Ding Jintai](/speakers/prof-ding-jintai/)  | *Tsinghua University*      |
+| [Mr Alexey Bocharniko](/speakers/mr-alexey-bocharniko/)  | *Director of Cybersecurity Strategy* <br>Accenture      |
+| [Prof Ronald Cramer](/speakers/prof-ronald-cramer/)  | *Head of the Cryptology Group* <br>Centrum Wiskunde informatica (CWI)      |
+| [Mr Ben Packman](/speakers/mr-ben-packman/)  | *Chief Strategy Officer* <br>PQShield      |
+| [Mr John Buselli](/speakers/ms-barbara-kluge/)  | *IBM Research*      |
+
 <br><br><br>
 *Information is accurate at time of publication*
