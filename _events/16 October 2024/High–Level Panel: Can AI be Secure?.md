@@ -14,5 +14,8 @@ Artificial Intelligence (AI) is being adopted at an increasingly rapid pace, inc
 
 This panel brings together international experts from governments and industry to explore how to approach the security of AI systems, both as part of AI governance and other traditional cybersecurity practices, and discuss how stakeholders should work together to safeguard the development, deployment and use of AI. 
 
+|**Moderator**          |                                                              |
+| [Dr He Ruimin](/speakers/dr-he-ruimin/)  | *CAIO* <br>MDDI      |
+
 <br><br><br>
 *Information is accurate at time of publication*
