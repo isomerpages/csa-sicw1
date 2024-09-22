@@ -19,7 +19,7 @@ Cyber threats are becoming increasingly sophisticated as threat actors tap on Ge
 | [Mr Jim Allen](/speakers/mr-jim-allen/)  | *Executive Vice President* <br>Booz Allen Hamilton      |
 | [Dr Dorit Dor](/speakers/dr-dorit-dor/)  | *Chief Technology Officer* <br>Check Point      |
 | [Dr Sanjay Bahl](/speakers/dr-sanjay-bahl/)  | *Director-General of CERT-In* <br>India      |
-| [Lieutenant General Michelle McGuiness](/speakers/dr-sanjay-bahl/)  | *National Cyber Security Coordinator* <br>Australian Government      |
+| [Lieutenant General Michelle McGuiness](/speakers/lieutenant-general-michelle-mcguiness/)  | *National Cyber Security Coordinator* <br>Australian Government      |
 |<br> **Moderator**          |                                                           |
 | [Mr Charles Ng](/speakers/mr-charles-ng/)  | *Executive Vice President*<br>Ensign InfoSecurity                |
 | | |
