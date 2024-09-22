@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Prof Ding Jintai.md
       - Speaker – Mr Gaurav Keerthi.md
       - Speaker – Dr Matt Henricksen.md
       - Speaker – Dr Vikram Sharma.md
