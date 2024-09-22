@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Craig Stephen.md
       - Guest of Honour – Mr David Koh.md
       - Speaker – Mr Gert Auväärt.md
       - Speaker – Mr Sim Feng–Ji.md
