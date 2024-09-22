@@ -2,8 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Ms Manon Le Blanc.md
-      - Speaker – Mr Nathaniel Fick.md
       - Guest of Honour – Mr David Koh.md
       - Guest of Honour – Mr Teo Chee Hean.md
       - Guest of Honour – Mrs Josephine Teo.md
@@ -13,11 +11,13 @@ collections:
       - Speaker – Mr Christopher Anthony.md
       - Speaker – Mr Gert Auväärt.md
       - Speaker – Dr Sanjay Bahl.md
+      - Speaker – Ms Manon Le Blanc.md
       - Speaker – Mr Alexey Bocharniko.md
       - Speaker – Mr John Buselli.md
       - Speaker – Ms Eva Chen.md
       - Speaker – Prof Ronald Cramer.md
       - Speaker – Dr Dorit Dor.md
+      - Speaker – Mr Nathaniel Fick.md
       - Speaker – Mr Fabio Fratucello.md
       - Speaker – Mr Robert Hannigan.md
       - Speaker – Dr Matt Henricksen.md
