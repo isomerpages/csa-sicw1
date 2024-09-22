@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Prof Wenke Lee.md
       - Speaker – Prof Luke Ong.md
       - Speaker – Mr Craig Stephen.md
       - Guest of Honour – Mr David Koh.md
