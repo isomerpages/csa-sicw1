@@ -4,3 +4,6 @@ permalink: /speaker-prof-ding-jintai/
 variant: markdown
 description: ""
 ---
+#### **Prof Ding Jintai**
+
+*Tsinghua University*
