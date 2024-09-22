@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Prof Ronald Cramer.md
       - Speaker – Mr Alexey Bocharniko.md
       - Speaker – Prof Ding Jintai.md
       - Speaker – Mr Gaurav Keerthi.md
