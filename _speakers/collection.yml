@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – MG Lee Yi–Jin.md
       - Speaker – Mr John Buselli.md
       - Speaker – Mr Ben Packman.md
       - Speaker – Prof Ronald Cramer.md
