@@ -4,6 +4,6 @@ permalink: /dr-he-ruimin/
 variant: markdown
 description: ""
 ---
-#### **Mr Heng Swee Keat**
+#### **Dr He Ruimin**
 
-*CAIO <br>Coordinating Minister for Economic Policies*
+*CAIO, <br> MDDI*
