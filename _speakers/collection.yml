@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Guest of Honour – Mrs Josephine Teo.md
       - Moderator – Mr Gaurav Keerthi.md
       - Speaker – Ms Sharon Tan.md
       - Speaker – Prof Wenke Lee.md
