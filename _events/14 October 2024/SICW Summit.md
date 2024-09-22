@@ -21,5 +21,9 @@ Today, the increasingly fragmented digital and cyber landscape fraught with ongo
 
 The SICW Summit by-invitation only gala dinner will kick off the 9th Singapore International Cyber Week. It inaugurates discussions in the days to follow around this year’s SICW theme of “Trust and Security in the Digital Era”. International heads of country delegations, top senior officials, industry leaders and key cybersecurity personalities will attend the event.
 
+|**GOH**          |                                                              |
+| [Mrs Josephine Teo](/speakers/mrs-josephine-teo/)  | *Minister for Digital Development and Information and<br>Second Minister for Home Affairs*     |
+
+
 <br><br><br>
 *Information is accurate at time of publication*
