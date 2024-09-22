@@ -30,7 +30,12 @@ The inaugural edition of the Geneva Manual focuses on the two norms related to s
 | 40 mins     | **Geneva Manual tabletop exercise: Defining the minimum cybersecurity measures for critical infrastructure protection (CIP)** |
 | 10 mins     | **Conclusion: Exchange of views** |
 
-
+|**Speakers**          |                                                              |
+| [Ms Anastasiya Kazakova](/speakers/ms-anastasiya-kazakova/)  | *Cyber Diplomacy Knowledge Fellow* <br>DiploFoundation      |
+| [Mr Benjamin Ang](/speakers/mr-benjamin-ang/)  | *Senior Fellow, Head of Centre of Excellence for National Security;* <br>Head, Digital Impact      |
+| [Mr Teo Xiang Zheng](/speakers/mr-teo-xiang-zheng/)  | *Vice President of Advisory* <br>Ensign Infosecurity      |
+| [Mr Christopher Anthony](/speakers/mr-christopher-anthony/)  | *Director - Critical Information Infrastructure Division (CIID)* <br>Cyber Security Agency of Singapore (CSA)      |
+| [Dr Regula Kurzbein](/speakers/dr-regula-kurzbein/)  | *Deputy Head of Mission* <br>Swiss Emission in Singapore      |
 
 <br><br><br>
 *Information is accurate at time of publication*
