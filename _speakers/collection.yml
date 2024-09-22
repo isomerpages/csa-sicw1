@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Fabio Fratucello.md
       - Speaker – Mr Robert Hannigan.md
       - Moderator – Mr Charles Ng.md
       - Speaker – Dr He Ruimin.md
