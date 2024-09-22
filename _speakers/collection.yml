@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Dr Vikram Sharma.md
       - Speaker – Mr Quek Gim Pew.md
       - Speaker – Lieutenant General Michelle McGuiness.md
       - Speaker – Dr Sanjay Bahl.md
