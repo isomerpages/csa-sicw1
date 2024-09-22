@@ -14,7 +14,10 @@ As cyber threats evolve to be more sophisticated and prevalent, understanding th
 
 |**Speakers**          |                                                              |
 | [Mr Christopher Ahlberg](/speakers/mr-christopher-ahlberg/)  | *Chief Executive Officer* <br>Recorded Future      |
-| [Mr Christopher Ahlberg](/speakers/mr-christopher-ahlberg/)  | *Chief Executive Officer* <br>Recorded Future      |
+| [Ms Eva Chen](/speakers/ms-eva-chen/)  | *Co-Founder &amp; CEO* <br>Trend Micro      |
+| [Ms Selina Yuan](/speakers/ms-selina-yuan/)  | *President, Alibaba Cloud Intelligence International* <br>&amp; Vice President, Alibaba Group, Alibaba Cloud Intelligence Group      |
+| [Mr Emmanuel Naegelen](/speakers/mr-emmanuel-naegelen/)  | *Deputy Director-General* <br>ANSSI      |
+| [Ms Barbara Kluge](/speakers/ms-barbara-kluge/)  | *BSI* <br>Germany      |
 |<br> **Moderator**          |                                                           |
 | [Mr Garrettson Blight](/speakers/mr-garrettson-blight/)  | *Managing Director, Global Cyber,*<br>Booz Allen Hamilton                |
 | | |
