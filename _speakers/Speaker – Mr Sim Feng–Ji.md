@@ -4,3 +4,6 @@ permalink: /speaker-mr-sim-feng-ji/
 variant: markdown
 description: ""
 ---
+#### **Mr Sim Feng-Ji**
+
+*Deputy Secretary (Digital Government), <br> Ministry of Digital Development and Information*
