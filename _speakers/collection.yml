@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Akshay Joshi.md
       - Speaker – Dr Kaleem Ahmed Usmani.md
       - Speaker – MG Lee Yi–Jin.md
       - Speaker – Mr John Buselli.md
