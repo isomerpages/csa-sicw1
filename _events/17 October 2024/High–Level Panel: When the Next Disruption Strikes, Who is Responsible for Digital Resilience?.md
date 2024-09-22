@@ -19,5 +19,11 @@ Without resilience, it becomes difficult to have trust in our digital ecosystem.
 
 This session will discuss the strategic and policy implications of resilience in the digital domain, and the possible next steps we can take to strengthen resilience in the digital domain. Join our panel of government experts and industry leaders as they discuss the roles and responsibilities of the public and private sectors in strengthening resilience in the digital domain, and how public-private partnerships can contribute to this important effort.
 
+|**Speakers**          |                                                              |
+| [MG Lee Yi-Jin](/speakers/mg-lee-yi-jin/)  | *Chief of Digital Intelligence Service (CDI)* <br>DIS      |
+| [Dr Kaleem Ahmed Usmani](/speakers/dr-kaleem-ahmed-usmani/)  | *Head of CERT-MU* <br>Mauritius      |
+| [Mr Akshay Joshi](/speakers/mr-akshay-joshi/)  | *Head of Cybersecurity* <br>World Economic Forum      |
+| [Mr Andrew Whittaker](/speakers/mr-andrew-whittaker/)  | *Head of Cyber Policy Department* <br>UK Foreign, Commonwealth &amp; Development Office (FCDO)      |
+
 <br><br><br>
 *Information is accurate at time of publication*
