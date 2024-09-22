@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Dr Sanjay Bahl.md
       - Speaker – Dr Dorit Dor.md
       - Speaker – Mr Jim Allen.md
       - Speaker – Mr Fabio Fratucello.md
