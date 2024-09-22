@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Sharon Tan.md
       - Speaker – Prof Wenke Lee.md
       - Speaker – Prof Luke Ong.md
       - Speaker – Mr Craig Stephen.md
