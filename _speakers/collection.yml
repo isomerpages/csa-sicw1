@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Genie Sugene Gan.md
       - Speaker – Mr Tom Tovar.md
       - Speaker – Mr Er Chiang Kai.md
       - Speaker – Mr Dmitry Volkov.md
