@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Moderator – Mr Rodney Tan.md
       - Guest of Honour – Mr David Koh.md
       - Guest of Honour – Mr Teo Chee Hean.md
       - Guest of Honour – Mrs Josephine Teo.md
