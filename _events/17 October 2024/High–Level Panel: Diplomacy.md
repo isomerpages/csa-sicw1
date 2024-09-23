@@ -17,7 +17,7 @@ However, technologies have changed the way we interact and live. Is multilateral
 In this session, panellists will explore the impact of the technology era on multilateralism and the role of the UN in fostering global collaboration. They will discuss how nations can strengthen multilateralism to ensure that it is open and inclusive, where every country’s voice is heard and included. 
 
 |**Speakers**          |                                                              |
-| [Mr Nathaniel Fick](/speakers/mr-nathaniel-fick/)  | *Ambassador at Large for Cyberspace and Digital Policy*      |
+| [Mr Nathaniel Fick](/speakers/mr-nathaniel-fick/)  | *Ambassador at Large* <br>Cyberspace and Digital Policy      |
 | [Ms Manon Le Blanc](/speakers/ms-manon-le-blanc/)  | *European Union – Coordinator for Cyber Issues* <br>European External Action Service (EEAS)      |
 
 <br><br><br>
