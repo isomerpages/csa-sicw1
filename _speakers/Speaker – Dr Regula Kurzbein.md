@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Dr Regula Kurzbein**
 
-*Deputy Head of Mission, <br> Swiss Emission in Singapore*
+*Deputy Head of Mission, <br> Embassy of Switzerland in Singapore*
