@@ -22,6 +22,5 @@ With the proliferation of mobile applications, there is a parallel rise in sophi
 | [Mr Rodney Tan](/speakers/mr-rodney-tan/)  | *Director of Cybersecurity Engineering Centre*<br>Cyber Security Agency of Singapore                |
 | | |
 
-
 <br><br><br>
 *Information is accurate at time of publication*
