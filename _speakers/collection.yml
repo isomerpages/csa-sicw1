@@ -2,12 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Mr Alex Duff.md
-      - Speaker – Ms Genie Sugene Gan.md
-      - Speaker – Mr Tom Tovar.md
-      - Speaker – Mr Er Chiang Kai.md
-      - Speaker – Mr Dmitry Volkov.md
-      - Moderator – Mr Rodney Tan.md
       - Guest of Honour – Mr David Koh.md
       - Guest of Honour – Mr Teo Chee Hean.md
       - Guest of Honour – Mrs Josephine Teo.md
@@ -23,12 +17,15 @@ collections:
       - Speaker – Ms Eva Chen.md
       - Speaker – Prof Ronald Cramer.md
       - Speaker – Dr Dorit Dor.md
+      - Speaker – Mr Alex Duff.md
       - Speaker – Mr Nathaniel Fick.md
       - Speaker – Mr Fabio Fratucello.md
+      - Speaker – Ms Genie Sugene Gan.md
       - Speaker – Mr Robert Hannigan.md
       - Speaker – Dr Matt Henricksen.md
       - Speaker – Prof Ding Jintai.md
       - Speaker – Mr Akshay Joshi.md
+      - Speaker – Mr Er Chiang Kai.md
       - Speaker – Ms Anastasiya Kazakova.md
       - Speaker – Mr Gaurav Keerthi.md
       - Speaker – Ms Barbara Kluge.md
@@ -47,9 +44,12 @@ collections:
       - Speaker – Mr Sim Feng–Ji.md
       - Speaker – Ms Sharon Tan.md
       - Speaker – Mr Teo Xiang Zheng.md
+      - Speaker – Mr Tom Tovar.md
       - Speaker – Dr Kaleem Ahmed Usmani.md
+      - Speaker – Mr Dmitry Volkov.md
       - Speaker – Mr Andrew Whittaker.md
       - Speaker – Mr Sean Yang.md
       - Speaker – Ms Selina Yuan.md
       - Moderator – Mr Garrettson Blight.md
       - Moderator – Mr Charles Ng.md
+      - Moderator – Mr Rodney Tan.md
