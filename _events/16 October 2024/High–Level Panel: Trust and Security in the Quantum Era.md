@@ -32,7 +32,7 @@ Following the earlier panel on awareness and advisories relating to the threat a
 | [Mr Quek Gim Pew](/speakers/mr-quek-gim-pew/)  | *Senior R&amp;D, Consultant* <br>MINDEF      |
 | [Dr Vikram Sharma](/speakers/dr-vikram-sharma/)  | *CEO &amp; Founder* <br>Quintessence Labs      |
 | [Dr Matt Henricksen](/speakers/dr-matt-henricksen/)  | *Principal Engineer* <br>Huawei      |
-| [Mr Gaurav Keerthi](/speakers/mr-gaurav-keerthi/)  | *EnsignExecutive Vice President* <br>Ensign Infosecurity      |
+| [Mr Gaurav Keerthi](/speakers/mr-gaurav-keerthi/)  | *EnsignExecutive Vice President* <br>Ensign InfoSecurity      |
 | [Prof Ding Jintai](/speakers/prof-ding-jintai/)  | *Tsinghua University*      |
 | [Mr Alexey Bocharniko](/speakers/mr-alexey-bocharniko/)  | *Director of Cybersecurity Strategy* <br>Accenture      |
 | [Prof Ronald Cramer](/speakers/prof-ronald-cramer/)  | *Head of the Cryptology Group* <br>Centrum Wiskunde informatica (CWI)      |
