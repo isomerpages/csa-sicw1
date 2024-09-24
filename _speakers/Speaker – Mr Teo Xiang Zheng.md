@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Mr Teo Xiang Zheng**
 
-*Vice President of Advisory, <br> Ensign Infosecurity*
+*Vice President of Advisory, <br> Ensign InfoSecurity*
