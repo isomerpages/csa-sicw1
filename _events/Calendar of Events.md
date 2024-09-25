@@ -26,8 +26,8 @@ Event dates and timings below are in Singapore time (GMT +8).
 | Full Day           | [ASEAN Cybercrime Prosecutors’ Roundtable Meeting](/events/16-oct/acprm/)                               |
 | 8.30am to 12.30pm           | [9th ASEAN Ministerial Conference on Cybersecurity (AMCC)](/9th-asean-ministerial-conference-on-cybersecurity-amcc/)                               |
 | 9.00am to 10.30am           | [International IoT Security Roundtable(IIoTSRT)](/events/16-oct/iiotsrt/)                               |
+| 9.00am to 5.00pm           | [GovWare Conference and Exhibition 2024](/events/16-oct/govware-conference-and-exhibition-2024/)                               |
 | 9.00am to 5.30pm           | [IoT Hackathon: SPIRITCYBER 2024](/events/16-oct/iot-hackathon-spiritcyber-2024/)                               |
-| 9.00am to 5.30pm           | [GovWare Conference and Exhibition 2024](/events/16-oct/govware-conference-and-exhibition-2024/)                               |
 | 10.00am to 12.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/16-oct/asean-cert-incident-drill-acid/)                               |
 | 10.00am to 12.00pm           | [The Geneva Manual: How Do Cyber Norms Guide Us In Protecting Critical Infrastructure?](/events/16-oct/the-geneva-manual/)                               |
 | 10.30am to 12.00pm           | [High-Level Panel: Can AI be Secure?](/events/16-oct/high-level-panel-can-ai-be-secure/)                               |
