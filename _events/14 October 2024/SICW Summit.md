@@ -8,7 +8,7 @@ third_nav_title: 14 October 2024
 #### **SICW Summit**
 
 **14 October 2024 (Monday)**  
-*Time: 7.00pm to 9.30pm (GMT +8)
+*Time: 7.00pm to 9.00pm (GMT +8)
 <br>Registration starts at 6.00pm. Guests to be seated by 6.45pm*
 
 *Format: Closed Door Event*
@@ -20,6 +20,10 @@ We live in a Digital Era predicated on trust. Trust is vital for States to coope
 Today, the increasingly fragmented digital and cyber landscape fraught with ongoing conflicts, geopolitical and economic contestations, and supply chain vulnerabilities threatens to erode and undermine the digital trust that is essential for international stability and societies to flourish. Politically, the lack of trust and of security in the digital space affects our democratic processes in what is now being termed as a ‘global election year’.
 
 The SICW Summit by-invitation only gala dinner will kick off the 9th Singapore International Cyber Week. It inaugurates discussions in the days to follow around this year’s SICW theme of “Trust and Security in the Digital Era”. International heads of country delegations, top senior officials, industry leaders and key cybersecurity personalities will attend the event.
+
+|**GOH**          |                                                              |
+| [Mrs Josephine Teo](/speakers/mrs-josephine-teo/)  | *Minister for Digital Development and Information and<br>Second Minister for Home Affairs*     |
+
 
 <br><br><br>
 *Information is accurate at time of publication*

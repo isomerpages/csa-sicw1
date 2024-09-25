@@ -12,5 +12,15 @@ third_nav_title: 15 October 2024
 
 As cyber threats evolve to be more sophisticated and prevalent, understanding the current trends, tactics and strategies employed by threat actors is crucial for businesses, government agencies, and individuals. Hear insights into the current cyber threat landscape and engage with a panel of leaders and cybersecurity professionals as they delve into the latest developments in cyber threats.
 
+|**Speakers**          |                                                              |
+| [Mr Christopher Ahlberg](/speakers/mr-christopher-ahlberg/)  | *Chief Executive Officer* <br>Recorded Future      |
+| [Ms Eva Chen](/speakers/ms-eva-chen/)  | *Co-Founder &amp; CEO* <br>Trend Micro      |
+| [Mr Emmanuel Naegelen](/speakers/mr-emmanuel-naegelen/)  | *Deputy Director-General* <br>ANSSI      |
+| [Ms Barbara Kluge](/speakers/ms-barbara-kluge/)  | *BSI* <br>Germany      |
+|<br> **Moderator**          |                                                           |
+| [Mr Garrettson Blight](/speakers/mr-garrettson-blight/)  | *Managing Director, Global Cyber,*<br>Booz Allen Hamilton                |
+| | |
+
+
 <br><br><br>
 *Information is accurate at time of publication*
