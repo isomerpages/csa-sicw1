@@ -8,7 +8,7 @@ third_nav_title: 17 October 2024
 #### **GovWare Conference &amp; Exhibition 2024**
 
 **17 October 2024 (Thursday)**  
-*Time: 9.00am to 5.30pm (GMT +8)*
+*Time: 9.00am to 4.45pm (GMT +8)*
 
 **GovWare Conference and Exhibition (GovWare 2024)** is the premier cybersecurity trade event held as part of Singapore International Cyber Week.&nbsp;
 
