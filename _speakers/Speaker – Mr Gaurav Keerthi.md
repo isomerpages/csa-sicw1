@@ -6,4 +6,5 @@ description: ""
 ---
 #### **Mr Gaurav Keerthi**
 
-*EnsignExecutive Vice President, <br> Ensign InfoSecurity*
+*Executive Vice President, Advisory and Emerging Business
+<br>Ensign InfoSecurity*
