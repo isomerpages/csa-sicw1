@@ -19,7 +19,7 @@ With the proliferation of mobile applications, there is a parallel rise in sophi
 | [Ms Genie Sugene Gan](/speakers/ms-genie-sugene-gan/)  | *Executive Committee Member*<br>SGTech and Singapore Computer Society Cybersecurity Chapters           |
 | [Mr Alex Duff](/speakers/mr-alex-duff/)  | *Head of Platform Ecosystem Data Security*<br>Meta           |
 |<br> **Moderator**          |                                                           |
-| [Mr Rodney Tan](/speakers/mr-rodney-tan/)  | *Director of Cybersecurity Engineering Centre*<br>Cyber Security Agency of Singapore                |
+| [Mr Rodney Tan](/speakers/mr-rodney-tan/)  | *Director of Cybersecurity Engineering Centre*<br>Cyber Security Agency of Singapore (CSA)                |
 | | |
 
 <br><br><br>
