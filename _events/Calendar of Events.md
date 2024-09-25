@@ -15,9 +15,9 @@ Event dates and timings below are in Singapore time (GMT +8).
 | <br> **15 October 2024** <br>*(Tuesday)* |                                                                                                |                            
 | 9.00am to 9.20am           | [SICW Opening Ceremony](/events/15-oct/sicw-opening-ceremony/)                               |
 | 9.00am to 5.30pm           | [IoT Hackathon: SPIRITCYBER 2024](/events/15-oct/iot-hackathon-spiritcyber-2024/)                               |
-| 9.00am to 5.30pm           | [GovWare Conference and Exhibition 2024](/events/15-oct/govware-conference-and-exhibition-2024/)                               |
 | 9.20am to 12.30pm           | [High–Level Panels: Opening Plenary](/events/15-oct/sicw-high-level-panels-opening-plenary/)                               |
 | 10.00am to 4.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/15-oct/asean-cert-incident-drill-acid/)                               |
+| 11.30am to 5.30pm           | [GovWare Conference and Exhibition 2024](/events/15-oct/govware-conference-and-exhibition-2024/)                               |
 | 2.00pm to 3.00pm           | [High-Level Panel: Insights into 2024’s Cyber Threats](/events/15-oct/high-level-panel-insights-into-2024-s-cyber-threats/)                               |
 | 2.00pm to 3.20pm           | [SICW Women in Cyber](/events/15-oct/sicw-women-in-cyber/)                               |
 | 2.00pm to 3.45pm           | [Empowering Innovation through Research &amp; Enterprise](/events/15-oct/empowering-innovation-through-research-enterprise/)                               |
