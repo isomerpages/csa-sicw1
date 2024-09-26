@@ -15,5 +15,8 @@ third_nav_title: 17 October 2024
 
 The cybersecurity landscape is evolving due to the influence of emerging technologies, leading to the rise of areas such as cloud security, Artificial Intelligence (AI) security and Operational Technology (OT) security. Approaching digital security holistically requires collective responsibility involving both public and private sector. This event aims to update key partners on the roadmap and plans for SG Cyber Safe programme. At the same time, the event will also acknowledge partner contributions and recognise the key partners that have made strong contributions to SG Cyber Safe programme.
 
+|**Guest of Honour**          |                                                              |
+| [Mr Tan Kiat How](/speakers/dr-janil-puthucheary/)  | *Senior Minister of State, Ministry of Digital Development and Information* <br>*Senior Minister of State, Ministry of National Development*<br>Singapore     |
+
 <br><br><br>
 *Information is accurate at time of publication*
