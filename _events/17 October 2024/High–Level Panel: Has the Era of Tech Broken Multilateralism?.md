@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 17 October 2024
 ---
-#### **High-Level Panel: Diplomacy**
+#### **High-Level Panel: Has the Era of Tech Broken Multilateralism?**
 
 **17 October 2024 (Thursday)**  
 *Time: 9.00am to 10.15am (GMT +8)*
