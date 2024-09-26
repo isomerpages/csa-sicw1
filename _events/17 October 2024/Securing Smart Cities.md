@@ -17,10 +17,10 @@ This event will invite government agencies, industry &amp; technology leaders, a
 This year's main focus is on the emergence of Cyber-Physical Risks, with a panel discussion to explore how governments and industry leaders can work together to effectively identify and tackle these issues, whilst striking a balance between usability, cost, and security.
 
 |**Speaker**          |                                                              |
-| [Dr Jerry Park](/speakers/dr-jerry-park/)  | *Executive Vice President of Global B2B/B2G Team, Mobile eXperience Business* <br>Samsung Electronics     |
-| [Mr Sean Yang](/speakers/mr-sean-yang/)  | *Global Cyber Security and Privacy Officer* <br>Huawei Technologies Co., Ltd.     |
-| [Mr Sim Feng-Ji](/speakers/mr-sim-feng-ji/)  | *Deputy Secretary (Digital Government)* <br>Ministry of Digital Development and Information     |
-| [Mr Gert Auväärt](/speakers/mr-gert-auvaart/)  | *Deputy Director General, Information System Authority (RIA)* <br>Estonia     |
+| [Mr Sean Yang](/speakers/mr-sean-yang/)  | *Global Cyber Security and Privacy Officer* <br>Huawei Technologies Co., Ltd.<br>China     |
+| [Mr Gert Auväärt](/speakers/mr-gert-auvaart/)  | *Deputy Director General*<br> Information System Authority (RIA) <br>Estonia     |
+| [Mr Sim Feng-Ji](/speakers/mr-sim-feng-ji/)  | *Deputy Secretary (Digital Government)* <br>Ministry of Digital Development and Information<br>Singapore     |
+| [Dr Jerry Park](/speakers/dr-jerry-park/)  | *Executive Vice President of Global B2B/B2G Team, Mobile eXperience Business* <br>Samsung Electronics<br>South Korea     |
 
 <br><br><br>
 *Information is accurate at time of publication*
