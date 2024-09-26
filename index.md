@@ -33,7 +33,7 @@ sections:
   - infobar:
       title: SICW 2024 Guests of Honour
       id: infobar
-      description: <img src="/images/Home_Page_GOH_Image_4x1.jpg">
+      description: <img src="/images/Home_Page_GOH_4x1.jpg">
   - infobar:
       title: SICW 2024 Highlights
       id: infobar
