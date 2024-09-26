@@ -33,7 +33,7 @@ sections:
   - infobar:
       title: SICW 2024 Event Highlights
       id: infobar
-      description: <img src="Event_Highlights_table">
+      description: "![](/images/Event_Highlights_table.png)"
       button: See all events
       url: /events/calendar-of-events/
   - infopic:
