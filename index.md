@@ -31,4 +31,13 @@ sections:
       title: Past SICW Highlights
       subtitle: Explore
       button: See All
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: "| <br> **14 October 2024** <br>*(Monday)*
+        |                          |     | 7.00pm to 9.00pm           | SICW
+        Summit                           |"
+      button: Button Text
+      alt: Image alt text
 ---
