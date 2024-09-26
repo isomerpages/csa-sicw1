@@ -13,7 +13,7 @@ third_nav_title: 15 October 2024
 More information will be made available soon.
 
 |**GOH**          |                                                              |
-| [Mr David Koh](/speakers/mr-david-koh/)  | *Commissioner of Cybersecurity &amp; Chief Executive (CE)* <br>Cyber Security Agency Singapore (CSA)     |
+| [Mr David Koh](/speakers/mr-david-koh/)  | *Commissioner of Cybersecurity &amp; Chief Executive (CE)* <br>Cyber Security Agency of Singapore (CSA)     |
 |<br>**Speakers**          |                                                              |
 | [Mr Craig Stephen](/speakers/mr-craig-stephen/)  | *Executive Vice President*<br>Oracle           |
 | [Prof Luke Ong](/speakers/prof-luke-ong/)  | *Vice President &amp; Professor*<br>NTU           |
