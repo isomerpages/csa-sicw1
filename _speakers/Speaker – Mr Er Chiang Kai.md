@@ -7,7 +7,7 @@ description: ""
 ![](/images/2024%20speakers/Mr_Er_Chiang_Kai.png)
 #### **Mr Er Chiang Kai**
 
-*CTO <br> V-Key*
+*Chief Technology Officer <br> V-Key*
 
 ##### **Biography**
 Chiang Kai is an experienced software development leader, specializing in the design and development of security software. Prior to joining V-Key, he held key regional leadership positions within technology start-ups and IBM, where he nurtured and directed software engineering teams that built software security products.
