@@ -40,4 +40,31 @@ sections:
         Summit                           |"
       button: Button Text
       alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: rates and F&B savings. * Mandarin Oriental Singapore *
+        ParkRoyal Collection Marina Bay, Singapore * Grand Park City
+        Hall  <li>abc</li>
+      button: Button Text
+      alt: Image alt text
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: <img src="/images/4__AMCC.jpg">
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
