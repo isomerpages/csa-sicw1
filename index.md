@@ -47,7 +47,7 @@ sections:
       description: Text card description
       cards:
         - title: Card
-          description: <img src="/images/4__AMCC.jpg">
+          description: Some text here... <img src="/images/4__AMCC.jpg">  More text here...
           linktext: Learn more
           url: ""
         - title: Card
