@@ -31,31 +31,4 @@ sections:
       title: Past SICW Highlights
       subtitle: Explore
       button: See All
-  - infopic:
-      title: Highlights
-      subtitle: Subtitle
-      id: infopic
-      description: "Here are today's featured events: <li>abc</li> <li>abc</li>
-        <li>abc</li> <li>abc</li> <li>abc</li>"
-      button: Button Text
-      alt: Image alt text
-      image: /images/4__AMCC.jpg
-  - textcards:
-      title: Text Cards
-      subtitle: Add informational text
-      id: textcards
-      description: Text card description
-      cards:
-        - title: Card
-          description: Some text here... <img src="/images/4__AMCC.jpg">  More text here...
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
 ---
