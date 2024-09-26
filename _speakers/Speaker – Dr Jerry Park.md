@@ -9,7 +9,7 @@ description: ""
 #### **Dr Jerry Park**
 
 *Executive Vice President of Global B2B/B2G Team, Mobile eXperience Business <br>
-Samsung Electronics<br>South Korea*
+Samsung Electronics*
 
 
 ##### **Biography**
