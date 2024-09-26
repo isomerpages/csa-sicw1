@@ -9,7 +9,7 @@ description: ""
 #### **Mr Sean Yang**
 
 *Global Cyber Security and Privacy Officer <br>
-Huawei Technologies Co., Ltd.*
+Huawei Technologies Co., Ltd.<br>China*
 
 
 ##### **Biography**
