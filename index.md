@@ -20,16 +20,6 @@ sections:
         - title: Register Now
           description: ""
           url: /registration/
-  - infopic:
-      title: SICW 2024 Guests of Honour
-      id: infopic
-      image: /images/Home_Page_GOH_Image_4x1.jpg
-      alt: Image alt text
-  - infopic:
-      title: SICW 2024 Guests of Honour
-      id: infopic
-      image: /images/Home_Page_GOH_Image_2x2.jpg
-      alt: Image alt text
   - infobar:
       title: SICW 2024 Guests of Honour
       id: infobar
