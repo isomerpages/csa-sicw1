@@ -19,7 +19,7 @@ With the proliferation of mobile applications, there is a parallel rise in sophi
 | [Ms Genie Sugene Gan](/speakers/ms-genie-sugene-gan/)  | *Executive Committee Member*<br>SGTech’s and Singapore Computer Society’s Cybersecurity Chapters           |
 | [Mr Er Chiang Kai](/speakers/mr-er-chiang-kai/)  | *Chief Technology Officer*<br>V-Key           |
 |<br> **Moderator**          |                                                           |
-| [Mr Rodney Tan](/speakers/mr-rodney-tan/)  | *Director of Cybersecurity Engineering Centre*<br>Cyber Security Agency of Singapore (CSA)                |
+| [Mr Rodney Tan](/speakers/mr-rodney-tan/)  | *Director of Cybersecurity Engineering Centre*<br>Cyber Security Agency of Singapore (CSA)<br>Singapore                |
 | | |
 
 <br><br><br>
