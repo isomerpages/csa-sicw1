@@ -19,10 +19,10 @@ This year's main focus is on the emergence of Cyber-Physical Risks, with a panel
 |**Guest of Honour**          |                                                              |
 | [Dr Janil Puthucheary](/speakers/dr-janil-puthucheary/)  | *Senior Minister of State, Ministry of Digital Development and Information* <br>*Senior Minister of State, Ministry of Health*<br>Singapore     |
 |<br>**Speaker**          |                                                              |
-| [Mr Sean Yang](/speakers/mr-sean-yang/)  | *Global Cyber Security and Privacy Officer* <br>Huawei Technologies Co., Ltd.<br>China     |
+| [Mr Sean Yang](/speakers/mr-sean-yang/)  | *Global Cyber Security and Privacy Officer* <br>Huawei Technologies Co., Ltd.     |
 | [Mr Gert Auväärt](/speakers/mr-gert-auvaart/)  | *Deputy Director General*<br> Information System Authority (RIA) <br>Estonia     |
 | [Mr Sim Feng-Ji](/speakers/mr-sim-feng-ji/)  | *Deputy Secretary (Digital Government)* <br>Ministry of Digital Development and Information<br>Singapore     |
-| [Dr Jerry Park](/speakers/dr-jerry-park/)  | *Executive Vice President of Global B2B/B2G Team, Mobile eXperience Business* <br>Samsung Electronics<br>South Korea     |
+| [Dr Jerry Park](/speakers/dr-jerry-park/)  | *Executive Vice President of Global B2B/B2G Team, Mobile eXperience Business* <br>Samsung Electronics     |
 
 <br><br><br>
 *Information is accurate at time of publication*
