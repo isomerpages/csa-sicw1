@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Mr Dmitry Volkov**
 
-*CEO and CTO <br> Group-IB*
+*Chief Executive Officer and Chief Technology Officer <br> Group-IB*
