@@ -35,7 +35,7 @@ sections:
       id: infobar
       description: <img width="1200" src="/images/Home_Page_GOH_Image_4x1.jpg">
   - infobar:
-      title: SICW 2024 Event Highlights
+      title: SICW 2024 Highlights
       id: infobar
       description: test the width test the width test the width test the width test
         test the width test the width  <img width="1200"
