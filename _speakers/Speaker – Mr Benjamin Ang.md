@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Mr Benjamin Ang**
 
-*Senior Fellow, Head of Centre of Excellence for National Security; <br> Head, Digital Impact*
+*Senior Fellow, Head of Centre of Excellence for National Security; <br> Head, Digital Impact Research, RSIS*
