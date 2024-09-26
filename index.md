@@ -32,23 +32,14 @@ sections:
       subtitle: Explore
       button: See All
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Highlights
+      subtitle: Subtitle
       id: infopic
-      description: "| <br> **14 October 2024** <br>*(Monday)*
-        |                          |     | 7.00pm to 9.00pm           | SICW
-        Summit                           |"
+      description: "Here are today's featured events: <li>abc</li> <li>abc</li>
+        <li>abc</li> <li>abc</li> <li>abc</li>"
       button: Button Text
       alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: rates and F&B savings. * Mandarin Oriental Singapore *
-        ParkRoyal Collection Marina Bay, Singapore * Grand Park City
-        Hall  <li>abc</li>
-      button: Button Text
-      alt: Image alt text
+      image: /images/4__AMCC.jpg
   - textcards:
       title: Text Cards
       subtitle: Add informational text
