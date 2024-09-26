@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Mr Sim Feng-Ji**
 
-*Deputy Secretary (Digital Government), <br> Ministry of Digital Development and Information*
+*Deputy Secretary (Digital Government), <br> Ministry of Digital Development and Information<br>Singapore*
