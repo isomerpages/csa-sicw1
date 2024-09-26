@@ -16,7 +16,7 @@ With the proliferation of mobile applications, there is a parallel rise in sophi
 | [Mr Tom Tovar](/speakers/mr-tom-tovar/)  | *Co-Creator and Chief Executive Officer*<br>Appdome           |
 | [Mr Dmitry Volkov](/speakers/mr-dmitry-volkov/)  | *Chief Executive Officer and Chief Technology Officer* <br>Group-IB     |
 | [Mr Alex Duff](/speakers/mr-alex-duff/)  | *Head of Platform Ecosystem Data Security*<br>Meta           |
-| [Ms Genie Sugene Gan](/speakers/ms-genie-sugene-gan/)  | *Executive Committee Member*<br>SGTech and Singapore Computer Society Cybersecurity Chapters           |
+| [Ms Genie Sugene Gan](/speakers/ms-genie-sugene-gan/)  | *Executive Committee Member*<br>SGTech’s and Singapore Computer Society’s Cybersecurity Chapters           |
 | [Mr Er Chiang Kai](/speakers/mr-er-chiang-kai/)  | *Chief Technology Officer*<br>V-Key           |
 |<br> **Moderator**          |                                                           |
 | [Mr Rodney Tan](/speakers/mr-rodney-tan/)  | *Director of Cybersecurity Engineering Centre*<br>Cyber Security Agency of Singapore (CSA)                |
