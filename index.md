@@ -31,9 +31,13 @@ sections:
       image: /images/Home_Page_GOH_Image_2x2.jpg
       alt: Image alt text
   - infobar:
+      title: SICW 2024 Guests of Honour
+      id: infobar
+      description: <img width="100%" src="/images/Home_Page_GOH_Image_4x1.jpg">
+  - infobar:
       title: SICW 2024 Event Highlights
       id: infobar
-      description: <img src="/images/Event_Highlights_table.png">
+      description: <img width="100%" src="/images/Event_Highlights_table.png">
       button: See all events
       url: /events/calendar-of-events/
   - infopic:
