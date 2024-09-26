@@ -17,7 +17,7 @@ This event will invite government agencies, industry &amp; technology leaders, a
 This year's main focus is on the emergence of Cyber-Physical Risks, with a panel discussion to explore how governments and industry leaders can work together to effectively identify and tackle these issues, whilst striking a balance between usability, cost, and security.
 
 |**Guest of Honour**          |                                                              |
-| [Dr Janil Puthucheary](/speakers/mr-sean-yang/)  | *Senior Minister of State, Ministry of Digital Development and Information* <br>*Senior Minister of State, Ministry of Health*<br>Singapore     |
+| [Dr Janil Puthucheary](/speakers/dr-janil-puthucheary/)  | *Senior Minister of State, Ministry of Digital Development and Information* <br>*Senior Minister of State, Ministry of Health*<br>Singapore     |
 |<br>**Speaker**          |                                                              |
 | [Mr Sean Yang](/speakers/mr-sean-yang/)  | *Global Cyber Security and Privacy Officer* <br>Huawei Technologies Co., Ltd.<br>China     |
 | [Mr Gert Auväärt](/speakers/mr-gert-auvaart/)  | *Deputy Director General*<br> Information System Authority (RIA) <br>Estonia     |
