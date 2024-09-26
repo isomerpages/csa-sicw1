@@ -17,4 +17,4 @@ An award-winning leader in tech on international platforms and an influential fi
 3.	Member of the National Coordinating Committee for Cybersecurity Singapore; and
 4.	Leader for the Focus Group on Financial &amp; Payment Transactions.
 
-Having a rich and diverse career history, Genie started her journeys in accountancy and law in Big Four firms. Early on, she was an award-winning entrepreneur, before spending a significant length of time as a senior official in the Singapore Government, having assumed several key portfolios in the Minister for Law, as Singapore negotiator and delegate to the United Nations General Assembly, and Director for policy and law reform.
+Having a rich and diverse career history, Genie started her journeys in accountancy and law in Big Four firms. Early on, she was an award-winning entrepreneur, before spending a significant length of time as a senior official in the Singapore Government, having assumed several key portfolios in the Ministry for Law, as Singapore negotiator and delegate to the United Nations General Assembly, and Director for policy and law reform.
