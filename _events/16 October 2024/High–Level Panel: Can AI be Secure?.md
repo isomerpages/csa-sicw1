@@ -8,7 +8,7 @@ third_nav_title: 16 October 2024
 #### **High-Level Panel: Can AI be Secure?**
 
 **16 October 2024 (Wednesday)**  
-*Time: 10.30am-12.00pm (GMT +8)*
+*Time: 9.30am-11.00am (GMT +8)*
 
 Artificial Intelligence (AI) is being adopted at an increasingly rapid pace, including in critical infrastructure. To ensure that AI outcomes are trustworthy and meet organisations’ objectives, there is an urgent need to address the security risks involved. 
 
