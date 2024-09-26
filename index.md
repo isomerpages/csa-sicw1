@@ -10,6 +10,32 @@ notification: ""
 sections:
   - hero:
       background: /images/SICW2024_HeroBanner_v20240822_2.jpg
+      key_highlights:
+        - title: About SICW 2024
+          description: ""
+          url: /about-sicw/
+        - title: SICW 2024 Events
+          description: ""
+          url: /events/calendar-of-events/
+        - title: Register Now
+          description: ""
+          url: /registration/
+  - infopic:
+      title: SICW 2024 Guests of Honour
+      id: infopic
+      image: /images/Home_Page_GOH_Image_4x1.jpg
+      alt: Image alt text
+  - infopic:
+      title: SICW 2024 Guests of Honour
+      id: infopic
+      image: /images/Home_Page_GOH_Image_2x2.jpg
+      alt: Image alt text
+  - infobar:
+      title: SICW 2024 Event Highlights
+      id: infobar
+      description: <table></table>
+      button: See all events
+      url: /events/calendar-of-events/
   - infopic:
       title: SICW
       subtitle: About
