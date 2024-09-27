@@ -31,4 +31,22 @@ sections:
       title: Past SICW Highlights
       subtitle: Explore
       button: See All
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      cards:
+        - title: Card
+          description: "Minister for Digital\x03 Development and Information,\x03and
+            Second Minster for\x03H"
+          linktext: ""
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
