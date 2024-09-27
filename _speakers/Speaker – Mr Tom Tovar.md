@@ -7,7 +7,7 @@ description: ""
 ![](/images/2024%20speakers/Mr_Tom_Tovar.png)
 #### **Mr Tom Tovar**
 
-*Co-Creator and CEO <br> Appdome*
+*Co-Creator and Chief Executive Officer <br> Appdome*
 
 ##### **Biography**
 Tom Tovar is the co-creator and CEO of Appdome – the industry’s first platform to automate mobile app protection. A growth entrepreneur and technology leader, Tom has a passion for building products that dramatically improve life and work. At Appdome, his mission is to secure the mobile app economy from the ground up while pioneering a new era of DevSecOps platforms designed to deliver more protection with less work and protect mobile apps, mobile customers, and mobile businesses faster and easier for everyone.

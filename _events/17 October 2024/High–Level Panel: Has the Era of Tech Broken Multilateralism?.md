@@ -1,11 +1,11 @@
 ---
-title: "High–Level Panel: Diplomacy"
-permalink: /events/17-oct/high-level-panel-diplomacy/
+title: "High–Level Panel: Has the Era of Tech Broken Multilateralism?"
+permalink: /events/17-oct/high-level-panel-has-the-era-of-tech-broken-multilateralism/
 variant: markdown
 description: ""
 third_nav_title: 17 October 2024
 ---
-#### **High-Level Panel: Diplomacy**
+#### **High-Level Panel: Has the Era of Tech Broken Multilateralism?**
 
 **17 October 2024 (Thursday)**  
 *Time: 9.00am to 10.15am (GMT +8)*

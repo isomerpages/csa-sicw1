@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Mr Gert Auväärt**
 
-*Information System Authority (RIA), Deputy Director General of RIA, <br> Estonia*
+*Deputy Director General, Information System Authority (RIA), <br> Estonia*

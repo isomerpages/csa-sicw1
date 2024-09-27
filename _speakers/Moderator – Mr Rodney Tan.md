@@ -7,7 +7,7 @@ description: ""
 ![](/images/2024%20speakers/Mr_Rodney_Tan.png)
 #### **Mr Rodney Tan**
 
-*Director of Cybersecurity Engineering Centre <br> Cyber Security Agency of Singapore (CSA)*
+*Director of Cybersecurity Engineering Centre <br> Cyber Security Agency of Singapore (CSA)<br>Singapore*
 
 ##### **Biography**
 Rodney Tan is an experienced cybersecurity professional with over 20 years of technical and management expertise in national security and critical infrastructure protection. As the current Director of the Cybersecurity Engineering Centre at CSA, Rodney oversees initiatives in technology management, standards development, product certification, and adversarial simulation, contributing to the safeguarding of Singapore's digital landscape.
