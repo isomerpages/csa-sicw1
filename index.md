@@ -46,7 +46,7 @@ sections:
       subtitle: SICW 2024
       id: textcards
       cards:
-        - title: Mr Teo Chee Hean
+        - title: ""
           description: <img src="/images/goh_sm_teo.jpg">
           linktext: ""
           url: "#"
