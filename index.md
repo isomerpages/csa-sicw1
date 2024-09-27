@@ -47,7 +47,7 @@ sections:
       id: textcards
       cards:
         - title: Mr Teo Chee Hean
-          description: Card description
+          description: <img src="/images/goh_sm_teo.jpg">
           linktext: ""
           url: "#"
         - title: Card
