@@ -10,6 +10,16 @@ notification: ""
 sections:
   - hero:
       background: /images/SICW2024_HeroBanner_v20240822_2.jpg
+      key_highlights:
+        - title: About SICW 2024
+          description: ""
+          url: /about-sicw/
+        - title: SICW 2024 Events
+          description: ""
+          url: /events/calendar-of-events/
+        - title: Register Now
+          description: ""
+          url: /registration/
   - infopic:
       title: SICW
       subtitle: About
