@@ -7,7 +7,7 @@ description: ""
 ![](/images/2024%20speakers/Mrs_Josephine_Teo.png)
 #### **Mrs Josephine Teo**
 
-*Minister for Digital Development and Information, and Minister-in-charge of Smart Nation and Cybersecurity<br> Singapore*
+*Minister for Digital Development and Information, Second Minister for Home Affairs, and Minister-in-charge of Smart Nation and Cybersecurity<br> Singapore*
 
 ##### **Biography**
 **Mrs Josephine Teo** is currently Minister for Digital Development and Information and Minister-in-charge of Smart Nation and Cybersecurity. Under these portfolios, she leads the Singapore Government’s efforts in digital development, public communications and engagement, Smart Nation strategy and cybersecurity.
