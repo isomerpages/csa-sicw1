@@ -41,4 +41,25 @@ sections:
       title: Past SICW Highlights
       subtitle: Explore
       button: See All
+  - textcards:
+      title: Guests of Honour
+      subtitle: SICW 2024
+      id: textcards
+      cards:
+        - title: ""
+          description: <img src="/images/goh_sm_teo.jpg">
+          linktext: ""
+          url: "#"
+        - title: ""
+          description: <img src="/images/goh_josephine_teo.jpg">
+          linktext: ""
+          url: "#"
+        - title: ""
+          description: <img src="/images/goh_dr_janil.jpg">
+          linktext: ""
+          url: "#"
+        - title: ""
+          description: <img src="/images/goh_tan_kiat_how.jpg">
+          linktext: ""
+          url: "#"
 ---
