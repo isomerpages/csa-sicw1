@@ -2,6 +2,7 @@
 title: Shariffah Rashidah Syed Othman
 permalink: /speaker-shariffah-rashidah-syed-othman/
 description: ""
+variant: markdown
 ---
 ![](/images/Speakers/Shariffah%20Rashidah%20Syed%20Othman.jpg)
 
