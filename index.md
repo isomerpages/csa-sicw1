@@ -57,6 +57,7 @@ sections:
       button: View Calendar
       url: /events/15-oct/sicw-opening-ceremony/
       alt: Image alt text
+      image: /images/HighlightsAnimation.gif
   - infopic:
       title: SICW
       subtitle: About
