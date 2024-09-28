@@ -41,6 +41,22 @@ sections:
           description: <img src="/images/goh_tan_kiat_how.jpg">
           linktext: ""
           url: "#"
+  - infobar:
+      title: Highlights
+      id: infobar
+      description: <img src="/images/HighlightsAnimation.gif">
+      button: View Calendar
+      url: /events/calendar-of-events/
+  - infopic:
+      title: Highlights
+      subtitle: 15 October 2024
+      id: infopic
+      description: "<li>SICW Opening Ceremony</li> <li>SICW High-Level Panels -
+        Opening Plenary</li> <li>High-Level Panel: Insights into 2024’s Cyber
+        Threats</li>"
+      button: View Calendar
+      url: /events/15-oct/sicw-opening-ceremony/
+      alt: Image alt text
   - infopic:
       title: SICW
       subtitle: About
