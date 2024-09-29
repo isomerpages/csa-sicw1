@@ -21,8 +21,9 @@ This year's main focus is on the emergence of Cyber-Physical Risks, with a panel
 |<br>**Panellists**          |                                                              |
 | [Mr Sean Yang](/speakers/mr-sean-yang/)  | *Global Cyber Security and Privacy Officer* <br>Huawei Technologies Co., Ltd.     |
 | [Mr Raimo Peterson](/speakers/mr-raimo-peterson/)  | *Head of Critical Information Infrastructure Protection*<br> Information System Authority (RIA) <br>Estonia     |
-| [Mr Sim Feng-Ji](/speakers/mr-sim-feng-ji/)  | *Deputy Secretary (Digital Government)* <br>Ministry of Digital Development and Information<br>Singapore     |
 | [Dr Jerry Park](/speakers/dr-jerry-park/)  | *Executive Vice President of Global B2B/B2G Team, Mobile eXperience Business* <br>Samsung Electronics     |
+|<br>**Moderator**          |                                                              |
+| [Mr Sim Feng-Ji](/speakers/mr-sim-feng-ji/)  | *Deputy Secretary (Digital Government)* <br>Ministry of Digital Development and Information<br>Singapore     |
 
 <br><br><br>
 *Information is accurate at time of publication*
