@@ -4,6 +4,6 @@ permalink: /speakers/mr-alexey-bocharnikov/
 variant: markdown
 description: ""
 ---
-#### **Mr Alexey Bocharniko**
+#### **Mr Alexey Bocharnikov**
 
 *Director of Cybersecurity Strategy, <br> Accenture*
