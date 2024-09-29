@@ -2,7 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Mr Raimo Peterson.md
       - Guest of Honour – Mr David Koh.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tan Kiat How.md
@@ -40,6 +39,7 @@ collections:
       - Speaker – Prof Luke Ong.md
       - Speaker – Mr Ben Packman.md
       - Speaker – Dr Jerry Park.md
+      - Speaker – Mr Raimo Peterson.md
       - Speaker – Mr Quek Gim Pew.md
       - Speaker – Dr He Ruimin.md
       - Speaker – Mr Craig Stephen.md
