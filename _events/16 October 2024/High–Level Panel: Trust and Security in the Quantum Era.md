@@ -34,7 +34,7 @@ Following the earlier panel on awareness and advisories relating to the threat a
 | [Dr Matt Henricksen](/speakers/dr-matt-henricksen/)  | *Principal Engineer* <br>Huawei      |
 | [Mr Gaurav Keerthi](/speakers/mr-gaurav-keerthi/)  | *Executive Vice President, Advisory and Emerging Business*<br>Ensign InfoSecurity      |
 | [Prof Ding Jintai](/speakers/prof-ding-jintai/)  | *Tsinghua University*      |
-| [Mr Alexey Bocharniko](/speakers/mr-alexey-bocharniko/)  | *Director of Cybersecurity Strategy* <br>Accenture      |
+| [Mr Alexey Bocharnikov](/speakers/mr-alexey-bocharnikov/)  | *Director of Cybersecurity Strategy* <br>Accenture      |
 | [Prof Ronald Cramer](/speakers/prof-ronald-cramer/)  | *Head of the Cryptology Group* <br>Centrum Wiskunde informatica (CWI)      |
 | [Mr Ben Packman](/speakers/mr-ben-packman/)  | *Chief Strategy Officer* <br>PQShield      |
 | [Mr John Buselli](/speakers/mr-john-buselli/)  | *IBM Research*      |
