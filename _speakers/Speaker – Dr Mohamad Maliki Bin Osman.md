@@ -4,6 +4,6 @@ permalink: /speakers/dr-mohamad-maliki-bin-osman/
 variant: markdown
 description: ""
 ---
-#### **Mr Jorij Abraham**
+#### **Dr Mohamad Maliki Bin Osman**
 
 *Second Minister for Foreign Affairs, <br> Ministry of Foreign Affairs, Singapore*
