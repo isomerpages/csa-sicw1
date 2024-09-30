@@ -1,5 +1,5 @@
 ---
-title: Guest of Honour – Chua Kuan Seah
+title: Speaker – Chua Kuan Seah
 permalink: /speakers/chua-kuan-seah/
 variant: markdown
 description: ""
