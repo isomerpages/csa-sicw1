@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Lam Chee Kin.md
       - Speaker – Mr Miguel DeBruycker.md
       - Speaker – Ms Yah Shze Min.md
       - Moderator – Dr Ng Li Sa.md
