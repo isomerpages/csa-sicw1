@@ -29,6 +29,27 @@ The Mobile Security x Scams event will discuss how scams impact and change the m
 **Forging New Pathways to Safeguard Mobile Devices from Scams Through Public-Private Partnerships**
 <br>Mobile security is crucial in today’s digital age, as smartphones are integral to daily life. Cybercriminals increasingly target mobile devices with scams, such as phishing, malware and fraudulent apps. These attacks can lead to data breaches, privacy invasion, or even financial losses. In Singapore, combatting scams is a whole-of-society endeavour, and the government works in close partnership with industry to address the issues. This event will showcase recent efforts by industry players in tackling scams on mobile devices, highlighting the innovations that were developed to keep their users safe online. 
 
+|**Panelists**          |                                                              |
+| [Ms Yah Shze Min](/speakers/ms-yah-shze-min/)  | *Public Policy Manager (SEA)*<br>Amazon           |
+| [Mr Miguel DeBruycker](/speakers/mr-miguel-debruycker/)  | *Managing Director General*<br>Centre for Cybersecurity, Belgium           |
+| [Mr Lam Chee Kin](/speakers/mr-lam-chee-kin/)  | *Group Head of Legal and Compliance, and Chair ABS Standing Committee on Fraud* <br>DBS     |
+| [Mr Eugene Liderman](/speakers/mr-eugene-liderman/)  | *Director, Mobile Security Strategy* <br>Google     |
+|<br> **Moderator**          |                                                           |
+| [Mr Yik Jiawei](/speakers/mr-yik-jiawei/)  | *Director, Security and Resilience Division*<br>Ministry for Digital Development and Information, Singapore                |
+| | |
+
+**Securing Our Mobile Landscape: Navigating the Myriad of Cyber Threats**
+<br>With the proliferation of mobile applications, there is a parallel rise in sophisticated mobile malware, threatening business integrity and user safety. In the face of malware with unprecedented capabilities, how can organisations and their developers utilise technical solutions to secure their mobile applications? How do these solutions complement existing best practices to provide assurance? How should various technical components in the mobile application ecosystem work together to develop a safer mobile environment? This event will invite industry leaders, standards experts, and solution providers to share their perspectives on protecting consumers in the mobile space.
+
+|**Panelists**          |                                                              |
+| [Mr Tom Tovar](/speakers/mr-tom-tovar/)  | *Co-Creator and Chief Executive Officer*<br>Appdome           |
+| [Mr Dmitry Volkov](/speakers/mr-dmitry-volkov/)  | *Chief Executive Officer and Chief Technology Officer* <br>Group-IB     |
+| [Mr Alex Duff](/speakers/mr-alex-duff/)  | *Head of Platform Ecosystem Data Security*<br>Meta           |
+| [Ms Genie Sugene Gan](/speakers/ms-genie-sugene-gan/)  | *Executive Committee Member*<br>SGTech’s and Singapore Computer Society’s Cybersecurity Chapters           |
+| [Mr Er Chiang Kai](/speakers/mr-er-chiang-kai/)  | *Chief Technology Officer*<br>V-Key           |
+|<br> **Moderator**          |                                                           |
+| [Mr Rodney Tan](/speakers/mr-rodney-tan/)  | *Director of Cybersecurity Engineering Centre*<br>Cyber Security Agency of Singapore (CSA)<br>Singapore                |
+| | |
 
 <br><br><br>
 *Information is accurate at time of publication*
