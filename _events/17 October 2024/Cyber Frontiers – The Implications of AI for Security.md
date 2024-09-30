@@ -14,9 +14,8 @@ In the rapidly evolving digital landscape, the integration of AI technologies pr
 
 How can organizations effectively harness AI to enhance cyber resilience and ensure the safe adoption of these technologies amidst the evolving intersection of AI and cybersecurity?
 
-|**Guest of Honour**          |                                                              |
+|**Panellists**          |                                                              |
 | [Chua Kuan Seah](/speakers/chua-kuan-seah/)  | *Deputy Chief Executive* <br>*CSA, Singapore*     |
-|<br>**Panellists**          |                                                              |
 | [Mr Stanley Tsang](/speakers/mr-stanley-tsang/)  | *Distinguished Engineer and Senior Director (Special Projects)* <br>CSA, Singapore     |
 | [Derek Manky](/speakers/derek-manky/)  | *Chief Security Strategist &amp; Global Vice President Threat Intelligence*<br> Fortinet, Canada      |
 | [Dr Dorit Dor](/speakers/dr-dorit-dor/)  | *Chief Technology Officer* <br>Check Point, Israel     |
