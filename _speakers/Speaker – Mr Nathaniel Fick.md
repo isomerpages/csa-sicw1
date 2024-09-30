@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Mr Nathaniel Fick**
 
-*Ambassador at Large <br> Cyberspace and Digital Policy*
+*Ambassador at Large <br> Cyberspace and Digital Policy, United States*
