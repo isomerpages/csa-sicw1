@@ -8,7 +8,7 @@ third_nav_title: 17 October 2024
 #### **High-Level Panel: Has the Era of Tech Broken Multilateralism?**
 
 **17 October 2024 (Thursday)**  
-*Time: 9.00am to 10.15am (GMT +8)*
+*Time: 9.00am to 9.45am (GMT +8)*
 
 Multilateralism has been the cornerstone of international cooperation. Historically, countries have come together to develop frameworks, convention and rules to address common issues facing the international community. Today, this same approach is taken to address challenges posed by new and rapidly evolving technologies, including developments in the digital and cyberspace. 
 
@@ -17,8 +17,11 @@ However, technologies have changed the way we interact and live. Is multilateral
 In this session, panellists will explore the impact of the technology era on multilateralism and the role of the UN in fostering global collaboration. They will discuss how nations can strengthen multilateralism to ensure that it is open and inclusive, where every country’s voice is heard and included. 
 
 |**Speakers**          |                                                              |
-| [Mr Nathaniel Fick](/speakers/mr-nathaniel-fick/)  | *Ambassador at Large* <br>Cyberspace and Digital Policy      |
-| [Ms Manon Le Blanc](/speakers/ms-manon-le-blanc/)  | *European Union – Coordinator for Cyber Issues* <br>European External Action Service (EEAS)      |
+| [Mr Nathaniel Fick](/speakers/mr-nathaniel-fick/)  | *Ambassador at Large* <br>Bureau of Cyberspace and Digital Policy, United States      |
+| [Ms Manon Le Blanc](/speakers/ms-manon-le-blanc/)  | *EU Coordinator for Cyber Issues* <br>European External Action Service, European Union      |
+| [Dr Mohamad Maliki Bin Osman](/speakers/dr-mohamad-maliki-bin-osman/)  | *Second Minister for Foreign Affairs* <br>Ministry of Foreign Affairs, Singapore      |
+| [Amit Shukla](/speakers/amit-shukla/)  | *Joint Secretary, Cyber Diplomacy Division* <br>Ministry of External Affairs, India      |
+| [AVM Amorn Chomchoey](/speakers/avm-amorn-chomchoey/)  | *Secretary General* <br>National Cybersecurity Agency, Thailand      |
 
 <br><br><br>
 *Information is accurate at time of publication*
