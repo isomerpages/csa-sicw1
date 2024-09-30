@@ -13,17 +13,17 @@ third_nav_title: 16 October 2024
 The Mobile Security x Scams event will discuss how scams impact and change the mobile security landscape. It will feature international government and industry experts in three panel discussions – the first will discuss possibilities for international cooperation on scams, the second will address industry efforts to combat scams especially on mobile devices, and the last will focus on technical mobile security solutions available in the market.
 
 |**Speaker**          |                                                              |
-| [Mr Ngiam Shih Chun](/speakers/mr-ngiam-shih-chun/)  | *Deputy Secretary (Policy)*<br>Ministry of Home Affairs, Singapore           |
+| [Mr Ngiam Shih Chun](/speakers/mr-ngiam-shih-chun/)  | *Deputy Secretary (Policy)*<br>Ministry of Home Affairs, <br>Singapore           |
 
 **International Cooperation: Working Together to Combat Scams**
 <br>Over the last five years, the total number of scam cases in Singapore alone have increased fivefold, while losses to scams have more than quadrupled. Increasingly, most scams are carried out online by syndicates that operate across jurisdictions, and scams have become a serious transboundary issue. To tackle scams more effectively, countries must come together to share experiences and expertise, and to step up on international cooperation. This roundtable gathers government leaders from countries who have been proactive in combatting scams, to discuss the domestic policies and measures they have implemented and how countries can work together to protect their citizens.
 
 |**Panelists**          |                                                              |
 | [Mr Jorij Abraham](/speakers/mr-jorij-abraham/)  | *Managing Director*<br>Global Anti-Scam Alliance           |
-| [Mr Muzaffar Mustaffa](/speakers/mr-muzaffar-mustaffa/)  | *Head of Telecommunications Fraud*<br>Malaysian Multimedia and Communications Commission, Malaysia           |
+| [Mr Muzaffar Mustaffa](/speakers/mr-muzaffar-mustaffa/)  | *Head of Telecommunications Fraud*<br>Malaysian Multimedia and Communications Commission, <br>Malaysia           |
 | [Mr Matthew Driver](/speakers/mr-matthew-driver/)  | *Executive Vice President and Head of Services* <br>Mastercard Asia Pacific     |
 |<br> **Moderator**          |                                                           |
-| [Dr Ng Li Sa](/speakers/dr-ng-li-sa/)  | *Director, Policy Development and Security*<br>Ministry of Home Affairs, Singapore                |
+| [Dr Ng Li Sa](/speakers/dr-ng-li-sa/)  | *Director, Policy Development and Security*<br>Ministry of Home Affairs, <br>Singapore                |
 | | |
 
 **Forging New Pathways to Safeguard Mobile Devices from Scams Through Public-Private Partnerships**
@@ -31,11 +31,11 @@ The Mobile Security x Scams event will discuss how scams impact and change the m
 
 |**Panelists**          |                                                              |
 | [Ms Yah Shze Min](/speakers/ms-yah-shze-min/)  | *Public Policy Manager (SEA)*<br>Amazon           |
-| [Mr Miguel DeBruycker](/speakers/mr-miguel-debruycker/)  | *Managing Director General*<br>Centre for Cybersecurity, Belgium           |
+| [Mr Miguel DeBruycker](/speakers/mr-miguel-debruycker/)  | *Managing Director General*<br>Centre for Cybersecurity, <br>Belgium           |
 | [Mr Lam Chee Kin](/speakers/mr-lam-chee-kin/)  | *Group Head of Legal and Compliance, and Chair ABS Standing Committee on Fraud* <br>DBS     |
 | [Mr Eugene Liderman](/speakers/mr-eugene-liderman/)  | *Director, Mobile Security Strategy* <br>Google     |
 |<br> **Moderator**          |                                                           |
-| [Mr Yik Jiawei](/speakers/mr-yik-jiawei/)  | *Director, Security and Resilience Division*<br>Ministry for Digital Development and Information, Singapore                |
+| [Mr Yik Jiawei](/speakers/mr-yik-jiawei/)  | *Director, Security and Resilience Division*<br>Ministry for Digital Development and Information, <br>Singapore                |
 | | |
 
 **Securing Our Mobile Landscape: Navigating the Myriad of Cyber Threats**
