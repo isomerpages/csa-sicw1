@@ -20,7 +20,7 @@ The Mobile Security x Scams event will discuss how scams impact and change the m
 
 |**Panelists**          |                                                              |
 | [Mr Jorij Abraham](/speakers/mr-jorij-abraham/)  | *Managing Director*<br>Global Anti-Scam Alliance           |
-| [Mr Muzaffar Mustaffa](/speakers/mr-muzaffar-mustaffa/)  | *Head of Telecommunications Fraud*<br>Malaysian Multimedia and Communications Commission           |
+| [Mr Muzaffar Mustaffa](/speakers/mr-muzaffar-mustaffa/)  | *Head of Telecommunications Fraud*<br>Malaysian Multimedia and Communications Commission, Malaysia           |
 | [Mr Matthew Driver](/speakers/mr-matthew-driver/)  | *Executive Vice President and Head of Services* <br>Mastercard Asia Pacific     |
 |<br> **Moderator**          |                                                           |
 | [Dr Ng Li Sa](/speakers/dr-ng-li-sa/)  | *Director, Policy Development and Security*<br>Ministry of Home Affairs, Singapore                |
