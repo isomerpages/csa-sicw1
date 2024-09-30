@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Wang Lei.md
       - Speaker – Jamie Saunders.md
       - Speaker – Akshay Joshi.md
       - Speaker – Shaun Khalfan.md
