@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Shaun Khalfan.md
       - Speaker – Derek Manky.md
       - Speaker – Mr Stanley Tsang.md
       - Guest of Honour – Chua Kuan Seah.md
