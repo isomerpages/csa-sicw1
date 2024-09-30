@@ -21,6 +21,11 @@ sections:
           description: ""
           url: /registration/
   - infopic:
+      title: SICW 2024 Guests of Honour
+      id: infopic
+      image: /images/Home_Page_GOH.jpg
+      alt: SICW 2024 guests of honour
+  - infopic:
       title: SICW
       subtitle: About
       description: Singapore International Cyber Week (SICW) is Asia-Pacific’s most

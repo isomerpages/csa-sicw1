@@ -2,11 +2,12 @@ collections:
   speakers:
     output: true
     order:
-      - Guest of Honour – Mr David Koh.md
+      - Guest of Honour – Chua Kuan Seah.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tan Kiat How.md
       - Guest of Honour – Mr Teo Chee Hean.md
       - Guest of Honour – Mrs Josephine Teo.md
+      - Speaker – Mr Jorij Abraham.md
       - Speaker – Mr Christopher Ahlberg.md
       - Speaker – Mr Jim Allen.md
       - Speaker – Mr Benjamin Ang.md
@@ -14,43 +15,68 @@ collections:
       - Speaker – Mr Gert Auväärt.md
       - Speaker – Dr Sanjay Bahl.md
       - Speaker – Ms Manon Le Blanc.md
-      - Speaker – Mr Alexey Bocharniko.md
+      - Speaker – Mr Alexey Bocharnikov.md
       - Speaker – Mr John Buselli.md
       - Speaker – Ms Eva Chen.md
+      - Speaker – AVM Amorn Chomchoey.md
       - Speaker – Prof Ronald Cramer.md
+      - Speaker – Mr Miguel DeBruycker.md
       - Speaker – Dr Dorit Dor.md
+      - Speaker – Mr Matthew Driver.md
       - Speaker – Mr Alex Duff.md
       - Speaker – Mr Nathaniel Fick.md
       - Speaker – Mr Fabio Fratucello.md
+      - Speaker – Laris Galadza.md
       - Speaker – Ms Genie Sugene Gan.md
       - Speaker – Mr Robert Hannigan.md
+      - Speaker – Dr He Ruimin.md
       - Speaker – Dr Matt Henricksen.md
       - Speaker – Prof Ding Jintai.md
+      - Speaker – Akshay Joshi.md
       - Speaker – Mr Akshay Joshi.md
       - Speaker – Mr Er Chiang Kai.md
       - Speaker – Ms Anastasiya Kazakova.md
       - Speaker – Mr Gaurav Keerthi.md
+      - Speaker – Shaun Khalfan.md
       - Speaker – Ms Barbara Kluge.md
+      - Speaker – Mr David Koh.md
+      - Speaker – Naoki Kumagai.md
       - Speaker – Dr Regula Kurzbein.md
+      - Speaker – Mr Lam Chee Kin.md
       - Speaker – MG Lee Yi–Jin.md
       - Speaker – Prof Wenke Lee.md
+      - Speaker – Wang Lei.md
+      - Speaker – Mr Eugene Liderman.md
+      - Speaker – Derek Manky.md
+      - Speaker – Ir Dr Megat Zuhairy bin Megat Tajuddin.md
       - Speaker – Lieutenant General Michelle McGuiness.md
+      - Speaker – Mr Muzaffar Mustaffa.md
       - Speaker – Mr Emmanuel Naegelen.md
+      - Speaker – Mr Ngiam Shih Chun.md
       - Speaker – Prof Luke Ong.md
+      - Speaker – Dr Mohamad Maliki Bin Osman.md
       - Speaker – Mr Ben Packman.md
       - Speaker – Dr Jerry Park.md
+      - Speaker – Mr Raimo Peterson.md
       - Speaker – Mr Quek Gim Pew.md
-      - Speaker – Dr He Ruimin.md
-      - Speaker – Mr Craig Stephen.md
+      - Speaker – Leonard Rolland.md
+      - Speaker – Jamie Saunders.md
       - Speaker – Dr Vikram Sharma.md
+      - Speaker – Amit Shukla.md
+      - Speaker – Mr Craig Stephen.md
       - Speaker – Mr Sim Feng–Ji.md
       - Speaker – Ms Sharon Tan.md
       - Speaker – Mr Teo Xiang Zheng.md
       - Speaker – Mr Tom Tovar.md
+      - Speaker – Mr Stanley Tsang.md
       - Speaker – Dr Kaleem Ahmed Usmani.md
       - Speaker – Mr Dmitry Volkov.md
       - Speaker – Mr Andrew Whittaker.md
       - Speaker – Mr Sean Yang.md
+      - Speaker – Ms Yah Shze Min.md
       - Moderator – Mr Garrettson Blight.md
+      - Moderator – Sadie Creese.md
       - Moderator – Mr Charles Ng.md
+      - Moderator – Dr Ng Li Sa.md
       - Moderator – Mr Rodney Tan.md
+      - Moderator – Mr Yik Jiawei.md

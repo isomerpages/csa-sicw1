@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Dr Dorit Dor**
 
-*Chief Technology Officer, <br> Check Point*
+*Chief Technology Officer, <br> Check Point, Israel*

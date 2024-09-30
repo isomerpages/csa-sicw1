@@ -1,5 +1,5 @@
 ---
-title: Guest of Honour – Mr David Koh
+title: Speaker – Mr David Koh
 permalink: /speakers/mr-david-koh/
 variant: markdown
 description: ""
