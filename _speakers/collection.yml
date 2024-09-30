@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – AVM Amorn Chomchoey.md
       - Speaker – Amit Shukla.md
       - Speaker – Dr Mohamad Maliki Bin Osman.md
       - Guest of Honour – Dr Janil Puthucheary.md
