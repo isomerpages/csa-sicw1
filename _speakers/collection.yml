@@ -2,7 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Chua Kuan Seah.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tan Kiat How.md
       - Guest of Honour – Mr Teo Chee Hean.md
@@ -19,6 +18,7 @@ collections:
       - Speaker – Mr John Buselli.md
       - Speaker – Ms Eva Chen.md
       - Speaker – AVM Amorn Chomchoey.md
+      - Speaker – Chua Kuan Seah.md
       - Speaker – Prof Ronald Cramer.md
       - Speaker – Mr Miguel DeBruycker.md
       - Speaker – Dr Dorit Dor.md
