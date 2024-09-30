@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ir Dr Megat Zuhairy bin Megat Tajuddin.md
       - Speaker – Naoki Kumagai.md
       - Speaker – Leonard Rolland.md
       - Speaker – Laris Galadza.md
