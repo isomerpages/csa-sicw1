@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Naoki Kumagai.md
       - Speaker – Leonard Rolland.md
       - Speaker – Laris Galadza.md
       - Speaker – Wang Lei.md
