@@ -4,6 +4,6 @@ permalink: /speakers/mr-nathaniel-fick/
 variant: markdown
 description: ""
 ---
-#### **Mr Nathaniel Fick**
+#### **Mr Nathaniel C. Fick**
 
-*Ambassador at Large <br> Cyberspace and Digital Policy, United States*
+*Ambassador at Large <br> Bureau of Cyberspace and Digital Policy, United States*
