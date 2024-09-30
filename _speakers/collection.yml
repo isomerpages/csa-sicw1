@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Muzaffar Mustaffa.md
       - Speaker – Mr Jorij Abraham.md
       - Speaker – Mr Ngiam Shih Chun.md
       - Guest of Honour – Mr David Koh.md
