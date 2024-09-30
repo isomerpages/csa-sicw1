@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Moderator – Sadie Creese.md
       - Speaker – AVM Amorn Chomchoey.md
       - Speaker – Amit Shukla.md
       - Speaker – Dr Mohamad Maliki Bin Osman.md
