@@ -2,7 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Mr David Koh.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tan Kiat How.md
       - Guest of Honour – Mr Teo Chee Hean.md
@@ -34,6 +33,7 @@ collections:
       - Speaker – Ms Anastasiya Kazakova.md
       - Speaker – Mr Gaurav Keerthi.md
       - Speaker – Ms Barbara Kluge.md
+      - Speaker – Mr David Koh.md
       - Speaker – Dr Regula Kurzbein.md
       - Speaker – Mr Lam Chee Kin.md
       - Speaker – MG Lee Yi–Jin.md
