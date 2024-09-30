@@ -6,5 +6,5 @@ description: ""
 ---
 #### **Ms Manon Le Blanc**
 
-*European Union – Coordinator for Cyber Issues, <br>
- European External Action Service (EEAS)*
+*EU Coordinator for Cyber Issues, <br>
+ European External Action Service, European Union*
