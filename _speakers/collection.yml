@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Moderator – Dr Ng Li Sa.md
       - Speaker – Mr Matthew Driver.md
       - Speaker – Mr Muzaffar Mustaffa.md
       - Speaker – Mr Jorij Abraham.md
