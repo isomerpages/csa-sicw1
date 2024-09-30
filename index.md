@@ -23,7 +23,7 @@ sections:
   - infopic:
       title: SICW 2024 Guests of Honour
       id: infopic
-      image: /images/Home_Page_GOH_4x1.jpg
+      image: /images/Home_Page_GOH.jpg
       alt: SICW 2024 guests of honour
   - infopic:
       title: SICW
