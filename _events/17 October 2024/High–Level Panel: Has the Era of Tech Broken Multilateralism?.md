@@ -18,26 +18,26 @@ However, technologies have changed the way we interact and live. Is multilateral
 In this session, panellists will explore the impact of the technology era on multilateralism and the role of the UN in fostering global collaboration. They will discuss how nations can strengthen multilateralism to ensure that it is open and inclusive, where every country’s voice is heard and included. 
 
 |**Speakers**          |                                                              |
-| [Dr Mohamad Maliki Bin Osman](/speakers/dr-mohamad-maliki-bin-osman/)  | *Second Minister for Foreign Affairs* <br>Ministry of Foreign Affairs, Singapore      |
-| [Mr Nathaniel Fick](/speakers/mr-nathaniel-fick/)  | *Ambassador at Large* <br>Bureau of Cyberspace and Digital Policy, United States      |
+| [Dr Mohamad Maliki Bin Osman](/speakers/dr-mohamad-maliki-bin-osman/)  | *Second Minister for Foreign Affairs* <br>Ministry of Foreign Affairs <br>Singapore      |
+| [Mr Nathaniel Fick](/speakers/mr-nathaniel-fick/)  | *Ambassador at Large* <br>Bureau of Cyberspace and Digital Policy <br>United States      |
 |<br>**Panellists**          |                                                              |
-| [Ms Manon Le Blanc](/speakers/ms-manon-le-blanc/)  | *EU Coordinator for Cyber Issues* <br>European External Action Service, European Union      |
-| [Amit Shukla](/speakers/amit-shukla/)  | *Joint Secretary, Cyber Diplomacy Division* <br>Ministry of External Affairs, India      |
-| [Dr Mohamad Maliki Bin Osman](/speakers/dr-mohamad-maliki-bin-osman/)  | *Second Minister for Foreign Affairs* <br>Ministry of Foreign Affairs, Singapore      |
-| [AVM Amorn Chomchoey](/speakers/avm-amorn-chomchoey/)  | *Secretary General* <br>National Cybersecurity Agency, Thailand      |
-| [Mr Nathaniel Fick](/speakers/mr-nathaniel-fick/)  | *Ambassador at Large* <br>Bureau of Cyberspace and Digital Policy, United States      |
+| [Ms Manon Le Blanc](/speakers/ms-manon-le-blanc/)  | *EU Coordinator for Cyber Issues* <br>European External Action Service <br>European Union      |
+| [Amit Shukla](/speakers/amit-shukla/)  | *Joint Secretary, Cyber Diplomacy Division* <br>Ministry of External Affairs <br>India      |
+| [Dr Mohamad Maliki Bin Osman](/speakers/dr-mohamad-maliki-bin-osman/)  | *Second Minister for Foreign Affairs* <br>Ministry of Foreign Affairs <br>Singapore      |
+| [AVM Amorn Chomchoey](/speakers/avm-amorn-chomchoey/)  | *Secretary General* <br>National Cybersecurity Agency <br>Thailand      |
+| [Mr Nathaniel Fick](/speakers/mr-nathaniel-fick/)  | *Ambassador at Large* <br>Bureau of Cyberspace and Digital Policy <br>United States      |
 
 **High-Level Panel: Advancing Rules, Norms, and Standards in Cyberspace: The Way Forward**
 
 More information will be made available soon.
 
 |**Speakers**          |                                                              |
-| [Wang Lei](/speakers/wang-lei/)  | *Coordinator for Cyber Affairs* <br>Ministry of Foreign Affairs, China      |
+| [Wang Lei](/speakers/wang-lei/)  | *Coordinator for Cyber Affairs* <br>Ministry of Foreign Affairs <br>China      |
 |<br>**Panellists**          |                                                              |
-| [Laris Galadza](/speakers/laris-galadza/)  | *Senior Official for Cyber, Digital and Critical Technology Policy* <br>Global Affairs Canada      |
-| [Leonard Rolland](/speakers/leonard-rolland/)  | *Head, International Cyber Policy* <br>Ministry for Europe and Foreign Affairs, France      |
-| [Naoki Kumagai](/speakers/naoki-kumagai/)  | *Ambassador-in-charge of Cyber Policy* <br>Ministry of Foreign Affairs, Japan      |
-| [Ir. Dr. Megat Zuhairy bin Megat Tajuddin](/speakers/ir-dr-megat-zuhairy-bin-megat-tajuddin/)  | *Chief Executive* <br>National Cyber Security Agency, Malaysia      |
+| [Laris Galadza](/speakers/laris-galadza/)  | *Senior Official for Cyber, Digital and Critical Technology Policy* <br>Global Affairs <br>Canada      |
+| [Leonard Rolland](/speakers/leonard-rolland/)  | *Head, International Cyber Policy* <br>Ministry for Europe and Foreign Affairs <br>France      |
+| [Naoki Kumagai](/speakers/naoki-kumagai/)  | *Ambassador-in-charge of Cyber Policy* <br>Ministry of Foreign Affairs <br>Japan      |
+| [Ir. Dr. Megat Zuhairy bin Megat Tajuddin](/speakers/ir-dr-megat-zuhairy-bin-megat-tajuddin/)  | *Chief Executive* <br>National Cyber Security Agency <br>Malaysia      |
 
 <br><br><br>
 *Information is accurate at time of publication*

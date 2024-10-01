@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Mr Miguel DeBruycker**
 
-*Managing Director General, <br> Centre for Cybersecurity, Belgium*
+*Managing Director General, <br> Centre for Cybersecurity, <br> Belgium*

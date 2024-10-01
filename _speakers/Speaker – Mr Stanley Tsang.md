@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Mr Stanley Tsang**
 
-*Distinguished Engineer and Senior Director (Special Projects), <br> CSA, Singapore*
+*Distinguished Engineer and Senior Director (Special Projects), <br> Cyber Security Agency of Singapore (CSA)<br> Singapore*
