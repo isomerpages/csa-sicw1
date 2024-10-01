@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Chua Kuan Seah**
 
-*Deputy Chief Executive, <br> Cyber Security Agency of Singapore (CSA), Singapore*
+*Deputy Chief Executive, <br> Cyber Security Agency of Singapore (CSA) <br>Singapore*
