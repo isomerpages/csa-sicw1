@@ -20,7 +20,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 11.30am to 5.30pm           | [GovWare Conference and Exhibition 2024](/events/15-oct/govware-conference-and-exhibition-2024/)                               |
 | 2.00pm to 3.00pm           | [High-Level Panel: Insights into 2024’s Cyber Threats](/events/15-oct/high-level-panel-insights-into-2024-s-cyber-threats/)                               |
 | 2.00pm to 3.20pm           | [SICW Women in Cyber](/events/15-oct/sicw-women-in-cyber/)                               |
-| 2.00pm to 4.15pm           | [Empowering RIE Forum](/events/15-oct/empowering-innovation-through-research-enterprise/)                               |
+| 2.00pm to 4.15pm           | [Empowering RIE Forum](/events/15-oct/empowering-rie-forum/)                               |
 | 2.00pm to 6.00pm           | [World Economic Forum Systems of Cyber Resilience : Electricity Initiative Global Community Meeting](/events/15-oct/world-economic-forum-systems-of-cyber-resilience/)                               |
 | <br> **16 October 2024** <br>*(Wednesday)* |                                                                                                |
 | 8.30am to 12.30pm           | [9th ASEAN Ministerial Conference on Cybersecurity (AMCC)](/9th-asean-ministerial-conference-on-cybersecurity-amcc/)                               |
