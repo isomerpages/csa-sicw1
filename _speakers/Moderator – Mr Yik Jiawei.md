@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Mr Yik Jiawei**
 
-*Director, Security and Resilience Division, <br> Ministry for Digital Development and Information, Singapore*
+*Director, Security and Resilience Division, <br> Ministry for Digital Development and Information, <br>Singapore*
