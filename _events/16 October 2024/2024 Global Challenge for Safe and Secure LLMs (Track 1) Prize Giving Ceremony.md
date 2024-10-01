@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 16 October 2024
 ---
-#### **2024 Global Challenge for Safe and Secure LLMs (Track 1) Prize Giving Ceremony***
+#### **2024 Global Challenge for Safe and Secure LLMs (Track 1) Prize Giving Ceremony**
 
 **16 October 2024 (Wednesday)**  
 *Time: 11.00am to 11.25am (GMT +8)*
