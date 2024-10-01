@@ -12,12 +12,11 @@ third_nav_title: 17 October 2024
 
 In the rapidly evolving digital landscape, the integration of AI technologies presents both unprecedented opportunities and complex challenges for cyber resilience. As AI systems become more prevalent, they introduce new vulnerabilities and reshape existing threat dynamics, making it crucial to stay ahead of emerging risks.
 
-How can organizations effectively harness AI to enhance cyber resilience and ensure the safe adoption of these technologies amidst the evolving intersection of AI and cybersecurity?
+How can organisations effectively harness AI to enhance cyber resilience and ensure the safe adoption of these technologies amidst the evolving intersection of AI and cybersecurity?
 
 |**Panellists**          |                                                              |
 | [Chua Kuan Seah](/speakers/chua-kuan-seah/)  | *Deputy Chief Executive* <br>*Cyber Security Agency of Singapore (CSA), Singapore*     |
 | [Mr Stanley Tsang](/speakers/mr-stanley-tsang/)  | *Distinguished Engineer and Senior Director (Special Projects)* <br>Cyber Security Agency of Singapore (CSA), Singapore     |
-| [Derek Manky](/speakers/derek-manky/)  | *Chief Security Strategist &amp; Global Vice President Threat Intelligence*<br> Fortinet, Canada      |
 | [Dr Dorit Dor](/speakers/dr-dorit-dor/)  | *Chief Technology Officer* <br>Check Point, Israel     |
 | [Shaun Khalfan](/speakers/shaun-khalfan/)  | *VP, Enterprise Security and Chief Information Security Officer* <br>Paypal, United States of America     |
 | [Akshay Joshi](/speakers/akshay-joshi/)  | *Head of Industry and Partnerships, Centre for Cybersecurity* <br>World Economic Forum, Switzerland     |
