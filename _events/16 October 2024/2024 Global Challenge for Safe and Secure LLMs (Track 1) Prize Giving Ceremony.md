@@ -17,4 +17,4 @@ In this prize-giving ceremony, we celebrate the efforts of participants in Track
 As we honour these achievements, the journey continues with Track 2, set for January 2025. This next phase will challenge participants to develop external defenses for LLMs that detect and block harmful outputs without modifying the model’s internal structure. 
 
 |**Guest of Honour**          |                                                              |
-| [Ms Yong Ying-I](/speakers/ms-yong-ying-i/)  | *Chairman* <br>Central Provident Fund Board<br>*Senior Advisor* <br>Ministry of Digital Development and Information<br>*Chairman* <br>SGInnovate<br>Singapore     |
+| [Ms Yong Ying-I](/speakers/ms-yong-ying-i/)  | *Chairman*, Central Provident Fund Board<br>*Senior Advisor*, Ministry of Digital Development and Information<br>*Chairman*, SGInnovate<br>Singapore     |
