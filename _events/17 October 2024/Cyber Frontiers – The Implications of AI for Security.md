@@ -15,14 +15,14 @@ In the rapidly evolving digital landscape, the integration of AI technologies pr
 How can organisations effectively harness AI to enhance cyber resilience and ensure the safe adoption of these technologies amidst the evolving intersection of AI and cybersecurity?
 
 |**Panellists**          |                                                              |
-| [Chua Kuan Seah](/speakers/chua-kuan-seah/)  | *Deputy Chief Executive* <br>*Cyber Security Agency of Singapore (CSA), <br>Singapore*     |
-| [Mr Stanley Tsang](/speakers/mr-stanley-tsang/)  | *Distinguished Engineer and Senior Director (Special Projects)* <br>Cyber Security Agency of Singapore (CSA), <br>Singapore     |
-| [Dr Dorit Dor](/speakers/dr-dorit-dor/)  | *Chief Technology Officer* <br>Check Point, <br>Israel     |
-| [Shaun Khalfan](/speakers/shaun-khalfan/)  | *VP, Enterprise Security and Chief Information Security Officer* <br>Paypal, <br>United States of America     |
-| [Akshay Joshi](/speakers/akshay-joshi/)  | *Head of Industry and Partnerships, Centre for Cybersecurity* <br>World Economic Forum, <br>Switzerland     |
-| [Jamie Saunders](/speakers/jamie-saunders/)  | *Oxford Martin Fellow* <br>University of Oxford, <br>United Kingdom     |
+| [Chua Kuan Seah](/speakers/chua-kuan-seah/)  | *Deputy Chief Executive* <br>*Cyber Security Agency of Singapore (CSA) <br>Singapore*     |
+| [Mr Stanley Tsang](/speakers/mr-stanley-tsang/)  | *Distinguished Engineer and Senior Director (Special Projects)* <br>Cyber Security Agency of Singapore (CSA) <br>Singapore     |
+| [Dr Dorit Dor](/speakers/dr-dorit-dor/)  | *Chief Technology Officer* <br>Check Point <br>Israel     |
+| [Shaun Khalfan](/speakers/shaun-khalfan/)  | *VP, Enterprise Security and Chief Information Security Officer* <br>Paypal <br>United States of America     |
+| [Akshay Joshi](/speakers/akshay-joshi/)  | *Head of Industry and Partnerships, Centre for Cybersecurity* <br>World Economic Forum <br>Switzerland     |
+| [Jamie Saunders](/speakers/jamie-saunders/)  | *Oxford Martin Fellow* <br>University of Oxford <br>United Kingdom     |
 |<br>**Moderator**          |                                                              |
-| [Sadie Creese](/speakers/sadie-creese/)  | *Professor of Cybersecurity* <br>University of Oxford, <br>United Kingdom     |
+| [Sadie Creese](/speakers/sadie-creese/)  | *Professor of Cybersecurity* <br>University of Oxford <br>United Kingdom     |
 
 <br><br><br>
 *Information is accurate at time of publication*
