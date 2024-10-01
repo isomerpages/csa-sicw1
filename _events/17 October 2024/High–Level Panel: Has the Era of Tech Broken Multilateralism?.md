@@ -32,12 +32,12 @@ In this session, panellists will explore the impact of the technology era on mul
 More information will be made available soon.
 
 |**Speakers**          |                                                              |
-| [Wang Lei](/speakers/wang-lei/)  | *Coordinator for Cyber Affairs* <br>Ministry of Foreign Affairs, China      |
+| [Wang Lei](/speakers/wang-lei/)  | *Coordinator for Cyber Affairs* <br>Ministry of Foreign Affairs, <br>China      |
 |<br>**Panellists**          |                                                              |
-| [Laris Galadza](/speakers/laris-galadza/)  | *Senior Official for Cyber, Digital and Critical Technology Policy* <br>Global Affairs Canada      |
-| [Leonard Rolland](/speakers/leonard-rolland/)  | *Head, International Cyber Policy* <br>Ministry for Europe and Foreign Affairs, France      |
-| [Naoki Kumagai](/speakers/naoki-kumagai/)  | *Ambassador-in-charge of Cyber Policy* <br>Ministry of Foreign Affairs, Japan      |
-| [Ir. Dr. Megat Zuhairy bin Megat Tajuddin](/speakers/ir-dr-megat-zuhairy-bin-megat-tajuddin/)  | *Chief Executive* <br>National Cyber Security Agency, Malaysia      |
+| [Laris Galadza](/speakers/laris-galadza/)  | *Senior Official for Cyber, Digital and Critical Technology Policy* <br>Global Affairs <br>Canada      |
+| [Leonard Rolland](/speakers/leonard-rolland/)  | *Head, International Cyber Policy* <br>Ministry for Europe and Foreign Affairs, <br>France      |
+| [Naoki Kumagai](/speakers/naoki-kumagai/)  | *Ambassador-in-charge of Cyber Policy* <br>Ministry of Foreign Affairs, <br>Japan      |
+| [Ir. Dr. Megat Zuhairy bin Megat Tajuddin](/speakers/ir-dr-megat-zuhairy-bin-megat-tajuddin/)  | *Chief Executive* <br>National Cyber Security Agency, <br>Malaysia      |
 
 <br><br><br>
 *Information is accurate at time of publication*
