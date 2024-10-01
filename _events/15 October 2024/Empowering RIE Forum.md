@@ -5,10 +5,10 @@ variant: markdown
 description: ""
 third_nav_title: 15 October 2024
 ---
-#### **Empowering Innovation through Research &amp; Enterprise**
+#### **Empowering RIE Forum**
 
 **15 October 2024 (Tuesday)**  
-*Time: 2.00pm to 3.45pm (GMT +8)*
+*Time: 2.00pm to 4.15pm (GMT +8)*
 
 More information will be made available soon.
 
