@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Mr Ngiam Shih Chun**
 
-*Deputy Secretary (Policy), <br> Ministry of Home Affairs, Singapore*
+*Deputy Secretary (Policy), <br> Ministry of Home Affairs, <br>Singapore*
