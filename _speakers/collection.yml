@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Chris Hockings.md
       - Speaker – Mr Léonard Rolland.md
       - Speaker – Mr Rod Latham.md
       - Speaker – Dr Evan Miyazono.md
