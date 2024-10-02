@@ -24,7 +24,5 @@ Project Omega is a national threat analytics initiative which collects and studi
 | 3.00pm to 3.30pm     | **IoT Clock Glitching**<br>Clock glitching is a technique to trigger vulnerabilities at the hardware level by manipulating the clock signal of a device. This can cause unintended behaviours, such as corrupting program flow and bypassing password checks, potentially uncovering security weaknesses in everyday IoT devices. |
 | 5.00pm     | **End of Day #2 Hackathon** |
 
-
-
 <br><br><br>
 *Information is accurate at time of publication*
