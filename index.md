@@ -46,4 +46,14 @@ sections:
       title: Past SICW Highlights
       subtitle: Explore
       button: See All
+  - infopic:
+      title: Event Highlights
+      id: infopic
+      description: Driving critical conversations through ministerial dialogues,
+        high-level panels and dynamic forums on diplomacy, policy, operations
+        and technology.
+      button: View All Events
+      url: /events/calendar-of-events/
+      image: /images/HighlightsAnimation_2.gif
+      alt: Image alt text
 ---
