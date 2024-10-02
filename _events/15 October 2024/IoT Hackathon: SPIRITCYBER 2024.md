@@ -22,7 +22,7 @@ Project Omega is a national threat analytics initiative which collects and studi
 | 10.00am to 4.00pm     | **Autonomous Mobile Robot (AMR) Demo**<br>We will be demonstrating and introducing AMR features, use cases and answering AMR product related queries. |
 | 2.00pm to 2.30pm     | **SOHO Demo**<br>This demo showcases how an enterprise firewall can be compromised and expose internal devices - such as printers, cameras, smart speakers, and network storage devices. Subsequently, an attacker may conduct lateral movement into the network to access confidential data and record conversations. |
 | 3.00pm to 3.30pm     | **IoT Clock Glitching**<br>Clock glitching is a technique to trigger vulnerabilities at the hardware level by manipulating the clock signal of a device. This can cause unintended behaviours, such as corrupting program flow and bypassing password checks, potentially uncovering security weaknesses in everyday IoT devices. |
-| 5.00pm     | **End of Day #2 Hackathon** |
+| 5.00pm     | **End of Day #1 Hackathon** |
 
 <br><br><br>
 *Information is accurate at time of publication*
