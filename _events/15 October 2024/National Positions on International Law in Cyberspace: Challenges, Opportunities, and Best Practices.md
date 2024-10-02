@@ -26,3 +26,6 @@ Foreign Affairs<br>Japan           |
 |<br> **Moderator**          |                                                           |
 | [Dr Agnes Kasper](/speakers/dr-agnes-kasper/)  | *Head of Law Branch*, NATO Cooperative Cyber Defence Centre of Excellence<br>*Senior Lecturer*, Tallinn University of Technology <br> Estonia               |
 | | |
+
+<br><br><br>
+*Information is accurate at time of publication*
