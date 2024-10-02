@@ -22,22 +22,24 @@ In this session, panellists will explore the impact of the technology era on mul
 | [Mr Nathaniel Fick](/speakers/mr-nathaniel-fick/)  | *Ambassador at Large* <br>Bureau of Cyberspace and Digital Policy <br>United States      |
 |<br>**Panellists**          |                                                              |
 | [Ms Manon Le Blanc](/speakers/ms-manon-le-blanc/)  | *EU Coordinator for Cyber Issues* <br>European External Action Service <br>European Union      |
-| [Amit Shukla](/speakers/amit-shukla/)  | *Joint Secretary, Cyber Diplomacy Division* <br>Ministry of External Affairs <br>India      |
 | [Dr Mohamad Maliki Bin Osman](/speakers/dr-mohamad-maliki-bin-osman/)  | *Second Minister for Foreign Affairs* <br>Ministry of Foreign Affairs <br>Singapore      |
 | [AVM Amorn Chomchoey](/speakers/avm-amorn-chomchoey/)  | *Secretary General* <br>National Cybersecurity Agency <br>Thailand      |
 | [Mr Nathaniel Fick](/speakers/mr-nathaniel-fick/)  | *Ambassador at Large* <br>Bureau of Cyberspace and Digital Policy <br>United States      |
 
 **High-Level Panel: Advancing Rules, Norms, and Standards in Cyberspace: The Way Forward**
 
-More information will be made available soon.
+The digital realm has become an essential part of our interconnected world, but as cyberspace evolves, so too do the challenges it presents. The need for global rules, norms, and standards has never been more critical to ensuring an open, secure, safe, trusted and interoperable cyberspace. Yet, reaching consensus on what these frameworks should look like is fraught with complexities, as differing national interests and geopolitical rivalries come into play.
+
+Can the international community come together to develop and uphold principles that promote peace and security in cyberspace? What role do multilateral institutions play in establishing these rules and ensuring that they are respected by all? How can these frameworks keep pace with rapidly advancing technology while ensuring that they reflect the needs and voices of all stakeholders?
+This session will examine the path forward for advancing global rules, norms, and standards in cyberspace. Panellists will discuss the role of the UN in driving multilateral collaboration and how the international community can band together to build a resilient and trustworthy digital environment for the future.
 
 |**Speakers**          |                                                              |
 | [Wang Lei](/speakers/wang-lei/)  | *Coordinator for Cyber Affairs* <br>Ministry of Foreign Affairs <br>China      |
 |<br>**Panellists**          |                                                              |
 | [Laris Galadza](/speakers/laris-galadza/)  | *Senior Official for Cyber, Digital and Critical Technology Policy* <br>Global Affairs <br>Canada      |
 | [Leonard Rolland](/speakers/leonard-rolland/)  | *Head, International Cyber Policy* <br>Ministry for Europe and Foreign Affairs <br>France      |
-| [Naoki Kumagai](/speakers/naoki-kumagai/)  | *Ambassador-in-charge of Cyber Policy* <br>Ministry of Foreign Affairs <br>Japan      |
-| [Ir. Dr. Megat Zuhairy bin Megat Tajuddin](/speakers/ir-dr-megat-zuhairy-bin-megat-tajuddin/)  | *Chief Executive* <br>National Cyber Security Agency <br>Malaysia      |
+| [Naoki Kumagai](/speakers/naoki-kumagai/)  | *Ambassador-in-charge of Cyber Policy* <br>Ministry of Foreign Affairs      |
+| [Ir. Dr. Megat Zuhairy bin Megat Tajuddin](/speakers/ir-dr-megat-zuhairy-bin-megat-tajuddin/)  | *Chief Executive* <br>National Cyber Security Agency      |
 
 <br><br><br>
 *Information is accurate at time of publication*
