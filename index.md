@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/SICW2024_HeroBanner_v20240822_2.jpg
+      background: /images/SICW2024_HeroBanner_v20241001.jpg
       key_highlights:
         - title: About SICW 2024
           description: ""
