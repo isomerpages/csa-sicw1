@@ -32,7 +32,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 10.30am to 12.00pm           | [International IoT Security Roundtable(IIoTSRT)](/events/16-oct/iiotsrt/)                               |
 | 11.00am to 11.25am           | [2024 Global Challenge for Safe and Secure LLMs (Track 1) Prize Giving Ceremony](/events/16-oct/2024-global-challenge-for-safe-and-secure-llms-track-1-prize-giving-ceremony/)                               |
 | 1.00pm to 3.30pm           | [High-Level Panel: Trust and Security in the Quantum Era](/events/16-oct/high-level-panel-trust-and-security-in-the-quantum-era/)                               |
-| 2.00pm to 6.00pm           | [Global Forum on Cyber Expertise Southeast Asia Regional Meeting 2024](/events/16-oct/gfce/)                               |
+| 1.00pm to 6.00pm           | [Global Forum on Cyber Expertise Southeast Asia Regional Meeting 2024](/events/16-oct/gfce/)                               |
 | 2.30pm to 5.30pm           | [Mobile Security x Scams](/events/16-oct/mobile-security-x-scams/)                               |
 | <br> **17 October 2024** <br>*(Thursday)*          |                                                                                           |
 | 9.00am to 10.35am           | [High-Level Panel: Has the Era of Tech Broken Multilateralism?](/events/17-oct/high-level-panel-has-the-era-of-tech-broken-multilateralism/)                               |
