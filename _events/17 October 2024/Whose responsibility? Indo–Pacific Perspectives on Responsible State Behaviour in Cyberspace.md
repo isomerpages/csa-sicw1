@@ -19,3 +19,6 @@ This situation obfuscates further exploration of how different countries perceiv
 With that in mind, the Royal United Services Institute (RUSI) and the Australian Strategic Policy Institute (ASPI) are organising a workshop on Indo-Pacific perspectives on responsible state behaviour in cyberspace to unpack some of these questions. 
 
 This is an invite-only workshop and spaces are limited. Please write to [Sara Seppanen](mailto:SaraS@rusi.org) to register your interest and we will contact you if additional spaces are made available.
+
+<br><br><br>
+*Information is accurate at time of publication*
