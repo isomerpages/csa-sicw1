@@ -56,4 +56,15 @@ sections:
       title: Past SICW Highlights
       subtitle: Explore
       button: See All
+  - infopic:
+      title: Event Highlights
+      subtitle: SICW 2024
+      id: infopic
+      description: Driving critical conversations through ministerial dialogues,
+        high-level panels and dynamic forums on diplomacy, policy, operations
+        and technology.
+      button: VIEW ALL EVENTS
+      url: /events/calendar-of-events/
+      image: /images/HighlightsAnimation_v20241002.gif
+      alt: Image alt text
 ---
