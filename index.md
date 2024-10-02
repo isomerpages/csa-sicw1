@@ -62,7 +62,8 @@ sections:
       subtitle: SICW 2024
       id: infobar
       description: Over 30 events driving critical conversations & partnerships to
-        enhance security. <br><br><img src="/images/HighlightsAnimation.gif">
+        enhance security. <br><br><img width="80%"
+        src="/images/HighlightsAnimation.gif">
       button: View All Events
       url: /events/calendar-of-events/
 ---
