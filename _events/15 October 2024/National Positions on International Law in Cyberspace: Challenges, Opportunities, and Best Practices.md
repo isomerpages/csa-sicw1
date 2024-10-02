@@ -21,7 +21,7 @@ This panel is linked to the collaborative project [“The Handbook on Developing
 | [H.E. Tanel Sepp](/speakers/he-tanel-sepp/)  | *Ambassador at Large for Cyber Affairs*<br>Ministry of Foreign Affairs <br> Estonia           |
 | [Yukiya Hamamoto](/speakers/yukiya-hamamoto/)  | *Deputy Director General, International Legal Affairs Bureau*<br>Ministry of Foreign Affairs<br>Japan           |
 | [Marcus Song](/speakers/marcus-song/)  | *Senior State Counsel*<br>Attorney-General’s Chambers<br>Republic of Singapore           |
-| [Kubo Mačák](/speakers/kubo-macak/)  | *Professor of International Law* <br>University of Exeter, United Kingdom     |
+| [Kubo Mačák](/speakers/kubo-macak/)  | *Professor of International Law* <br>University of Exeter <br>United Kingdom     |
 |<br> **Moderator**          |                                                           |
 | [Dr Agnes Kasper](/speakers/dr-agnes-kasper/)  | *Head of Law Branch*, NATO Cooperative Cyber Defence Centre of Excellence<br>*Senior Lecturer*, Tallinn University of Technology <br> Estonia               |
 | | |
