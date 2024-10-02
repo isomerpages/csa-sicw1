@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/SICW2024_HeroBanner_v20241001.jpg
+      background: /images/SICW2024_HeroBanner_v20241002.jpg
       key_highlights:
         - title: About SICW 2024
           description: ""
@@ -33,18 +33,8 @@ sections:
         and technology.
       button: View All Events
       url: /events/calendar-of-events/
-      image: /images/HighlightsAnimation_2.gif
-      alt: Image alt text
+      image: /images/HighlightsAnimation_v20241002.gif
       subtitle: SICW 2024
-  - infobar:
-      title: Event Highlights
-      subtitle: SICW 2024
-      id: infobar
-      description: Over 30 events driving critical conversations & partnerships to
-        enhance security. <br><br><img width="80%"
-        src="/images/HighlightsAnimation.gif">
-      button: View All Events
-      url: /events/calendar-of-events/
   - infopic:
       title: SICW
       subtitle: About
