@@ -56,4 +56,13 @@ sections:
       url: /events/calendar-of-events/
       image: /images/HighlightsAnimation_2.gif
       alt: Image alt text
+      subtitle: SICW 2024
+  - infobar:
+      title: Event Highlights
+      subtitle: SICW 2024
+      id: infobar
+      description: Over 30 events driving critical conversations & partnerships to
+        enhance security. <br><img src="/images/HighlightsAnimation.gif">
+      button: View All Events
+      url: /events/calendar-of-events/
 ---
