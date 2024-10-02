@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Marcus Song.md
       - Speaker – Kubo Mačák.md
       - Moderator – Dr Agnes Kasper.md
       - Speaker – Mr Chris Hockings.md
