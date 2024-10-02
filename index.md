@@ -33,7 +33,7 @@ sections:
         and technology.
       button: View All Events
       url: /events/calendar-of-events/
-      image: /images/HighlightsAnimation_v20241002.gif
+      image: /images/HighlightsAnimation_v20241002_2.gif
       subtitle: SICW 2024
   - infopic:
       title: SICW
