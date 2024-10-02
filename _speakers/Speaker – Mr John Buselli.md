@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Mr John Buselli**
 
-*IBM Research*
+*Offering manager, <br>IBM*
