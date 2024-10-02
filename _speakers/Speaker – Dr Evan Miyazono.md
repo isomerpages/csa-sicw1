@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 ![](/images/2024%20speakers/Evan_Miyazono.png)
-#### **Mr Tan Kiat How**
+#### **Dr Evan Miyazono**
 
 *Chief Executive Officer <br>
 Atlas Computing*
