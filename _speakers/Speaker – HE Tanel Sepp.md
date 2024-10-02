@@ -6,4 +6,4 @@ description: ""
 ---
 #### **H.E. Tanel Sepp**
 
-*Ambassador at Large for Cyber Affairs, <br> Ministry of Foreign Affairs of Estonia*
+*Ambassador at Large for Cyber Affairs, <br> Ministry of Foreign Affairs <br> Estonia*
