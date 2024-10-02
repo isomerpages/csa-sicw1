@@ -2,7 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Dr Amelia Tan.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tan Kiat How.md
       - Guest of Honour – Mr Teo Chee Hean.md
@@ -67,6 +66,7 @@ collections:
       - Speaker – Amit Shukla.md
       - Speaker – Mr Craig Stephen.md
       - Speaker – Mr Sim Feng–Ji.md
+      - Speaker – Dr Amelia Tan.md
       - Speaker – Ms Sharon Tan.md
       - Speaker – Mr Teo Xiang Zheng.md
       - Speaker – Mr Tom Tovar.md
