@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Kubo Mačák**
 
-*Professor of International Law, <br> University of Exeter*
+*Professor of International Law, <br> University of Exeter<br>United Kingdom*
