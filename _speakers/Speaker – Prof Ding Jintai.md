@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Prof Ding Jintai**
 
-*Tsinghua University*
+*Professor, <br>Tsinghua University*
