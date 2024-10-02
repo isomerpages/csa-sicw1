@@ -18,7 +18,7 @@ Project Omega is a national threat analytics initiative which collects and studi
 | 10.00am to 10.15am     | **Closing Ceremony by Deputy CE, CSA** |
 | 10.10am to 10.30am     | **Award Ceremony** |
 | 10.30am to 12.00pm     | **Hackathon Reception &amp; Networking** |
-**End of Hackathon SpiritCyber-24** 
+<br>**End of Hackathon SpiritCyber-24** 
 
 <br><br><br>
 *Information is accurate at time of publication*
