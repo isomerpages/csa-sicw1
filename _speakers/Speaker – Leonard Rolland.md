@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Leonard Rolland**
 
-*Head, International Cyber Policy, <br>Ministry for Europe and Foreign Affairs, France*
+*Head, International Cyber Policy, <br>Ministry for Europe and Foreign Affairs<br>France*
