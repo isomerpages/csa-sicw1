@@ -4,9 +4,8 @@ permalink: /speaker-ms-kemba-walden/
 variant: markdown
 description: ""
 ---
-
 ![](/images/2024%20speakers/Kemba_Walden.png)
-#### **Ms Kelly Anderson**
+#### **Ms Kemba Walden**
 
 *President <br>
 Paladin Global Institute*
