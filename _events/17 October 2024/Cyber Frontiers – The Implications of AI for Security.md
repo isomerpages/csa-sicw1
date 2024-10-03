@@ -20,7 +20,6 @@ How can organisations effectively harness AI to enhance cyber resilience and ens
 | [Mr Stanley Tsang](/speakers/mr-stanley-tsang/)  | *Distinguished Engineer and Senior Director (Special Projects)* <br>Cyber Security Agency of Singapore (CSA) <br>Singapore     |
 | [Akshay Joshi](/speakers/akshay-joshi/)  | *Head of Industry and Partnerships, Centre for Cybersecurity* <br>World Economic Forum <br>Switzerland     |
 | [Jamie Saunders](/speakers/jamie-saunders/)  | *Oxford Martin Fellow* <br>University of Oxford <br>United Kingdom     |
-| [Shaun Khalfan](/speakers/shaun-khalfan/)  | *VP, Enterprise Security and Chief Information Security Officer* <br>Paypal <br>United States of America     |
 |<br>**Moderator**          |                                                              |
 | [Sadie Creese](/speakers/sadie-creese/)  | *Professor of Cybersecurity* <br>University of Oxford <br>United Kingdom     |
 
