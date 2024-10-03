@@ -35,10 +35,10 @@ Can the international community come together to develop and uphold principles t
 This session will examine the path forward for advancing global rules, norms, and standards in cyberspace. Panellists will discuss the role of the UN in driving multilateral collaboration and how the international community can band together to build a resilient and trustworthy digital environment for the future.
 
 |**Speakers**          |                                                              |
-| [Wang Lei](/speakers/wang-lei/)  | *Coordinator for Cyber Affairs* <br>Ministry of Foreign Affairs <br>China      |
+| [Mr Wang Lei](/speakers/wang-lei/)  | *Coordinator for Cyber Affairs* <br>Ministry of Foreign Affairs <br>China      |
 |<br>**Panellists**          |                                                              |
 | [Ms Kelly Anderson](/speakers/ms-kelly-anderson/)  | *International Cyber and Critical Technology Policy* <br>Global Affairs <br>Canada      |
-| [Leonard Rolland](/speakers/leonard-rolland/)  | *Head, International Cyber Policy* <br>Ministry for Europe and Foreign Affairs <br>France      |
+| [Mr Leonard Rolland](/speakers/leonard-rolland/)  | *Head, International Cyber Policy* <br>Ministry for Europe and Foreign Affairs <br>France      |
 
 <br><br><br>
 *Information is accurate at time of publication*
