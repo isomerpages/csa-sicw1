@@ -8,7 +8,7 @@ description: ""
 #### **Ms Kelly Anderson**
 
 *International Cyber and Critical Technology Policy <br>
- Global Affairs, <br> Canada*
+ Global Affairs <br> Canada*
  
 ##### **Biography**
 Kelly Anderson (BScS University of Ottawa, MA Norman Patterson School of International Affairs) currently serves as Director for International Cyber and Critical Technology Policy at Global Affairs Canada.
