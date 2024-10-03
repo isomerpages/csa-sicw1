@@ -24,6 +24,8 @@ This session will discuss the strategic and policy implications of resilience in
 | [Dr Kaleem Ahmed Usmani](/speakers/dr-kaleem-ahmed-usmani/)  | *Head of CERT-MU* <br>Mauritius      |
 | [Mr Akshay Joshi](/speakers/mr-akshay-joshi/)  | *Head of Cybersecurity* <br>World Economic Forum      |
 | [Mr Andrew Whittaker](/speakers/mr-andrew-whittaker/)  | *Head of Cyber Policy Department* <br>UK Foreign, Commonwealth &amp; Development Office (FCDO)      |
+|<br>**Moderator**          |                                                              |
+| [Mr Gaurav Modi](/speakers/mr-gaurav-modi/)  | *Managing Partner* <br>EY      |
 
 <br><br><br>
 *Information is accurate at time of publication*
