@@ -25,7 +25,7 @@ This session explores the prospects and promise of global digital governance, an
 <br>As cyber threats evolve and grow more sophisticated, the challenge of regulating the technology industry becomes increasingly complex. The rapid pace of innovation and global reach of digital platforms have created a landscape where traditional regulatory approaches are often too little too late. 
 These challenges are further compounded by the tension between innovation and security. 
 
-This session will explore whether current regulatory measures are adequate and if they fall short in addressing emerging risks. Panelists will examine the effectiveness of existing frameworks, potential consequences of regulatory gaps and the delicate balance between security and innovation. Is our current approach to cybersecurity and technology regulation too much or too little? Is securing our digital future without compromising technological progress possible?
+This session will explore whether current regulatory measures are adequate and if they fall short in addressing emerging risks. Panellists will examine the effectiveness of existing frameworks, potential consequences of regulatory gaps and the delicate balance between security and innovation. Is our current approach to cybersecurity and technology regulation too much or too little? Is securing our digital future without compromising technological progress possible?
 
 **SICW HLP Opening Plenary – Panel 3**
 
