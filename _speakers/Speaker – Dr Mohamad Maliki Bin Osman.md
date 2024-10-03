@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Dr Mohamad Maliki Bin Osman**
 
-*Second Minister for Foreign Affairs, <br> Ministry of Foreign Affairs, Singapore*
+*Second Minister for Foreign Affairs, <br> Ministry of Foreign Affairs, <br>Singapore*
