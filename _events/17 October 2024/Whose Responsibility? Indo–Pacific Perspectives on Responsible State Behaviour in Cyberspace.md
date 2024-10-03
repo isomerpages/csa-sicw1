@@ -1,12 +1,12 @@
 ---
-title: Whose responsibility? Indo–Pacific Perspectives on Responsible State
+title: Whose Responsibility? Indo–Pacific Perspectives on Responsible State
   Behaviour in Cyberspace
 permalink: /events/17-oct/whose-responsibility-indo-pacific-perspectives/
 variant: markdown
 description: ""
 third_nav_title: 17 October 2024
 ---
-#### **Whose responsibility? Indo-Pacific Perspectives on Responsible State Behaviour in Cyberspace**
+#### **Whose Responsibility? Indo-Pacific Perspectives on Responsible State Behaviour in Cyberspace**
 
 **17 October 2024 (Thursday)**  
 *Time: 9.00am to 11.00am (GMT +8)*

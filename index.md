@@ -26,6 +26,17 @@ sections:
       image: /images/Home_Page_GOH.jpg
       alt: SICW 2024 guests of honour
   - infopic:
+      title: Event Highlights
+      subtitle: SICW 2024
+      id: infopic
+      description: Driving critical conversations through ministerial dialogues,
+        high-level panels and dynamic forums on diplomacy, policy, operations
+        and technology.
+      button: View all events
+      url: /events/calendar-of-events/
+      image: /images/HighlightsAnimation_v20241003.gif
+      alt: Image alt text
+  - infopic:
       title: SICW
       subtitle: About
       description: Singapore International Cyber Week (SICW) is Asia-Pacific’s most

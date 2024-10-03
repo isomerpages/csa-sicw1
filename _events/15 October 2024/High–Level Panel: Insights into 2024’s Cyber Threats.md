@@ -17,6 +17,7 @@ As cyber threats evolve to be more sophisticated and prevalent, understanding th
 | [Ms Eva Chen](/speakers/ms-eva-chen/)  | *Co-Founder &amp; CEO* <br>Trend Micro      |
 | [Mr Emmanuel Naegelen](/speakers/mr-emmanuel-naegelen/)  | *Deputy Director-General* <br>ANSSI      |
 | [Ms Barbara Kluge](/speakers/ms-barbara-kluge/)  | *BSI* <br>Germany      |
+| [Mr Anand Raghavan](/speakers/mr-anand-raghavan/)  | *Vice President of Engineering* <br>AI at Cisco      |
 |<br> **Moderator**          |                                                           |
 | [Mr Garrettson Blight](/speakers/mr-garrettson-blight/)  | *Managing Director, Global Cyber,*<br>Booz Allen Hamilton                |
 | | |

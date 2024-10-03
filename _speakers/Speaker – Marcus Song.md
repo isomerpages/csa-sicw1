@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Marcus Song**
 
-*Senior State Counsel, <br> Attorney-General’s Chambers<br>Republic of Singapore*
+*Senior State Counsel, <br> Attorney-General’s Chambers<br>Singapore*
