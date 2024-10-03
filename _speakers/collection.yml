@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Moderator – Mr Gaurav Modi.md
       - Speaker – Mr Anand Raghavan.md
       - Speaker – Ms Kelly Anderson.md
       - Guest of Honour – Dr Janil Puthucheary.md
