@@ -34,7 +34,7 @@ sections:
         and technology.
       button: View all events
       url: /events/calendar-of-events/
-      image: /images/HighlightsAnimation_v20241002_2.gif
+      image: /images/HighlightsAnimation_v20241003.gif
       alt: Image alt text
   - infopic:
       title: SICW
