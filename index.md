@@ -33,7 +33,7 @@ sections:
         high-level panels and dynamic forums on diplomacy, policy, operations
         and technology.
       button: View all events
-      url: /calendar-of-events/
+      url: /events/calendar-of-events/
       image: /images/HighlightsAnimation_v20241002_2.gif
       alt: Image alt text
   - infopic:
