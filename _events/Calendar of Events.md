@@ -25,6 +25,8 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 2.00pm to 6.00pm           | [World Economic Forum Systems of Cyber Resilience : Electricity Initiative Global Community Meeting](/events/15-oct/world-economic-forum-systems-of-cyber-resilience/)                               |
 | <br> **16 October 2024** <br>*(Wednesday)* |                                                                                                |
 | 8.30am to 12.30pm           | [9th ASEAN Ministerial Conference on Cybersecurity (AMCC)](/9th-asean-ministerial-conference-on-cybersecurity-amcc/)                               |
+| 8.30am to 5.30pm           | [ASEAN Cybercrime Prosecutors’ Roundtable Meeting](/events/16-oct/acprm/)                               |
+
 | 9.00am to 5.00pm           | [GovWare Conference and Exhibition 2024](/events/16-oct/govware-conference-and-exhibition-2024/)                               |
 | 9.00am to 5.30pm           | [IoT Hackathon: SPIRITCYBER 2024](/events/16-oct/iot-hackathon-spiritcyber-2024/)                               |
 | 9.30am to 11.00am           | [High-Level Panel: Can AI be Secure?](/events/16-oct/high-level-panel-can-ai-be-secure/)                               |
