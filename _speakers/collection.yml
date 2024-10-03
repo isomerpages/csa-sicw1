@@ -2,12 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Mr Tomoo YAMAUCHI.md
-      - Speaker – Mr Lee Sang Joong.md
-      - Moderator – Dr Ming Tan.md
-      - Speaker – Ms Cheri Lim.md
-      - Speaker – Ms Tara Wisniewski.md
-      - Speaker – Ms Sandra Joyce.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tan Kiat How.md
       - Guest of Honour – Mr Teo Chee Hean.md
@@ -44,6 +38,7 @@ collections:
       - Speaker – Prof Ding Jintai.md
       - Speaker – Akshay Joshi.md
       - Speaker – Mr Akshay Joshi.md
+      - Speaker – Ms Sandra Joyce.md
       - Speaker – Mr Er Chiang Kai.md
       - Speaker – Ms Anastasiya Kazakova.md
       - Speaker – Mr Gaurav Keerthi.md
@@ -54,10 +49,12 @@ collections:
       - Speaker – Dr Regula Kurzbein.md
       - Speaker – Mr Lam Chee Kin.md
       - Speaker – Mr Rod Latham.md
+      - Speaker – Mr Lee Sang Joong.md
       - Speaker – MG Lee Yi–Jin.md
       - Speaker – Prof Wenke Lee.md
       - Speaker – Wang Lei.md
       - Speaker – Mr Eugene Liderman.md
+      - Speaker – Ms Cheri Lim.md
       - Speaker – Kubo Mačák.md
       - Speaker – Derek Manky.md
       - Speaker – Ir Dr Megat Zuhairy bin Megat Tajuddin.md
@@ -91,6 +88,8 @@ collections:
       - Speaker – Mr Dmitry Volkov.md
       - Speaker – Ms Kemba Walden.md
       - Speaker – Mr Andrew Whittaker.md
+      - Speaker – Ms Tara Wisniewski.md
+      - Speaker – Mr Tomoo YAMAUCHI.md
       - Speaker – Mr Sean Yang.md
       - Speaker – Ms Yah Shze Min.md
       - Moderator – Mr Garrettson Blight.md
@@ -99,5 +98,6 @@ collections:
       - Moderator – Mr Gaurav Modi.md
       - Moderator – Mr Charles Ng.md
       - Moderator – Dr Ng Li Sa.md
+      - Moderator – Dr Ming Tan.md
       - Moderator – Mr Rodney Tan.md
       - Moderator – Mr Yik Jiawei.md
