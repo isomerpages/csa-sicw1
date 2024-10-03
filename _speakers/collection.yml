@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Kemba Walden.md
       - Moderator – Mr Gaurav Modi.md
       - Speaker – Mr Anand Raghavan.md
       - Speaker – Ms Kelly Anderson.md
