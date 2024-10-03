@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Tomoo YAMAUCHI.md
       - Speaker – Mr Lee Sang Joong.md
       - Moderator – Dr Ming Tan.md
       - Speaker – Ms Cheri Lim.md
