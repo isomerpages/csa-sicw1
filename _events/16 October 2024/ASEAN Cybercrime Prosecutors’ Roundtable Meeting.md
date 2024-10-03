@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 16 October 2024
 ---
-#### ASEAN Cybercrime Prosecutors’ Roundtable Meeting
+#### **ASEAN Cybercrime Prosecutors’ Roundtable Meeting**
 
 16 October 2024 (Wednesday)  
 *Time: 8.30am to 5.30pm (GMT+8)*
@@ -18,4 +18,3 @@ Attendance is strictly by invitation and will be sent out separately to the resp
 
 <br><br><br>
 *Information is accurate at time of publication*
-
