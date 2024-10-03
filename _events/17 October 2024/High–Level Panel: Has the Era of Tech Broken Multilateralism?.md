@@ -38,8 +38,6 @@ This session will examine the path forward for advancing global rules, norms, an
 |<br>**Panellists**          |                                                              |
 | [Laris Galadza](/speakers/laris-galadza/)  | *Senior Official for Cyber, Digital and Critical Technology Policy* <br>Global Affairs <br>Canada      |
 | [Leonard Rolland](/speakers/leonard-rolland/)  | *Head, International Cyber Policy* <br>Ministry for Europe and Foreign Affairs <br>France      |
-| [Naoki Kumagai](/speakers/naoki-kumagai/)  | *Ambassador-in-charge of Cyber Policy* <br>Ministry of Foreign Affairs      |
-| [Ir. Dr. Megat Zuhairy bin Megat Tajuddin](/speakers/ir-dr-megat-zuhairy-bin-megat-tajuddin/)  | *Chief Executive* <br>National Cyber Security Agency      |
 
 <br><br><br>
 *Information is accurate at time of publication*
