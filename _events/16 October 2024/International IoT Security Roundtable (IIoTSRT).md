@@ -16,9 +16,9 @@ This year’s International IoT Security Roundtable (IIoTSRT) brings together gl
 |------|------|
 | [Dr Janil Puthucheary](/speakers/dr-janil-puthucheary/)  | *Senior Minister of State, Ministry of Digital Development and Information* <br>*Senior Minister of State, Ministry of Health*<br>Singapore     |
 |<br>**Speakers**          |                                                              |
-| [Mr Lee Sang Joong](/speakers/ms-sandra-joyce/)  | *President* <br>Korea Internet &amp; Security Agency (KISA)<br>South Korea      |
+| [Mr Lee Sang Joong](/speakers/mr-lee-sang-joong/)  | *President* <br>Korea Internet &amp; Security Agency (KISA)<br>South Korea      |
 | [Ms Barbara Kluge](/speakers/ms-barbara-kluge/)  | *Permanent Representation of the Director General CI -Cyber-and Information security* <br>German Federal Ministry of the Interior and Community<br>Germany      |
-| [Ms Tara Wisniewski](/speakers/ms-tara-wisniewski/)  | *EVP, Advocacy, Global Markets and Member Engagement* <br>The International Information System Security Certification Consortium (ISC2) <br>United States of America      |
+| [Mr Tomoo YAMAUCHI](/speakers/ms-tara-wisniewski/)  | *Director-General for Cybersecurity* <br>Ministry of Internal Affairs and Communications (MIC)<br>Japan      |
 
 <br><br><br>
 *Information is accurate at time of publication*
