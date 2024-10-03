@@ -4,3 +4,6 @@ permalink: /speaker-mr-lee-sang-joong/
 variant: markdown
 description: ""
 ---
+#### **Mr Lee Sang Joong**
+
+*President, <br> Korea Internet &amp; Security Agency (KISA)<br>South Korea*
