@@ -4,12 +4,10 @@ permalink: /speakers/ms-barbara-kluge/
 variant: markdown
 description: ""
 ---
-
-
 ![](/images/2024%20speakers/Barbara_Kluge.png)
 #### **Ms Barbara Kluge**
 
-*Permanent Representation of the Director General CI -Cyber-and Information security, <br> German Federal Ministry of the Interior and Community<br>Germany*
+*Deputy Head, Directorate-General Cyber &amp; Information Security, <br> German Federal Ministry of the Interior and Community (BMI)<br>Germany*
 
 ##### **Biography**
 Barbara Kluge is the Deputy Head of the Directorate General CI Cyber and Information security in the German Federal Ministry of the Interior and Community.
