@@ -16,7 +16,7 @@ This year, participants can look forward to lightning talks, a Q&amp;A segment, 
 
 |**Speakers**          |                                                              |
 | [Ms Sandra Joyce](/speakers/ms-sandra-joyce/)  | *Vice President* <br>Google Threat Intelligence<br>United States of America      |
-| [Ms Barbara Kluge](/speakers/ms-barbara-kluge/)  | *Permanent Representation of the Director General CI -Cyber-and Information security* <br>German Federal Ministry of the Interior and Community<br>Germany      |
+| [Ms Barbara Kluge](/speakers/ms-barbara-kluge/)  | *Deputy Head, Directorate-General Cyber &amp; Information Security* <br>German Federal Ministry of the Interior and Community (BMI)<br>Germany      |
 | [Ms Tara Wisniewski](/speakers/ms-tara-wisniewski/)  | *EVP, Advocacy, Global Markets and Member Engagement* <br>The International Information System Security Certification Consortium (ISC2) <br>United States of America      |
 | [Ms Cheri Lim](/speakers/ms-cheri-lim/)  | *Chief Information Security Officer* <br>Temasek International<br>Singapore      |
 |<br>**Moderator**          |                                                              |
