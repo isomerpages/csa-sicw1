@@ -25,7 +25,7 @@ This session explores the prospects and promise of global digital governance, an
 <br>As cyber threats evolve and grow more sophisticated, the challenge of regulating the technology industry becomes increasingly complex. The rapid pace of innovation and global reach of digital platforms have created a landscape where traditional regulatory approaches are often too little too late. 
 These challenges are further compounded by the tension between innovation and security. 
 
-This session will explore whether current regulatory measures are adequate and if they fall short in addressing emerging risks. Panelists will examine the effectiveness of existing frameworks, potential consequences of regulatory gaps and the delicate balance between security and innovation. Is our current approach to cybersecurity and technology regulation too much or too little? Is securing our digital future without compromising technological progress possible?
+This session will explore whether current regulatory measures are adequate and if they fall short in addressing emerging risks. Panellists will examine the effectiveness of existing frameworks, potential consequences of regulatory gaps and the delicate balance between security and innovation. Is our current approach to cybersecurity and technology regulation too much or too little? Is securing our digital future without compromising technological progress possible?
 
 **SICW HLP Opening Plenary – Panel 3**
 
@@ -41,7 +41,7 @@ This session will delve into the critical role of digital trust in upholding ele
 **Tipping Point: Balancing Security &amp; Innovation in the Digital Era**
 <br>Balancing security and innovation in the digital era presents a complex challenge for governments worldwide. The rapid advancement of technology fuels economic growth and supports increased connectivity to improve our digital way of life. However, this must be weighed against the fast-evolving threats posed by increasingly sophisticated cyber threats, further exacerbated by the misuse of emerging technologies. Nations must remain vigilant against emerging threats while fostering an environment conducive to creativity and growth. 
 
-The panel will discuss the delicate balance between security and innovation in the digital era, emphasizing national security implications. In an age where digital threats are increasingly sophisticated, what frameworks can governments adopt to protect national security without stifling growth? How can national security priorities coexist with the need for innovation?
+The panel will discuss the delicate balance between security and innovation in the digital era, emphasising national security implications. In an age where digital threats are increasingly sophisticated, what frameworks can governments adopt to protect national security without stifling growth? How can national security priorities coexist with the need for innovation?
 
 <br><br><br>
 *Information is accurate at time of publication*

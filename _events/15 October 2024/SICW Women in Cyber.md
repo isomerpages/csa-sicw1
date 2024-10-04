@@ -14,5 +14,13 @@ Creating and sustaining trust in our digital world calls for a comprehensive, ec
 
 This year, participants can look forward to lightning talks, a Q&amp;A segment, and networking opportunities.
 
+|**Speakers**          |                                                              |
+| [Ms Sandra Joyce](/speakers/ms-sandra-joyce/)  | *Vice President* <br>Google Threat Intelligence<br>United States of America      |
+| [Ms Barbara Kluge](/speakers/ms-barbara-kluge/)  | *Deputy Head, Directorate-General Cyber &amp; Information Security* <br>German Federal Ministry of the Interior and Community (BMI)<br>Germany      |
+| [Ms Tara Wisniewski](/speakers/ms-tara-wisniewski/)  | *EVP, Advocacy, Global Markets and Member Engagement* <br>The International Information System Security Certification Consortium (ISC2) <br>United States of America      |
+| [Ms Cheri Lim](/speakers/ms-cheri-lim/)  | *Chief Information Security Officer* <br>Temasek International<br>Singapore      |
+|<br>**Moderator**          |                                                              |
+| [Dr Ming Tan](/speakers/dr-ming-tan/)  | *Executive Director* <br>Tech for Good Institute<br>Singapore      |
+
 <br><br><br>
 *Information is accurate at time of publication*

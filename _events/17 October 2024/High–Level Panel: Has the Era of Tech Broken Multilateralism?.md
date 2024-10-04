@@ -11,6 +11,7 @@ third_nav_title: 17 October 2024
 *Time: 9.00am to 10.35am (GMT +8)*
 
 **High-Level Panel: Has the Era of Tech Broken Multilateralism?**
+
 Multilateralism has been the cornerstone of international cooperation. Historically, countries have come together to develop frameworks, convention and rules to address common issues facing the international community. Today, this same approach is taken to address challenges posed by new and rapidly evolving technologies, including developments in the digital and cyberspace. 
 
 However, technologies have changed the way we interact and live. Is multilateralism still the appropriate and effective means to fostering global consensus on tackling digital and cyber issues? Given geopolitical tensions and rivalry, is multilateralism workable? In view of the complexity of issues facing us, do States and international organisations have the expertise and finesse to manage and respond to challenges to international security? What role can industry, academia and civil society play in helping to address these common security challenges? 
@@ -19,7 +20,7 @@ In this session, panellists will explore the impact of the technology era on mul
 
 |**Speakers**          |                                                              |
 | [Dr Mohamad Maliki Bin Osman](/speakers/dr-mohamad-maliki-bin-osman/)  | *Second Minister for Foreign Affairs* <br>Ministry of Foreign Affairs <br>Singapore      |
-| [Mr Nathaniel Fick](/speakers/mr-nathaniel-fick/)  | *Ambassador at Large* <br>Bureau of Cyberspace and Digital Policy <br>United States      |
+| [Mr Nathaniel Fick](/speakers/mr-nathaniel-fick/)  | *Ambassador at Large* <br>Bureau of Cyberspace and Digital Policy <br>United States of America      |
 |<br>**Panellists**          |                                                              |
 | [Ms Manon Le Blanc](/speakers/ms-manon-le-blanc/)  | *EU Coordinator for Cyber Issues* <br>European External Action Service <br>European Union      |
 | [Dr Mohamad Maliki Bin Osman](/speakers/dr-mohamad-maliki-bin-osman/)  | *Second Minister for Foreign Affairs* <br>Ministry of Foreign Affairs <br>Singapore      |
@@ -34,10 +35,10 @@ Can the international community come together to develop and uphold principles t
 This session will examine the path forward for advancing global rules, norms, and standards in cyberspace. Panellists will discuss the role of the UN in driving multilateral collaboration and how the international community can band together to build a resilient and trustworthy digital environment for the future.
 
 |**Speakers**          |                                                              |
-| [Wang Lei](/speakers/wang-lei/)  | *Coordinator for Cyber Affairs* <br>Ministry of Foreign Affairs <br>China      |
+| [Mr Wang Lei](/speakers/wang-lei/)  | *Coordinator for Cyber Affairs* <br>Ministry of Foreign Affairs <br>China      |
 |<br>**Panellists**          |                                                              |
 | [Ms Kelly Anderson](/speakers/ms-kelly-anderson/)  | *International Cyber and Critical Technology Policy* <br>Global Affairs <br>Canada      |
-| [Leonard Rolland](/speakers/leonard-rolland/)  | *Head, International Cyber Policy* <br>Ministry for Europe and Foreign Affairs <br>France      |
+| [Mr Leonard Rolland](/speakers/leonard-rolland/)  | *Head, International Cyber Policy* <br>Ministry for Europe and Foreign Affairs <br>France      |
 
 <br><br><br>
 *Information is accurate at time of publication*
