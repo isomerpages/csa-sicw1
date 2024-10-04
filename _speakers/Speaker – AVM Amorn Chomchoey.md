@@ -4,8 +4,6 @@ permalink: /speakers/avm-amorn-chomchoey/
 variant: markdown
 description: ""
 ---
-
-
 ![](/images/2024%20speakers/AVN_Amorn_Chomchoey.png)
 #### **AVM Amorn Chomchoey**
 
