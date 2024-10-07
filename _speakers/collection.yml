@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Liesyl Franz.md
       - Speaker – Mr Sithuraj Ponraj.md
       - Speaker – Ms Larissa Schneider Calza.md
       - Moderator – HE Tadeusz Chomicki.md
