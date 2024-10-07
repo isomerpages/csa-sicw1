@@ -17,8 +17,8 @@ third_nav_title: 15 October 2024
 | [Ms Manon Le Blanc](/speakers/ms-manon-le-blanc/)  | *EU Coordinator for Cyber Issues* <br>European External Action Service <br>European Union     |
 | [Ms Larissa Schneider Calza](/speakers/ms-larissa-schneider-calza/)  | *Head of Cyber Defense and Security Division*<br>Ministry of Foreign Affairs<br>Brazil           |
 | [H.E. Maria Adebahr](/speakers/ms-maria-adebahr/)  | *Director for Cyber Foreign and Security Policy*<br>Federal Foreign Office<br>Germany           |
-| [Prof Wenke Lee](/speakers/prof-wenke-lee/)  | *Executive Director* <br>Institute for Information Security &amp; Privacy (IISP)     |
-| [Ms Sharon Tan](/speakers/ms-sharon-tan/)  | *Engineer*<br>Abnormal Security           |
+| [Mr Sithuraj Ponraj](/speakers/mr-sithuraj-ponraj/)  | *Director of International Cyber Policy Office* <br>Cyber Security Agency (CSA)<br>Singapore     |
+| [Ms Liesyl Franz](/speakers/ms-liesyl-franz/)  | *Deputy Assistant Secretary for International Cyberspace Security*<br>Bureau of Cyberspace and Digital Policy<br>United States of America           |
 |<br> **Moderator**          |                                                           |
 | [H.E. Tadeusz Chomicki](/speakers/he-tadeusz-chomicki/)  | *Director for Cyber Foreign and Security Policy*<br>Security Policy Department, Ministry of Foreign Affairs<br>Poland                |
 | | |
