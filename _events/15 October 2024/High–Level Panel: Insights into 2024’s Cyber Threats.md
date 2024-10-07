@@ -19,6 +19,7 @@ As cyber threats evolve to be more sophisticated and prevalent, understanding th
 | [Ms Barbara Kluge](/speakers/ms-barbara-kluge/)  | *BSI* <br>Germany      |
 | [Mr Anand Raghavan](/speakers/mr-anand-raghavan/)  | *Vice President of Engineering* <br>AI at Cisco      |
 | [Ms Quint Simon](/speakers/ms-quint-simon/)  | *Head of Public Policy, Asia-Pacific &amp; Japan* <br>Amazon Web Services      |
+| [Ms Maria Adebahr](/speakers/ms-maria-adebahr/)  | *Cyber Ambassador* <br>Federal Foreign Office      |
 |<br> **Moderator**          |                                                           |
 | [Mr Garrettson Blight](/speakers/mr-garrettson-blight/)  | *Managing Director, Global Cyber,*<br>Booz Allen Hamilton                |
 | | |
