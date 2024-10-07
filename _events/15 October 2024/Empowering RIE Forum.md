@@ -10,7 +10,9 @@ third_nav_title: 15 October 2024
 **15 October 2024 (Tuesday)**  
 *Time: 2.00pm to 4.15pm (GMT +8)*
 
-More information will be made available soon.
+Cybersecurity is often described as a team sport requiring many parties to come together. The “Empowering RIE (Research, Innovation and Enterprise) Forum,” organized for the first time at the Singapore International Cyber Week brings together cybersecurity practitioners from across government, industry and academia with the aim of fostering greater collaboration across the triple helix of government, industry and academia. 
+
+This Forum provides a unique opportunity to gain insights from leading experts such as David Koh, Chief Executive, Cyber Security Agency of Singapore and Craig Stephen, Executive Vice-President, R&amp;D, Oracle, as we build a more collaborative cybersecurity ecosystem to tackle present and future cybersecurity issues and challenges.       
 
 |**Speakers**          |                                                              |
 | [Mr David Koh](/speakers/mr-david-koh/)  | *Commissioner of Cybersecurity &amp; Chief Executive (CE)* <br>Cyber Security Agency of Singapore (CSA)<br>Singapore     |
