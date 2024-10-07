@@ -21,7 +21,7 @@ As cyber threats evolve to be more sophisticated and prevalent, understanding th
 | [Mr Emmanuel Naegelen](/speakers/mr-emmanuel-naegelen/)  | *Deputy Director-General* <br>ANSSI France (ICPO)      |
 | [Mr Anand Raghavan](/speakers/mr-anand-raghavan/)  | *Senior Director of Engineering, AI* <br>Cisco Security      |
 | [Ms Quint Simon](/speakers/ms-quint-simon/)  | *Head of Public Policy, Asia-Pacific &amp; Japan* <br>Amazon Web Services      |
-| [Ms Maria Adebahr](/speakers/ms-maria-adebahr/)  | *Director for Cyber Foreign and Security Policy* <br>Federal Foreign Office<br>Germany      |
+| [H.E. Maria Adebahr](/speakers/ms-maria-adebahr/)  | *Director for Cyber Foreign and Security Policy* <br>Federal Foreign Office<br>Germany      |
 
 
 <br><br><br>
