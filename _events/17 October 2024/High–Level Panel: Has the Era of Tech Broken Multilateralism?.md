@@ -26,6 +26,7 @@ In this session, panellists will explore the impact of the technology era on mul
 | [Dr Mohamad Maliki Bin Osman](/speakers/dr-mohamad-maliki-bin-osman/)  | *Second Minister for Foreign Affairs* <br>Ministry of Foreign Affairs <br>Singapore      |
 | [AVM Amorn Chomchoey](/speakers/avm-amorn-chomchoey/)  | *Secretary General* <br>National Cybersecurity Agency <br>Thailand      |
 | [Mr Nathaniel Fick](/speakers/mr-nathaniel-fick/)  | *Ambassador at Large* <br>Bureau of Cyberspace and Digital Policy <br>United States      |
+| [Mr Benjamin Ang](/speakers/mr-benjamin-ang/)  | *Senior Fellow* <br>Head of Centre of Excellence for National Security <br>*Head, Digital Impact Research*<br>at RSIS, NTU      |
 
 **High-Level Panel: Advancing Rules, Norms, and Standards in Cyberspace: The Way Forward**
 
@@ -39,7 +40,6 @@ This session will examine the path forward for advancing global rules, norms, an
 |<br>**Panellists**          |                                                              |
 | [Ms Kelly Anderson](/speakers/ms-kelly-anderson/)  | *International Cyber and Critical Technology Policy* <br>Global Affairs <br>Canada      |
 | [Mr Leonard Rolland](/speakers/leonard-rolland/)  | *Head, International Cyber Policy* <br>Ministry for Europe and Foreign Affairs <br>France      |
-| [Mr Benjamin Ang](/speakers/mr-benjamin-ang/)  | *Senior Fellow* <br>Head of Centre of Excellence for National Security <br>*Head, Digital Impact Research*<br>at RSIS, NTU      |
 
 <br><br><br>
 *Information is accurate at time of publication*
