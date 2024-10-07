@@ -18,7 +18,7 @@ As cyber threats evolve to be more sophisticated and prevalent, understanding th
 | [Mr Garrettson Blight](/speakers/mr-garrettson-blight/)  | *Vice President for Global Government Market*<br>Booz Allen Hamilton                |
 |<br>**Panellists**          |                                                              |
 | [Ms Eva Chen](/speakers/ms-eva-chen/)  | *Chief Executive Officer &amp; Co-Founder* <br>Trend Micro      |
-| [Mr Emmanuel Naegelen](/speakers/mr-emmanuel-naegelen/)  | *Deputy Director-General* <br>ANSSI France (ICPO)      |
+| [Mr Emmanuel Naëgelen](/speakers/mr-emmanuel-naegelen/)  | *Deputy Director-General* <br>ANSSI France (ICPO)      |
 | [Mr Anand Raghavan](/speakers/mr-anand-raghavan/)  | *Senior Director of Engineering, AI* <br>Cisco Security      |
 | [Ms Quint Simon](/speakers/ms-quint-simon/)  | *Head of Public Policy, Asia-Pacific &amp; Japan* <br>Amazon Web Services      |
 | [H.E. Maria Adebahr](/speakers/ms-maria-adebahr/)  | *Director for Cyber Foreign and Security Policy* <br>Federal Foreign Office<br>Germany      |
