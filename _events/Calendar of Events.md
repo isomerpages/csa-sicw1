@@ -23,6 +23,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 2.00pm to 4.00pm           | [National Positions on International Law in Cyberspace: Challenges, Opportunities, and Best Practices](/events/15-oct/national-positions-on-international-law-in-cyberspace/)                               |
 | 2.00pm to 4.15pm           | [Empowering RIE Forum](/events/15-oct/empowering-rie-forum/)                               |
 | 2.00pm to 6.00pm           | [World Economic Forum Systems of Cyber Resilience : Electricity Initiative Global Community Meeting](/events/15-oct/world-economic-forum-systems-of-cyber-resilience/)                               |
+| 4.00pm to 5.30pm           | [Solidarity in Cyberspace: How To Assist Countries in Need](/events/15-oct/solidarity-in-cyberspace-how-to-assist-countries-in-need/)                               |
 | <br> **16 October 2024** <br>*(Wednesday)* |                                                                                                |
 | 8.30am to 12.30pm           | [9th ASEAN Ministerial Conference on Cybersecurity (AMCC)](/9th-asean-ministerial-conference-on-cybersecurity-amcc/)                               |
 | 8.30am to 5.30pm           | [ASEAN Cybercrime Prosecutors’ Roundtable Meeting](/events/16-oct/acprm/)                               |
