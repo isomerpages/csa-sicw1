@@ -28,6 +28,7 @@ This panel aims to stimulate a discussion to explore the current state of and th
 | [Mr Alexey Bocharnikov](/speakers/mr-alexey-bocharnikov/)  | *Director of Cybersecurity Strategy* <br>Accenture      |
 | [Prof Ronald Cramer](/speakers/prof-ronald-cramer/)  | *Head of the Cryptology Group* <br>Centrum Wiskunde informatica (CWI)      |
 | [Dr Matt Henricksen](/speakers/dr-matt-henricksen/)  | *Principal Engineer* <br>Huawei      |
+| [Mr Chong Rong Hwa](/speakers/mr-chong-rong-hwa/)  | *Senior Director* <br>Cyber Security Group (CSG), GovTech      |
 |<br>**Moderator**          |                                                              |
 | [Dr Vikram Sharma](/speakers/dr-vikram-sharma/)  | *CEO* <br>Quintessence Labs      |
 
