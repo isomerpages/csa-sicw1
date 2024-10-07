@@ -4,11 +4,10 @@ permalink: /speakers/mr-garrettson-blight/
 variant: markdown
 description: ""
 ---
-
 ![](/images/2024%20speakers/Garrettson_Blight.png)
 #### **Mr Garrettson Blight**
 
-*Managing Director, Global Cyber, <br> Booz Allen Hamilton*
+*Vice President for Global Government Market, <br> Booz Allen Hamilton*
 
 ##### **Biography**
 Garrettson Blight is the Vice President and Managing Director of Booz Allen Hamilton’s Global Government market solving national security challenges across North America, Europe, Asia, and Australia. In addition to being an international business leader, Garrettson is a U.S. military veteran with 20 years of experience supporting both the public and private sectors, with a strong focus on emerging technologies and cyber work with the U.S. intelligence community and U.S. Department of Defense.
