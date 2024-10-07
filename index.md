@@ -57,4 +57,11 @@ sections:
       title: Past SICW Highlights
       subtitle: Explore
       button: See All
+  - infopic:
+      title: SICW 2024 Distinguished Guests
+      id: infopic
+      button: See all 2024 speakers
+      url: /speakers/
+      image: /images/2024_distinguished_guests_11.jpg
+      alt: Image alt text
 ---
