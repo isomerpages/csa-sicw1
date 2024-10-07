@@ -4,13 +4,11 @@ permalink: /speakers/ms-eva-chen/
 variant: markdown
 description: ""
 ---
-
-
 ![](/images/2024%20speakers/Eva_Chen.png)
 
 #### **Ms Eva Chen**
 
-*Co-Founder &amp; CEO, <br> Trend Micro*
+*Co-Founder &amp; Chief Executive Officer, <br> Trend Micro*
 
 ##### **Biography**
 Since its inception in 1988, Eva Chen has spearheaded Trend Micro's emergence as one of the world's most innovative Internet content security companies.
@@ -27,4 +25,4 @@ Of her many accolades and accomplishments, a few of the most prominent:
 * Named one of the top five "Women of Vision," Information Security, 2003
 * Received the Lifetime Achievement Award, Secure Computing, 2001
 
-Eva holds a master's degree in business administration as well as a master's degree in management information systems from the University of Texas. She earned a degree in philosophy from Chen Chi University in Taipei. 
+Eva holds a master's degree in business administration as well as a master's degree in management information systems from the University of Texas. She earned a degree in philosophy from Chen Chi University in Taipei.
