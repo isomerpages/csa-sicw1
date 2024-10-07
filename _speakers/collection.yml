@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Dr Oberoi.md
       - Speaker – Ms Liesyl Franz.md
       - Speaker – Mr Sithuraj Ponraj.md
       - Speaker – Ms Larissa Schneider Calza.md
