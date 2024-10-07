@@ -13,7 +13,7 @@ third_nav_title: 16 October 2024
 In the Quantum era, with the advent of quantum computing comes quantum risks which threaten to undermine the cryptographic foundations upon which digital trust is built, prompting the necessary re-examination of the way digital trust is secured and changes to cryptography and keys used.
 
 |**Opening Remarks**          |                                                              |
-| [Mr Quek Gim Pew](/speakers/mr-quek-gim-pew/)  | *Senior R&amp;D, Consultant* <br>MINDEF      |
+| [Mr Quek Gim Pew](/speakers/mr-quek-gim-pew/)  | *Senior R&amp;D Consultant* <br>MINDEF      |
 
 The theme for this High-Level Panel Tech event for Quantum is **Trust and Security in the Quantum Era**, and it will consist of two segments:
 
