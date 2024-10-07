@@ -30,7 +30,7 @@ sections:
       id: infopic
       button: See all speakers
       url: /speakers/
-      image: /images/homepage_2024_distinguished_guests.jpg
+      image: /images/homepage_2024_distinguished_guests_11.jpg
       alt: Image alt text
   - infopic:
       title: Event Highlights
