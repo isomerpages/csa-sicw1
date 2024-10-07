@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 ![](/images/2024%20speakers/Emmanuel_Naegelen.png)
-#### **Mr Emmanuel Naegelen**
+#### **Mr Emmanuel Naëgelen**
 
 *Deputy Director-General,  <br>
 ANSSI France (ICPO)*
