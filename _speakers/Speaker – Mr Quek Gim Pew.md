@@ -4,11 +4,10 @@ permalink: /speakers/mr-quek-gim-pew/
 variant: markdown
 description: ""
 ---
-
 ![](/images/2024%20speakers/Mr__Quek_Gim_Pew.png)
 #### **Mr Quek Gim Pew**
 
-*Senior R&amp;D, Consultant, <br> MINDEF*
+*Senior R&amp;D Consultant, <br> MINDEF*
 
 ##### **Biography**
 Mr Quek Gim Pew is the Senior R&amp;D Consultant of the Singapore Ministry of Defence (MINDEF).
