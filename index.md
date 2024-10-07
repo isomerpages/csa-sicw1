@@ -29,7 +29,7 @@ sections:
       title: SICW 2024 Distinguished Guests
       id: infopic
       button: See all speakers
-      url: https://staging-lite.d1vu9yk9wzpzxe.amplifyapp.com/speakers/dr-janil-puthucheary/
+      url: /speakers/dr-janil-puthucheary/
       image: /images/homepage_2024_distinguished_guests_11.jpg
       alt: Image alt text
   - infopic:
