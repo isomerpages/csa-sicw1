@@ -56,9 +56,6 @@ i.	An auto-generated email acknowledgement will be sent to applicants upon submi
 <br><br>iv.	If the representative(s) is(are) not able to attend the event, the organiser must be notified as early as possible. Failure to inform the organisers of non-attendance may result in future accreditation requests being refused.
 <br><br>v.	All successful applicants will be issued an email confirmation with accompanying terms and conditions. If an applicant does not receive an email fifteen (15) working days after registration, he/she is requested to contact the representatives stated below.
 <br><br>vi.	Details for the collection of media passes are as follows:
-<br>
-<br>**14 OCTOBER 2024**
-<br>1730hrs – 1900hrs
 <br>**15-17 OCTOBER 2024**
 <br>0830hrs – 1700hrs
 
