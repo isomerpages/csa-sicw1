@@ -1,11 +1,11 @@
 ---
-title: Speaker – Ms Maria Adebahr
+title: Speaker – HE Maria Adebahr
 permalink: /speakers/ms-maria-adebahr/
 variant: markdown
 description: ""
 ---
 ![](/images/2024%20speakers/Maria_Adebahr.png)
-#### **Ms Maria Adebahr**
+#### **H.E. Maria Adebahr**
 
 *Director for Cyber Foreign and Security Policy, <br> Federal Foreign Office<br>Germany*
 

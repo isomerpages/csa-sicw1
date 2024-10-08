@@ -18,6 +18,8 @@ This year's main focus is on the emergence of Cyber-Physical Risks, with a panel
 
 |**Guest of Honour**          |                                                              |
 | [Dr Janil Puthucheary](/speakers/dr-janil-puthucheary/)  | *Senior Minister of State, Ministry of Digital Development and Information* <br>*Senior Minister of State, Ministry of Health*<br>Singapore     |
+|<br>**Keynote Speaker**          |                                                              |
+| [Dr Madan M. Oberoi](/speakers/dr-madan-m-oberoi/)  | *Executive Director of Technology and Innovation*<br>Interpol     |
 |<br>**Panellists**          |                                                              |
 | [Mr Raimo Peterson](/speakers/mr-raimo-peterson/)  | *Head of Critical Information Infrastructure Protection*<br> Information System Authority (RIA) <br>Estonia     |
 | [Mr Sean Yang](/speakers/mr-sean-yang/)  | *Global Cyber Security and Privacy Officer* <br>Huawei Technologies Co., Ltd.     |

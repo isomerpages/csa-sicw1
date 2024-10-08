@@ -26,11 +26,11 @@ sections:
       image: /images/Home_Page_GOH.jpg
       alt: SICW 2024 guests of honour
   - infopic:
-      title: SICW 2024 Distinguished Guests
+      title: SICW 2024 Distinguished Speakers & Guests
       id: infopic
       button: See all speakers
       url: /speakers/dr-janil-puthucheary/
-      image: /images/homepage_2024_distinguished_guests_11.jpg
+      image: /images/15_distinguished_guests.jpg
       alt: Image alt text
   - infopic:
       title: Event Highlights
