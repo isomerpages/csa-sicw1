@@ -2,12 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Dr Madan M Oberoi.md
-      - Speaker – Ms Liesyl Franz.md
-      - Speaker – Mr Sithuraj Ponraj.md
-      - Speaker – Ms Larissa Schneider Calza.md
-      - Moderator – HE Tadeusz Chomicki.md
-      - Speaker – Mr Chong Rong Hwa.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tan Kiat How.md
       - Guest of Honour – Mr Teo Chee Hean.md
@@ -26,8 +20,10 @@ collections:
       - Speaker – Mr Alexey Bocharnikov.md
       - Speaker – Mr Greg Bunghardt.md
       - Speaker – Mr John Buselli.md
+      - Speaker – Ms Larissa Schneider Calza.md
       - Speaker – Ms Eva Chen.md
       - Speaker – AVM Amorn Chomchoey.md
+      - Speaker – Mr Chong Rong Hwa.md
       - Speaker – Chua Kuan Seah.md
       - Speaker – Prof Ronald Cramer.md
       - Speaker – Mr Miguel DeBruycker.md
@@ -35,6 +31,7 @@ collections:
       - Speaker – Mr Matthew Driver.md
       - Speaker – Mr Alex Duff.md
       - Speaker – Mr Nathaniel C Fick.md
+      - Speaker – Ms Liesyl Franz.md
       - Speaker – Mr Fabio Fratucello.md
       - Speaker – Laris Galadza.md
       - Speaker – Ms Genie Sugene Gan.md
@@ -70,11 +67,13 @@ collections:
       - Speaker – Mr Muzaffar Mustaffa.md
       - Speaker – Mr Emmanuel Naëgelen.md
       - Speaker – Mr Ngiam Shih Chun.md
+      - Speaker – Dr Madan M Oberoi.md
       - Speaker – Prof Luke Ong.md
       - Speaker – Dr Mohamad Maliki Bin Osman.md
       - Speaker – Mr Ben Packman.md
       - Speaker – Dr Jerry Park.md
       - Speaker – Mr Raimo Peterson.md
+      - Speaker – Mr Sithuraj Ponraj.md
       - Speaker – Mr Quek Gim Pew.md
       - Speaker – Mr Anand Raghavan.md
       - Speaker – Mr Léonard Rolland.md
@@ -100,6 +99,7 @@ collections:
       - Speaker – Mr Sean Yang.md
       - Speaker – Ms Yah Shze Min.md
       - Moderator – Mr Garrettson Blight.md
+      - Moderator – HE Tadeusz Chomicki.md
       - Moderator – Sadie Creese.md
       - Moderator – Dr Agnes Kasper.md
       - Moderator – Mr Gaurav Modi.md
