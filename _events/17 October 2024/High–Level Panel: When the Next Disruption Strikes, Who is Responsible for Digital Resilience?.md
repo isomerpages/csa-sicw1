@@ -25,7 +25,7 @@ This session will discuss the strategic and policy implications of resilience in
 | [Mr Gaurav Modi](/speakers/mr-gaurav-modi/)  | *Managing Partner* <br>EY      |
 |<br>**Panellists**          |                                                              |
 | [MG Lee Yi-Jin](/speakers/mg-lee-yi-jin/)  | *Chief of Digital Intelligence Service (CDI)* <br>DIS      |
-| [Mr Akshay Joshi](/speakers/mr-akshay-joshi/)  | *Head of Cybersecurity* <br>World Economic Forum      |
+| [Mr Akshay Joshi](/speakers/mr-akshay-joshi/)  | *Head of Industry and Partnerships, Centre for Cybersecurity* <br>World Economic Forum <br>Switzerland      |
 | [Mr Andrew Whittaker](/speakers/mr-andrew-whittaker/)  | *Head of Cyber Policy Department* <br>UK Foreign, Commonwealth &amp; Development Office (FCDO)      |
 | [Ms Kemba Walden](/speakers/ms-kemba-walden/)  | *President* <br>Paladin Global Institute      |
 | [Mr Greg Bunghardt](/speakers/mr-greg-bunghardt/)  | *Director of Cyber Security Policy* <br>Department of Public Safety <br>Canada      |
