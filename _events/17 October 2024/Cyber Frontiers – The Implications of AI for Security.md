@@ -18,7 +18,7 @@ How can organisations effectively harness AI to enhance cyber resilience and ens
 | [Dr Dorit Dor](/speakers/dr-dorit-dor/)  | *Chief Technology Officer* <br>Check Point <br>Israel     |
 | [Chua Kuan Seah](/speakers/chua-kuan-seah/)  | *Deputy Chief Executive* <br>*Cyber Security Agency of Singapore (CSA) <br>Singapore*     |
 | [Mr Stanley Tsang](/speakers/mr-stanley-tsang/)  | *Distinguished Engineer and Senior Director (Special Projects)* <br>Cyber Security Agency of Singapore (CSA) <br>Singapore     |
-| [Akshay Joshi](/speakers/akshay-joshi/)  | *Head of Industry and Partnerships, Centre for Cybersecurity* <br>World Economic Forum <br>Switzerland     |
+| [Mr Akshay Joshi](/speakers/mr-akshay-joshi/)  | *Head of Industry and Partnerships, Centre for Cybersecurity* <br>World Economic Forum <br>Switzerland     |
 | [Jamie Saunders](/speakers/jamie-saunders/)  | *Oxford Martin Fellow* <br>University of Oxford <br>United Kingdom     |
 |<br>**Moderator**          |                                                              |
 | [Sadie Creese](/speakers/sadie-creese/)  | *Professor of Cybersecurity* <br>University of Oxford <br>United Kingdom     |
