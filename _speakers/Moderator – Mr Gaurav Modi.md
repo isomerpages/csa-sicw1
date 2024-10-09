@@ -7,8 +7,8 @@ description: ""
 ![](/images/2024%20speakers/Gaurav_Modi.png)
 #### **Mr Gaurav Modi**
 
-*Managing Partner <br>
- EY*
+*Consulting Managing Partner, ASEAN and Singapore <br>
+ Ernst &amp; Young*
  
 ##### **Biography**
 Gaurav is the Managing Partner for EY's Consulting business in ASEAN and Singapore, overseeing 14 markets with a team of over 120 partners and 4,000 consultants. He leads EY’s efforts in helping both private and public sector organizations navigate transformation and industry disruption, focusing on the intersection of technology, innovation, and human capital.

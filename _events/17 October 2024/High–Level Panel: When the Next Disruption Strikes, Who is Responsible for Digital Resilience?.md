@@ -22,7 +22,7 @@ This session will discuss the strategic and policy implications of resilience in
 |**Keynote Speaker**          |                                                              |
 | [MG Lee Yi-Jin](/speakers/mg-lee-yi-jin/)  | *Chief of Digital Intelligence Service (CDI)* <br>DIS      |
 |<br>**Moderator**          |                                                              |
-| [Mr Gaurav Modi](/speakers/mr-gaurav-modi/)  | *Managing Partner* <br>EY      |
+| [Mr Gaurav Modi](/speakers/mr-gaurav-modi/)  | *Consulting Managing Partner, ASEAN and Singapore* <br>Ernst &amp; Young      |
 |<br>**Panellists**          |                                                              |
 | [MG Lee Yi-Jin](/speakers/mg-lee-yi-jin/)  | *Chief of Digital Intelligence Service (CDI)* <br>DIS      |
 | [Mr Akshay Joshi](/speakers/mr-akshay-joshi/)  | *Head, Centre for Cybersecurity* <br>World Economic Forum <br>Switzerland      |
