@@ -22,7 +22,7 @@ The Mobile Security x Scams event will discuss how scams impact and change the m
 | [Mr Muzaffar Mustaffa](/speakers/mr-muzaffar-mustaffa/)  | *Head of Telecommunications Fraud*<br>Malaysian Multimedia and Communications Commission <br>Malaysia           |
 | [Dr Neal Jetton](/speakers/dr-neal-jetton/)  | *Director of Cybercrime*<br>Interpol           |
 | [Mr Matthew Driver](/speakers/mr-matthew-driver/)  | *Executive Vice President and Head of Services* <br>Mastercard Asia Pacific     |
-| [Mr Jorij Abraham](/speakers/mr-jorij-abraham/)  | *Managing Director*<br>Global Anti-Scam Alliance           |
+| [Prof Jorij Abraham](/speakers/mr-jorij-abraham/)  | *Managing Director*<br>Global Anti-Scam Alliance           |
 |<br> **Moderator**          |                                                           |
 | [Dr Ng Li Sa](/speakers/dr-ng-li-sa/)  | *Director, Policy Development and Security*<br>Ministry of Home Affairs <br>Singapore                |
 | | |
@@ -31,7 +31,7 @@ The Mobile Security x Scams event will discuss how scams impact and change the m
 <br>Mobile security is crucial in today’s digital age, as smartphones are integral to daily life. Cybercriminals increasingly target mobile devices with scams, such as phishing, malware and fraudulent apps. These attacks can lead to data breaches, privacy invasion, or even financial losses. In Singapore, combatting scams is a whole-of-society endeavour, and the government works in close partnership with industry to address the issues. This event will showcase recent efforts by industry players in tackling scams on mobile devices, highlighting the innovations that were developed to keep their users safe online. 
 
 |**Panellists**          |                                                              |
-| [Mr Miguel DeBruycker](/speakers/mr-miguel-debruycker/)  | *Managing Director General*<br>Centre for Cybersecurity <br>Belgium           |
+| [Mr Miguel DeBruycker](/speakers/mr-miguel-debruycker/)  | *Director-General*<br>Centre for Cybersecurity <br>Belgium           |
 | [Mr Lam Chee Kin](/speakers/mr-lam-chee-kin/)  | *Group Head of Legal and Compliance, and Chair ABS Standing Committee on Fraud* <br>DBS     |
 | [Mr Eugene Liderman](/speakers/mr-eugene-liderman/)  | *Director, Mobile Security Strategy* <br>Google     |
 | [Ms Yah Shze Min](/speakers/ms-yah-shze-min/)  | *Public Policy Manager (SEA)*<br>Amazon           |
