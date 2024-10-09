@@ -23,7 +23,7 @@ This panel is linked to the collaborative project [“The Handbook on Developing
 | [Marcus Song](/speakers/marcus-song/)  | *Senior State Counsel*<br>Attorney-General’s Chambers<br>Singapore           |
 | [Kubo Mačák](/speakers/kubo-macak/)  | *Professor of International Law* <br>University of Exeter <br>United Kingdom     |
 |<br> **Moderator**          |                                                           |
-| [Dr Agnes Kasper](/speakers/dr-agnes-kasper/)  | *Head of Law Branch*, NATO Cooperative Cyber Defence Centre of Excellence<br>*Senior Lecturer*, Tallinn University of Technology <br> Estonia               |
+| [Dr Ágnes Kasper](/speakers/dr-agnes-kasper/)  | *Head of Law Branch*<br>NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE) <br> Hungary               |
 | | |
 
 <br><br><br>
