@@ -17,11 +17,13 @@ This panel seeks to look into legal and policy questions for States when develop
 
 This panel is linked to the collaborative project [“The Handbook on Developing a National Position on International Law in Cyberspace: A Practical Guide for States”](https://ccdcoe.org/news/2024/ccdcoe-launches-new-international-cyber-law-project/), carried out by the University of Exeter, with the support of CCDCOE, the Ministry of Foreign Affairs of Estonia and the Ministry of Foreign Affairs of Japan.
 
-|**Speakers**          |                                                              |
-| [H.E. Tanel Sepp](/speakers/he-tanel-sepp/)  | *Ambassador at Large for Cyber Affairs*<br>Ministry of Foreign Affairs <br> Estonia           |
-| [Yukiya Hamamoto](/speakers/yukiya-hamamoto/)  | *Deputy Director General, International Legal Affairs Bureau*<br>Ministry of Foreign Affairs<br>Japan           |
-| [Marcus Song](/speakers/marcus-song/)  | *Senior State Counsel*<br>Attorney-General’s Chambers<br>Singapore           |
-| [Kubo Mačák](/speakers/kubo-macak/)  | *Professor of International Law* <br>University of Exeter <br>United Kingdom     |
+|**Speakers (Opening Remarks)**          |                                                              |
+| [H.E. Priit Turk](/speakers/he-priit-turk/)  | *Ambassador of the Republic of Estonia*<br>Estonian Embassy in Singapore <br>Estonia           |
+|<br>**Speakers**          |                                                              |
+| [H.E. Tanel Sepp](/speakers/he-tanel-sepp/)  | *Ambassador at Large for Cyber Affairs*<br>Ministry of Foreign Affairs of Estonia <br> Estonia           |
+| [Mr Yukiya Hamamoto](/speakers/yukiya-hamamoto/)  | *Deputy Director General, International Legal Affairs Bureau*<br>Ministry of Foreign Affairs<br>Japan           |
+| [Mr Marcus Song](/speakers/marcus-song/)  | *Senior State Counsel*<br>Attorney-General’s Chambers<br>Singapore           |
+| [Professor Kubo Mačák](/speakers/kubo-macak/)  | *Professor of International Law* <br>University of Exeter <br>Slovakia     |
 |<br> **Moderator**          |                                                           |
 | [Dr Ágnes Kasper](/speakers/dr-agnes-kasper/)  | *Head of Law Branch*<br>NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE) <br> Hungary               |
 | | |
