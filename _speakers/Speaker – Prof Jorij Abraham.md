@@ -4,6 +4,8 @@ permalink: /speakers/mr-jorij-abraham/
 variant: markdown
 description: ""
 ---
+
+![](/images/2024%20speakers/Jorij_Abraham.png)
 #### **Prof Jorij Abraham**
 
 *Managing Director, <br> Global Anti-Scam Alliance*
