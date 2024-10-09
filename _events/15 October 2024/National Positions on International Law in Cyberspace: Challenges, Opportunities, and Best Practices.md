@@ -21,7 +21,7 @@ This panel is linked to the collaborative project [“The Handbook on Developing
 | [H.E. Priit Turk](/speakers/he-priit-turk/)  | *Ambassador of the Republic of Estonia*<br>Estonian Embassy in Singapore <br>Estonia           |
 |<br>**Speakers**          |                                                              |
 | [H.E. Tanel Sepp](/speakers/he-tanel-sepp/)  | *Ambassador at Large for Cyber Affairs*<br>Ministry of Foreign Affairs of Estonia <br> Estonia           |
-| [Mr Yukiya Hamamoto](/speakers/yukiya-hamamoto/)  | *Deputy Director General, International Legal Affairs Bureau*<br>Ministry of Foreign Affairs<br>Japan           |
+| [Mr Yukiya Hamamoto](/speakers/yukiya-hamamoto/)  | *Deputy Director General*<br>International Legal Affairs Bureau, Ministry of Foreign Affairs of Japan<br>Japan           |
 | [Mr Marcus Song](/speakers/marcus-song/)  | *Senior State Counsel*<br>Attorney-General’s Chambers<br>Singapore           |
 | [Professor Kubo Mačák](/speakers/kubo-macak/)  | *Professor of International Law* <br>University of Exeter <br>Slovakia     |
 |<br> **Moderator**          |                                                           |
