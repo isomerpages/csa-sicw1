@@ -6,6 +6,4 @@ description: ""
 ---
 #### **Dr Neal Jetton**
 
-*Chairman, Central Provident Fund Board <br>
-Senior Advisor, Ministry of Digital Development and Information<br>Chairman, SGInnovate
-<br> Singapore*
+*Director of Cybercrime<br>Interpol*
