@@ -20,7 +20,7 @@ The Mobile Security x Scams event will discuss how scams impact and change the m
 
 |**Panellists**          |                                                              |
 | [Mr Muzaffar Mustaffa](/speakers/mr-muzaffar-mustaffa/)  | *Head of Telecommunications Fraud*<br>Malaysian Multimedia and Communications Commission <br>Malaysia           |
-| [Dr Neal Jetton](/speakers/dr-neal-jetton/)  | *Managing Director*<br>Global Anti-Scam Alliance           |
+| [Dr Neal Jetton](/speakers/dr-neal-jetton/)  | *Director of Cybercrime*<br>Interpol           |
 | [Mr Matthew Driver](/speakers/mr-matthew-driver/)  | *Executive Vice President and Head of Services* <br>Mastercard Asia Pacific     |
 | [Mr Jorij Abraham](/speakers/mr-jorij-abraham/)  | *Managing Director*<br>Global Anti-Scam Alliance           |
 |<br> **Moderator**          |                                                           |
