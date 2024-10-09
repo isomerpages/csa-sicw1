@@ -2,8 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – HE Priit Turk.md
-      - Speaker – Dr Neal Jetton.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tan Kiat How.md
       - Guest of Honour – Mr Teo Chee Hean.md
@@ -42,6 +40,7 @@ collections:
       - Speaker – Dr He Ruimin.md
       - Speaker – Dr Matt Henricksen.md
       - Speaker – Mr Chris Hockings.md
+      - Speaker – Dr Neal Jetton.md
       - Speaker – Prof Ding Jintai.md
       - Speaker – Mr Akshay Joshi.md
       - Speaker – Ms Sandra Joyce.md
@@ -92,6 +91,7 @@ collections:
       - Speaker – Mr Teo Xiang Zheng.md
       - Speaker – Mr Tom Tovar.md
       - Speaker – Mr Stanley Tsang.md
+      - Speaker – HE Priit Turk.md
       - Speaker – Dr Kaleem Ahmed Usmani.md
       - Speaker – Mr Dmitry Volkov.md
       - Speaker – Ms Kemba Walden.md
