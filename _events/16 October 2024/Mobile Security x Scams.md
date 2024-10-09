@@ -32,9 +32,9 @@ The Mobile Security x Scams event will discuss how scams impact and change the m
 
 |**Panellists**          |                                                              |
 | [Mr Miguel DeBruycker](/speakers/mr-miguel-debruycker/)  | *Director-General*<br>Centre for Cybersecurity <br>Belgium           |
-| [Mr Lam Chee Kin](/speakers/mr-lam-chee-kin/)  | *Group Head of Legal and Compliance, and Chair ABS Standing Committee on Fraud* <br>DBS     |
+| [Mr Lam Chee Kin](/speakers/mr-lam-chee-kin/)  | *Chair of ABS Standing Committee on Fraud and Group Head of Legal and Compliance* <br>Development Bank of Singapore     |
 | [Mr Eugene Liderman](/speakers/mr-eugene-liderman/)  | *Director, Mobile Security Strategy* <br>Google     |
-| [Ms Yah Shze Min](/speakers/ms-yah-shze-min/)  | *Public Policy Manager (SEA)*<br>Amazon           |
+| [Ms Yah Shze Min](/speakers/ms-yah-shze-min/)  | *Public Policy Manager, Customer Trust*<br>Amazon           |
 |<br> **Moderator**          |                                                           |
 | [Mr Yik Jiawei](/speakers/mr-yik-jiawei/)  | *Director, Security and Resilience Division*<br>Ministry for Digital Development and Information <br>Singapore                |
 | | |
