@@ -15,6 +15,8 @@ The SICW Opening Ceremony will feature an opening address from Senior Minister a
 |**Guest of Honour**    |                                                              |
 |------|------|
 | [Mr Teo Chee Hean](/speakers/mr-teo-chee-hean/)  | *Senior Minister and Coordinating Minister for National Security* <br>Singapore                |
+|<br>**Speaker**    |                                                              |
+| [Mr David Koh](/speakers/mr-david-koh/)  | *Commissioner of Cybersecurity &amp; Chief Executive (CE)*, Cyber Security Agency of Singapore (CSA)<br>*Chief (Digital Security &amp; Technology)*, Ministry of Digital Development and Information<br>Singapore     |
 
 **Guest of Honour**
 ![](/images/2024%20speakers/Mr_Teo_Chee_Han.png)
