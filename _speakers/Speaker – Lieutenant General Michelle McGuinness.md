@@ -4,6 +4,8 @@ permalink: /speakers/lieutenant-general-michelle-mcguinness/
 variant: markdown
 description: ""
 ---
+
+![](/images/2024%20speakers/Lieutenant_General_Michelle_McGuinness.png)
 #### **Lieutenant General Michelle McGuinness**
 
 *National Cyber Security Coordinator<br>National Office of Cyber Security<br>Australia*
