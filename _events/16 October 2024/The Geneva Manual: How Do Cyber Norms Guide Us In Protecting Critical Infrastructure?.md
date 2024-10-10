@@ -33,7 +33,7 @@ The inaugural edition of the Geneva Manual focuses on the two norms related to s
 |**Speakers**          |                                                              |
 | [Mr Christopher Anthony](/speakers/mr-christopher-anthony/)  | *Director - Critical Information Infrastructure Division (CIID)* <br>Cyber Security Agency of Singapore (CSA)      |
 | [Dr Regula Kurzbein](/speakers/dr-regula-kurzbein/)  | *Deputy Head of Mission* <br>Embassy of Switzerland in Singapore      |
-| [Mr Benjamin Ang](/speakers/mr-benjamin-ang/)  | *Head of Centre of Excellence for National Security (CENS)*, Future Issues in Technology (FIT) <br>*Digital Impact*, S. Rajaratnam School of International Studies (RSIS)      |
+| [Mr Benjamin Ang](/speakers/mr-benjamin-ang/)  | *Head of Centre of Excellence for National Security (CENS), Future Issues in Technology (FIT), Digital Impact*<br> S. Rajaratnam School of International Studies (RSIS)      |
 | [Mr Teo Xiang Zheng](/speakers/mr-teo-xiang-zheng/)  | *Vice President of Advisory* <br>Ensign InfoSecurity      |
 | [Ms Anastasiya Kazakova](/speakers/ms-anastasiya-kazakova/)  | *Cyber Diplomacy Knowledge Fellow* <br>DiploFoundation      |
 
