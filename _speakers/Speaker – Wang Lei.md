@@ -4,9 +4,8 @@ permalink: /speakers/wang-lei/
 variant: markdown
 description: ""
 ---
-
 ![](/images/2024%20speakers/Wang_Lei.png)
-#### **Wang Lei**
+#### **Mr Wang Lei**
 
 *Coordinator for Cyber and Digital Affairs, <br>Ministry of Foreign Affairs<br> China*
 
