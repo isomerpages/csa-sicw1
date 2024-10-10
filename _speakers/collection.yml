@@ -2,11 +2,7 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Mr Trevor Rudolph.md
-      - Speaker – Dr Ryan Donaghy.md
-      - Speaker – Dr Jeannie Lee.md
       - Guest of Honour – Mdm Rahayu Mahzam.md
-      - Speaker – Mr Jan Sysmans.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tan Kiat How.md
       - Guest of Honour – Mr Teo Chee Hean.md
@@ -32,6 +28,7 @@ collections:
       - Speaker – Mr Chua Kuan Seah.md
       - Speaker – Prof Ronald Cramer.md
       - Speaker – Mr Miguel DeBruycker.md
+      - Speaker – Dr Ryan Donaghy.md
       - Speaker – Dr Dorit Dor.md
       - Speaker – Mr Matthew Driver.md
       - Speaker – Mr Alex Duff.md
@@ -59,9 +56,10 @@ collections:
       - Speaker – Dr Regula Kurzbein.md
       - Speaker – Mr Lam Chee Kin.md
       - Speaker – Mr Rod Latham.md
+      - Speaker – Dr Jeannie Lee.md
       - Speaker – Mr Lee Sang Joong.md
-      - Speaker – MG Lee Yi–Jin.md
       - Speaker – Prof Wenke Lee.md
+      - Speaker – MG Lee Yi–Jin.md
       - Speaker – Wang Lei.md
       - Speaker – Mr Eugene Liderman.md
       - Speaker – Ms Cheri Lim.md
@@ -83,6 +81,7 @@ collections:
       - Speaker – Mr Quek Gim Pew.md
       - Speaker – Mr Anand Raghavan.md
       - Speaker – Mr Léonard Rolland.md
+      - Speaker – Mr Trevor Rudolph.md
       - Speaker – Dr Jamie Saunders.md
       - Speaker – HE Tanel Sepp.md
       - Speaker – Dr Vikram Sharma.md
@@ -91,6 +90,7 @@ collections:
       - Speaker – Mr Craig Stephen.md
       - Speaker – Mr Sim Feng–Ji.md
       - Speaker – Ms Quint Simon.md
+      - Speaker – Mr Jan Sysmans.md
       - Speaker – Dr Amelia Tan.md
       - Speaker – Ms Sharon Tan.md
       - Speaker – Mr Teo Xiang Zheng.md
