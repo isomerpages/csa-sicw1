@@ -7,7 +7,7 @@ description: ""
 ![](/images/2024%20speakers/Benjamin_Ang.png)
 #### **Mr Benjamin Ang**
 
-*Head of Centre of Excellence for National Security (CENS) <br> Future Issues in Technology (FIT)<br> Digital Impact, S. Rajaratnam School of International Studies (RSIS)*
+*Head of Centre of Excellence for National Security (CENS), Future Issues in Technology (FIT), Digital Impact<br> S. Rajaratnam School of International Studies (RSIS)*
 
 ##### **Biography**
 Benjamin Ang is Head of the Centre of Excellence for National Security (CENS), Future Issues in Technology, and Digital Impact Research, at RSIS. He leads the policy research think tank that focuses on national security aspects of Cyber, Hybrid Threats, Disinformation, Foreign Interference, Extremism, Emerging Technologies, AI, Quantum, Space, Biotech, Energy, and Smart Cities. 
