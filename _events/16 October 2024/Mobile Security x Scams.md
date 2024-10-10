@@ -45,7 +45,7 @@ The Mobile Security x Scams event will discuss how scams impact and change the m
 |**Panellists**          |                                                              |
 | [Mr Jan Sysmans](/speakers/mr-jan-sysmans/)  | *Head of Marketing – Asia Pacific &amp; Japan*<br>Appdome           |
 | [Mr Dmitry Volkov](/speakers/mr-dmitry-volkov/)  | *Chief Executive Officer and Chief Technology Officer* <br>Group-IB     |
-| [Mr Alex Duff](/speakers/mr-alex-duff/)  | *Head of Platform Ecosystem Data Security*<br>Meta           |
+| [Mr Alex Duff](/speakers/mr-alex-duff/)  | *Founding Member of the App Defense Alliance*<br>*Head of Platform Ecosystem Data* Security<br>Meta           |
 | [Ms Genie Sugene Gan](/speakers/ms-genie-sugene-gan/)  | *Executive Committee Member*<br>SGTech’s and Singapore Computer Society’s Cybersecurity Chapters           |
 | [Mr Er Chiang Kai](/speakers/mr-er-chiang-kai/)  | *Chief Technology Officer*<br>V-Key           |
 |<br> **Moderator**          |                                                           |
