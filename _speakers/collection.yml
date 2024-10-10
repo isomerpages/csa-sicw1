@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Trevor Rudolph.md
       - Speaker – Dr Ryan Donaghy.md
       - Speaker – Dr Jeannie Lee.md
       - Guest of Honour – Mdm Rahayu Mahzam.md
