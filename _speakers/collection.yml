@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Abdulrahman Al–Shafi.md
       - Speaker – YB Tuan Gobind Singh Deo.md
       - Speaker – Lieutenant General Michelle McGuinness.md
       - Guest of Honour – Mdm Rahayu Mahzam.md
