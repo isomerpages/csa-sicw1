@@ -7,7 +7,7 @@ description: ""
 ![](/images/2024%20speakers/Lam_Chee_Kin.png)
 #### **Mr Lam Chee Kin**
 
-*Chair of ABS Standing Committee on Fraud and Group Head of Legal and Compliance, <br> Development Bank of Singapore*
+*Chair of the Association of Banks’ Standing Committee on Fraud and Group Head of Legal and Compliance, <br> Development Bank of Singapore*
 
 ##### **Biography**
 Chee Kin is accountable for the team which manages the legal and regulatory risk of DBS across legal entities, segments and geographies. Prior to joining, he held various legal and compliance portfolios in Standard Chartered Bank, JPMorgan, Rajah &amp; Tann and Allen &amp; Gledhill, including a stint as Chief Operating Officer, South East Asia for JPMorgan. 
