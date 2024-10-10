@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 ---
 
+![](/images/2024%20speakers/Mr_Sithuraj_Ponraj.png)
 #### **Mr Sithuraj Ponraj**
 
 *Director of International Cyber Policy Office, <br>
