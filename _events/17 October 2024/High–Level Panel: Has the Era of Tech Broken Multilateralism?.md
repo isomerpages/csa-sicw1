@@ -41,6 +41,8 @@ This session will examine the path forward for advancing global rules, norms, an
 |<br>**Panellists**          |                                                              |
 | [Ms Kelly Anderson](/speakers/ms-kelly-anderson/)  | *Director, International Cyber and Critical Technology Policy* <br>Global Affairs <br>Canada      |
 | [Mr Léonard Rolland](/speakers/mr-leonard-rolland/)  | *Head of International Cyber Policy* <br>French Ministry of Foreign Affairs      |
+| [Abdulrahman Al-Shafi](/speakers/abdulrahman-al-shafi/)  | *Director of Cyber Strategies and Policies Department*      |
+| [Shariffah Rashidah Syed Othman](/speakers/shariffah-rashidah-syed-othman/)  | *Director, Policy and International Cooperation* <br>National Cyber Security Agency (NACSA)      |
 |<br>**Moderator**          |                                                              |
 | [Mr Benjamin Ang](/speakers/mr-benjamin-ang/)  | *Head of Centre of Excellence for National Security (CENS), Future Issues in Technology (FIT), Digital Impact*<br> S. Rajaratnam School of International Studies (RSIS)      |
 
