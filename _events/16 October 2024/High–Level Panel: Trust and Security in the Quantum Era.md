@@ -25,7 +25,7 @@ These quantum risks threaten to undermine the cryptographic foundations upon whi
 This panel aims to stimulate a discussion to explore the current state of and the implications of quantum computing on digital security and trust, and. It will also seek to address the challenges of building **awareness** and providing suitable **advisories** for quantum-safe solutions; and identify opportunities for international collaboration amongst governments and industry. 
 
 |**Panellists**          |                                                              |
-| [Mr Alexey Bocharnikov](/speakers/mr-alexey-bocharnikov/)  | *Director of Cybersecurity Strategy* <br>Accenture      |
+| [Mr Alexey Bocharnikov](/speakers/mr-alexey-bocharnikov/)  | *Asia Pacific Regional Leader for Quantum Security* <br>Accenture      |
 | [Prof Ronald Cramer](/speakers/prof-ronald-cramer/)  | *Head of the Cryptology Group* <br>Centrum Wiskunde informatica (CWI)      |
 | [Dr Matt Henricksen](/speakers/dr-matt-henricksen/)  | *Principal Engineer* <br>Huawei      |
 | [Mr Chong Rong Hwa](/speakers/mr-chong-rong-hwa/)  | *Senior Director* <br>Cyber Security Group (CSG), GovTech      |
