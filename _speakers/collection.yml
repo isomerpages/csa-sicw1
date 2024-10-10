@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Dr Jeannie Lee.md
       - Guest of Honour – Mdm Rahayu Mahzam.md
       - Speaker – Mr Jan Sysmans.md
       - Guest of Honour – Dr Janil Puthucheary.md
