@@ -7,7 +7,7 @@ description: ""
 ![](/images/2024%20speakers/Mr__Alexey_Bocharnikov.png)
 #### **Mr Alexey Bocharnikov**
 
-*Director of Cybersecurity Strategy, <br> Accenture*
+*Asia Pacific Regional Leader for Quantum Security, <br> Accenture*
 
 ##### **Biography**
 Alexey, a Director at Accenture, brings over 15 years of expertise in cybersecurity strategy, risk management, quantum risk, and cryptography. He currently holds the position of APAC Quantum Security Lead and A/NZ Cyber Strategy Delivery Lead.
