@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker  – Shariffah Rashidah Syed Othman.md
       - Speaker – Abdulrahman Al–Shafi.md
       - Speaker – YB Tuan Gobind Singh Deo.md
       - Speaker – Lieutenant General Michelle McGuinness.md
