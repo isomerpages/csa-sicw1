@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Wang Lei**
 
-*Coordinator for Cyber Affairs, <br>Ministry of Foreign Affairs<br> China*
+*Coordinator for Cyber and Digital Affairs, <br>Ministry of Foreign Affairs<br> China*
