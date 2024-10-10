@@ -36,7 +36,7 @@ This session will examine the path forward for advancing global rules, norms, an
 |**Speakers**          |                                                              |
 | [Mr Wang Lei](/speakers/wang-lei/)  | *Coordinator for Cyber and Digital Affairs* <br>Ministry of Foreign Affairs <br>China      |
 |<br>**Panellists**          |                                                              |
-| [Ms Kelly Anderson](/speakers/ms-kelly-anderson/)  | *International Cyber and Critical Technology Policy* <br>Global Affairs <br>Canada      |
+| [Ms Kelly Anderson](/speakers/ms-kelly-anderson/)  | *Director, International Cyber and Critical Technology Policy* <br>Global Affairs <br>Canada      |
 | [Mr Léonard Rolland](/speakers/mr-leonard-rolland/)  | *Head of International Cyber Policy* <br>French Ministry of Foreign Affairs      |
 |<br>**Moderator**          |                                                              |
 | [Mr Benjamin Ang](/speakers/mr-benjamin-ang/)  | *Senior Fellow* <br>Head of Centre of Excellence for National Security <br>*Head, Digital Impact Research*<br> RSIS, NTU      |
