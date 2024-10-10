@@ -7,7 +7,7 @@ description: ""
 ![](/images/2024%20speakers/Kelly_Anderson.png)
 #### **Ms Kelly Anderson**
 
-*International Cyber and Critical Technology Policy <br>
+*Director, International Cyber and Critical Technology Policy <br>
  Global Affairs <br> Canada*
  
 ##### **Biography**

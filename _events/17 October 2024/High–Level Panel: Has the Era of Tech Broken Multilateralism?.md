@@ -24,7 +24,6 @@ In this session, panellists will explore the impact of the technology era on mul
 |<br>**Panellists**          |                                                              |
 | [Ms Manon Le Blanc](/speakers/ms-manon-le-blanc/)  | *EU Coordinator for Cyber Issues* <br>European External Action Service <br>European Union      |
 | [Dr Mohamad Maliki Bin Osman](/speakers/dr-mohamad-maliki-bin-osman/)  | *Second Minister for Foreign Affairs* <br>Ministry of Foreign Affairs <br>Singapore      |
-| [AVM Amorn Chomchoey](/speakers/avm-amorn-chomchoey/)  | *Secretary General* <br>National Cybersecurity Agency <br>Thailand      |
 | [Mr Nathaniel C. Fick](/speakers/mr-nathaniel-fick/)  | *Ambassador at Large* <br>Bureau of Cyberspace and Digital Policy <br>United States      |
 
 **High-Level Panel: Advancing Rules, Norms, and Standards in Cyberspace: The Way Forward**
@@ -35,12 +34,12 @@ Can the international community come together to develop and uphold principles t
 This session will examine the path forward for advancing global rules, norms, and standards in cyberspace. Panellists will discuss the role of the UN in driving multilateral collaboration and how the international community can band together to build a resilient and trustworthy digital environment for the future.
 
 |**Speakers**          |                                                              |
-| [Mr Wang Lei](/speakers/wang-lei/)  | *Coordinator for Cyber Affairs* <br>Ministry of Foreign Affairs <br>China      |
+| [Mr Wang Lei](/speakers/wang-lei/)  | *Coordinator for Cyber and Digital Affairs* <br>Ministry of Foreign Affairs <br>China      |
 |<br>**Panellists**          |                                                              |
-| [Ms Kelly Anderson](/speakers/ms-kelly-anderson/)  | *International Cyber and Critical Technology Policy* <br>Global Affairs <br>Canada      |
+| [Ms Kelly Anderson](/speakers/ms-kelly-anderson/)  | *Director, International Cyber and Critical Technology Policy* <br>Global Affairs <br>Canada      |
 | [Mr Léonard Rolland](/speakers/mr-leonard-rolland/)  | *Head of International Cyber Policy* <br>French Ministry of Foreign Affairs      |
 |<br>**Moderator**          |                                                              |
-| [Mr Benjamin Ang](/speakers/mr-benjamin-ang/)  | *Senior Fellow* <br>Head of Centre of Excellence for National Security <br>*Head, Digital Impact Research*<br>at RSIS, NTU      |
+| [Mr Benjamin Ang](/speakers/mr-benjamin-ang/)  | *Senior Fellow* <br>Head of Centre of Excellence for National Security <br>*Head, Digital Impact Research*<br> RSIS, NTU      |
 
 <br><br><br>
 *Information is accurate at time of publication*

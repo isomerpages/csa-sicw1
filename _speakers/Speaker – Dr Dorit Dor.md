@@ -7,7 +7,7 @@ description: ""
 ![](/images/2024%20speakers/Dorit_Dor.png)
 #### **Dr Dorit Dor**
 
-*Chief Technology Officer, <br> Check Point, <br>Israel*
+*Chief Technology Officer, <br> Check Point Software Technologies, <br>Israel*
 
 ##### **Biography**
 Dr. Dorit Dor is Check Point's Chief Technology Officer and one of the world s leading women in cyber. She served as Chief Product Office at Check Point Software Technologies for more than 25 years where she led an organization of over 1,500 employees and managed all of Check

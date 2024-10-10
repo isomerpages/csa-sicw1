@@ -17,7 +17,7 @@ Cyber threats are becoming increasingly sophisticated as threat actors tap on Ge
 | [Mr Robert Hannigan](/speakers/mr-robert-hannigan/)  | *Chairman* <br>BlueVoyant      |
 | [Mr Fabio Fratucello](/speakers/mr-fabio-fratucello/)  | *Field Chief Technology Officer* <br>CrowdStrike      |
 | [Mr Jim Allen](/speakers/mr-jim-allen/)  | *Executive Vice President* <br>Booz Allen Hamilton      |
-| [Dr Dorit Dor](/speakers/dr-dorit-dor/)  | *Chief Technology Officer* <br>Check Point      |
+| [Dr Dorit Dor](/speakers/dr-dorit-dor/)  | *Chief Technology Officer* <br>Check Point Software Technologies<br>Israel      |
 | [Dr Sanjay Bahl](/speakers/dr-sanjay-bahl/)  | *Director-General of CERT-In* <br>India      |
 |<br> **Moderator**          |                                                           |
 | [Mr Charles Ng](/speakers/mr-charles-ng/)  | *Executive Vice President*<br>Ensign InfoSecurity                |

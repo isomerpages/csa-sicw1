@@ -15,7 +15,7 @@ Cybersecurity is often described as a team sport requiring many parties to come 
 This Forum provides a unique opportunity to gain insights from leading experts such as David Koh, Chief Executive, Cyber Security Agency of Singapore and Craig Stephen, Executive Vice-President, R&amp;D, Oracle, as we build a more collaborative cybersecurity ecosystem to tackle present and future cybersecurity issues and challenges.       
 
 |**Speakers**          |                                                              |
-| [Mr David Koh](/speakers/mr-david-koh/)  | *Commissioner of Cybersecurity &amp; Chief Executive (CE)* <br>Cyber Security Agency of Singapore (CSA)<br>Singapore     |
+| [Mr David Koh](/speakers/mr-david-koh/)  | *Commissioner of Cybersecurity &amp; Chief Executive (CE)*, Cyber Security Agency of Singapore (CSA)<br>*Chief (Digital Security &amp; Technology)*, Ministry of Digital Development and Information<br>Singapore     |
 | [Mr Craig Stephen](/speakers/mr-craig-stephen/)  | *Executive Vice President*<br>Oracle           |
 | [Prof Luke Ong](/speakers/prof-luke-ong/)  | *Vice President &amp; Professor*<br>NTU           |
 | [Prof Wenke Lee](/speakers/prof-wenke-lee/)  | *Executive Director* <br>Institute for Information Security &amp; Privacy (IISP)     |
