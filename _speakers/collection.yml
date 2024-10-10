@@ -2,10 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker  – Shariffah Rashidah Syed Othman.md
-      - Speaker – Abdulrahman Al–Shafi.md
-      - Speaker – YB Tuan Gobind Singh Deo.md
-      - Speaker – Lieutenant General Michelle McGuinness.md
       - Guest of Honour – Mdm Rahayu Mahzam.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tan Kiat How.md
@@ -16,6 +12,7 @@ collections:
       - Speaker – HE Maria Adebahr.md
       - Speaker – Dr Christopher Ahlberg.md
       - Speaker – Mr Jim Allen.md
+      - Speaker – Abdulrahman Al–Shafi.md
       - Speaker – Ms Kelly Anderson.md
       - Speaker – Mr Benjamin Ang.md
       - Speaker – Mr Christopher Anthony.md
@@ -32,6 +29,7 @@ collections:
       - Speaker – Mr Chua Kuan Seah.md
       - Speaker – Prof Ronald Cramer.md
       - Speaker – Mr Miguel DeBruycker.md
+      - Speaker – YB Tuan Gobind Singh Deo.md
       - Speaker – Dr Ryan Donaghy.md
       - Speaker – Dr Dorit Dor.md
       - Speaker – Mr Matthew Driver.md
@@ -71,6 +69,7 @@ collections:
       - Speaker – Derek Manky.md
       - Speaker – Ir Dr Megat Zuhairy bin Megat Tajuddin.md
       - Speaker – Lieutenant General Michelle McGuiness.md
+      - Speaker – Lieutenant General Michelle McGuinness.md
       - Speaker – Dr Evan Miyazono.md
       - Speaker – Mr Muzaffar Mustaffa.md
       - Speaker – Mr Emmanuel Naëgelen.md
@@ -78,6 +77,7 @@ collections:
       - Speaker – Dr Madan M Oberoi.md
       - Speaker – Prof Luke Ong.md
       - Speaker – Dr Mohamad Maliki Bin Osman.md
+      - Speaker  – Shariffah Rashidah Syed Othman.md
       - Speaker – Mr Ben Packman.md
       - Speaker – Dr Jerry Park.md
       - Speaker – Mr Raimo Peterson.md
