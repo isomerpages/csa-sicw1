@@ -22,6 +22,7 @@ How can organisations effectively harness AI to enhance cyber resilience and ens
 | [Mr Trevor Rudolph](/speakers/mr-trevor-rudolph/)  | *Vice President, Global Digital Policy &amp; Regulation* <br>Schneider Electric <br>France     |
 | [Dr Dorit Dor](/speakers/dr-dorit-dor/)  | *Chief Technology Officer* <br>Check Point Software Technologies <br>Israel     |
 | [Mr Stanley Tsang](/speakers/mr-stanley-tsang/)  | *Distinguished Engineer and Senior Director (Special Projects)* <br>Cyber Security Agency of Singapore (CSA) <br>Singapore     |
+| [Mr Rod Latham](/speakers/mr-rod-latham/)  | *Director for Cyber Security and Digital Identity* <br>Department for Science, Innovation and Technology (DSIT)<br>United Kingdom     |
 | [Dr Ryan Donaghy](/speakers/dr-ryan-donaghy/)  | *Deputy Assistant Director* <br>Cybersecurity &amp; Infrastructure Agency (CISA)<br>United States of America     |
 |<br>**Moderator**          |                                                              |
 | [Professor Sadie Creese](/speakers/sadie-creese/)  | *Professor of Cybersecurity* <br>University of Oxford <br>United Kingdom     |
