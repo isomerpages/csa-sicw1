@@ -14,7 +14,9 @@ Creating and sustaining trust in our digital world calls for a comprehensive, ec
 
 This year, participants can look forward to lightning talks, a Q&amp;A segment, and networking opportunities.
 
-|**Speakers**          |                                                              |
+|**Guest of Honour**          |                                                              |
+| [Mdm Rahayu Mahzam](/speakers/ms-sandra-joyce/)  | *Minister of State*, Ministry of Digital Development and Information <br>*Minister of State*, Ministry of Health<br>Singapore      |
+|<br>**Speakers**          |                                                              |
 | [Ms Sandra Joyce](/speakers/ms-sandra-joyce/)  | *Vice President* <br>Google Threat Intelligence<br>United States of America      |
 | [Ms Barbara Kluge](/speakers/ms-barbara-kluge/)  | *Permanent Representation of the Director General CI -Cyber-and Information security* <br>German Federal Ministry of the Interior and Community<br>Germany      |
 | [Ms Tara Wisniewski](/speakers/ms-tara-wisniewski/)  | *EVP, Advocacy, Global Markets and Member Engagement* <br>The International Information System Security Certification Consortium (ISC2) <br>United States of America      |
