@@ -36,7 +36,7 @@ The Mobile Security x Scams event will discuss how scams impact and change the m
 | [Mr Eugene Liderman](/speakers/mr-eugene-liderman/)  | *Director, Mobile Security Strategy* <br>Google     |
 | [Ms Yah Shze Min](/speakers/ms-yah-shze-min/)  | *Public Policy Manager, Customer Trust*<br>Amazon           |
 |<br> **Moderator**          |                                                           |
-| [Mr Yik Jiawei](/speakers/mr-yik-jiawei/)  | *Director, Security and Resilience Division*<br>Ministry for Digital Development and Information <br>Singapore                |
+| [Mr Yik Jiawei](/speakers/mr-yik-jiawei/)  | *Director, Security and Resilience Division*<br>Ministry of Digital Development and Information <br>Singapore                |
 | | |
 
 **Securing Our Mobile Landscape: Navigating the Myriad of Cyber Threats**
