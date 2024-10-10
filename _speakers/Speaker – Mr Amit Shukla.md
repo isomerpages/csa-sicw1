@@ -4,6 +4,6 @@ permalink: /speakers/amit-shukla/
 variant: markdown
 description: ""
 ---
-#### **Amit Shukla**
+#### **Mr Amit Shukla**
 
 *Joint Secretary, Cyber Diplomacy Division, <br> Ministry of External Affairs, India*
