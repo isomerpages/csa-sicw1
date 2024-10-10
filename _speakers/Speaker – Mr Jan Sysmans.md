@@ -7,7 +7,7 @@ description: ""
 ![](/images/2024%20speakers/Mr_Jan_Sysmans.png)
 #### **Mr Jan Sysmans**
 
-*Mobile App Defense Evangelist, <br> Appdome<br>Singapore*
+*Head of Marketing – Asia Pacific &amp; Japan, <br> Appdome*
 
 ##### **Biography**
 Jan Sysmans is Appdome's Mobile App Defense Evangelist based in Singapore. He has been published in and interviewed by leading publications across South-East Asia, including The Straits Times, The Business Times, Lianhe Zaobao, CNA, MoneyFM, ANC Business Roadshow,  The Manila Times, The Economic Times of India and more. 
