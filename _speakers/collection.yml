@@ -2,9 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Mr Eugene EG Tan.md
-      - Speaker – Mr Steven Sim Kok Leong.md
-      - Speaker – Mr Marc Henauer.md
       - Guest of Honour – Mdm Rahayu Mahzam.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tan Kiat How.md
@@ -45,6 +42,7 @@ collections:
       - Speaker – Mr Yukiya Hamamoto.md
       - Speaker – Mr Robert Hannigan.md
       - Speaker – Dr He Ruimin.md
+      - Speaker – Mr Marc Henauer.md
       - Speaker – Dr Matt Henricksen.md
       - Speaker – Mr Chris Hockings.md
       - Speaker – Dr Neal Jetton.md
@@ -96,9 +94,11 @@ collections:
       - Speaker – Mr Marcus Song.md
       - Speaker – Mr Craig Stephen.md
       - Speaker – Mr Sim Feng–Ji.md
+      - Speaker – Mr Steven Sim Kok Leong.md
       - Speaker – Ms Quint Simon.md
       - Speaker – Mr Jan Sysmans.md
       - Speaker – Dr Amelia Tan.md
+      - Speaker – Mr Eugene EG Tan.md
       - Speaker – Ms Sharon Tan.md
       - Speaker – Mr Teo Xiang Zheng.md
       - Speaker – Mr Tom Tovar.md
