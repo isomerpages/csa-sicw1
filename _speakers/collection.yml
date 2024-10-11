@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Lee Pei Ling.md
       - Speaker – Mr David van Duren.md
       - Speaker – Mr Allan Salim Cabanlong.md
       - Guest of Honour – Mdm Rahayu Mahzam.md
