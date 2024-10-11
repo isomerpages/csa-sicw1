@@ -4,6 +4,8 @@ permalink: /speakers/ms-izumi-nakamitsu/
 variant: markdown
 description: ""
 ---
+
+![](/images/2024%20speakers/IzumiNakamitsu.png)
 #### **Ms Izumi Nakamitsu**
 
 *Under-Secretary-General and High Representative for Disarmament Affairs <br>United Nations*
