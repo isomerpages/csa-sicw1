@@ -20,7 +20,7 @@ Without resilience, it becomes difficult to have trust in our digital ecosystem.
 This session will discuss the strategic and policy implications of resilience in the digital domain, and the possible next steps we can take to strengthen resilience in the digital domain. Join our panel of government experts and industry leaders as they discuss the roles and responsibilities of the public and private sectors in strengthening resilience in the digital domain, and how public-private partnerships can contribute to this important effort.
 
 |**Keynote Speaker**          |                                                              |
-| [MG Lee Yi-Jin](/speakers/mg-lee-yi-jin/)  | *Chief of Digital Intelligence Service (CDI)* <br>DIS      |
+| [MG Lee Yi-Jin](/speakers/mg-lee-yi-jin/)  | *Chief of Digital and Intelligence Service* <br>Ministry of Defence<br>Singapore      |
 |<br>**Moderator**          |                                                              |
 | [Mr Gaurav Modi](/speakers/mr-gaurav-modi/)  | *Consulting Managing Partner, ASEAN and Singapore* <br>Ernst &amp; Young      |
 |<br>**Panellists**          |                                                              |

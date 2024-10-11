@@ -4,11 +4,10 @@ permalink: /speakers/dr-mohamad-maliki-bin-osman/
 variant: markdown
 description: ""
 ---
-
 ![](/images/2024%20speakers/Dr_Mohamad_Maliki_Bin_Osman.png)
 #### **Dr Mohamad Maliki Bin Osman**
 
-*Second Minister for Foreign Affairs, <br> Ministry of Foreign Affairs<br>Singapore*
+*Minister in the Prime Minister’s Office,<br>Second Minister for Education &amp; Foreign Affairs, <br>Singapore*
 
 ##### **Biography**
 Dr Mohamad Maliki Osman was elected a Member of Parliament (MP) for the Sembawang Group Representation Constituency (GRC) in 2001 and 2006. He was elected as one of the MPs for the East Coast GRC in May 2011, September 2015 and July 2020.

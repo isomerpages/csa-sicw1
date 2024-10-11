@@ -23,6 +23,10 @@ The SICW Summit by-invitation only gala dinner will kick off the 9th Singapore I
 
 |**Speaker**          |                                                              |
 | [Mrs Josephine Teo](/speakers/mrs-josephine-teo/)  | *Minister for Digital Development and Information,<br>Second Minister for Home Affairs,<br>and Minister-in-charge of Smart Nation and Cybersecurity* <br> Singapore     |
+|<br>**Keynote Speaker**          |                                                              |
+| [YB Tuan Gobind Singh Deo](/speakers/yb-tuan-gobind-singh-deo/)  | *Minister of Digital* <br> Malaysia     |
+|<br>**Moderator**          |                                                              |
+| [Mr David Koh](/speakers/mr-david-koh/)  | *Commissioner of Cybersecurity &amp; Chief Executive (CE)*, Cyber Security Agency of Singapore (CSA)<br>*Chief (Digital Security &amp; Technology)*, Ministry of Digital Development and Information<br>Singapore     |
 
 
 <br><br><br>

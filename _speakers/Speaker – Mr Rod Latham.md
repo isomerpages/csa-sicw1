@@ -8,7 +8,7 @@ description: ""
 #### **Mr Rod Latham**
 
 *Director for Cyber Security and Digital Identity <br>
-Department for Science, Innovation and Technology (DSIT)*
+Department for Science, Innovation and Technology (DSIT)<br>United Kingdom*
 
 ##### **Biography**
 Rod Latham took up post as the Director for Cyber Security and Digital Identity in the Department for Science, Innovation and Technology (DSIT) on 1 July 2024.  In that role, he is responsible for driving improvements in the UK’s cyber security, resilience and skills base and supporting the creation of a safe and thriving digital identity market, delivered through a combination of policy, legislation and a series of programmes.

@@ -19,12 +19,15 @@ However, technologies have changed the way we interact and live. Is multilateral
 In this session, panellists will explore the impact of the technology era on multilateralism and the role of the UN in fostering global collaboration. They will discuss how nations can strengthen multilateralism to ensure that it is open and inclusive, where every country’s voice is heard and included. 
 
 |**Speakers**          |                                                              |
-| [Dr Mohamad Maliki Bin Osman](/speakers/dr-mohamad-maliki-bin-osman/)  | *Second Minister for Foreign Affairs* <br>Ministry of Foreign Affairs <br>Singapore      |
+| [Dr Mohamad Maliki Bin Osman](/speakers/dr-mohamad-maliki-bin-osman/)  | *Minister in the Prime Minister’s Office*<br>*Second Minister for Education &amp; Foreign Affairs* <br>Singapore      |
 | [Mr Nathaniel C. Fick](/speakers/mr-nathaniel-fick/)  | *Ambassador at Large* <br>Bureau of Cyberspace and Digital Policy <br>United States of America      |
 |<br>**Panellists**          |                                                              |
 | [Ms Manon Le Blanc](/speakers/ms-manon-le-blanc/)  | *EU Coordinator for Cyber Issues* <br>European External Action Service <br>European Union      |
-| [Dr Mohamad Maliki Bin Osman](/speakers/dr-mohamad-maliki-bin-osman/)  | *Second Minister for Foreign Affairs* <br>Ministry of Foreign Affairs <br>Singapore      |
+| [Mr Amit Shukla](/speakers/amit-shukla/)  | *Joint Secretary, Cyber Diplomacy Division* <br>, Ministry of External Affairs<br>India      |
+| [Dr Mohamad Maliki Bin Osman](/speakers/dr-mohamad-maliki-bin-osman/)  | *Minister in the Prime Minister’s Office*<br>*Second Minister for Education &amp; Foreign Affairs* <br>Singapore      |
 | [Mr Nathaniel C. Fick](/speakers/mr-nathaniel-fick/)  | *Ambassador at Large* <br>Bureau of Cyberspace and Digital Policy <br>United States      |
+|<br>**Moderator**          |                                                              |
+| [Mr Sithuraj Ponraj](/speakers/mr-sithuraj-ponraj/)  | *Director of International Cyber Policy Office* <br>Cyber Security Agency of Singapore (CSA) <br>Singapore      |
 
 **High-Level Panel: Advancing Rules, Norms, and Standards in Cyberspace: The Way Forward**
 
@@ -38,8 +41,10 @@ This session will examine the path forward for advancing global rules, norms, an
 |<br>**Panellists**          |                                                              |
 | [Ms Kelly Anderson](/speakers/ms-kelly-anderson/)  | *Director, International Cyber and Critical Technology Policy* <br>Global Affairs <br>Canada      |
 | [Mr Léonard Rolland](/speakers/mr-leonard-rolland/)  | *Head of International Cyber Policy* <br>French Ministry of Foreign Affairs      |
+| [Abdulrahman Al-Shafi](/speakers/abdulrahman-al-shafi/)  | *Director of Cyber Strategies and Policies Department*      |
+| [Shariffah Rashidah Syed Othman](/speakers/shariffah-rashidah-syed-othman/)  | *Director, Policy and International Cooperation* <br>National Cyber Security Agency (NACSA)      |
 |<br>**Moderator**          |                                                              |
-| [Mr Benjamin Ang](/speakers/mr-benjamin-ang/)  | *Senior Fellow* <br>Head of Centre of Excellence for National Security <br>*Head, Digital Impact Research*<br> RSIS, NTU      |
+| [Mr Benjamin Ang](/speakers/mr-benjamin-ang/)  | *Head of Centre of Excellence for National Security (CENS), Future Issues in Technology (FIT), Digital Impact*<br> S. Rajaratnam School of International Studies (RSIS)      |
 
 <br><br><br>
 *Information is accurate at time of publication*
