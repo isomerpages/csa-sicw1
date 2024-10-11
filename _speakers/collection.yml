@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Anat Lewin.md
       - Speaker – Ms Pua Hunter.md
       - Moderator – Mr Keith Detros.md
       - Speaker – Ms Siti Liyana Azman.md
