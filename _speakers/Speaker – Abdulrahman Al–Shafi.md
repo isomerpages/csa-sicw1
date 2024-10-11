@@ -4,7 +4,6 @@ permalink: /speakers/abdulrahman-al-shafi/
 variant: markdown
 description: ""
 ---
-
 ![](/images/2024%20speakers/Abdulrahman_Mohammed_Al_Shafi.png)
 #### **Abdulrahman Al-Shafi**
 
