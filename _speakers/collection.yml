@@ -2,17 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Ms Izumi Nakamitsu.md
-      - Moderator – Mr Choon Bong.md
-      - Speaker – Mr Masayuki Furukawa.md
-      - Speaker – Ms Anat Lewin.md
-      - Speaker – Ms Pua Hunter.md
-      - Moderator – Mr Keith Detros.md
-      - Speaker – Ms Siti Liyana Azman.md
-      - Speaker – Ms Nina Bual.md
-      - Speaker – Ms Lee Pei Ling.md
-      - Speaker – Mr David van Duren.md
-      - Speaker – Mr Allan Salim Cabanlong.md
       - Guest of Honour – Mdm Rahayu Mahzam.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tan Kiat How.md
@@ -28,11 +17,14 @@ collections:
       - Speaker – Mr Benjamin Ang.md
       - Speaker – Mr Christopher Anthony.md
       - Speaker – Mr Gert Auväärt.md
+      - Speaker – Ms Siti Liyana Azman.md
       - Speaker – Dr Sanjay Bahl.md
       - Speaker – Ms Manon Le Blanc.md
       - Speaker – Mr Alexey Bocharnikov.md
+      - Speaker – Ms Nina Bual.md
       - Speaker – Mr Greg Bunghardt.md
       - Speaker – Mr John Buselli.md
+      - Speaker – Mr Allan Salim Cabanlong.md
       - Speaker – Ms Larissa Schneider Calza.md
       - Speaker – Ms Eva Chen.md
       - Speaker – AVM Amorn Chomchoey.md
@@ -45,9 +37,11 @@ collections:
       - Speaker – Dr Dorit Dor.md
       - Speaker – Mr Matthew Driver.md
       - Speaker – Mr Alex Duff.md
+      - Speaker – Mr David van Duren.md
       - Speaker – Mr Nathaniel C Fick.md
       - Speaker – Ms Liesyl Franz.md
       - Speaker – Mr Fabio Fratucello.md
+      - Speaker – Mr Masayuki Furukawa.md
       - Speaker – Laris Galadza.md
       - Speaker – Ms Genie Sugene Gan.md
       - Speaker – Mr Yukiya Hamamoto.md
@@ -56,6 +50,7 @@ collections:
       - Speaker – Mr Marc Henauer.md
       - Speaker – Dr Matt Henricksen.md
       - Speaker – Mr Chris Hockings.md
+      - Speaker – Ms Pua Hunter.md
       - Speaker – Dr Neal Jetton.md
       - Speaker – Prof Ding Jintai.md
       - Speaker – Mr Akshay Joshi.md
@@ -71,10 +66,12 @@ collections:
       - Speaker – Mr Lam Chee Kin.md
       - Speaker – Mr Rod Latham.md
       - Speaker – Dr Jeannie Lee.md
+      - Speaker – Ms Lee Pei Ling.md
       - Speaker – Mr Lee Sang Joong.md
       - Speaker – Prof Wenke Lee.md
       - Speaker – MG Lee Yi–Jin.md
       - Speaker – Mr Wang Lei.md
+      - Speaker – Ms Anat Lewin.md
       - Speaker – Mr Eugene Liderman.md
       - Speaker – Ms Cheri Lim.md
       - Speaker – Professor Kubo Mačák.md
@@ -84,6 +81,7 @@ collections:
       - Speaker – Dr Evan Miyazono.md
       - Speaker – Mr Muzaffar Mustaffa.md
       - Speaker – Mr Emmanuel Naëgelen.md
+      - Speaker – Ms Izumi Nakamitsu.md
       - Speaker – Mr Ngiam Shih Chun.md
       - Speaker – Dr Madan M Oberoi.md
       - Speaker – Prof Luke Ong.md
@@ -123,8 +121,10 @@ collections:
       - Speaker – Mr Sean Yang.md
       - Speaker – Ms Yah Shze Min.md
       - Moderator – Mr Garrettson Blight.md
+      - Moderator – Mr Choon Bong.md
       - Moderator – HE Tadeusz Chomicki.md
       - Moderator – Professor Sadie Creese.md
+      - Moderator – Mr Keith Detros.md
       - Moderator – Dr Ágnes Kasper.md
       - Moderator – Mr Gaurav Modi.md
       - Moderator – Mr Charles Ng.md
