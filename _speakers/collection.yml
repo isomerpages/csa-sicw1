@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Eugene EG Tan.md
       - Speaker – Mr Steven Sim Kok Leong.md
       - Speaker – Mr Marc Henauer.md
       - Guest of Honour – Mdm Rahayu Mahzam.md
