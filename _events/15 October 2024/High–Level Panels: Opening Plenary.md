@@ -27,6 +27,9 @@ These challenges are further compounded by the tension between innovation and se
 
 This session will explore whether current regulatory measures are adequate and if they fall short in addressing emerging risks. Panellists will examine the effectiveness of existing frameworks, potential consequences of regulatory gaps and the delicate balance between security and innovation. Is our current approach to cybersecurity and technology regulation too much or too little? Is securing our digital future without compromising technological progress possible?
 
+|**Speaker**          |                                                              |
+| [Ms Izumi Nakamitsu](/speakers/ms-izumi-nakamitsu/)  | *Under-Secretary-General and High Representative for Disarmament Affairs* <br>United Nations      |
+
 **SICW HLP Opening Plenary – Panel 3**
 
 **A Vote of Confidence: Trust in the Digital Era**
