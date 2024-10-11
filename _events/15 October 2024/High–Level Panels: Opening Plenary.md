@@ -10,6 +10,9 @@ third_nav_title: 15 October 2024
 **15 October 2024 (Tuesday)**  
 *Time: 9.20am to 12.45pm (GMT +8)*
 
+|**Speaker**          |                                                              |
+| [Ms Izumi Nakamitsu](/speakers/ms-izumi-nakamitsu/)  | *Under-Secretary-General and High Representative for Disarmament Affairs* <br>United Nations      |
+
 **SICW HLP Opening Plenary – Panel 1**
 
 **Global Digital Governance: Promise or Pipedream?**
@@ -26,9 +29,6 @@ This session explores the prospects and promise of global digital governance, an
 These challenges are further compounded by the tension between innovation and security. 
 
 This session will explore whether current regulatory measures are adequate and if they fall short in addressing emerging risks. Panellists will examine the effectiveness of existing frameworks, potential consequences of regulatory gaps and the delicate balance between security and innovation. Is our current approach to cybersecurity and technology regulation too much or too little? Is securing our digital future without compromising technological progress possible?
-
-|**Speaker**          |                                                              |
-| [Ms Izumi Nakamitsu](/speakers/ms-izumi-nakamitsu/)  | *Under-Secretary-General and High Representative for Disarmament Affairs* <br>United Nations      |
 
 **SICW HLP Opening Plenary – Panel 3**
 
