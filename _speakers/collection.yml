@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Izumi Nakamitsu.md
       - Moderator – Mr Choon Bong.md
       - Speaker – Mr Masayuki Furukawa.md
       - Speaker – Ms Anat Lewin.md
