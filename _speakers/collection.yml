@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Pua Hunter.md
       - Moderator – Mr Keith Detros.md
       - Speaker – Ms Siti Liyana Azman.md
       - Speaker – Ms Nina Bual.md
