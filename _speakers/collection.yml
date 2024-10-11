@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Moderator – Mr Keith Detros.md
       - Speaker – Ms Siti Liyana Azman.md
       - Speaker – Ms Nina Bual.md
       - Speaker – Ms Lee Pei Ling.md
