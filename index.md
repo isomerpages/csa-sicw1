@@ -30,7 +30,7 @@ sections:
       id: infopic
       button: See all speakers
       url: /speakers/dr-janil-puthucheary/
-      image: /images/2024_distinguished_guests_14_update.jpg
+      image: /images/homepage_2024_distinguished_guests_14.jpg
       alt: Image alt text
   - infopic:
       title: Event Highlights
