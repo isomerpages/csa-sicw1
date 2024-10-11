@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Siti Liyana Azman.md
       - Speaker – Ms Nina Bual.md
       - Speaker – Ms Lee Pei Ling.md
       - Speaker – Mr David van Duren.md
