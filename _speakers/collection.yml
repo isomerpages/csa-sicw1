@@ -2,9 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Hon Ivan John Uy.md
-      - Speaker – Mr Harry Coker, Jr.md
-      - Speaker – ⁠Ms Phua Puay Li.md
       - Guest of Honour – Mdm Rahayu Mahzam.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tan Kiat How.md
@@ -34,6 +31,7 @@ collections:
       - Speaker – AVM Amorn Chomchoey.md
       - Speaker – Mr Chong Rong Hwa.md
       - Speaker – Mr Chua Kuan Seah.md
+      - Speaker – Mr Harry Coker, Jr.md
       - Speaker – Hon Judith Collins KC.md
       - Speaker – Prof Ronald Cramer.md
       - Speaker – Mr Miguel DeBruycker.md
@@ -104,6 +102,7 @@ collections:
       - Speaker – Dr Jerry Park.md
       - Speaker – Mr Raimo Peterson.md
       - Speaker – Mr Sithuraj Ponraj.md
+      - Speaker – ⁠Ms Phua Puay Li.md
       - Speaker – Mr Quek Gim Pew.md
       - Speaker – Mr Anand Raghavan.md
       - Speaker – Mr Léonard Rolland.md
@@ -146,5 +145,6 @@ collections:
       - Moderator – Dr Ng Li Sa.md
       - Moderator – Dr Ming Tan.md
       - Moderator – Mr Rodney Tan.md
+      - Speaker – Hon Ivan John Uy.md
       - Moderator – Ms Danielle Yeow.md
       - Moderator – Mr Yik Jiawei.md
