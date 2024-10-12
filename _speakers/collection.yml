@@ -2,11 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Moderator – Ms Danielle Yeow.md
-      - Speaker – Mr Wang Yingkang.md
-      - Speaker – Amb Ernst Noorman.md
-      - Moderator – Dr Yaacob Ibrahim.md
-      - Speaker – Mr Albertus Rachmad Wibowo.md
       - Speaker – Hon Ivan John Uy.md
       - Speaker – Mr Harry Coker, Jr.md
       - Speaker – ⁠Ms Phua Puay Li.md
@@ -64,6 +59,7 @@ collections:
       - Speaker – Mr Chris Hockings.md
       - Speaker – Dr Richard Horne.md
       - Speaker – Ms Pua Hunter.md
+      - Moderator – Dr Yaacob Ibrahim.md
       - Speaker – Dr Neal Jetton.md
       - Speaker – Prof Ding Jintai.md
       - Speaker – Mr Akshay Joshi.md
@@ -99,6 +95,7 @@ collections:
       - Speaker – Mr Emmanuel Naëgelen.md
       - Speaker – Ms Izumi Nakamitsu.md
       - Speaker – Mr Ngiam Shih Chun.md
+      - Speaker – Amb Ernst Noorman.md
       - Speaker – Dr Madan M Oberoi.md
       - Speaker – Prof Luke Ong.md
       - Speaker – Dr Mohamad Maliki Bin Osman.md
@@ -131,7 +128,9 @@ collections:
       - Speaker – Dr Kaleem Ahmed Usmani.md
       - Speaker – Mr Dmitry Volkov.md
       - Speaker – Ms Kemba Walden.md
+      - Speaker – Mr Wang Yingkang.md
       - Speaker – Mr Andrew Whittaker.md
+      - Speaker – Mr Albertus Rachmad Wibowo.md
       - Speaker – Ms Tara Wisniewski.md
       - Speaker – Mr Tomoo Yamauchi.md
       - Speaker – Mr Sean Yang.md
@@ -147,4 +146,5 @@ collections:
       - Moderator – Dr Ng Li Sa.md
       - Moderator – Dr Ming Tan.md
       - Moderator – Mr Rodney Tan.md
+      - Moderator – Ms Danielle Yeow.md
       - Moderator – Mr Yik Jiawei.md
