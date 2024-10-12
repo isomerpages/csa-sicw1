@@ -22,7 +22,7 @@ Given the unprecedented scale and reach of these technologies, there are now cal
 
 This session explores the prospects and promise of global digital governance, and the challenges posed by the politics of divergence and polarisation. 
 
-|**Speaker**          |                                                              |
+|**Keynote Speaker**          |                                                              |
 | [Mr Harry Coker, Jr](/speakers/mr-harry-coker-jr/)  | *National Cyber Director* <br>United States of America      |
 
 **SICW HLP Opening Plenary – Panel 2**
@@ -33,7 +33,7 @@ These challenges are further compounded by the tension between innovation and se
 
 This session will explore whether current regulatory measures are adequate and if they fall short in addressing emerging risks. Panellists will examine the effectiveness of existing frameworks, potential consequences of regulatory gaps and the delicate balance between security and innovation. Is our current approach to cybersecurity and technology regulation too much or too little? Is securing our digital future without compromising technological progress possible?
 
-|**Speaker**          |                                                              |
+|**Keynote Speaker**          |                                                              |
 | [Hon. Ivan John Uy](/speakers/hon-ivan-john-uy/)  | *Secretary* <br>Department of Information and Communications Technology<br>Philippines      |
 
 **SICW HLP Opening Plenary – Panel 3**
@@ -45,7 +45,7 @@ The unprecedented influence of digital technologies on democratic processes have
 
 This session will delve into the critical role of digital trust in upholding election integrity. As the geopolitical landscape becomes increasingly fragmented, how can we ensure that digital platforms used in elections are secure, transparent, and protected from influence? Can regulatory frameworks keep pace with evolving threats? This session will explore these pressing questions, focusing on the challenges and opportunities in maintaining voter confidence in the digital age.
 
-|**Speaker**          |                                                              |
+|**Keynote Speaker**          |                                                              |
 | [Mr Albertus Rachmad Wibowo](/speakers/mr-albertus-rachmad-wibowo/)  | *Deputy Head of National Cyber and Crypto Agency* <br>BSSN<br>Indonesia      |
 
 **SICW HLP Opening Plenary – Panel 4**
