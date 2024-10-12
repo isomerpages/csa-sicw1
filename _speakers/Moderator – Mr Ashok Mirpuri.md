@@ -7,8 +7,8 @@ description: ""
 ![](/images/2024%20speakers/Mr__Ashok_Mirpuri.png)
 #### **Mr Ashok Mirpuri**
 
-*Head <br>
-International Policy &amp; Governance, Temasek<br>Singapore*
+*Head, International Policy &amp; Governance <br>
+Temasek<br>Singapore*
 
 ##### **Biography**
 Mr. Ashok Kumar Mirpuri joined Temasek in September 2023 and is currently Head, International Policy &amp; Governance.
