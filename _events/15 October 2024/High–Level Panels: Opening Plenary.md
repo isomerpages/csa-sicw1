@@ -74,7 +74,7 @@ This session will delve into the critical role of digital trust in upholding ele
 The panel will discuss the delicate balance between security and innovation in the digital era, emphasising national security implications. In an age where digital threats are increasingly sophisticated, what frameworks can governments adopt to protect national security without stifling growth? How can national security priorities coexist with the need for innovation?
 
 |**Keynote Speaker**          |                                                              |
-| [Mr Wang Yingkang](/speakers/mr-wang-yingkang/)  | *Deputy Director General in-charge-of Cybersecurity* <br>Cyberspace Administration of China<br>People’s Republic of China      |
+| [Mr Wang Yingkang](/speakers/mr-wang-yingkang/)  | *Deputy Director General in-charge-of Cybersecurity* <br>Cyberspace Administration of China<br>China      |
 |<br>**Panellists**          |                                                              |
 | [Ms Larisa Galadza](/speakers/ms-larisa-galadza/)  | *Director General* <br>Cyber, Critical Technology and Democratic Resilience Bureau, International Security and Political Affairs Branch, Global Affairs Canada      |
 | [Mr Tanel Sepp](/speakers/he-tanel-sepp/)  | *Ambassador at Large for Cyber Affairs* <br>Ministry of Foreign Affairs of Estonia <br> Estonia      |
