@@ -30,7 +30,7 @@ This session explores the prospects and promise of global digital governance, an
 | [Hon. Judith Collins KC](/speakers/hon-judith-collins-kc/)  | *Minister Responsible for the Government Communications Security Bureau* <br>New Zealand      |
 | [H.E. Anton Demokhin](/speakers/he-anton-demokhin/)  | *Deputy Minister for Foreign Affairs, Chief Digital Transformation Officer* <br>Ukraine      |
 |<br>**Moderator**          |                                                              |
-| [Mr Ashok Mirpuri](/speakers/mr-ashok-mirpuri/)  | *Head* <br>International Policy &amp; Governance, Temasek<br>Singapore      |
+| [Mr Ashok Mirpuri](/speakers/mr-ashok-mirpuri/)  | *Head, International Policy &amp; Governance* <br>Temasek<br>Singapore      |
 
 **SICW HLP Opening Plenary – Panel 2**
 
