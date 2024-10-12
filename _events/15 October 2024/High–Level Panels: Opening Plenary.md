@@ -47,6 +47,13 @@ This session will delve into the critical role of digital trust in upholding ele
 
 |**Keynote Speaker**          |                                                              |
 | [Mr Albertus Rachmad Wibowo](/speakers/mr-albertus-rachmad-wibowo/)  | *Deputy Head of National Cyber and Crypto Agency* <br>BSSN<br>Indonesia      |
+|<br>**Panellists**          |                                                              |
+| [Ms Larissa Schneider Calza](/speakers/ms-larissa-schneider-calza/)  | *Head of Cyber Defense and Security Division* <br>Ministry of Foreign Affairs<br>Brazil      |
+| [Ir. Dr Megat Zuhairy bin Megat Tajuddin](/speakers/ir-dr-megat-zuhairy-bin-megat-tajuddin/)  | *Chief Executive* <br>National Cyber Security Agency<br>Malaysia      |
+| [Amb Ernst Noorman](/speakers/amb-ernst-noorman/)  | *Ambassador-at-Large for Security and Cyber* <br>Netherlands      |
+| [Amb Tadeusz Chomicki](/speakers/he-tadeusz-chomicki/)  | *Ambassador for Cyber &amp; Tech* <br>Security Policy Department, Ministry of Foreign Affairs<br>Poland      |
+|<br>**Moderator**          |                                                              |
+| [Dr Yaacob Ibrahim](/speakers/dr-yaacob-ibrahim/)  | *Adjunct Lecturer* <br>Lee Kuan Yew School of Public Policy, National University of Singapore<br>Singapore      |
 
 **SICW HLP Opening Plenary – Panel 4**
 
