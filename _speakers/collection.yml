@@ -2,10 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Moderator – Mr Ashok Mirpuri.md
-      - Speaker – Mr Artur Lyukmanov.md
-      - Speaker – Dr Richard Horne.md
-      - Speaker – Ms Larisa Galadza.md
       - Moderator – Ms Danielle Yeow.md
       - Speaker – Mr Wang Yingkang.md
       - Speaker – Amb Ernst Noorman.md
@@ -58,6 +54,7 @@ collections:
       - Speaker – Mr Fabio Fratucello.md
       - Speaker – Mr Masayuki Furukawa.md
       - Speaker – Laris Galadza.md
+      - Speaker – Ms Larisa Galadza.md
       - Speaker – Ms Genie Sugene Gan.md
       - Speaker – Mr Yukiya Hamamoto.md
       - Speaker – Mr Robert Hannigan.md
@@ -65,6 +62,7 @@ collections:
       - Speaker – Mr Marc Henauer.md
       - Speaker – Dr Matt Henricksen.md
       - Speaker – Mr Chris Hockings.md
+      - Speaker – Dr Richard Horne.md
       - Speaker – Ms Pua Hunter.md
       - Speaker – Dr Neal Jetton.md
       - Speaker – Prof Ding Jintai.md
@@ -89,10 +87,12 @@ collections:
       - Speaker – Ms Anat Lewin.md
       - Speaker – Mr Eugene Liderman.md
       - Speaker – Ms Cheri Lim.md
+      - Speaker – Mr Artur Lyukmanov.md
       - Speaker – Professor Kubo Mačák.md
       - Speaker – Derek Manky.md
       - Speaker – Ir Dr Megat Zuhairy bin Megat Tajuddin.md
       - Speaker – Lieutenant General Michelle McGuinness.md
+      - Moderator – Mr Ashok Mirpuri.md
       - Speaker – Dr Evan Miyazono.md
       - Speaker – Mr Muzaffar Mustaffa.md
       - Speaker – His Excellency Pengiran Dato Shamhary Mustapha.md
