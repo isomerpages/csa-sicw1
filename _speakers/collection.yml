@@ -2,10 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – HE Anton Demokhin.md
-      - Speaker – Hon Judith Collins KC.md
-      - Speaker – His Excellency Pengiran Dato Shamhary Mustapha.md
-      - Speaker – Dr Andrew Charlton.md
       - Moderator – Mr Ashok Mirpuri.md
       - Speaker – Mr Artur Lyukmanov.md
       - Speaker – Dr Richard Horne.md
@@ -42,12 +38,15 @@ collections:
       - Speaker – Mr John Buselli.md
       - Speaker – Mr Allan Salim Cabanlong.md
       - Speaker – Ms Larissa Schneider Calza.md
+      - Speaker – Dr Andrew Charlton.md
       - Speaker – Ms Eva Chen.md
       - Speaker – AVM Amorn Chomchoey.md
       - Speaker – Mr Chong Rong Hwa.md
       - Speaker – Mr Chua Kuan Seah.md
+      - Speaker – Hon Judith Collins KC.md
       - Speaker – Prof Ronald Cramer.md
       - Speaker – Mr Miguel DeBruycker.md
+      - Speaker – HE Anton Demokhin.md
       - Speaker – YB Tuan Gobind Singh Deo.md
       - Speaker – Dr Ryan Donaghy.md
       - Speaker – Dr Dorit Dor.md
@@ -96,6 +95,7 @@ collections:
       - Speaker – Lieutenant General Michelle McGuinness.md
       - Speaker – Dr Evan Miyazono.md
       - Speaker – Mr Muzaffar Mustaffa.md
+      - Speaker – His Excellency Pengiran Dato Shamhary Mustapha.md
       - Speaker – Mr Emmanuel Naëgelen.md
       - Speaker – Ms Izumi Nakamitsu.md
       - Speaker – Mr Ngiam Shih Chun.md
