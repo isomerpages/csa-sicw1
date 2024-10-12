@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Artur Lyukmanov.md
       - Speaker – Dr Richard Horne.md
       - Speaker – Ms Larisa Galadza.md
       - Moderator – Ms Danielle Yeow.md
