@@ -24,5 +24,21 @@ The half-day regional meeting will take place at the Sands Expo and Convention C
 
 We look forward to welcoming the GFCE Southeast Asia community to Singapore for this yearly gathering!
 
+|**Speakers**          |                                                              |
+| [⁠Ms Phua Puay Li](/speakers/ms-phua-puay-li/)  | *Assistant Chief Executive, Policy &amp; Corporate Development*<br>Cyber Security Agency of Singapore (CSA)<br>Singapore      |
+| [Mr David van Duren](/speakers/mr-david-van-duren/)  | *Director* <br>Global Forum on Cyber Expertise (GFCE)<br>The Netherlands      |
+| [Mr Allan Salim Cabanlong](/speakers/mr-allan-salim-cabanlong/)  | *Southeast Asia Hub Director*<br>Global Forum on Cyber Expertise (GFCE)<br>Philippines      |
+| [Mr Marc Henauer](/speakers/mr-marc-henauer/)  | *Senior Political and International Affairs Officer*<br>Federal Office for Cyber Security (NCSC)<br>Switzerland      |
+|<br>**Panellists**          |                                                              |
+| [Ms Lee Pei Ling](/speakers/ms-lee-pei-ling/)  | *Head, Cyber Strategy and Capabilities Development, Cybercrime Directorate* <br>INTERPOL<br>Singapore      |
+| [Ms Nina Bual](/speakers/ms-nina-bual/)  | *Co-Founder*<br>Cyberlite<br>Singapore      |
+| [Ms Siti Liyana Azman](/speakers/ms-siti-liyana-azman/)  | *Junior Research Fellow*<br>Global Research Network<br>Malaysia      |
+| [Ms Pua Hunter](/speakers/ms-pua-hunter/)  | *Pacific Hub Director*<br>Global Forum on Cyber Expertise (GFCE)<br>Cook Islands      |
+| [Ms Anat Lewin](/speakers/ms-anat-lewin/)  | *Regional Lead for Cybersecurity in East Asia &amp; Pacific and South Asia*<br>World Bank<br>United States of America      |
+| [Mr Masayuki Furukawa](/speakers/mr-masayuki-furukawa/)  | *Director, Office for STI &amp; DX*<br>Japan International Cooperation Agency (JICA)<br>Japan      |
+|<br>**Moderator**          |                                                              |
+| [Mr Keith Detros](/speakers/mr-keith-detros/)  | *Programme Lead* <br>Tech for Good Institute<br>Singapore      |
+| [Mr Choon Bong](/speakers/mr-choon-bong/)  | *Director, Strategic Partnership Office and Workforce Development*<br>Cyber Security Agency of Singapore (CSA)<br>Singapore      |
+
 <br><br><br>
 *Information is accurate at time of publication*

@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 ---
 
+![](/images/2024%20speakers/Kubo_Macak.png)
 #### **Professor Kubo Mačák**
 
 *Professor of International Law, <br> University of Exeter<br>Slovakia*
