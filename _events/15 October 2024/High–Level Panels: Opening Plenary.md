@@ -35,6 +35,10 @@ This session will explore whether current regulatory measures are adequate and i
 
 |**Keynote Speaker**          |                                                              |
 | [Hon. Ivan John Uy](/speakers/hon-ivan-john-uy/)  | *Secretary* <br>Department of Information and Communications Technology<br>Philippines      |
+|<br>**Panellists**          |                                                              |
+| [Mr Artur Lyukmanov](/speakers/mr-artur-lyukmanov/)  | *Director of the Department of International Information Security*, Ministry of Foreign Affairs <br>*Special Representative of the President of the Russian Federation for International Cooperation in the Field of International Information Security*, The Russian Federation      |
+|<br>**Moderator**          |                                                              |
+| [Mr David Koh](/speakers/mr-david-koh/)  | *Commissioner of Cybersecurity &amp; Chief Executive (CE)*, Cyber Security Agency of Singapore (CSA) <br>*Chief (Digital Security &amp; Technology)*, Ministry of Digital Development and Information<br>Singapore      |
 
 **SICW HLP Opening Plenary – Panel 3**
 
