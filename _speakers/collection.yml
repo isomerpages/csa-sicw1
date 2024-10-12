@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Amb Ernst Noorman.md
       - Moderator – Dr Yaacob Ibrahim.md
       - Speaker – Mr Albertus Rachmad Wibowo.md
       - Speaker – Hon Ivan John Uy.md
