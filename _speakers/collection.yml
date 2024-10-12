@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Dr Andrew Charlton.md
       - Moderator – Mr Ashok Mirpuri.md
       - Speaker – Mr Artur Lyukmanov.md
       - Speaker – Dr Richard Horne.md
