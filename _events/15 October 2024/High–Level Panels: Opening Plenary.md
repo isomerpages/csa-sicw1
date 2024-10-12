@@ -24,6 +24,13 @@ This session explores the prospects and promise of global digital governance, an
 
 |**Keynote Speaker**          |                                                              |
 | [Mr Harry Coker, Jr](/speakers/mr-harry-coker-jr/)  | *National Cyber Director* <br>United States of America      |
+|<br>**Panellists**          |                                                              |
+| [Dr Andrew Charlton](/speakers/dr-andrew-charlton/)  | *Member for Parramatta* <br>Special Envoy for Cyber Security and Digital Resilience<br>Australia      |
+| [His Excellency Pengiran Dato Shamhary Mustapha](/speakers/his-excellency-pengiran-dato-shamhary-mustapha/)  | *Minister of Transport and Infocommunications* <br>Brunei      |
+| [Hon. Judith Collins KC](/speakers/hon-judith-collins-kc/)  | *Minister Responsible for the Government Communications Security Bureau* <br>New Zealand      |
+| [H.E. Anton Demokhin](/speakers/he-anton-demokhin/)  | *Deputy Minister for Foreign Affairs, Chief Digital Transformation Officer* <br>Ukraine      |
+|<br>**Moderator**          |                                                              |
+| [Mr Ashok Mirpuri](/speakers/mr-ashok-mirpuri/)  | *Head* <br>International Policy &amp; Governance, Temasek<br>Singapore      |
 
 **SICW HLP Opening Plenary – Panel 2**
 
