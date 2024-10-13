@@ -8,7 +8,7 @@ description: ""
 #### **Mr Artur Lyukmanov**
 
 *Director of the Department of International Information Security, Ministry of Foreign Affairs <br>
-Special Representative of the President of the Russian Federation for International Cooperation in the Field of International Information Security, The Russian Federation*
+Special Representative of the President of the Russian Federation for International Cooperation in the Field of International Information Security <br>Russia*
 
 ##### **Biography**
 Artur Lyukmanov is the Special Representative of the President of the Russian Federation for International Cooperation in the Field of International Information Security and the Director of the Department of International Information Security. Before his appointment of Director in March 2023, he served as the Acting Director of the Department of International Information Security (DIIS) of the Russian Ministry of Foreign Affairs from August 2022. Earlier this year, he served in the DIIS as Deputy Director, covering UN issues and relations with North and Latin America.
