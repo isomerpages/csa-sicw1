@@ -10,7 +10,7 @@ third_nav_title: 15 October 2024
 **15 October 2024 (Tuesday)**  
 *Time: 9.20am to 12.45pm (GMT +8)*
 
-|**Speaker**          |                                                              |
+|**Keynote Speaker**          |                                                              |
 | [Ms Izumi Nakamitsu](/speakers/ms-izumi-nakamitsu/)  | *Under-Secretary-General and High Representative for Disarmament Affairs* <br>United Nations      |
 
 **SICW HLP Opening Plenary – Panel 1**
@@ -43,7 +43,7 @@ This session will explore whether current regulatory measures are adequate and i
 |**Keynote Speaker**          |                                                              |
 | [Hon. Ivan John Uy](/speakers/hon-ivan-john-uy/)  | *Secretary* <br>Department of Information and Communications Technology<br>Philippines      |
 |<br>**Panellists**          |                                                              |
-| [Mr Artur Lyukmanov](/speakers/mr-artur-lyukmanov/)  | *Director of the Department of International Information Security*, Ministry of Foreign Affairs <br>*Special Representative of the President of the Russian Federation for International Cooperation in the Field of International Information Security*, The Russian Federation      |
+| [Mr Artur Lyukmanov](/speakers/mr-artur-lyukmanov/)  | *Director of the Department of International Information Security*, Ministry of Foreign Affairs <br>*Special Representative of the President of the Russian Federation for International Cooperation in the Field of International Information Security* <br>Russia      |
 |<br>**Moderator**          |                                                              |
 | [Mr David Koh](/speakers/mr-david-koh/)  | *Commissioner of Cybersecurity &amp; Chief Executive (CE)*, Cyber Security Agency of Singapore (CSA)<br>*Chief (Digital Security &amp; Technology)*, Ministry of Digital Development and Information<br>Singapore     |
 
@@ -76,8 +76,8 @@ The panel will discuss the delicate balance between security and innovation in t
 |**Keynote Speaker**          |                                                              |
 | [Mr Wang Yingkang](/speakers/mr-wang-yingkang/)  | *Deputy Director General in-charge-of Cybersecurity* <br>Cyberspace Administration of China<br>China      |
 |<br>**Panellists**          |                                                              |
-| [Ms Larisa Galadza](/speakers/ms-larisa-galadza/)  | *Director General* <br>Cyber, Critical Technology and Democratic Resilience Bureau, International Security and Political Affairs Branch, Global Affairs Canada      |
-| [Mr Tanel Sepp](/speakers/he-tanel-sepp/)  | *Ambassador at Large for Cyber Affairs* <br>Ministry of Foreign Affairs of Estonia <br> Estonia      |
+| [Ms Larisa Galadza](/speakers/ms-larisa-galadza/)  | *Director General* <br>Cyber, Critical Technology and Democratic Resilience Bureau, International Security and Political Affairs Branch, Global Affairs Canada<br>Canada      |
+| [Amb Tanel Sepp](/speakers/he-tanel-sepp/)  | *Ambassador at Large for Cyber Affairs* <br>Ministry of Foreign Affairs of Estonia <br> Estonia      |
 | [Dr Richard Horne](/speakers/dr-richard-horne/)  | *Chief Executive Officer* <br>National Cyber Security Centre <br>United Kingdom      |
 |<br>**Moderator**          |                                                              |
 | [Ms Danielle Yeow](/speakers/ms-danielle-yeow/)  | *Lead, Cyber Law and Governance* <br>Centre for International Law, National University Singapore<br>Singapore      |
