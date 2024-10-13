@@ -2,8 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – HE Dr Ibraheem S Al Furaih.md
-      - Speaker – Dr Carmit Yadin.md
       - Guest of Honour – Mdm Rahayu Mahzam.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tan Kiat How.md
@@ -14,6 +12,7 @@ collections:
       - Speaker – HE Maria Adebahr.md
       - Speaker – Dr Christopher Ahlberg.md
       - Speaker – Mr Jim Allen.md
+      - Speaker – HE Dr Ibraheem S Al Furaih.md
       - Speaker – Abdulrahman Al–Shafi.md
       - Speaker – Ms Kelly Anderson.md
       - Speaker – Mr Benjamin Ang.md
@@ -133,6 +132,7 @@ collections:
       - Speaker – Mr Andrew Whittaker.md
       - Speaker – Mr Albertus Rachmad Wibowo.md
       - Speaker – Ms Tara Wisniewski.md
+      - Speaker – Dr Carmit Yadin.md
       - Speaker – Mr Tomoo Yamauchi.md
       - Speaker – Mr Sean Yang.md
       - Speaker – Ms Yah Shze Min.md
