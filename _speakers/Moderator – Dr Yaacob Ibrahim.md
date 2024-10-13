@@ -7,7 +7,7 @@ description: ""
 ![](/images/2024%20speakers/Dr_Yaacob_Ibrahim.png)
 #### **Dr Yaacob Ibrahim**
 
-*Adjunct Lecturer <br>
+*Former Minister-in-Charge of Cybersecurity,<br>Adjunct Lecturer <br>
 Lee Kuan Yew School of Public Policy, National University of Singapore<br>Singapore*
 
 ##### **Biography**
