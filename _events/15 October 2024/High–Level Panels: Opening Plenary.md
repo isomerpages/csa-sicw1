@@ -57,14 +57,14 @@ The unprecedented influence of digital technologies on democratic processes have
 This session will delve into the critical role of digital trust in upholding election integrity. As the geopolitical landscape becomes increasingly fragmented, how can we ensure that digital platforms used in elections are secure, transparent, and protected from influence? Can regulatory frameworks keep pace with evolving threats? This session will explore these pressing questions, focusing on the challenges and opportunities in maintaining voter confidence in the digital age.
 
 |**Keynote Speaker**          |                                                              |
-| [Mr Albertus Rachmad Wibowo](/speakers/mr-albertus-rachmad-wibowo/)  | *Deputy Head of National Cyber and Crypto Agency* <br>BSSN<br>Indonesia      |
+| [Mr Albertus Rachmad Wibowo](/speakers/mr-albertus-rachmad-wibowo/)  | *Deputy Head* <br>National Cyber and Crypto Agency BSSN<br>Indonesia      |
 |<br>**Panellists**          |                                                              |
 | [Ms Larissa Schneider Calza](/speakers/ms-larissa-schneider-calza/)  | *Head of Cyber Defense and Security Division* <br>Ministry of Foreign Affairs<br>Brazil      |
 | [Ir. Dr Megat Zuhairy bin Megat Tajuddin](/speakers/ir-dr-megat-zuhairy-bin-megat-tajuddin/)  | *Chief Executive* <br>National Cyber Security Agency<br>Malaysia      |
 | [Amb Ernst Noorman](/speakers/amb-ernst-noorman/)  | *Ambassador-at-Large for Security and Cyber* <br>Netherlands      |
 | [Amb Tadeusz Chomicki](/speakers/he-tadeusz-chomicki/)  | *Ambassador for Cyber &amp; Tech* <br>Security Policy Department, Ministry of Foreign Affairs<br>Poland      |
 |<br>**Moderator**          |                                                              |
-| [Dr Yaacob Ibrahim](/speakers/dr-yaacob-ibrahim/)  | *Adjunct Lecturer* <br>Lee Kuan Yew School of Public Policy, National University of Singapore<br>Singapore      |
+| [Dr Yaacob Ibrahim](/speakers/dr-yaacob-ibrahim/)  | *Former Minister-in-Charge of Cybersecurity*, *Adjunct Lecturer* <br>Lee Kuan Yew School of Public Policy, National University of Singapore<br>Singapore      |
 
 **SICW HLP Opening Plenary – Panel 4**
 
