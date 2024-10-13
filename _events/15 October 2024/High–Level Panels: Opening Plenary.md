@@ -80,7 +80,8 @@ The panel will discuss the delicate balance between security and innovation in t
 | [Mr Wang Yingkang](/speakers/mr-wang-yingkang/)  | *Deputy Director General in-charge-of Cybersecurity* <br>Cyberspace Administration of China<br>China      |
 |<br>**Panellists**          |                                                              |
 | [Ms Larisa Galadza](/speakers/ms-larisa-galadza/)  | *Director General* <br>Cyber, Critical Technology and Democratic Resilience Bureau, International Security and Political Affairs Branch, Global Affairs Canada<br>Canada      |
-| [Amb Tanel Sepp](/speakers/he-tanel-sepp/)  | *Ambassador at Large for Cyber Affairs* <br>Ministry of Foreign Affairs of Estonia <br> Estonia      |
+| [Amb. Tanel Sepp](/speakers/he-tanel-sepp/)  | *Ambassador at Large for Cyber Affairs* <br>Ministry of Foreign Affairs of Estonia <br> Estonia      |
+| [H.E. Dr Ibraheem S. Al Furaih](/speakers/he-dr-ibraheem-s-al-furaih/)  | *Advisor to the Governor* <br>National Cybersecurity Authority <br> Kingdom of Saudi Arabia      |
 | [Dr Richard Horne](/speakers/dr-richard-horne/)  | *Chief Executive Officer* <br>National Cyber Security Centre <br>United Kingdom      |
 |<br>**Moderator**          |                                                              |
 | [Ms Danielle Yeow](/speakers/ms-danielle-yeow/)  | *Lead, Cyber Law and Governance* <br>Centre for International Law, National University Singapore<br>Singapore      |
