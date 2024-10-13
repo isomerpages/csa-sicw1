@@ -8,7 +8,7 @@ description: ""
 #### **Ms Larisa Galadza**
 
 *Director General <br>
-Cyber, Critical Technology and Democratic Resilience Bureau, International Security and Political Affairs Branch, Global Affairs Canada*
+Cyber, Critical Technology and Democratic Resilience Bureau, International Security and Political Affairs Branch, Global Affairs Canada<br>Canada*
 
 ##### **Biography**
 Larisa Galadza is the Director General of the Cyber, Critical Technology and Democratic Resilience Bureau in the International Security and Political Affairs Branch of Global Affairs Canada.

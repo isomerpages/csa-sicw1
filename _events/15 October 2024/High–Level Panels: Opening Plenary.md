@@ -10,7 +10,7 @@ third_nav_title: 15 October 2024
 **15 October 2024 (Tuesday)**  
 *Time: 9.20am to 12.45pm (GMT +8)*
 
-|**Speaker**          |                                                              |
+|**Keynote Speaker**          |                                                              |
 | [Ms Izumi Nakamitsu](/speakers/ms-izumi-nakamitsu/)  | *Under-Secretary-General and High Representative for Disarmament Affairs* <br>United Nations      |
 
 **SICW HLP Opening Plenary – Panel 1**
@@ -43,7 +43,10 @@ This session will explore whether current regulatory measures are adequate and i
 |**Keynote Speaker**          |                                                              |
 | [Hon. Ivan John Uy](/speakers/hon-ivan-john-uy/)  | *Secretary* <br>Department of Information and Communications Technology<br>Philippines      |
 |<br>**Panellists**          |                                                              |
-| [Mr Artur Lyukmanov](/speakers/mr-artur-lyukmanov/)  | *Director of the Department of International Information Security*, Ministry of Foreign Affairs <br>*Special Representative of the President of the Russian Federation for International Cooperation in the Field of International Information Security*, The Russian Federation      |
+| [Mr Jitin Prasada](/speakers/mr-jitin-prasada/)  | *Minister of State in the Ministry of Commerce and lndustry; and Electronics and Information Technology* <br>India      |
+| [Hon. Ivan John Uy](/speakers/hon-ivan-john-uy/)  | *Secretary* <br>Department of Information and Communications Technology<br>Philippines      |
+| [Mr Artur Lyukmanov](/speakers/mr-artur-lyukmanov/)  | *Director of the Department of International Information Security*, Ministry of Foreign Affairs <br>*Special Representative of the President of the Russian Federation for International Cooperation in the Field of International Information Security* <br>Russia      |
+| [Dr Carmit Yadin](/speakers/dr-carmit-yadin/)  | *Founder &amp; Chief Executive Officer* <br>DeviceTotal      |
 |<br>**Moderator**          |                                                              |
 | [Mr David Koh](/speakers/mr-david-koh/)  | *Commissioner of Cybersecurity &amp; Chief Executive (CE)*, Cyber Security Agency of Singapore (CSA)<br>*Chief (Digital Security &amp; Technology)*, Ministry of Digital Development and Information<br>Singapore     |
 
@@ -57,14 +60,14 @@ The unprecedented influence of digital technologies on democratic processes have
 This session will delve into the critical role of digital trust in upholding election integrity. As the geopolitical landscape becomes increasingly fragmented, how can we ensure that digital platforms used in elections are secure, transparent, and protected from influence? Can regulatory frameworks keep pace with evolving threats? This session will explore these pressing questions, focusing on the challenges and opportunities in maintaining voter confidence in the digital age.
 
 |**Keynote Speaker**          |                                                              |
-| [Mr Albertus Rachmad Wibowo](/speakers/mr-albertus-rachmad-wibowo/)  | *Deputy Head of National Cyber and Crypto Agency* <br>BSSN<br>Indonesia      |
+| [Mr Albertus Rachmad Wibowo](/speakers/mr-albertus-rachmad-wibowo/)  | *Deputy Head* <br>National Cyber and Crypto Agency BSSN<br>Indonesia      |
 |<br>**Panellists**          |                                                              |
-| [Ms Larissa Schneider Calza](/speakers/ms-larissa-schneider-calza/)  | *Head of Cyber Defense and Security Division* <br>Ministry of Foreign Affairs<br>Brazil      |
+| [Ms Larissa Schneider Calza](/speakers/ms-larissa-schneider-calza/)  | *Head* <br> Cyber Defense and Security Division <br> Ministry of Foreign Affairs<br>Brazil      |
 | [Ir. Dr Megat Zuhairy bin Megat Tajuddin](/speakers/ir-dr-megat-zuhairy-bin-megat-tajuddin/)  | *Chief Executive* <br>National Cyber Security Agency<br>Malaysia      |
 | [Amb Ernst Noorman](/speakers/amb-ernst-noorman/)  | *Ambassador-at-Large for Security and Cyber* <br>Netherlands      |
-| [Amb Tadeusz Chomicki](/speakers/he-tadeusz-chomicki/)  | *Ambassador for Cyber &amp; Tech* <br>Security Policy Department, Ministry of Foreign Affairs<br>Poland      |
+| [Amb Tadeusz Chomicki](/speakers/he-tadeusz-chomicki/)  | *Ambassador for Cyber &amp; Tech* <br>Security Policy Department <br> Ministry of Foreign Affairs<br>Poland      |
 |<br>**Moderator**          |                                                              |
-| [Dr Yaacob Ibrahim](/speakers/dr-yaacob-ibrahim/)  | *Adjunct Lecturer* <br>Lee Kuan Yew School of Public Policy, National University of Singapore<br>Singapore      |
+| [Dr Yaacob Ibrahim](/speakers/dr-yaacob-ibrahim/)  | *Former Minister-in-Charge of Cybersecurity*, *Adjunct Lecturer* <br>Lee Kuan Yew School of Public Policy, National University of Singapore<br>Singapore      |
 
 **SICW HLP Opening Plenary – Panel 4**
 
@@ -76,8 +79,9 @@ The panel will discuss the delicate balance between security and innovation in t
 |**Keynote Speaker**          |                                                              |
 | [Mr Wang Yingkang](/speakers/mr-wang-yingkang/)  | *Deputy Director General in-charge-of Cybersecurity* <br>Cyberspace Administration of China<br>China      |
 |<br>**Panellists**          |                                                              |
-| [Ms Larisa Galadza](/speakers/ms-larisa-galadza/)  | *Director General* <br>Cyber, Critical Technology and Democratic Resilience Bureau, International Security and Political Affairs Branch, Global Affairs Canada      |
-| [Mr Tanel Sepp](/speakers/he-tanel-sepp/)  | *Ambassador at Large for Cyber Affairs* <br>Ministry of Foreign Affairs of Estonia <br> Estonia      |
+| [Ms Larisa Galadza](/speakers/ms-larisa-galadza/)  | *Director General* <br>Cyber, Critical Technology and Democratic Resilience Bureau, International Security and Political Affairs Branch, Global Affairs Canada<br>Canada      |
+| [Amb. Tanel Sepp](/speakers/he-tanel-sepp/)  | *Ambassador at Large for Cyber Affairs* <br>Ministry of Foreign Affairs of Estonia <br> Estonia      |
+| [H.E. Dr Ibraheem S. Al Furaih](/speakers/he-dr-ibraheem-s-al-furaih/)  | *Advisor to the Governor* <br>National Cybersecurity Authority <br> Kingdom of Saudi Arabia      |
 | [Dr Richard Horne](/speakers/dr-richard-horne/)  | *Chief Executive Officer* <br>National Cyber Security Centre <br>United Kingdom      |
 |<br>**Moderator**          |                                                              |
 | [Ms Danielle Yeow](/speakers/ms-danielle-yeow/)  | *Lead, Cyber Law and Governance* <br>Centre for International Law, National University Singapore<br>Singapore      |
