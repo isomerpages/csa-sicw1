@@ -2,7 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Mr Jitin Prasada.md
       - Guest of Honour – Mdm Rahayu Mahzam.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tan Kiat How.md
@@ -104,6 +103,7 @@ collections:
       - Speaker – Dr Jerry Park.md
       - Speaker – Mr Raimo Peterson.md
       - Speaker – Mr Sithuraj Ponraj.md
+      - Speaker – Mr Jitin Prasada.md
       - Speaker – ⁠Ms Phua Puay Li.md
       - Speaker – Mr Quek Gim Pew.md
       - Speaker – Mr Anand Raghavan.md
