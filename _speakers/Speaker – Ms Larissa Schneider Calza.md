@@ -7,7 +7,7 @@ description: ""
 ![](/images/2024%20speakers/Larissa_Schneider_Calza.png)
 #### **Ms Larissa Schneider Calza**
 
-*Head of Cyber Defense and Security Division, <br>
+*Head <br>Cyber Defense and Security Division,
  Ministry of Foreign Affairs<br>Brazil*
  
 ##### **Biography**
