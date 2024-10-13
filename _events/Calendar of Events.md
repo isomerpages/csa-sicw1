@@ -40,7 +40,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | <br> **17 October 2024** <br>*(Thursday)*          |                                                                                           |
 | 9.00am to 10.35am           | [High-Level Panel: Has the Era of Tech Broken Multilateralism?](/events/17-oct/high-level-panel-has-the-era-of-tech-broken-multilateralism/)                               |
 | 9.00am to 11.00am           | [Whose Responsibility? Indo-Pacific Perspectives on Responsible State Behaviour in Cyberspace](/events/17-oct/whose-responsibility-indo-pacific-perspectives/)                               |
-| 9.00am to 4.00pm           | [10th Senior Officials Roundtable on Cybercrime](/events/17-oct/10th-senior-officials-roundtable-on-cybercrime/)                               |
+| 9.00am to 4.00pm           | [10th ASEAN Senior Officials Roundtable on Cybercrime](/events/17-oct/10th-senior-officials-roundtable-on-cybercrime/)                               |
 | 9.00am to 4.45pm           | [GovWare Conference and Exhibition 2024](/events/17-oct/govware-conference-and-exhibition-2024/)                               |
 | 10.00am to 12.00pm           | [IoT Hackathon: SPIRITCYBER 2024](/events/17-oct/iot-hackathon-spiritcyber-2024/)                               |
 | 10.30am to 1.00pm           | [SG Cyber Safe for Enterprises](/events/17-oct/sg-cyber-safe-for-enterprises/)                               |
