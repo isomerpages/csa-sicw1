@@ -12,6 +12,8 @@ Join international policy makers, industry leaders and top academics from across
 
 <a href="https://www.gevme.com/sicw-govware2024?utm_source=website&amp;utm_medium=sicw" target="blank">![](/images/2024_regi_button.jpg)</a>
 
+For **Trade Visitor Pass**, please proceed to the event venue for registration, available on 15 - 17 October from 8:00am - 5:00pm.
+
 **Notes:**
 * All prices are shown in Singapore Dollars (SGD)
 * The SG Public Service Rate is for attendees currently employed in a Singapore public sector office or organisation. Proof of employment, such as the Public Service Card or Civil Service Card, must be presented during badge collection. Registrants who fail to present this may be rejected at the discretion of the Organisers.
