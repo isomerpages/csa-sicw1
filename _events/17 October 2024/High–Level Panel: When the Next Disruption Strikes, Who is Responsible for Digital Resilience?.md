@@ -9,7 +9,7 @@ third_nav_title: 17 October 2024
 #### **High-Level Panel: When the Next Disruption Strikes, Who is Responsible for Digital Resilience?**
 
 **17 October 2024 (Thursday)**  
-*Time: 11.00am to 12.00pm (GMT +8)*
+*Time: 11.15am to 12.15pm (GMT +8)*
 
 Large-scale digital disruptions that occur instantaneously with no advance warning can often erode public confidence in the digital domain, threatening to stall the progress and undermine the potential of digitalisation. Given the complex and interconnected nature of the digital ecosystem, such disruptions are bound to happen, and are perhaps even unavoidable. It is not a question of if, but when the next disruption could occur. 
 
