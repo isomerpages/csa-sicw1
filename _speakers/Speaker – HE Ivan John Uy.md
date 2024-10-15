@@ -1,6 +1,6 @@
 ---
 title: Speaker – HE Ivan John Uy
-permalink: /speakers/hon-ivan-john-uy/
+permalink: /speakers/he-ivan-john-uy/
 variant: markdown
 description: ""
 ---

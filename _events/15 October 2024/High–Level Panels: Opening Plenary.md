@@ -41,10 +41,10 @@ These challenges are further compounded by the tension between innovation and se
 This session will explore whether current regulatory measures are adequate and if they fall short in addressing emerging risks. Panellists will examine the effectiveness of existing frameworks, potential consequences of regulatory gaps and the delicate balance between security and innovation. Is our current approach to cybersecurity and technology regulation too much or too little? Is securing our digital future without compromising technological progress possible?
 
 |**Keynote Speaker**          |                                                              |
-| [Hon. Ivan John Uy](/speakers/hon-ivan-john-uy/)  | *Secretary* <br>Department of Information and Communications Technology<br>Philippines      |
+| [H.E. Ivan John Uy](/speakers/he-ivan-john-uy/)  | *Secretary* <br>Department of Information and Communications Technology<br>Philippines      |
 |<br>**Panellists**          |                                                              |
 | [Mr Jitin Prasada](/speakers/mr-jitin-prasada/)  | *Minister of State in the Ministry of Commerce and lndustry; and Electronics and Information Technology* <br>India      |
-| [Hon. Ivan John Uy](/speakers/hon-ivan-john-uy/)  | *Secretary* <br>Department of Information and Communications Technology<br>Philippines      |
+| [H.E. Ivan John Uy](/speakers/he-ivan-john-uy/)  | *Secretary* <br>Department of Information and Communications Technology<br>Philippines      |
 | [Mr Artur Lyukmanov](/speakers/mr-artur-lyukmanov/)  | *Director of the Department of International Information Security*, Ministry of Foreign Affairs <br>*Special Representative of the President of the Russian Federation for International Cooperation in the Field of International Information Security* <br>Russia      |
 | [Dr Carmit Yadin](/speakers/dr-carmit-yadin/)  | *Founder &amp; Chief Executive Officer* <br>DeviceTotal      |
 |<br>**Moderator**          |                                                              |
