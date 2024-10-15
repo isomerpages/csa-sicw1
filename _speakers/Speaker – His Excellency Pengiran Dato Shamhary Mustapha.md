@@ -4,7 +4,8 @@ permalink: /speakers/his-excellency-pengiran-dato-shamhary-mustapha/
 variant: markdown
 description: ""
 ---
-![](/images/2024%20speakers/YB_Pengiran_Shamhary_bin_Pengiran_Dato_Paduka_Haji_Mustapha.png)
+
+![](/images/2024%20speakers/His_Excellency_Pengiran_Dato_Shamhary_Mustapha_2.png)
 #### **His Excellency Pengiran Dato Shamhary Mustapha**
 
 *Minister of Transport and Infocommunications <br>
