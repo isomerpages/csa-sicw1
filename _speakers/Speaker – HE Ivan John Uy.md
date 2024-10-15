@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 ![](/images/2024%20speakers/Hon__Ivan_John_Uy.png)
-#### **Hon. Ivan John Uy**
+#### **H.E. Ivan John Uy**
 
 *Secretary <br>
 Department of Information and Communications Technology<br>Philippines*
