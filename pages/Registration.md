@@ -12,7 +12,7 @@ Join international policy makers, industry leaders and top academics from across
 
 <a href="https://www.gevme.com/sicw-govware2024?utm_source=website&amp;utm_medium=sicw" target="blank">![](/images/2024_regi_button.jpg)</a>
 
-For **Trade Visitor Pass**, please proceed to the event venue for registration, available on 15 - 17 October from 8:00am - 5:00pm.
+Please note that onsite registration for visitors is now **closed**.
 
 **Notes:**
 * All prices are shown in Singapore Dollars (SGD)
