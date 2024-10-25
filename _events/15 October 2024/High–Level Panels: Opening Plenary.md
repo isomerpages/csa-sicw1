@@ -43,6 +43,7 @@ This session will explore whether current regulatory measures are adequate and i
 |**Keynote Speaker**          |                                                              |
 | [H.E. Ivan John Uy](/speakers/he-ivan-john-uy/)  | *Secretary* <br>Department of Information and Communications Technology<br>Philippines      |
 |<br>**Panellists**          |                                                              |
+| [Dr Sanjay Bahl](/speakers/dr-sanjay-bahl/)  | *Director General* <br>	CERT-In<br>India      |
 | [Mr Jitin Prasada](/speakers/mr-jitin-prasada/)  | *Minister of State in the Ministry of Commerce and lndustry; and Electronics and Information Technology* <br>India      |
 | [H.E. Ivan John Uy](/speakers/he-ivan-john-uy/)  | *Secretary* <br>Department of Information and Communications Technology<br>Philippines      |
 | [Mr Artur Lyukmanov](/speakers/mr-artur-lyukmanov/)  | *Director of the Department of International Information Security*, Ministry of Foreign Affairs <br>*Special Representative of the President of the Russian Federation for International Cooperation in the Field of International Information Security* <br>Russia      |
