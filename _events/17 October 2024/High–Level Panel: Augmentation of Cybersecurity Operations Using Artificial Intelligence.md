@@ -13,8 +13,9 @@ third_nav_title: 17 October 2024
 
 Cyber threats are becoming increasingly sophisticated as threat actors tap on Generative AI (“Gen AI”) technology to conduct their malicious activities. Phishing emails generated using Gen AI are realistic and persuasive. Polymorphic malware created using Gen AI can easily evade detection by traditional antivirus and security solutions. As cyber defenders, Gen AI can be harnessed to enhance cybersecurity operations, such as log analytics and investigations. Other AI technologies can be leveraged to improve the effectiveness of existing cybersecurity measures. Learn how AI can be tapped for cybersecurity operations from our panel of leaders and experts.
 
-|**Speakers**          |                                                              |
-| [Mr Robert Hannigan](/speakers/mr-robert-hannigan/)  | *Chairman* <br>BlueVoyant      |
+|**Keynote Speaker**          |                                                              |
+| [Mr Phil Venables](/speakers/mr-robert-hannigan/)  | *Chief Information Security Officer* <br>Google Cloud      |
+|<br>**Panellists**          |                                                              |
 | [Mr Fabio Fratucello](/speakers/mr-fabio-fratucello/)  | *Field Chief Technology Officer* <br>CrowdStrike      |
 | [Mr Jim Allen](/speakers/mr-jim-allen/)  | *Executive Vice President* <br>Booz Allen Hamilton      |
 | [Dr Dorit Dor](/speakers/dr-dorit-dor/)  | *Chief Technology Officer* <br>Check Point Software Technologies<br>Israel      |
