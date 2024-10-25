@@ -20,6 +20,7 @@ Cyber threats are becoming increasingly sophisticated as threat actors tap on Ge
 | [Dr Sanjay Bahl](/speakers/dr-sanjay-bahl/)  | *Director-General of CERT-In* <br>India      |
 | [Dr Dorit Dor](/speakers/dr-dorit-dor/)  | *Chief Technology Officer* <br>Check Point Software Technologies<br>Israel      |
 | [Mr Jim Allen](/speakers/mr-jim-allen/)  | *Executive Vice President* <br>Booz Allen Hamilton      |
+| [Mr Phil Venables](/speakers/mr-phil-venables/)  | *Chief Information Security Officer* <br>Google Cloud      |
 |<br> **Moderator**          |                                                           |
 | [Mr Charles Ng](/speakers/mr-charles-ng/)  | *Executive Vice President*<br>Ensign InfoSecurity                |
 | | |
