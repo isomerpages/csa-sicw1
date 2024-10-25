@@ -4,9 +4,8 @@ permalink: /speakers/he-tanel-sepp/
 variant: markdown
 description: ""
 ---
-
 ![](/images/2024%20speakers/Tanel_Sepp.png)
-#### **H.E. Tanel Sepp**
+#### **Amb. Tanel Sepp**
 
 *Ambassador at Large for Cyber Affairs, <br> Ministry of Foreign Affairs of Estonia <br> Estonia*
 
