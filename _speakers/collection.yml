@@ -2,8 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Mr Karthik Ramanathan.md
-      - Speaker – Mr Phil Venables.md
       - Guest of Honour – Mdm Rahayu Mahzam.md
       - Guest of Honour – Dr Janil Puthucheary.md
       - Guest of Honour – Mr Tan Kiat How.md
@@ -108,6 +106,7 @@ collections:
       - Speaker – ⁠Ms Phua Puay Li.md
       - Speaker – Mr Quek Gim Pew.md
       - Speaker – Mr Anand Raghavan.md
+      - Speaker – Mr Karthik Ramanathan.md
       - Speaker – Mr Léonard Rolland.md
       - Speaker – Mr Trevor Rudolph.md
       - Speaker – Dr Jamie Saunders.md
@@ -128,6 +127,7 @@ collections:
       - Speaker – Mr Stanley Tsang.md
       - Speaker – HE Priit Turk.md
       - Speaker – Dr Kaleem Ahmed Usmani.md
+      - Speaker – Mr Phil Venables.md
       - Speaker – Mr Dmitry Volkov.md
       - Speaker – Ms Kemba Walden.md
       - Speaker – Mr Wang Yingkang.md
