@@ -21,7 +21,7 @@ The Mobile Security x Scams event will discuss how scams impact and change the m
 |**Panellists**          |                                                              |
 | [Mr Muzaffar Mustaffa](/speakers/mr-muzaffar-mustaffa/)  | *Head of Telecommunications Fraud*<br>Malaysian Multimedia and Communications Commission <br>Malaysia           |
 | [Dr Neal Jetton](/speakers/dr-neal-jetton/)  | *Director of Cybercrime*<br>Interpol           |
-| [Mr Matthew Driver](/speakers/mr-matthew-driver/)  | *Executive Vice President and Head of Services* <br>Mastercard Asia Pacific     |
+| [Mr Karthik Ramanathan](/speakers/mr-karthik-ramanathan/)  | *Senior Vice President, Cyber &amp; Intelligence Solutions* <br>Mastercard Asia Pacific     |
 | [Prof Jorij Abraham](/speakers/mr-jorij-abraham/)  | *Managing Director*<br>Global Anti-Scam Alliance           |
 |<br> **Moderator**          |                                                           |
 | [Dr Ng Li Sa](/speakers/dr-ng-li-sa/)  | *Director, Policy Development and Security*<br>Ministry of Home Affairs <br>Singapore                |
@@ -32,7 +32,7 @@ The Mobile Security x Scams event will discuss how scams impact and change the m
 
 |**Panellists**          |                                                              |
 | [Mr Miguel DeBruycker](/speakers/mr-miguel-debruycker/)  | *Director-General*<br>Centre for Cybersecurity <br>Belgium           |
-| [Mr Lam Chee Kin](/speakers/mr-lam-chee-kin/)  | *Chair of the Association of Banks’ Standing Committee on Fraud and Group Head of Legal and Compliance* <br>Development Bank of Singapore     |
+| [Mr Lam Chee Kin](/speakers/mr-lam-chee-kin/)  | *Chair, Standing Committee on Fraud, Association of Banks in Singapore and Head of Legal and Compliance* <br>DBS Bank     |
 | [Mr Eugene Liderman](/speakers/mr-eugene-liderman/)  | *Director, Mobile Security Strategy* <br>Google     |
 | [Ms Yah Shze Min](/speakers/ms-yah-shze-min/)  | *Public Policy Manager, Customer Trust*<br>Amazon           |
 |<br> **Moderator**          |                                                           |
