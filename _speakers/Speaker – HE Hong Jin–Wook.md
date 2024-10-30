@@ -4,3 +4,7 @@ permalink: /speaker-he-hong-jin-wook/
 variant: markdown
 description: ""
 ---
+#### **H.E. Hong Jin-Wook**
+
+*Ambassador <br>South Korea*
+
