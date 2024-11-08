@@ -1,5 +1,4 @@
 collections:
   media:
     output: true
-    order:
-      - Social Media.md
+    order: []
