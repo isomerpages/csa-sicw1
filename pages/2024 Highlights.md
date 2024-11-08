@@ -34,4 +34,3 @@ Senior Minister of State, Ministry of Digital Development and Information & Mini
 
 **SICW 2024 Distinguished Speakers and Guests**
 ![](/images/updated_2024_distinguished_guests_14.jpg)
-
