@@ -17,9 +17,6 @@ sections:
         - title: SICW 2024 Events
           description: ""
           url: /events/calendar-of-events/
-        - title: Register Now
-          description: ""
-          url: /registration/
   - infopic:
       title: SICW 2024 Guests of Honour
       id: infopic
