@@ -33,6 +33,8 @@ sections:
         frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/lDYctN_5ZPA?si=9G4XhQSZ8o0BkKDH"
         width="100%" height="415"></iframe>
+      button: VIEW MORE 2024 HIGHLIGHTS HERE
+      url: /sicw-2024-highlights/
   - resources:
       title: Past SICW Highlights
       subtitle: Explore
