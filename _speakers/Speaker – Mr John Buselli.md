@@ -7,7 +7,7 @@ description: ""
 ![](/images/2024%20speakers/Mr__John_Buselli.png)
 #### **Mr John Buselli**
 
-*Offering manager, <br>IBM Quantum*
+*Offering Manager, <br>IBM Quantum*
 
 ##### **Biography**
 John Buselli is an Offering Manager for IBM Research currently focused on the development and delivery of IBM’s Quantum Safe Program. In this role he oversees customer facing programs, market development and supports product strategy. Since joining IBM Research in 2015, John has focused on cyber security, confidential computing, privacy enhancing technologies, data governance and securing AI Analytic initiatives. 
