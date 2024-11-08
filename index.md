@@ -18,24 +18,12 @@ sections:
           description: ""
           url: /events/calendar-of-events/
   - infopic:
-      title: Event Highlights
-      subtitle: SICW 2024
-      id: infopic
-      description: Driving critical conversations through ministerial dialogues,
-        high-level panels and dynamic forums on diplomacy, policy, operations
-        and technology.
-      button: View all events
-      url: /events/calendar-of-events/
-      image: /images/HighlightsAnimation_v20241003.gif
-      alt: Image alt text
-  - infopic:
-      title: SICW
-      subtitle: About
-      description: Singapore International Cyber Week (SICW) is Asia-Pacific’s most
-        established cybersecurity event for global policy makers, thought
-        leaders and industry experts.
-      button: Read more
-      url: /about-sicw
+      title: SICW 2024 at a Glance
+      description: Bringing together global policy makers, industry leaders,
+        cybersecurity professionals and academics for insightful discussions,
+        and to forge deeper partnerships
+      button: SEE SICW 2024 HIGHLIGHTS
+      url: /sicw-2024-highlights/
       image: /images/4__AMCC.jpg
       alt: Image alt text
   - infobar:
