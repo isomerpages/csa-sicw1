@@ -1,4 +1,5 @@
 collections:
   archived-pages-2024:
     output: true
-    order: []
+    order:
+      - About Singapore.md
