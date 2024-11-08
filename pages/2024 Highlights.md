@@ -21,3 +21,17 @@ ASEAN Ministers, joined by Secretary-General of ASEAN Dr Kao Kim Hourn, launched
 ![](/images/2024_highlights_MRA_signing.png)
 
 Senior Minister of State, Ministry of Digital Development and Information & Ministry of Health, Dr Janil Puthucheary announced the launch of the Cybersecurity Labelling Scheme for Medical Devices and witnessed the signing of the Mutual Recognition Arrangements on cybersecurity labels for consumer smart products with the Republic of Korea and Germany.
+
+**Other SICW Event Highlights**
+![](/images/2024_highlights_collage.png)
+
+**Relive the key highlights of SICW 2024**
+
+-youtube videos-
+
+**SICW 2024 Guests of Honour**
+![](/images/Home_Page_GOH.jpg)
+
+**SICW 2024 Distinguished Speakers and Guests**
+![](/images/updated_2024_distinguished_guests_14.jpg)
+
