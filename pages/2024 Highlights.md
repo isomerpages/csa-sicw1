@@ -24,12 +24,10 @@ Senior Minister of State, Ministry of Digital Development and Information & Mini
 
 ![](/images/2024_highlights_collage_updated.png)
 
-**⁠RELIVE THE KEY HIGHLIGHTS OF SICW 2024**
 
+![](/images/2024%20highlights/2024_highlights_key_highlights.png)
 -youtube videos-
 
-**SICW 2024 GUESTS OF HONOUR**
-![](/images/Home_Page_GOH.jpg)
+![](/images/2024%20highlights/2024_highlights_GOHs.png)
 
-**SICW 2024 DISTINGUISHED SPEAKERS & GUESTS**
-![](/images/updated_2024_distinguished_guests_14.jpg)
+![](/images/2024%20highlights/2024_highlights_distinguished_guests_and_speakers.png)
