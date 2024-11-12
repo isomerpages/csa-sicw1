@@ -8,9 +8,9 @@ The 9th edition of SICW, together with the GovWare Conference and Exhibition, co
 
 The SICW, Asia-Pacific’s most established cybersecurity event, continues to bring policy makers, industry leaders, cybersecurity professionals and academics from all around the globe together to engage in insightful discussions and was key in forging deeper partnerships to build trust and enhance security in the digital era.
 
--highlights image-
+![](/images/SICW_2024_stats.jpg)
 
-![](/images/2024_highlights_1.jpg)
+![](/images/2024_highlights_1_cropped.jpg)
 	
 Senior Minister and Coordinating Minister for National Security, Mr Teo Chee Hean, at the SICW 2024 Opening Ceremony.
 
