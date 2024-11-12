@@ -22,7 +22,7 @@ ASEAN Ministers, joined by Secretary-General of ASEAN Dr Kao Kim Hourn, launched
 
 Senior Minister of State, Ministry of Digital Development and Information & Ministry of Health, Dr Janil Puthucheary announced the launch of the Cybersecurity Labelling Scheme for Medical Devices and witnessed the signing of the Mutual Recognition Arrangements on cybersecurity labels for consumer smart products with the Republic of Korea and Germany.
 
-![](/images/2024%20highlights/2024_highlights_collage_updated.png)
+![](/images/2024%20highlights/2024_highlights_collage_new.png)
 
 ![](/images/2024%20highlights/2024_highlights_key_highlights.png)
 -youtube videos-
