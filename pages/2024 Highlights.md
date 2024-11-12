@@ -8,7 +8,7 @@ The 9th edition of SICW, together with the GovWare Conference and Exhibition, co
 
 The SICW, Asia-Pacific’s most established cybersecurity event, continues to bring policy makers, industry leaders, cybersecurity professionals and academics from all around the globe together to engage in insightful discussions and was key in forging deeper partnerships to build trust and enhance security in the digital era.
 
-![](/images/SICW_2024_stats.jpg)
+![](/images/2024_highlights_stats.png)
 
 ![](/images/2024_highlights_1_cropped.jpg)
 	
@@ -22,15 +22,14 @@ ASEAN Ministers, joined by Secretary-General of ASEAN Dr Kao Kim Hourn, launched
 
 Senior Minister of State, Ministry of Digital Development and Information & Ministry of Health, Dr Janil Puthucheary announced the launch of the Cybersecurity Labelling Scheme for Medical Devices and witnessed the signing of the Mutual Recognition Arrangements on cybersecurity labels for consumer smart products with the Republic of Korea and Germany.
 
-**Other SICW Event Highlights**
-![](/images/2024_highlights_collage.png)
+![](/images/2024_highlights_collage_updated.png)
 
-**Relive the key highlights of SICW 2024**
+**⁠RELIVE THE KEY HIGHLIGHTS OF SICW 2024**
 
 -youtube videos-
 
-**SICW 2024 Guests of Honour**
+**SICW 2024 GUESTS OF HONOUR**
 ![](/images/Home_Page_GOH.jpg)
 
-**SICW 2024 Distinguished Speakers and Guests**
+**SICW 2024 DISTINGUISHED SPEAKERS & GUESTS**
 ![](/images/updated_2024_distinguished_guests_14.jpg)
