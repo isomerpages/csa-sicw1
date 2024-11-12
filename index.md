@@ -24,7 +24,7 @@ sections:
         and to forge deeper partnerships
       button: SEE SICW 2024 HIGHLIGHTS
       url: /sicw-2024-highlights/
-      image: /images/4__AMCC.jpg
+      image: /images/SICW_2024_stats.jpg
       alt: Image alt text
   - infobar:
       description: <h3>Relive the key highlights of SICW 2023</h3><br><iframe
