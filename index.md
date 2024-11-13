@@ -27,7 +27,7 @@ sections:
       image: /images/HighlightsStatsOverviewIcons.png
       alt: Image alt text
   - infobar:
-      description: <h3>Relive the key highlights of SICW 2023</h3><br><iframe
+      description: <h3>Relive the Key Highlights of SICW 2024</h3><br><iframe
         allowfullscreen="" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture; web-share"
         frameborder="0" title="YouTube video player"
