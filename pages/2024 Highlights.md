@@ -25,8 +25,9 @@ Senior Minister of State, Ministry of Digital Development and Information &amp; 
 ![](/images/2024%20highlights/2024_highlights_collage_new.png)
 
 ![](/images/2024%20highlights/2024_highlights_key_highlights.png)
--youtube video-<br>
--youtube video-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lDYctN_5ZPA?si=9G4XhQSZ8o0BkKDH" width="100%" height="415"></iframe>
+<br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lDYctN_5ZPA?si=9G4XhQSZ8o0BkKDH" width="100%" height="415"></iframe>
 
 ![](/images/2024%20highlights/2024_highlights_GOHs.png)
 
