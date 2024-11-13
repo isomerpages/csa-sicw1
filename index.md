@@ -27,14 +27,14 @@ sections:
       image: /images/HighlightsStatsOverviewIcons.png
       alt: Image alt text
   - infobar:
-      description: <h3>Relive the Key Highlights of SICW 2024</h3><br><iframe
-        allowfullscreen="" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture; web-share"
-        frameborder="0" title="YouTube video player"
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/lDYctN_5ZPA?si=9G4XhQSZ8o0BkKDH"
         width="100%" height="415"></iframe>
       button: VIEW MORE 2024 HIGHLIGHTS HERE
       url: /sicw-2024-highlights/
+      title: Relive the Key Highlights of SICW 2024
   - resources:
       title: Past SICW Highlights
       subtitle: Explore
