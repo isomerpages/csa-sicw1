@@ -14,9 +14,9 @@ sections:
         - title: About SICW 2024
           description: ""
           url: /about-sicw/
-        - title: SICW 2024 Events
+        - title: SICW Resources
           description: ""
-          url: /events/calendar-of-events/
+          url: /resources/
   - infopic:
       title: SICW 2024 at a Glance
       description: Bringing together global policy makers, industry leaders,
