@@ -2,6 +2,7 @@ collections:
   archived-pages-2024:
     output: true
     order:
+      - Media – Social Media.md
       - 2024 Registration.md
       - Media – Media Accreditation.md
       - Plan Your Visit – Discovering Singapore.md
