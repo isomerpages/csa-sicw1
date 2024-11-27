@@ -52,10 +52,10 @@ The SICW Opening Ceremony features an opening address from Senior Minister and C
 <br>Mr Albertus Rachmad Wibowo, Deputy Head, National Cyber and Crypto Agency (BSSN), Indonesia
 
 **Panellists**
-Ms Larissa Schneider Calza, Head, Cyber Defense and Security Division, Ministry of Foreign Affairs, Brazil
-Ir. Dr Megat Zuhairy bin Megat Tajuddin, Chief Executive, National Cyber Security Agency, Malaysia
-Amb Ernst Noorman, Ambassador-at-Large for Security and Cyber, Ministry of Foreign Affairs, The Netherlands
-Amb Tadeusz Chomicki, Ambassador for Cyber &amp; Tech Affairs, Security Policy Department, Ministry of Foreign Affairs, Poland
+* Ms Larissa Schneider Calza, Head, Cyber Defense and Security Division, Ministry of Foreign Affairs, Brazil
+* Ir. Dr Megat Zuhairy bin Megat Tajuddin, Chief Executive, National Cyber Security Agency, Malaysia
+* Amb Ernst Noorman, Ambassador-at-Large for Security and Cyber, Ministry of Foreign Affairs, The Netherlands
+* Amb Tadeusz Chomicki, Ambassador for Cyber &amp; Tech Affairs, Security Policy Department, Ministry of Foreign Affairs, Poland
 
 **Moderator**
 <br>Dr Yaacob Ibrahim, Former Minister-in-Charge of Cybersecurity, Adjunct Lecturer, Lee Kuan Yew School of Public Policy, National University of Singapore
@@ -67,10 +67,10 @@ Amb Tadeusz Chomicki, Ambassador for Cyber &amp; Tech Affairs, Security Policy D
 <br>Mr Wang Yingkang, Deputy Director-General in-charge-of Cybersecurity, Cyberspace Administration of China, China
 
 **Panellists**
-Ms Larisa Galadza, Director General, Cyber, Critical Technology and Democratic Resilience Bureau, International Security and Political Affairs Branch, Global Affairs Canada, Canada
-Amb Tanel Sepp, Ambassador at Large for Cyber Diplomacy, Ministry of Foreign Affairs, Estonia
-H.E. Dr Ibraheem S. Al Furaih, Advisor to the Governor of the National Cybersecurity Authority, Kingdom of Saudi Arabia
-Dr Richard Horne, Chief Executive Officer, National Cyber Security Centre,United Kingdom
+* Ms Larisa Galadza, Director General, Cyber, Critical Technology and Democratic Resilience Bureau, International Security and Political Affairs Branch, Global Affairs Canada, Canada
+* Amb Tanel Sepp, Ambassador at Large for Cyber Diplomacy, Ministry of Foreign Affairs, Estonia
+* H.E. Dr Ibraheem S. Al Furaih, Advisor to the Governor of the National Cybersecurity Authority, Kingdom of Saudi Arabia
+* Dr Richard Horne, Chief Executive Officer, National Cyber Security Centre,United Kingdom
 
 **Moderator**
 <br>Ms Danielle Yeow, Lead, Cyber Law and Governance, Centre for International Law, National University Singapore
