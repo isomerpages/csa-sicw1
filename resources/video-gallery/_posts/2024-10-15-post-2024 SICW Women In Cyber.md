@@ -27,4 +27,4 @@ This year, participants were a part of lightning talks, a Q&amp;A segment, and n
 **Moderator**
 <br>Dr Ming Tan, Executive Director, Tech for Good Institute, Singapore
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Gj2qnWw0RNY?si=tdFAc7Kun5kXmzTG" width="100%" height="445"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rvCLZhxRJnk?si=XkxGmCBiK6vjBGSu" width="100%" height="445"></iframe>
