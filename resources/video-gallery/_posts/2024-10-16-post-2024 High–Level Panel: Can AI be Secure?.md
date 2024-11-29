@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### **2024 High Level Panel: Can AI be Secure?**
+#### **2024 High-Level Panel: Can AI be Secure?**
 
 Artificial Intelligence (AI) is being adopted at an increasingly rapid pace, including in critical infrastructure. To ensure that AI outcomes are trustworthy and meet organisations’ objectives, there is an urgent need to address the security risks involved.
 
