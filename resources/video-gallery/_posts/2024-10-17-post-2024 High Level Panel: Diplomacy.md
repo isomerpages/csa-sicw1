@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### **2024 High Level Panel: Diplomacy**
+#### **2024 High-Level Panel: Diplomacy**
 
 **A. Has the Era of Tech Broken Multilateralism?**
 <br>Multilateralism has been the cornerstone of international cooperation. Historically, countries have come together to develop frameworks, convention and rules to address common issues facing the international community. Today, this same approach is taken to address challenges posed by new and rapidly evolving technologies, including developments in the digital and cyberspace.
