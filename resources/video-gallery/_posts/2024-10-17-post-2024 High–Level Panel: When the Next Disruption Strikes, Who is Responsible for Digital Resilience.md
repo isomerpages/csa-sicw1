@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### **2024 High Level Panel: When the Next Disruption Strikes, Who is Responsible for Digital Resilience**
+#### **2024 High-Level Panel: When the Next Disruption Strikes, Who is Responsible for Digital Resilience**
 
 Large-scale digital disruptions that occur instantaneously with no advance warning can often erode public confidence in the digital domain, threatening to stall the progress and undermine the potential of digitalisation. Given the complex and interconnected nature of the digital ecosystem, such disruptions are bound to happen, and are perhaps even unavoidable. It is not a question of if, but when the next disruption could occur, and the ability to recover quickly and effectively from a disruption is key.
 
