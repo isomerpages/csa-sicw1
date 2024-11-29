@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### **2024 High Level Panel: Augmentation of Cybersecurity Operations using Artificial Intelligence**
+#### **2024 High-Level Panel: Augmentation of Cybersecurity Operations using Artificial Intelligence**
 
 Cyber threats are becoming increasingly sophisticated as threat actors tap on Generative AI (“Gen AI”) technology to conduct their malicious activities. Phishing emails generated using Gen AI are realistic and persuasive. Polymorphic malware created using Gen AI can easily evade detection by traditional antivirus and security solutions. As cyber defenders, Gen AI can be harnessed to enhance cybersecurity operations, such as log analytics and investigations. Other AI technologies can be leveraged to improve the effectiveness of existing cybersecurity measures. Learn how AI can be tapped for cybersecurity operations from our panel of leaders and experts.
 
