@@ -9,57 +9,32 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/SICW2024_HeroBanner_v20241002.jpg
+      background: /images/SICW2024_HeroBanner_v20241119.jpg
       key_highlights:
         - title: About SICW 2024
           description: ""
           url: /about-sicw/
-        - title: SICW 2024 Events
+        - title: SICW Resources
           description: ""
-          url: /events/calendar-of-events/
-        - title: Register Now
-          description: ""
-          url: /registration/
+          url: /resources/
   - infopic:
-      title: SICW 2024 Guests of Honour
-      id: infopic
-      image: /images/Home_Page_GOH.jpg
-      alt: SICW 2024 guests of honour
-  - infopic:
-      title: SICW 2024 Distinguished Speakers & Guests
-      id: infopic
-      button: See all speakers
-      url: /speakers/dr-janil-puthucheary/
-      image: /images/updated_2024_distinguished_guests_14.jpg
-      alt: Image alt text
-  - infopic:
-      title: Event Highlights
-      subtitle: SICW 2024
-      id: infopic
-      description: Driving critical conversations through ministerial dialogues,
-        high-level panels and dynamic forums on diplomacy, policy, operations
-        and technology.
-      button: View all events
-      url: /events/calendar-of-events/
-      image: /images/HighlightsAnimation_v20241003.gif
-      alt: Image alt text
-  - infopic:
-      title: SICW
-      subtitle: About
-      description: Singapore International Cyber Week (SICW) is Asia-Pacific’s most
-        established cybersecurity event for global policy makers, thought
-        leaders and industry experts.
-      button: Read more
-      url: /about-sicw
-      image: /images/4__AMCC.jpg
+      title: SICW 2024 at a Glance
+      description: Bringing together global policy makers, industry leaders,
+        cybersecurity professionals and academics for insightful discussions,
+        and to forge deeper partnerships
+      button: SEE SICW 2024 HIGHLIGHTS
+      url: /sicw-2024-highlights/
+      image: /images/HighlightsStatsOverviewIcons.png
       alt: Image alt text
   - infobar:
-      description: <h3>Relive the key highlights of SICW 2023</h3><br><iframe
-        allowfullscreen="" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture; web-share"
-        frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/lDYctN_5ZPA?si=9G4XhQSZ8o0BkKDH"
-        width="100%" height="415"></iframe>
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/uQY8cgmmCF8?si=1SddTXoSVNaU6Y2E"
+        height="315" width="560"></iframe>
+      button: VIEW MORE 2024 HIGHLIGHTS HERE
+      url: /sicw-2024-highlights/
+      title: Relive the Key Highlights of SICW 2024
   - resources:
       title: Past SICW Highlights
       subtitle: Explore

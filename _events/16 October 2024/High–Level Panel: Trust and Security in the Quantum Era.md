@@ -40,7 +40,7 @@ The difficulty is exacerbated by the need to consider and change the crypto keys
 Following the earlier panel on awareness and advisories relating to the threat and risk, this panel aims to examine the quantum-safe solutions aimed at mitigating these threats, and how **assurance** in these new solutions can be built.  The discussion of the technical challenges in adopting and integrating these solutions will lead into an exchange on how we can chart a course to develop and operationalise quantum-safe solutions and strategies with agility to maintain digital resiliency and secure digital assets against the quantum threat.
 
 |**Panellists**          |                                                              |
-| [Mr John Buselli](/speakers/mr-john-buselli/)  | *Offering manager*<br>IBM Quantum      |
+| [Mr John Buselli](/speakers/mr-john-buselli/)  | *Offering Manager*<br>IBM Quantum      |
 | [Mr Ben Packman](/speakers/mr-ben-packman/)  | *Chief Strategy Officer* <br>PQShield      |
 | [Dr Amelia Tan](/speakers/dr-amelia-tan/)  | *Head Quantum Office* <br>ST Engineering      |
 | [Prof Ding Jintai](/speakers/prof-ding-jintai/)  | *Professor*<br>Tsinghua University      |

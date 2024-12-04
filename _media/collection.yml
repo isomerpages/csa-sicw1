@@ -1,6 +1,4 @@
 collections:
   media:
     output: true
-    order:
-      - Media Accreditation.md
-      - Social Media.md
+    order: []
