@@ -30,8 +30,8 @@ sections:
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/lDYctN_5ZPA?si=9G4XhQSZ8o0BkKDH"
-        width="100%" height="415"></iframe>
+        src="https://www.youtube.com/embed/uQY8cgmmCF8?si=1SddTXoSVNaU6Y2E"
+        height="315" width="560"></iframe>
       button: VIEW MORE 2024 HIGHLIGHTS HERE
       url: /sicw-2024-highlights/
       title: Relive the Key Highlights of SICW 2024
