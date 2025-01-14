@@ -31,7 +31,7 @@ sections:
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/uQY8cgmmCF8?si=1SddTXoSVNaU6Y2E"
-        height="100%" width="100%"></iframe>
+        height="315" width="100%"></iframe>
       button: VIEW MORE 2024 HIGHLIGHTS HERE
       url: /sicw-2024-highlights/
       title: Relive the Key Highlights of SICW 2024
