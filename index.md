@@ -11,7 +11,7 @@ sections:
   - hero:
       background: /images/SICW2024_HeroBanner_v20241119.jpg
       key_highlights:
-        - title: About SICW 2024
+        - title: About SICW
           description: ""
           url: /about-sicw/
         - title: SICW Resources
