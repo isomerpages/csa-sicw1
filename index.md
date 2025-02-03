@@ -21,7 +21,7 @@ sections:
       title: SICW at a Glance
       id: infobar
       description: Organised by the Cyber Security Agency of Singapore (CSA), the
-        Singapore International Cyber Week is the Asia-Pacific’s most
+        Singapore International Cyber Week (SICW) is Asia-Pacific’s most
         established cybersecurity event.
   - infopic:
       title: Relive the Key Highlights of SICW 2024
