@@ -18,17 +18,17 @@ sections:
           description: ""
           url: /resources/
   - infobar:
-      title: SICW at a Glance
+      title: About SICW
       id: infobar
-      description: Organised by the Cyber Security Agency of Singapore (CSA), the
-        Singapore International Cyber Week (SICW) is Asia-Pacific’s most
-        established cybersecurity event.
+      description: Organised by the Cyber Security Agency of Singapore, SICW gathers
+        global policymakers & experts to advance cooperation & knowledge
+        exchange on key cyber issues.
   - infopic:
-      title: Relive the Key Highlights of SICW 2024
-      description: Bringing together global policy makers, industry leaders,
-        cybersecurity professionals and academics for insightful discussions,
-        and to forge deeper partnerships
-      button: VIEW SICW 2024 HIGHLIGHTS HERE
+      title: SICW 2024 at a Glance
+      description: Themed “Trust and Security in the Digital Era”, SICW 2024 drove
+        critical conversations & partnerships to foster trust & enhance security
+        in the cyber domain.
+      button: RELIVE THE HIGHLIGHTS HERE
       url: /sicw-2024-highlights/
       image: /images/HighlightsStatsOverviewIcons.png
       alt: Image alt text
