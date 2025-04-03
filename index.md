@@ -48,6 +48,5 @@ sections:
         height="315" width="100%"></iframe>
   - resources:
       title: Past SICW Highlights
-      subtitle: Explore
       button: See All
 ---
