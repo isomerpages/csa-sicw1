@@ -6,7 +6,7 @@ description: ""
 ---
 The ninth edition of the SICW took place from 14 to 17 October 2024, at Sands Expo and Convention Centre, Singapore, alongside the GovWare Conference and Exhibition. 
 
-Under the theme of ‘Trust and Security in the Digital Era’, SICW 2024 drove critical conversations and partnerships to foster trust and enhance security in the digital and cyber domain amid an increasingly fragmented global landscape fraught with geopolitical and economic contestations, supply chain vulnerabilities and increasing pressures on the democratic process which have impacted international security and stability. 
+Under the theme of **‘Trust and Security in the Digital Era’**, SICW 2024 drove critical conversations and partnerships to foster trust and enhance security in the digital and cyber domain amid an increasingly fragmented global landscape fraught with geopolitical and economic contestations, supply chain vulnerabilities and increasing pressures on the democratic process which have impacted international security and stability. 
 
 ![](/images/2024%20highlights/2024_highlights_stats.png)
 
