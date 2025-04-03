@@ -39,6 +39,14 @@ sections:
         src="https://www.youtube.com/embed/uQY8cgmmCF8?si=1SddTXoSVNaU6Y2E"
         height="315" width="100%"></iframe>
       title: SICW 2024 Highlights Video
+  - infobar:
+      title: "Video #2"
+      id: infobar
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/uQY8cgmmCF8?si=1SddTXoSVNaU6Y2E"
+        height="315" width="100%"></iframe>
   - resources:
       title: Past SICW Highlights
       subtitle: Explore
