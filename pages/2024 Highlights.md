@@ -4,23 +4,20 @@ permalink: /sicw-2024-highlights/
 variant: markdown
 description: ""
 ---
-The 9th edition of SICW, together with the GovWare Conference and Exhibition, concluded successfully with more than 13,000 delegates from over 90 countries and regions.
+The ninth edition of the SICW took place from 14 to 17 October 2024, at Sands Expo and Convention Centre, Singapore, alongside the GovWare Conference and Exhibition. 
 
-The SICW, Asia-Pacific’s most established cybersecurity event, continues to bring policy makers, industry leaders, cybersecurity professionals and academics from all around the globe together to engage in insightful discussions and was key in forging deeper partnerships to build trust and enhance security in the digital era.
+Under the theme of **‘Trust and Security in the Digital Era’**, SICW 2024 drove critical conversations and partnerships to foster trust and enhance security in the digital and cyber domain amid an increasingly fragmented global landscape fraught with geopolitical and economic contestations, supply chain vulnerabilities and increasing pressures on the democratic process which have impacted international security and stability. 
 
 ![](/images/2024%20highlights/2024_highlights_stats.png)
 
 ![](/images/2024%20highlights/2024_highlights_1_cropped.jpg)
-	
-Senior Minister and Coordinating Minister for National Security, Mr Teo Chee Hean, at the SICW 2024 Opening Ceremony.
+*Photo: Senior Minister and Coordinating Minister for National Security, Mr Teo Chee Hean, at the SICW 2024 Opening Ceremony.*
 
 ![](/images/2024%20highlights/2024_highlights_2.jpg)
-
-ASEAN Ministers, joined by Secretary-General of ASEAN Dr Kao Kim Hourn, launched the new physical facility for the ASEAN Regional CERT.
+*Photo: ASEAN Ministers, joined by Secretary-General of ASEAN Dr Kao Kim Hourn, launched the new physical facility for the ASEAN Regional CERT.*
 
 ![](/images/2024%20highlights/2024_highlights_MRA_signing.png)
-
-Senior Minister of State, Ministry of Digital Development and Information &amp; Ministry of Health, Dr Janil Puthucheary announced the launch of the Cybersecurity Labelling Scheme for Medical Devices and witnessed the signing of the Mutual Recognition Arrangements on cybersecurity labels for consumer smart products with the Republic of Korea and Germany.
+*Photo: Senior Minister of State, Ministry of Digital Development and Information &amp; Ministry of Health, Dr Janil Puthucheary announced the launch of the Cybersecurity Labelling Scheme for Medical Devices and witnessed the signing of the Mutual Recognition Arrangements on cybersecurity labels for consumer smart products with the Republic of Korea and Germany.*
 
 ![](/images/2024%20highlights/2024_highlights_collage_new.png)
 
