@@ -2,6 +2,7 @@ collections:
   plan-your-visit:
     output: true
     order:
+      - Plan Your Visit – About Singapore.md
       - Plan Your Visit – Entry Requirements for Singapore.md
       - Plan Your Visit – Discovering Singapore.md
       - Plan Your Visit – Getting to Singapore International Cyber Week 2025.md
