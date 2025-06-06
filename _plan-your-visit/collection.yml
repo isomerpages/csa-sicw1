@@ -1,4 +1,5 @@
 collections:
   plan-your-visit:
     output: true
-    order: []
+    order:
+      - Plan Your Visit – Getting to Singapore International Cyber Week 2025.md
