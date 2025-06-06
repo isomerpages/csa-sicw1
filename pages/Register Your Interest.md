@@ -12,5 +12,4 @@ as well as global cooperation.
 
 Register your interest to stay updated on SICW 2025!
 
-![](/images/Register_your_interest.png)
-![](/images/Register_your_interest_button.png)
+<a height="300" width="500"> ![](/images/Register_your_interest.png)</a>
