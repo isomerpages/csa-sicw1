@@ -8,6 +8,8 @@ links:
     collection: plan-your-visit
   - title: Events
     collection: events
+  - title: Media
+    collection: media
   - title: Resources
     resource_room: true
   - title: Contact Us
