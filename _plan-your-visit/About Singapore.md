@@ -1,6 +1,6 @@
 ---
-title: Plan Your Visit – About Singapore
-permalink: /plan-your-visit-about-singapore/
+title: About Singapore
+permalink: /about-singapore/
 variant: markdown
 description: ""
 ---
