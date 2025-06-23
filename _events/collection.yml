@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - 20 October 2025/.keep
       - Calendar of Events.md
