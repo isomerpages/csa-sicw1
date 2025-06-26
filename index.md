@@ -23,6 +23,9 @@ sections:
       description: Organised by the Cyber Security Agency of Singapore, SICW gathers
         global policymakers & experts to advance cooperation & knowledge
         exchange on key cyber issues.
+  - infobar:
+      id: infobar
+      description: More information on SICW 2025 and its events will be available soon.
   - infopic:
       title: SICW 2024 at a Glance
       description: Themed “Trust and Security in the Digital Era”, SICW 2024 drove
