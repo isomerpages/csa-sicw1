@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 21 Oct 2025/10th ASEAN Ministerial Conference on Cybersecurity (AMCC).md
       - "21 Oct 2025/SICW Opening Ceremony and High–Level Panels: Opening
         Plenary.md"
       - 21 Oct 2025/ASEAN CERT Incident Drill (ACID).md
