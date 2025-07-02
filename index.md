@@ -36,7 +36,7 @@ sections:
   - infobar:
       title: RELIVE THE KEY HIGHLIGHTS OF SICW 2024
       id: infobar
-      description: '![](/images/HighlightsStatsOverviewIcons.png)<br> <iframe
+      description: <img src="HighlightsStatsOverviewIcons.png"><br> <iframe
         allowfullscreen="" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture; web-share"
         frameborder="0" title="YouTube video player"
@@ -46,7 +46,7 @@ sections:
         gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube
         video player"
         src="https://www.youtube.com/embed/qzeSqFBSVco?si=WR8Rvrb97-TjIJCI"
-        height="315" width="100%"></iframe>'
+        height="315" width="100%"></iframe>
   - infobar:
       title: About SICW
       id: infobar
