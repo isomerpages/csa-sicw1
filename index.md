@@ -20,6 +20,32 @@ sections:
         - title: Register Now
           description: Be a Part of the Conversation
           url: /resources/
+  - infopic:
+      title: Shaping the Next Era of Global Cybersecurity
+      id: infopic
+      alt: Image alt text
+  - infopic:
+      title: SICW 2025 Event Highlights
+      id: infopic
+      description: Driving critical conversations through ministerial dialogues,
+        high-level panels and dynamic forums on diplomacy, policy, operations
+        and technology.
+      button: View All Events
+      url: /events/calendar-of-events/
+      alt: Image alt text
+  - infobar:
+      title: RELIVE THE KEY HIGHLIGHTS OF SICW 2024
+      id: infobar
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/uQY8cgmmCF8?si=1SddTXoSVNaU6Y2E"
+        height="315" width="100%"></iframe> <br> <iframe allowfullscreen=""
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+        gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube
+        video player"
+        src="https://www.youtube.com/embed/qzeSqFBSVco?si=WR8Rvrb97-TjIJCI"
+        height="315" width="100%"></iframe>
   - infobar:
       title: About SICW
       id: infobar
