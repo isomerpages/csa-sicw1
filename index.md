@@ -12,7 +12,7 @@ sections:
       background: /images/SICW2024_HeroBanner_v20241119.jpg
       key_highlights:
         - title: About SICW 2025
-          description: ""
+          description: Shaping Global Cybersecurity
           url: /about-sicw/
         - title: Events
           description: What's Happening
