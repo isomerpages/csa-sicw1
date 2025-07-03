@@ -16,7 +16,7 @@ sections:
           url: /about-sicw/
         - title: Events
           description: What's Happening
-          url: /events/calendar-of-events/
+          url: /events/calendar-of-events-2025/
         - title: Register Now
           description: Be a Part of the Conversation
           url: /resources/
@@ -34,7 +34,7 @@ sections:
         high-level panels and dynamic forums on diplomacy, policy, operations
         and technology.
       button: View All Events
-      url: /events/calendar-of-events/
+      url: /events/calendar-of-events-2025/
       alt: Image alt text
   - infobar:
       title: RELIVE THE KEY HIGHLIGHTS OF SICW 2024
