@@ -19,7 +19,7 @@ sections:
           url: /events/calendar-of-events-2025/
         - title: Register Now
           description: Be a Part of the Conversation
-          url: /resources/
+          url: /register-your-interest/
   - infopic:
       title: Shaping the Next Era of Global Cybersecurity
       id: infopic
