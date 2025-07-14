@@ -2,8 +2,8 @@ collections:
   plan-your-visit:
     output: true
     order:
-      - Book Your Hotel.md
       - About Singapore.md
+      - Book Your Hotel.md
       - Discovering Singapore.md
       - Entry Requirements for Singapore.md
       - Getting to Singapore International Cyber Week 2025.md
