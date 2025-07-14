@@ -27,7 +27,7 @@ sections:
       description: Organised by the Cyber Security Agency of Singapore, the 10th SICW
         gathers global policymakers & experts to advance cooperation on key
         cyber issues.
-      image: /images/AboutSICWGIF2.gif
+      image: /images/AboutSICWGIF3.gif
   - infopic:
       title: SICW 2025 Event Highlights
       id: infopic
