@@ -14,7 +14,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 7.00pm to 9.30pm           | [SICW Summit](/events/20-oct/sicw-summit/)                               |
 | <br> **21 October 2025** <br>*(Tuesday)* |                                                                                                |       
 | 9.00am to 5.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/21-oct/asean-cert-incident-drill-acid/)                               |
-| 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/21-oct/asean-cert-incident-drill-acid/)                               |
+| 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/21-oct/govware-conference-exhibition-2025/)                               |
 | 9.30am to 12.15pm           | [SICW Opening Ceremony and High-Level Panels: Opening Plenary](/events/21-oct/sicw-opening-ceremony-and-high-level-panels-opening-plenary/)                               |
 | <br> **22 October 2025** <br>*(Wednesday)* |                                                                                                |
 | 8.00am to 2.00pm           | [10th ASEAN Ministerial Conference on Cybersecurity (AMCC)](/events/22-oct/10th-asean-ministerial-conference-on-cybersecurity-amcc/)                               |
