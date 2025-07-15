@@ -7,7 +7,7 @@ third_nav_title: 21 Oct 2025
 ---
 #### **SICW Opening Ceremony and High-Level Panels: Opening Plenary**
 
-**21 October 2024 (Tuesday)**  
+**21 October 2025 (Tuesday)**  
 *Time: 9.00am to 12.30pm (GMT +8)*
 
 More information will be  made available soon. Stay tuned for updates.
