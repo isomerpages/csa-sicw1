@@ -28,6 +28,8 @@ sections:
         gathers global policymakers & experts to advance cooperation on key
         cyber issues.
       image: /images/AboutSICWGIF3.gif
+      button: See More
+      url: /about-sicw/
   - infopic:
       title: SICW 2025 Event Highlights
       id: infopic
@@ -50,38 +52,6 @@ sections:
         allow="accelerometer; autoplay; clipboard-write; encrypted-media;
         gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube
         video player"
-        src="https://www.youtube.com/embed/qzeSqFBSVco?si=WR8Rvrb97-TjIJCI"
-        height="315" width="100%"></iframe>
-  - infobar:
-      title: About SICW
-      id: infobar
-      description: Organised by the Cyber Security Agency of Singapore, SICW gathers
-        global policymakers & experts to advance cooperation & knowledge
-        exchange on key cyber issues.
-  - infobar:
-      id: infobar
-      description: More information on SICW 2025 and its events will be available soon.
-  - infopic:
-      title: SICW 2024 at a Glance
-      description: Themed “Trust and Security in the Digital Era”, SICW 2024 drove
-        critical conversations & partnerships to foster trust & enhance security
-        in the cyber domain.
-      button: RELIVE THE HIGHLIGHTS HERE
-      url: /sicw-2024-highlights/
-      image: /images/HighlightsStatsOverviewIcons.png
-      alt: Image alt text
-  - infobar:
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/uQY8cgmmCF8?si=1SddTXoSVNaU6Y2E"
-        height="315" width="100%"></iframe>
-      title: SICW 2024 Highlights
-  - infobar:
-      id: infobar
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/qzeSqFBSVco?si=WR8Rvrb97-TjIJCI"
         height="315" width="100%"></iframe>
   - resources:
