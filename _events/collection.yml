@@ -2,9 +2,6 @@ collections:
   events:
     output: true
     order:
-      - 24 Oct 2025/5th Counter Ransomware Initiative Summit – By Invitation
-        Only.md
-      - 24 Oct 2025/.keep
       - Calendar of Events.md
       - 20 Oct 2025/.keep
       - 20 Oct 2025/SICW Summit.md
@@ -16,9 +13,9 @@ collections:
       - "21 Oct 2025/High–Level Panel: Policy.md"
       - 21 Oct 2025/SG Cyber Safe for Enterprises.md
       - "21 Oct 2025/High–Level Panel: Insights into 2025’s Cyber Threats.md"
+      - 22 Oct 2025/.keep
       - "22 Oct 2025/High–Level Panel: Cybersecurity Operations with Agentic
         AI.md"
-      - 22 Oct 2025/.keep
       - 22 Oct 2025/ASEAN CERT Incident Drill (ACID).md
       - 22 Oct 2025/ASEAN Cybercrime Prosecutors’ Roundtable Meeting (ACPRM).md
       - 22 Oct 2025/GovWare Conference & Exhibition 2025.md
@@ -30,3 +27,6 @@ collections:
       - "23 Oct 2025/High–Level Panel: Securing Tomorrow, Today – Bridging
         Awareness to Action through Quantum Readiness.md"
       - "23 Oct 2025/Deep Truth: Securing Against AI Deception.md"
+      - 24 Oct 2025/.keep
+      - 24 Oct 2025/5th Counter Ransomware Initiative Summit – By Invitation
+        Only.md
