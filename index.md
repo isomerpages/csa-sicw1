@@ -55,6 +55,6 @@ sections:
         src="https://www.youtube.com/embed/qzeSqFBSVco?si=WR8Rvrb97-TjIJCI"
         height="315" width="100%"></iframe>
   - resources:
-      title: Past SICW Highlights
+      title: Past SICW Resources
       button: See All
 ---
