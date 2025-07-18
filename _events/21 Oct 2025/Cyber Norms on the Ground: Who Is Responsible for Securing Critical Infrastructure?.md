@@ -27,14 +27,10 @@ Through a multistakeholder interactive conversation, the session will highlight 
 | [Mr Florian Schütz](/speakers/mr-florian-schutz/)  | *Director* <br>Swiss National Cybersecurity Center<br>Switzerland      |
 | [Mr Tan E Guang Eugene](/speakers/mr-tan-e-guang-eugene/)  | *Associate Research Fellow at the Centre of Excellence for National Security* <br>S Rajaratnam School of International Studies, Nanyang Technological University<br>Singapore      |
 | [Mr Teo Xiang Zheng](/speakers/mr-teo-xiang-zheng/)  | *VP, Head of Advisory* <br>Ensign Infosecurity<br>Singapore      |
-|<br>**Panellists**          |                                                              |
-| [Dr Sanjay Bahl](/speakers/dr-sanjay-bahl/)  | *Director General* <br>	CERT-In<br>India      |
-| [Mr Jitin Prasada](/speakers/mr-jitin-prasada/)  | *Minister of State in the Ministry of Commerce and lndustry; and Electronics and Information Technology* <br>India      |
-| [H.E. Ivan John Uy](/speakers/he-ivan-john-uy/)  | *Secretary* <br>Department of Information and Communications Technology<br>Philippines      |
-| [Mr Artur Lyukmanov](/speakers/mr-artur-lyukmanov/)  | *Director of the Department of International Information Security*, Ministry of Foreign Affairs <br>*Special Representative of the President of the Russian Federation for International Cooperation in the Field of International Information Security* <br>Russia      |
-| [Dr Carmit Yadin](/speakers/dr-carmit-yadin/)  | *Founder &amp; Chief Executive Officer* <br>DeviceTotal      |
+| [Ms Shariffah Rashidah Syed Othman](/speakers/ms-shariffah-rashidah-syed-othman/)  | *Director, Cyber Security Policy and International Cooperation* <br>National Cyber Security Agency (NACSA)<br>Malaysia      |
 |<br>**Moderator**          |                                                              |
-| [Mr David Koh](/speakers/mr-david-koh/)  | *Commissioner of Cybersecurity &amp; Chief Executive (CE)*, Cyber Security Agency of Singapore (CSA)<br>*Chief (Digital Security &amp; Technology)*, Ministry of Digital Development and Information<br>Singapore     |
+| [Ms Anastasiya Kazakova](/speakers/ms-anastasiya-kazakova/)  | *Cyber Diplomacy Knowledge Fellow; Geneva Dialogue project coordinator* <br>DiploFoundation<br>Russian Federation      |
+| [Mr Vladimir Radunović](/speakers/mr-vladimir-radunovic/)  | *Director of Cybersecurity &amp; E-diplomacy, Diplo* <br>DiploFoundation<br>Serbia      |
 
 
 
