@@ -68,10 +68,8 @@ sections:
         - title: Infobox
           description: Infobox description
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: Past SICW Resources
       id: textcards
-      description: Text card description
       cards:
         - title: Publications
           description: <img src="https://www.sicw.gov.sg/images/icons_publications.png">
