@@ -69,6 +69,10 @@ sections:
           description: <img src="https://www.sicw.gov.sg/images/icon_videos.png">
           linktext: Watch Videos Here
           url: /resources/video-gallery/
+  - textcards:
+      title: Past SICW Resources
+      id: textcards
+      cards:
         - title: Publications
           description: Read about past year SICW events here!
           linktext: Read Publications
@@ -76,5 +80,5 @@ sections:
         - title: Video Gallery
           description: Watch past SICW events here!
           linktext: Watch Videos
-          url: /resources/video-gallery
+          url: /resources/video-gallery/
 ---
