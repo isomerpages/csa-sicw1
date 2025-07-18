@@ -75,14 +75,10 @@ sections:
       cards:
         - title: Publications
           description: <img src="https://www.sicw.gov.sg/images/icons_publications.png">
-          linktext: Learn more
+          linktext: Read Publications Here
           url: /resources/publications/
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: Video
+          description: <img src="https://www.sicw.gov.sg/images/icon_videos.png">
+          linktext: Watch Videos Here
+          url: /resources/video-gallery/
 ---
