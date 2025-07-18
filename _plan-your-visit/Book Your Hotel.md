@@ -6,6 +6,9 @@ description: ""
 ---
 #### **Book Your Hotel**
 You can book your stay for SICW 2025 with our Partner Hotels and enjoy exclusive discounts, including reduced room rates as well as savings on food and beverage.
+
+A Complimentary Shuttle Service will be provided in the mornings of 21-23 October from these Partner Hotels to SICW 2025.
+
 * PARKROYAL COLLECTION Pickering, Singapore
 * PARKROYAL COLLECTION Marina Bay, Singapore
 * Grand Park City Hall
