@@ -22,6 +22,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | <br> **22 October 2025** <br>*(Wednesday)* |                                                                                                |
 | 9.00am to 12.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/22-oct/asean-cert-incident-drill-acid/)                               |
 | 9.00am to 5.00pm           | [ASEAN Cybercrime Prosecutors’ Roundtable Meeting (ACPRM)](/events/22-oct/asean-cybercrime-prosecutors-roundtable-meeting-acprm/)                               |
+| 9.00am to 5.00pm           | [SPIRITCYBER Hackathon](/events/22-oct/spiritcyber-hackathon/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/22-oct/govware-conference-exhibition-2025/)                               |
 | 9.30am to 11.00am           | [High-Level Panel: Infinite Actions, Finite Control – Securing Agentic AI](/events/22-oct/high-level-panel-infinite-actions-finite-control-securing-agentic-ai/)                               |
 | 10.00am to 11.30am           | [Securing Smart Cities](/events/22-oct/securing-smart-cities/)                               |
@@ -32,6 +33,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | <br> **23 October 2025** <br>*(Thursday)*          |                                                                                           |
 | 9.00am to 12.00pm           | [High-Level Panel: Diplomacy](/events/23-oct/high-level-panel-diplomacy/)                               |
 | 9.00am to 5.00pm           | [ASEAN Senior Officials Roundtable on Cybercrime (SORC)](/event/23-oct/asean-senior-officials-roundtable-on-cybercrime-sorc/)                               |
+| 9.00am to 5.00pm           | [SPIRITCYBER Hackathon](/events/23-oct/spiritcyber-hackathon/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/23-oct/govware-conference-exhibition-2025/)                               |
 | 1.00pm to 2.30pm           | [High-Level Panel: Securing Tomorrow, Today – Bridging Awareness to Action through Quantum Readiness](/events/23-oct/high-level-panel-securing-tomorrow-today/)                               |
 | 1.00pm to 2.30pm           | [Deep Truth: Securing Against AI Deception](/events/23-oct/deep-truth-securing-against-ai-deception/)                               |
