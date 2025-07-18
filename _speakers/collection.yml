@@ -2,4 +2,5 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Tan E Guang Eugene.md
       - Speaker – Mr Florian Schütz.md
