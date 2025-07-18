@@ -2,8 +2,8 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Ms Shariffah Rashidah Syed Othman.md
       - Speaker – Mr Vladimir Radunović.md
+      - Speaker – Ms Shariffah Rashidah Syed Othman.md
       - Speaker – Mr Florian Schütz.md
       - Speaker – Mr Tan E Guang Eugene.md
       - Speaker – Mr Teo Xiang Zheng.md
