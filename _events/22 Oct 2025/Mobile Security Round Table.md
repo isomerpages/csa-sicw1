@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 22 Oct 2025
 ---
-#### **ASEAN CERT Incident Drill (ACID)**
+#### **Mobile Security Round Table**
 
 **22 October 2025 (Wednesday)**  
 *Time: 10.30am to 12.00pm (GMT +8)*
