@@ -62,23 +62,11 @@ sections:
       id: textcards
       cards:
         - title: Publications
-          description: <img src="https://www.sicw.gov.sg/images/icons_publications.png">
+          description: <img src="https://www.sicw.gov.sg/images/publication_icon.png">
           linktext: Read Publications Here
           url: /resources/publications/
         - title: Video
-          description: <img src="https://www.sicw.gov.sg/images/icon_videos.png">
+          description: <img src="https://www.sicw.gov.sg/images/video_icon.png">
           linktext: Watch Videos Here
-          url: /resources/video-gallery/
-  - textcards:
-      title: Past SICW Resources
-      id: textcards
-      cards:
-        - title: Publications
-          description: Read about past year SICW events here!
-          linktext: Read Publications
-          url: /resources/publications/
-        - title: Video Gallery
-          description: Watch past SICW events here!
-          linktext: Watch Videos
           url: /resources/video-gallery/
 ---
