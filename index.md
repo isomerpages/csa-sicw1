@@ -57,4 +57,14 @@ sections:
   - resources:
       title: Past SICW Resources
       button: See All
+  - infocols:
+      title: Info-columns
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Publications
+          description: <img src="https://www.sicw.gov.sg/images/icons_publications.png">
+        - title: Infobox
+          description: Infobox description
 ---
