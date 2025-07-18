@@ -2,9 +2,9 @@ collections:
   speakers:
     output: true
     order:
-      - Moderator – Mr Vladimir Radunović.md
-      - Moderator – Ms Anastasiya Kazakova.md
       - Speaker – Ms Shariffah Rashidah Syed Othman.md
-      - Speaker – Mr Teo Xiang Zheng.md
-      - Speaker – Mr Tan E Guang Eugene.md
       - Speaker – Mr Florian Schütz.md
+      - Speaker – Mr Tan E Guang Eugene.md
+      - Speaker – Mr Teo Xiang Zheng.md
+      - Moderator – Ms Anastasiya Kazakova.md
+      - Moderator – Mr Vladimir Radunović.md
