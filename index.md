@@ -67,4 +67,22 @@ sections:
           description: <img src="https://www.sicw.gov.sg/images/icons_publications.png">
         - title: Infobox
           description: Infobox description
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Publications
+          description: <img src="https://www.sicw.gov.sg/images/icons_publications.png">
+          linktext: Learn more
+          url: /resources/publications/
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
