@@ -54,9 +54,6 @@ sections:
         video player"
         src="https://www.youtube.com/embed/qzeSqFBSVco?si=WR8Rvrb97-TjIJCI"
         height="315" width="100%"></iframe>
-  - resources:
-      title: Past SICW Resources
-      button: See All
   - textcards:
       title: Past SICW Resources
       id: textcards
