@@ -23,6 +23,8 @@ This session presents the [Geneva Manual on Responsible Behaviour in Cyberspace]
 
 Through a multistakeholder interactive conversation, the session will highlight challenges, share emerging good practices, and examine how diplomatic agreements are being interpreted, operationalised, and embedded into real-world decisions.
 
+*The session is organised by the Geneva Dialogue on Responsible Behaviour in Cyberspace, an initiative launched in 2018 by the Swiss Federal Department of Foreign Affairs (FDFA) and implemented by DiploFoundation, with the support of the Republic and State of Geneva, C4DT, and UBS. It aims to map the roles and responsibilities of various actors in cyberspace and to promote the framework for responsible behaviour.*
+
 |**Speakers**          |                                                              |
 | [Mr Florian Schütz](/speakers/mr-florian-schutz/)  | *Director* <br>Swiss National Cybersecurity Center<br>Switzerland      |
 | [Mr Tan E Guang Eugene](/speakers/mr-tan-e-guang-eugene/)  | *Associate Research Fellow at the Centre of Excellence for National Security* <br>S Rajaratnam School of International Studies, Nanyang Technological University<br>Singapore      |
