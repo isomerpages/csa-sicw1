@@ -8,7 +8,7 @@ third_nav_title: 22 Oct 2025
 #### **ASEAN CERT Incident Drill (ACID)**
 
 **22 October 2025 (Wednesday)**  
-*Time: 9.00am to 12.00pm (GMT +8)*
+*Time: 9.00am to 5.00pm (GMT +8)*
 
 *Format: Closed Door Event*
 
