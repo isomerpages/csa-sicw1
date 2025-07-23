@@ -21,7 +21,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 2.30pm to 5.30pm           | [SG Cyber Safe for Enterprises](/events/21-oct/sg-cyber-safe-for-enterprises/)                               |
 | 4.30pm to 6.00pm           | [High-Level Panel: Insights into 2025’s Cyber Threats](/events/21-oct/high-level-panel-insights-into-2025-s-cyber-threats/)                               |
 | <br> **22 October 2025** <br>*(Wednesday)* |                                                                                                |
-| 9.00am to 12.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/22-oct/asean-cert-incident-drill-acid/)                               |
+| 9.00am to 5.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/22-oct/asean-cert-incident-drill-acid/)                               |
 | 9.00am to 5.00pm           | [ASEAN Cybercrime Prosecutors’ Roundtable Meeting (ACPRM)](/events/22-oct/asean-cybercrime-prosecutors-roundtable-meeting-acprm/)                               |
 | 9.00am to 5.00pm           | [SPIRITCYBER Hackathon](/events/22-oct/spiritcyber-hackathon/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/22-oct/govware-conference-exhibition-2025/)                               |
