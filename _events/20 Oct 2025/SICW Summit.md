@@ -8,7 +8,7 @@ third_nav_title: 20 Oct 2025
 #### **SICW Summit**
 
 **20 October 2025 (Monday)**  
-*Time: 6.00pm to 9.00pm (GMT +8)*
+*Time: 6.00pm to 9.30pm (GMT +8)*
 
 *Format: Closed Door Event*
 
