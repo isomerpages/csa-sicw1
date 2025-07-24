@@ -9,7 +9,7 @@ description: ""
 Join international policy makers, industry leaders and top academics from across the world in exchanging best practices and strengthening regional as well as global cooperation.
 
 ![](/images/Registration%202025/Tickets_2025.png)
-![](/images/Registration%202025/Register_button_2025.png)
+<a target="blank" href="https://www.gevme.com/sicw-govware2025">![](/images/Registration%202025/Register_button_2025.png)</a>
 
 **Notes:**
 * All prices are in Singapore Dollars (SGD / S$).
