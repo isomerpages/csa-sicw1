@@ -9,7 +9,7 @@ description: ""
 Join international policy makers, industry leaders and top academics from across the world in exchanging best practices and strengthening regional as well as global cooperation.
 
 ![](/images/Registration%202025/Tickets_2025.png)
-
+![](/images/Registration%202025/Register_button_2025.png)
 
 **Notes:**
 * All prices are in Singapore Dollars (SGD / S$).
@@ -29,4 +29,3 @@ Join international policy makers, industry leaders and top academics from across
 * No refund will be given from 20 September 2025. Request for substitution of names must be submitted in writing by the original pass holder before 10 October 2025, thereafter charges may apply. 
 *	There will be a 5% administrative fee for cancellation and refund. Refund amount will exclude bank charges or equivalent.
 *	All requests for cancellation and substitution must be submitted via email to [registration@sicw.gov.sg](mailto:registration@sicw.gov.sg)
-
