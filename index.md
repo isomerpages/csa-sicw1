@@ -59,11 +59,11 @@ sections:
       id: textcards
       cards:
         - title: Publications
-          description: <img src="https://www.sicw.gov.sg/images/publication_icon.png">
+          description: <img src="/images/publication_icon.png">
           linktext: Read Publications Here
           url: /resources/publications/
         - title: Video Gallery
-          description: <img src="https://www.sicw.gov.sg/images/video_icon.png">
+          description: <img src="/images/video_icon.png">
           linktext: Watch Videos Here
           url: /resources/video-gallery/
   - infopic:
