@@ -66,4 +66,9 @@ sections:
           description: <img src="https://www.sicw.gov.sg/images/video_icon.png">
           linktext: Watch Videos Here
           url: /resources/video-gallery/
+  - infopic:
+      id: infopic
+      description: <img src="https://www.sicw.gov.sg/images/HomePg_AboutText.jpg">
+      image: /images/AboutSICWGIF4.gif
+      alt: Image alt text
 ---
