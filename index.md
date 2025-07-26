@@ -68,6 +68,8 @@ sections:
           url: /resources/video-gallery/
   - infopic:
       id: infopic
-      description: <img src="https://www.sicw.gov.sg/images/publication_icon.png">
+      description: <img
+        src="https://www.sicw.gov.sg/images/HighlightsStatsOverviewIcons.png">
       alt: Image alt text
+      image: /images/HighlightsStatsOverviewIcons.png
 ---
