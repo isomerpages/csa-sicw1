@@ -60,11 +60,11 @@ sections:
       id: textcards
       cards:
         - title: Publications
-          description: <img src="/images/publication_icon_1.png">
+          description: <img src="/images/publication_icon_2.png">
           linktext: Read Publications Here
           url: /resources/publications/
         - title: Video Gallery
-          description: <img src="/images/video_icon_1.png">
+          description: <img src="/images/video_icon_2.png">
           linktext: Watch Videos Here
           url: /resources/video-gallery/
   - infopic:
