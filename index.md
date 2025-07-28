@@ -27,7 +27,7 @@ sections:
       description: The 10th SICW will explore the impact of cyber developments on
         global security and the digital economy, shaping the next era of global
         cybersecurity.
-      image: /images/HighlightsGIF2.gif
+      image: /images/AboutSICWGIF4.gif
       button: See More
       url: /about-sicw/
   - infopic:
@@ -39,7 +39,7 @@ sections:
       button: View All Events
       url: /events/calendar-of-events-2025/
       alt: Event Highlights
-      image: /images/HighlightsGIF.gif
+      image: /images/HighlightsGIF2.gif
   - infobar:
       title: RELIVE THE KEY HIGHLIGHTS OF SICW 2024
       id: infobar
