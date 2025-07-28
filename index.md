@@ -55,7 +55,7 @@ sections:
       id: textcards
       cards:
         - title: Publications
-          description: <img src="/images/icon-publication1.png">
+          description: <img src="/images/icon_publication1.png">
           linktext: Read Publications Here
           url: /resources/publications/
         - title: Video Gallery
