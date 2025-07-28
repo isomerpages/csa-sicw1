@@ -12,14 +12,14 @@ sections:
       background: /images/SICW2024_HeroBanner_v20241119.jpg
       key_highlights:
         - title: About SICW 2025
-          description: Shaping Global Cybersecurity
+          description: ""
           url: /about-sicw/
         - title: Events
           description: What's Happening
           url: /events/calendar-of-events-2025/
         - title: Register Now
           description: Be a Part of the Conversation
-          url: /register-your-interest/
+          url: /registration/
   - infopic:
       title: Shaping the Next Era of Global Cybersecurity
       id: infopic
@@ -27,7 +27,7 @@ sections:
       description: The 10th SICW will explore the impact of cyber developments on
         global security and the digital economy, shaping the next era of global
         cybersecurity.
-      image: /images/AboutSICWGIF3C.gif
+      image: /images/HighlightsGIF2.gif
       button: See More
       url: /about-sicw/
   - infopic:
@@ -69,7 +69,7 @@ sections:
           url: /resources/video-gallery/
   - infopic:
       id: infopic
-      description: <img src="/images/HomePg_AboutText.jpg">
+      description: <img src="/images/HomePg_AboutText2.jpg">
       image: /images/AboutSICWGIF4.gif
       alt: Image alt text
 ---
