@@ -21,15 +21,10 @@ sections:
           description: Be a Part of the Conversation
           url: /registration/
   - infopic:
-      title: Shaping the Next Era of Global Cybersecurity
       id: infopic
-      alt: Image alt text
-      description: The 10th SICW will explore the impact of cyber developments on
-        global security and the digital economy, shaping the next era of global
-        cybersecurity.
+      description: <img src="/images/HomePg_AboutText.jpg">
       image: /images/AboutSICWGIF4.gif
-      button: See More
-      url: /about-sicw/
+      alt: Image alt text
   - infopic:
       title: SICW 2025 Event Highlights
       id: infopic
@@ -68,8 +63,13 @@ sections:
           linktext: Watch Videos Here
           url: /resources/video-gallery/
   - infopic:
+      title: Shaping the Next Era of Global Cybersecurity
       id: infopic
-      description: <img src="/images/HomePg_AboutText.jpg">
-      image: /images/AboutSICWGIF4.gif
       alt: Image alt text
+      description: The 10th SICW will explore the impact of cyber developments on
+        global security and the digital economy, shaping the next era of global
+        cybersecurity.
+      image: /images/AboutSICWGIF4.gif
+      button: See More
+      url: /about-sicw/
 ---
