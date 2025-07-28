@@ -24,9 +24,9 @@ sections:
       title: Shaping the Next Era of Global Cybersecurity
       id: infopic
       alt: Image alt text
-      description: Organised by the Cyber Security Agency of Singapore, the 10th SICW
-        gathers global policymakers & experts to advance cooperation on key
-        cyber issues.
+      description: The 10th SICW will explore the impact of cyber developments on
+        global security and the digital economy, shaping the next era of global
+        cybersecurity.
       image: /images/AboutSICWGIF3C.gif
       button: See More
       url: /about-sicw/
