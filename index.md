@@ -34,7 +34,7 @@ sections:
       button: View All Events
       url: /events/calendar-of-events-2025/
       alt: Event Highlights
-      image: /images/HighlightsGIF2.gif
+      image: /images/HighlightsGIF3.gif
   - infobar:
       title: RELIVE THE KEY HIGHLIGHTS OF SICW 2024
       id: infobar
