@@ -14,11 +14,11 @@ sections:
         - title: About<br>SICW 2025
           description: ""
           url: /about-sicw/
-        - title: Events
-          description: What's Happening
+        - title: Calendar<br>of Events
+          description: ""
           url: /events/calendar-of-events-2025/
-        - title: Register Now
-          description: Be a Part of the Conversation
+        - title: Register<br>Now
+          description: ""
           url: /registration/
   - infopic:
       id: infopic
