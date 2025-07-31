@@ -93,4 +93,27 @@ sections:
           description: Description here (up to 80 characters)
           linktext: Learn more
           url: ""
+      subtitle: Text Based
+  - textcards:
+      title: Event Highlights
+      subtitle: Image Based
+      id: textcards
+      description: ""
+      cards:
+        - title: ""
+          description: <img src="/images/TestEventHighlight1.jpg">
+          linktext: ""
+          url: ""
+        - title: ""
+          description: <img src="/images/TestEventHighlight1.jpg">
+          linktext: ""
+          url: ""
+        - title: ""
+          description: <img src="/images/TestEventHighlight1.jpg">
+          linktext: ""
+          url: ""
+        - title: ""
+          description: <img src="/images/TestEventHighlight1.jpg">
+          linktext: ""
+          url: ""
 ---
