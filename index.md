@@ -105,11 +105,11 @@ sections:
           url: ""
         - title: must have text
           description: <img src="/images/TestEventHighlight1.jpg">
-          linktext: ""
+          linktext: Find out more
           url: ""
         - title: must have text
           description: <img src="/images/TestEventHighlight1.jpg">
-          linktext: ""
+          linktext: Find out more
           url: ""
         - title: must have text
           description: <img src="/images/TestEventHighlight1.jpg">
