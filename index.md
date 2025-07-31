@@ -98,21 +98,20 @@ sections:
       title: Event Highlights
       subtitle: Image Based
       id: textcards
-      description: ""
       cards:
-        - title: ""
+        - title: must have text
           description: <img src="/images/TestEventHighlight1.jpg">
           linktext: ""
           url: ""
-        - title: ""
+        - title: must have text
           description: <img src="/images/TestEventHighlight1.jpg">
           linktext: ""
           url: ""
-        - title: ""
+        - title: must have text
           description: <img src="/images/TestEventHighlight1.jpg">
           linktext: ""
           url: ""
-        - title: ""
+        - title: must have text
           description: <img src="/images/TestEventHighlight1.jpg">
           linktext: ""
           url: ""
