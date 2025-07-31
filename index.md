@@ -72,4 +72,25 @@ sections:
       image: /images/AboutSICWGIF4.gif
       button: See More
       url: /about-sicw/
+  - textcards:
+      title: Event Highlights
+      id: textcards
+      description: Text card description
+      cards:
+        - title: SICW Submit
+          description: Description here (up to 80 characters)
+          linktext: Learn more
+          url: ""
+        - title: 10th ASEAN Ministerial Conferen... (max 50 char)
+          description: Description here (up to 80 characters)
+          linktext: Learn more
+          url: ""
+        - title: SICW Women in Cyber
+          description: Description here (up to 80 characters)
+          linktext: Learn more
+          url: ""
+        - title: Securing Smart Cities
+          description: Description here (up to 80 characters)
+          linktext: Learn more
+          url: ""
 ---
