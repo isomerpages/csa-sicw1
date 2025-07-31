@@ -99,7 +99,7 @@ sections:
       subtitle: Image Based
       id: textcards
       cards:
-        - title: ""
+        - title: must have text
           description: <img src="/images/TestEventHighlight1.jpg">
           linktext: ""
           url: ""
