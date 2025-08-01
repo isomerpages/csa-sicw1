@@ -70,6 +70,10 @@ sections:
         video player"
         src="https://www.youtube.com/embed/qzeSqFBSVco?si=WR8Rvrb97-TjIJCI"
         height="315" width="100%"></iframe>
+  - infobar:
+      title: Notable Past Speakers
+      id: infobar
+      description: <img src="/images/Home_NotableSpeakers.jpg">
   - textcards:
       title: Past SICW Resources
       id: textcards
@@ -92,8 +96,4 @@ sections:
       image: /images/AboutSICWGIF4.gif
       button: See More
       url: /about-sicw/
-  - infobar:
-      title: Notable Past Speakers
-      id: infobar
-      description: <img src="/images/Home_NotableSpeakers.jpg">
 ---
