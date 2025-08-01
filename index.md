@@ -58,8 +58,8 @@ sections:
   - infobar:
       title: RELIVE THE KEY HIGHLIGHTS OF SICW 2024
       id: infobar
-      description: <a href="#"><img
-        src="https://www.sicw.gov.sg/images/HighlightsStatsOverviewIcons.png"></a><br>
+      description: <img
+        src="https://www.sicw.gov.sg/images/HighlightsStatsOverviewIcons.png"><br>
         <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
