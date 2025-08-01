@@ -92,4 +92,8 @@ sections:
       image: /images/AboutSICWGIF4.gif
       button: See More
       url: /about-sicw/
+  - infobar:
+      title: Notable Past Speakers
+      id: infobar
+      description: <img src="/images/Home_NotableSpeakers.jpg">
 ---
