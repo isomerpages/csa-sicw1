@@ -22,7 +22,7 @@ sections:
           url: /registration/
   - infopic:
       id: infopic
-      description: <img src="/images/HomePg_AboutText3.jpg">
+      description: <img src="/images/HomePg_AboutTextv2.jpg">
       image: /images/AboutSICWGIF4.gif
       alt: Image alt text
   - infopic:
@@ -75,25 +75,23 @@ sections:
   - textcards:
       title: Event Highlights
       id: textcards
-      description: Text card description
       cards:
-        - title: SICW Submit
-          description: Description here (up to 80 characters)
+        - title: SICW Summit
+          description: Gala dinner for government leaders and C-suites.
           linktext: Learn more
-          url: ""
-        - title: 10th ASEAN Ministerial Conferen... (max 50 char)
-          description: Description here (up to 80 characters)
+          url: /events/20-oct/sicw-summit/
+        - title: 10th AMCC
+          description: Ministerial-level dialogues onkey cyber issues.
           linktext: Learn more
-          url: ""
-        - title: SICW Women in Cyber
-          description: Description here (up to 80 characters)
+          url: /events/22-oct/10th-asean-ministerial-conference-on-cybersecurity-amcc/
+        - title: High-Level Panels
+          description: Panels on Diplomacy, Policy, Operations and Tech.
           linktext: Learn more
-          url: ""
-        - title: Securing Smart Cities
-          description: Description here (up to 80 characters)
+          url: /events/calendar-of-events-2025/
+        - title: GovWare 2025
+          description: Asia's Premier Cybersecurity Conference & Exhibition.
           linktext: Learn more
-          url: ""
-      subtitle: Text Based
+          url: https://www.govware.sg/
   - textcards:
       title: Event Highlights
       subtitle: Image Based
