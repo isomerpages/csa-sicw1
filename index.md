@@ -52,7 +52,7 @@ sections:
           linktext: Learn more
           url: /events/calendar-of-events-2025/
         - title: GovWare 2025
-          description: Asia's Premier Cybersecurity Conference & Exhibition.
+          description: SICW's Anchor Trade Conference & Exhibition.
           linktext: Learn more
           url: https://www.govware.sg/
   - infobar:
