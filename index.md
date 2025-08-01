@@ -79,11 +79,11 @@ sections:
       id: textcards
       cards:
         - title: Publications
-          description: <img src="/images/icon_publication2.png">
+          description: <img width="50%" src="/images/icon_publication2.png">
           linktext: Read Publications Here
           url: /resources/publications/
         - title: Video Gallery
-          description: <img src="/images/icon_video2.png">
+          description: <img width="300" src="/images/icon_video2.png">
           linktext: Watch Videos Here
           url: /resources/video-gallery/
   - infopic:
@@ -96,9 +96,4 @@ sections:
       image: /images/AboutSICWGIF4.gif
       button: See More
       url: /about-sicw/
-  - infobar:
-      title: Past SICW Resources
-      id: infobar
-      description: <a href="#"><img src="/images/icon_publication2.png"></a><a
-        href="#"><img src="/images/icon_video2.png"></a>
 ---
