@@ -35,6 +35,26 @@ sections:
       url: /events/calendar-of-events-2025/
       alt: Event Highlights
       image: /images/HighlightsGIF3.gif
+  - textcards:
+      title: Event Highlights
+      id: textcards
+      cards:
+        - title: SICW Summit
+          description: Gala dinner for government leaders and C-suites.
+          linktext: Learn more
+          url: /events/20-oct/sicw-summit/
+        - title: 10th AMCC
+          description: Ministerial-level dialogues onkey cyber issues.
+          linktext: Learn more
+          url: /events/22-oct/10th-asean-ministerial-conference-on-cybersecurity-amcc/
+        - title: High-Level Panels
+          description: Panels on Diplomacy, Policy, Operations and Tech.
+          linktext: Learn more
+          url: /events/calendar-of-events-2025/
+        - title: GovWare 2025
+          description: Asia's Premier Cybersecurity Conference & Exhibition.
+          linktext: Learn more
+          url: https://www.govware.sg/
   - infobar:
       title: RELIVE THE KEY HIGHLIGHTS OF SICW 2024
       id: infobar
@@ -72,24 +92,4 @@ sections:
       image: /images/AboutSICWGIF4.gif
       button: See More
       url: /about-sicw/
-  - textcards:
-      title: Event Highlights
-      id: textcards
-      cards:
-        - title: SICW Summit
-          description: Gala dinner for government leaders and C-suites.
-          linktext: Learn more
-          url: /events/20-oct/sicw-summit/
-        - title: 10th AMCC
-          description: Ministerial-level dialogues onkey cyber issues.
-          linktext: Learn more
-          url: /events/22-oct/10th-asean-ministerial-conference-on-cybersecurity-amcc/
-        - title: High-Level Panels
-          description: Panels on Diplomacy, Policy, Operations and Tech.
-          linktext: Learn more
-          url: /events/calendar-of-events-2025/
-        - title: GovWare 2025
-          description: Asia's Premier Cybersecurity Conference & Exhibition.
-          linktext: Learn more
-          url: https://www.govware.sg/
 ---
