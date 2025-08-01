@@ -99,7 +99,6 @@ sections:
   - infobar:
       title: Past SICW Resources
       id: infobar
-      description: <a href="#"><img
-        src="https://www.sicw.gov.sg/images/icon_publication2.png"></a><a
-        href="#"><img src="https://www.sicw.gov.sg/images/icon_video2.png"></a>
+      description: <a href="#"><img src="/images/icon_publication2.png"></a><a
+        href="#"><img src="/images/icon_video2.png"></a>
 ---
