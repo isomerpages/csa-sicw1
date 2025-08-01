@@ -96,4 +96,10 @@ sections:
       image: /images/AboutSICWGIF4.gif
       button: See More
       url: /about-sicw/
+  - infobar:
+      title: Past SICW Resources
+      id: infobar
+      description: <a href="#"><img
+        src="https://www.sicw.gov.sg/images/icon_publication2.png"></a><a
+        href="#"><img src="https://www.sicw.gov.sg/images/icon_video2.png"></a>
 ---
