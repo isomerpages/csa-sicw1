@@ -92,25 +92,4 @@ sections:
           description: Asia's Premier Cybersecurity Conference & Exhibition.
           linktext: Learn more
           url: https://www.govware.sg/
-  - textcards:
-      title: Event Highlights
-      subtitle: Image Based
-      id: textcards
-      cards:
-        - title: must have text
-          description: <img src="/images/TestEventHighlight1.jpg">
-          linktext: ""
-          url: ""
-        - title: must have text
-          description: <img src="/images/TestEventHighlight1.jpg">
-          linktext: Find out more
-          url: ""
-        - title: must have text
-          description: <img src="/images/TestEventHighlight1.jpg">
-          linktext: Find out more
-          url: ""
-        - title: must have text
-          description: <img src="/images/TestEventHighlight1.jpg">
-          linktext: ""
-          url: ""
 ---
