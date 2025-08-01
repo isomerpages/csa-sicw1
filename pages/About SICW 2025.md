@@ -6,7 +6,7 @@ variant: markdown
 ---
 ![SICW](/images/logos/logo_sicw2025_full_wspace_lr_h300.jpg)
 
-![SICW](/images/AboutPgTitle_Gradient.png)
+![SICW](/images/AboutPgTitle_Blue.png)
 
 The milestone 10th edition of the Singapore International Cyber Week comes at a critical global juncture. Intensifying geopolitical competition, shifting dynamics in global governance, and the growing scale of cyber threats are collectively reshaping the digital and cyber landscape.
 
