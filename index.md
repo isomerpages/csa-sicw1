@@ -25,16 +25,6 @@ sections:
       description: <img src="/images/HomePg_AboutTextv2.jpg">
       image: /images/AboutSICWGIF4.gif
       alt: Image alt text
-  - infopic:
-      title: SICW 2025 Event Highlights
-      id: infopic
-      description: Driving critical conversations through ministerial dialogues,
-        high-level panels and dynamic forums on diplomacy, policy, operations
-        and technology.
-      button: View All Events
-      url: /events/calendar-of-events-2025/
-      alt: Event Highlights
-      image: /images/HighlightsGIF3.gif
   - textcards:
       title: Event Highlights
       id: textcards
@@ -90,4 +80,14 @@ sections:
       image: /images/AboutSICWGIF4.gif
       button: See More
       url: /about-sicw/
+  - infopic:
+      title: SICW 2025 Event Highlights
+      id: infopic
+      description: Driving critical conversations through ministerial dialogues,
+        high-level panels and dynamic forums on diplomacy, policy, operations
+        and technology.
+      button: View All Events
+      url: /events/calendar-of-events-2025/
+      alt: Event Highlights
+      image: /images/HighlightsGIF3.gif
 ---
