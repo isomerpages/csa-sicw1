@@ -74,22 +74,10 @@ sections:
       title: Notable Past Speakers
       id: infobar
       description: <br><img src="/images/Home_NotableSpeakers.jpg">
-  - textcards:
-      title: Past SICW Resources
-      id: textcards
-      cards:
-        - title: Publications
-          description: <img width="50%" src="/images/icon_publication2.png">
-          linktext: Read Publications Here
-          url: /resources/publications/
-        - title: Video Gallery
-          description: <img width="300" src="/images/icon_video2.png">
-          linktext: Watch Videos Here
-          url: /resources/video-gallery/
   - infobar:
       title: Past SICW Resources
       id: infobar
-      description: <img src="/images/ResourcesIcons.png">
+      description: <img src="/images/ResourcesIcons2.png">
       button: View All Resources
       url: /resources/
   - infopic:
