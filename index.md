@@ -63,11 +63,11 @@ sections:
   - infobar:
       title: Notable Past Speakers
       id: infobar
-      description: <br><img src="/images/Home_NotableSpeakers.jpg">
+      description: <br><img src="/images/Home_NotableSpeakers.png">
   - infobar:
       title: Past SICW Resources
       id: infobar
-      description: <img src="/images/ResourcesIcons2.png">
+      description: <img src="/images/ResourcesIcons3.png">
       button: View All Resources
       url: /resources/
   - infopic:
