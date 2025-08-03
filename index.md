@@ -54,7 +54,7 @@ sections:
         - title: GovWare 2025
           description: SICW's Anchor Trade Conference & Exhibition.
           linktext: Learn more
-          url: https://www.govware.sg/
+          url: /events/21-oct/govware-conference-exhibition-2025/
   - infobar:
       title: RELIVE THE KEY HIGHLIGHTS OF SICW 2024
       id: infobar
@@ -96,4 +96,11 @@ sections:
       image: /images/AboutSICWGIF4.gif
       button: See More
       url: /about-sicw/
+  - infobar:
+      title: Past SICW Resources
+      id: infobar
+      description: <img
+        src="https://www.sicw.gov.sg/images/HighlightsStatsOverviewIcons.png"><br>
+      button: View All Resources
+      url: /resources/
 ---
