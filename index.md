@@ -86,6 +86,12 @@ sections:
           description: <img width="300" src="/images/icon_video2.png">
           linktext: Watch Videos Here
           url: /resources/video-gallery/
+  - infobar:
+      title: Past SICW Resources
+      id: infobar
+      description: <img src="/images/ResourcesIcons.png">
+      button: View All Resources
+      url: /resources/
   - infopic:
       title: Shaping the Next Era of Global Cybersecurity
       id: infopic
@@ -96,10 +102,4 @@ sections:
       image: /images/AboutSICWGIF4.gif
       button: See More
       url: /about-sicw/
-  - infobar:
-      title: Past SICW Resources
-      id: infobar
-      description: <img src="/images/ResourcesIcons.png">
-      button: View All Resources
-      url: /resources/
 ---
