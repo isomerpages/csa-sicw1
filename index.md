@@ -34,7 +34,7 @@ sections:
           linktext: Learn more
           url: /events/20-oct/sicw-summit/
         - title: 10th AMCC
-          description: Ministerial-level dialogues onkey cyber issues.
+          description: Ministerial-level dialogues on key cyber issues.
           linktext: Learn more
           url: /events/22-oct/10th-asean-ministerial-conference-on-cybersecurity-amcc/
         - title: High-Level Panels
