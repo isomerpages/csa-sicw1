@@ -99,8 +99,7 @@ sections:
   - infobar:
       title: Past SICW Resources
       id: infobar
-      description: <img
-        src="https://www.sicw.gov.sg/images/HighlightsStatsOverviewIcons.png"><br>
+      description: <img src="/images/ResourcesIcons.png">
       button: View All Resources
       url: /resources/
 ---
