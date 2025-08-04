@@ -90,4 +90,9 @@ sections:
       image: /images/AboutSICWGIF4.gif
       button: See More
       url: /about-sicw/
+  - infopic:
+      id: infopic
+      description: <img src="/images/HomePg_AboutText3.jpg">
+      image: /images/AboutSICWGIF4.gif
+      alt: Image alt text
 ---
