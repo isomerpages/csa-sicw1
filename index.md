@@ -85,14 +85,4 @@ sections:
       description: <img src="/images/HomePg_AboutText3.jpg">
       image: /images/AboutSICWGIF4.gif
       alt: Image alt text
-  - infopic:
-      title: Shaping the Next Era of Global Cybersecurity
-      id: infopic
-      alt: Image alt text
-      description: The 10th SICW will explore the impact of cyber developments on
-        global security and the digital economy, shaping the next era of global
-        cybersecurity.
-      image: /images/AboutSICWGIF4.gif
-      button: See More
-      url: /about-sicw/
 ---
