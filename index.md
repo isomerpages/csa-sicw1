@@ -63,7 +63,7 @@ sections:
   - infobar:
       title: Notable Past Speakers
       id: infobar
-      description: <br><img src="/images/Home_NotableSpeakers.png">
+      description: <br><img src="/images/Home_NotableSpeakers2.png">
   - infobar:
       title: Past SICW Resources
       id: infobar
