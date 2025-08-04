@@ -81,6 +81,11 @@ sections:
       alt: Event Highlights
       image: /images/HighlightsGIF3.gif
   - infopic:
+      id: infopic
+      description: <img src="/images/HomePg_AboutText3.jpg">
+      image: /images/AboutSICWGIF4.gif
+      alt: Image alt text
+  - infopic:
       title: Shaping the Next Era of Global Cybersecurity
       id: infopic
       alt: Image alt text
@@ -90,9 +95,4 @@ sections:
       image: /images/AboutSICWGIF4.gif
       button: See More
       url: /about-sicw/
-  - infopic:
-      id: infopic
-      description: <img src="/images/HomePg_AboutText3.jpg">
-      image: /images/AboutSICWGIF4.gif
-      alt: Image alt text
 ---
