@@ -22,7 +22,7 @@ sections:
           url: /registration/
   - infopic:
       id: infopic
-      description: <img src="/images/HomePg_AboutTextv2.jpg">
+      description: <img src="/images/HomePg_AboutTextv3.jpg">
       image: /images/AboutSICWGIF4.gif
       alt: Image alt text
   - textcards:
