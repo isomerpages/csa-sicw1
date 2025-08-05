@@ -10,6 +10,6 @@ third_nav_title: 22 Oct 2025
 **22 October 2025 (Wednesday)**  
 *Time: 10.30am to 12.00pm (GMT +8)*
 
-Mobile phones are no longer just tools of convenience, they are gateways to identify financial assets, sensitive data and even national infrastructure. Yet, threats targeting mobile ecosystems have evolved faster than public understanding, policy frameworks, or platform protections. From sophisticated spyware to zero-day threats, scam/malicious apps disguised as shopping apps, mobile threats now span across technical, psychological and geopolitical dimensions. The world needs to rethink mobile security not as a technical afterthought, but as the foundation for digital trust in our connected future.
+Mobile phones are no longer just tools of convenience. They have become gateways to identity, financial services, sensitive data, and national infrastructure. As threats targeting mobile ecosystems grow in scale and sophistication, there is an urgent need to reexamine how security is integrated into mobile application development and how development and security teams can align more effectively to achieve secure innovation.
 <br><br><br>
 *Information is accurate at time of publication*
