@@ -30,11 +30,11 @@ sections:
       id: textcards
       cards:
         - title: SICW Summit
-          description: Gala dinner for government leaders and C-suites.
+          description: Gala Dinner for Government Leaders and C-suites.
           linktext: Learn more
           url: /events/20-oct/sicw-summit/
         - title: 10th AMCC
-          description: Ministerial-level dialogues on key cyber issues.
+          description: Ministerial-level Dialogues on Key Cyber Issues.
           linktext: Learn more
           url: /events/22-oct/10th-asean-ministerial-conference-on-cybersecurity-amcc/
         - title: High-Level Panels
@@ -61,7 +61,7 @@ sections:
         src="https://www.youtube.com/embed/qzeSqFBSVco?si=WR8Rvrb97-TjIJCI"
         height="315" width="100%"></iframe>
   - infobar:
-      title: Notable Past Speakers
+      title: Past Speakers
       id: infobar
       description: <br><img src="/images/Home_NotableSpeakers2.png">
   - infobar:
