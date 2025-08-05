@@ -46,7 +46,7 @@ sections:
           linktext: Learn more
           url: /events/21-oct/govware-conference-exhibition-2025/
   - infobar:
-      title: RELIVE THE KEY HIGHLIGHTS OF SICW 2024
+      title: Revisit SICW 2024
       id: infobar
       description: <img
         src="https://www.sicw.gov.sg/images/HighlightsStatsOverviewIcons.png"><br>
@@ -70,19 +70,4 @@ sections:
       description: <img src="/images/ResourcesIcons3.png">
       button: View All Resources
       url: /resources/
-  - infopic:
-      title: SICW 2025 Event Highlights
-      id: infopic
-      description: Driving critical conversations through ministerial dialogues,
-        high-level panels and dynamic forums on diplomacy, policy, operations
-        and technology.
-      button: View All Events
-      url: /events/calendar-of-events-2025/
-      alt: Event Highlights
-      image: /images/HighlightsGIF3.gif
-  - infopic:
-      id: infopic
-      description: <img src="/images/HomePg_AboutText3.jpg">
-      image: /images/AboutSICWGIF4.gif
-      alt: Image alt text
 ---
