@@ -19,4 +19,4 @@ ACID is an annual drill hosted by Singapore since 2006. ACID tests incident resp
 CERT teams from the ASEAN Member States and Dialogue Partners will be participating in this year’s ACID.
 
 <br><br><br>
-*Information is accurate at time of publication*
+*All information is accurate at time of publication and may be subject to changes.*
