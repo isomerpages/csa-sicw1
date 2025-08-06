@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 22 Oct 2025
 ---
-#### **Mobile Security Round Table**
+#### **Mobile Security Roundtable**
 
 **22 October 2025 (Wednesday)**  
 *Time: 10.30am to 12.00pm (GMT +8)*
