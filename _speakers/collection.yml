@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Dr Soumik Mondal.md
       - Speaker – Dr Yang Yinping.md
       - Speaker – Mr Stanley Tsang.md
       - Speaker – Ms Shariffah Rashidah Syed Othman.md
