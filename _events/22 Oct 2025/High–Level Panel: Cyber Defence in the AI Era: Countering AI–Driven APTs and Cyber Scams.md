@@ -13,4 +13,4 @@ third_nav_title: 22 Oct 2025
 
 In an increasingly interconnected world, the digital landscape has become a ground for innovation and progress. However, it also paved the way for a pervasive and ever-evolving threat: AI-enabled cyberattacks. Advanced Persistent Threats (“APTs”) have enhanced their capabilities using AI such as polymorphic malwares for evading detection. Cybercriminal and even hacktivist groups have also leveraged on AI to enable cyber scams with unprecedented sophistication. Hear from a panel of cybersecurity leaders and professionals on how organisations can effectively deal, respond and mitigate against AI-driven cyber scams and threats.
 <br><br><br>
-*Information is accurate at time of publication*
+*All information is accurate at time of publication and may be subject to changes.*
