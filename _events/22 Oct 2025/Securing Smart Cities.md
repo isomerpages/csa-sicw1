@@ -18,4 +18,4 @@ Government agencies, industry and technology leaders, and ecosystem partners wil
 
 The event will also feature a panel discussion exploring how different stakeholders can collaborate in cyberspace to strike a balance between convenience, safety, and security.
 <br><br><br>
-*Information is accurate at time of publication*
+*All information is accurate at time of publication and may be subject to changes.*
