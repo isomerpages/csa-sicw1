@@ -14,4 +14,4 @@ In an increasingly interconnected world, cybersecurity is no longer a technical 
 
 Further information on the High-Level Panel: Diplomacy will be updated shortly.
 <br><br><br>
-*Information is accurate at time of publication*
+*All information is accurate at time of publication and may be subject to changes.*
