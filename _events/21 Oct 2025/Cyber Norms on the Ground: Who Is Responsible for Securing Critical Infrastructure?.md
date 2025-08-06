@@ -36,4 +36,4 @@ Through a multistakeholder interactive conversation, the session will highlight 
 
 
 <br><br><br>
-*Information is accurate at time of publication*
+*All information is accurate at time of publication and may be subject to changes.*
