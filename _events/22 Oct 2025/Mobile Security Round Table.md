@@ -12,4 +12,4 @@ third_nav_title: 22 Oct 2025
 
 Mobile phones are no longer just tools of convenience. They have become gateways to identity, financial services, sensitive data, and national infrastructure. As threats targeting mobile ecosystems grow in scale and sophistication, there is an urgent need to reexamine how security is integrated into mobile application development and how development and security teams can align more effectively to achieve secure innovation.
 <br><br><br>
-*Information is accurate at time of publication*
+*All information is accurate at time of publication and may be subject to changes.*
