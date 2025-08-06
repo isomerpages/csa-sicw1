@@ -12,4 +12,4 @@ third_nav_title: 22 Oct 2025
 
 The SICW Women in Cyber event aims to encourage more women to consider careers in cybersecurity, targeting both students and working professionals. Through sharings from established female professionals who have made their mark in this male-dominated field, the event provides practical insights for those considering entering the industry. As part of the CSA’s 10th anniversary, this year's programme includes an additional panel that extends beyond gender diversity to address general workforce development matters in cybersecurity.
 <br><br><br>
-*Information is accurate at time of publication*
+*All information is accurate at time of publication and may be subject to changes.*
