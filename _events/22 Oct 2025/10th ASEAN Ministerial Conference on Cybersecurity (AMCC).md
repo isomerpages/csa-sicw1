@@ -14,4 +14,4 @@ third_nav_title: 22 Oct 2025
 
 The 10th ASEAN Ministerial Conference on Cybersecurity Sessions are Ministerial-level dialogues that brings together ASEAN Information and Communications Technology (ICT) and Cybersecurity Ministers, as well as ASEAN Dialogue Partners, to discuss key cyber issues in the region and enhance regional cybersecurity cooperation among Member States. These sessions are by-invitation only.
 <br><br><br>
-*Information is accurate at time of publication*
+*All information is accurate at time of publication and may be subject to changes.*
