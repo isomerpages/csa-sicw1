@@ -15,4 +15,4 @@ third_nav_title: 20 Oct 2025
 The Summit Dinner is a by-invitation only gala dinner to kick off the 10th Singapore International Cyber Week. Foreign government officials, Ambassadors, local government representatives, and industry C-suites will attend the event.
 
 <br><br><br>
-*Information is accurate at time of publication*
+*All information is accurate at time of publication and may be subject to changes.*
