@@ -18,4 +18,4 @@ Join us as CSA’s Distinguished Engineer &amp; Senior Director (Special Project
 * Next, Dr. Soumik Modal will present advanced capabilities in visual and audio **deepfake detection**, along with an automatic fact-checking solution to tackle deceptive synthetic media and non-factual claims. 
 * Finally, Ms. Therese Quieta will demonstrate the use of content authenticity technologies, including the implementation of C2PA, to **prevent misinformation**, and provide transparent provenance in digital media. 
 <br><br><br>
-*Information is accurate at time of publication*
+*All information is accurate at time of publication and may be subject to changes.*
