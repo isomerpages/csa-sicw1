@@ -8,7 +8,7 @@ description: ""
 
 *Director, Centre for Advanced Technologies in Online Safety (CATOS)
 <br>Lead Principal Investigator, Online Trust and Safety (OTS) Research Programme
-<br>Senior Principal Scientist, Institute of High Performance Computing (IHPC), ASTAR<br>Singapore*
+<br>Senior Principal Scientist, Institute of High Performance Computing (IHPC), A*STAR<br>Singapore*
 
 ##### **Biography**
 Dr. Yang Yinping is the Director of the Centre for Advanced Technologies in Online Safety (CATOS), overseeing Singapore's Online Trust and Safety Research Programme aimed at combating online harms with technology. She holds the position of Senior Principal Scientist at A*STAR's Institute of High Performance Computing and leads the Epidemic Preparedness Horizontal Technology Coordinating Office, coordinating A*STAR’s efforts in epidemic preparedness.
