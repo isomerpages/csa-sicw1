@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Therese Quieta.md
       - Speaker – Dr Wang Yunlong.md
       - Speaker – Dr Soumik Mondal.md
       - Speaker – Dr Yang Yinping.md
