@@ -21,11 +21,9 @@ Join us as CSA’s Distinguished Engineer &amp; Senior Director (Special Project
 |**Speakers**          |                                                              |
 | [Mr Stanley Tsang](/speakers/mr-stanley-tsang/)  | *Distinguished Engineer and Senior Director (Special Projects)* <br>Cyber Security Agency of Singapore<br>Singapore      |
 | [Dr Yang Yinping](/speakers/dr-yang-yinping/)  | *Director*, Centre for Advanced Technologies in Online Safety (CATOS) <br>*Lead Principal Investigator*, Online Trust and Safety (OTS) Research Programme<br>*Senior Principal Scientist*, Institute of High Performance Computing (IHPC), ASTAR<br>Singapore      |
-| [Mr Teo Xiang Zheng](/speakers/mr-teo-xiang-zheng/)  | *VP, Head of Advisory* <br>Ensign Infosecurity<br>Singapore      |
-| [Ms Shariffah Rashidah Syed Othman](/speakers/ms-shariffah-rashidah-syed-othman/)  | *Director, Cyber Security Policy and International Cooperation* <br>National Cyber Security Agency (NACSA)<br>Malaysia      |
-|<br>**Moderator**          |                                                              |
-| [Ms Anastasiya Kazakova](/speakers/ms-anastasiya-kazakova/)  | *Cyber Diplomacy Knowledge Fellow; Geneva Dialogue project coordinator* <br>DiploFoundation<br>Russian Federation      |
-| [Mr Vladimir Radunović](/speakers/mr-vladimir-radunovic/)  | *Director of Cybersecurity &amp; E-diplomacy, Diplo* <br>DiploFoundation<br>Serbia      |
+| [Dr Soumik Mondal](/speakers/dr-soumik-mondal/)  | *Work Package Lead, Audio-Visual Deepfake Detector and Automatic Fact Checker (WP4)*, Centre for Advanced Technologies in Online Safety (CATOS) <br>*Principal Scientist*, Institute for Infocomm Research (I2R), ASTAR<br>Singapore      |
+| [Dr Wang Yunlong](/speakers/dr-wang-yunlong/)  | *Work Package Lead,  Emerging Technology Review and Evaluation (WP5)*, Centre for Advanced Technologies in Online Safety (CATOS) <br>*Senior Scientist*, Institute of High Performance Computing (IHPC), ASTAR<br>Singapore      |
+| [Ms Therese Quieta](/speakers/mr-stanley-tsang/)  | *Head of Systems Engineering &amp; Work Package Lead, Integrated Engineering (WP8)*, Centre for Advanced Technologies in Online Safety (CATOS) <br>*Principal Research Engineer*, Institute of High Performance Computing (IHPC), ASTAR<br>Singapore      |
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
