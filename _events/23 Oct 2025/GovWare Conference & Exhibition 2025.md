@@ -23,4 +23,4 @@ Please visit the <a href="https://www.govware.sg/govware/2025/event-info" target
 **All SICW delegates have access to GovWare Exhibition and Tech Talk at Level 1.**
 
 <br><br><br>
-*Information is accurate at time of publication*
+*All information is accurate at time of publication and may be subject to changes.*
