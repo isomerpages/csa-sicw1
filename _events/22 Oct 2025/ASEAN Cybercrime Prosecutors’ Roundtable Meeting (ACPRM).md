@@ -16,4 +16,4 @@ The ACPRM provides a platform for the community of prosecutors across the ASEAN 
 
 Attendance is strictly by invitation only and will be sent out separately to the respective prosecution agencies.
 <br><br><br>
-*Information is accurate at time of publication*
+*All information is accurate at time of publication and may be subject to changes.*
