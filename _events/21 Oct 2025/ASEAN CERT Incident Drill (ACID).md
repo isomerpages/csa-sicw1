@@ -12,11 +12,13 @@ third_nav_title: 21 Oct 2025
 
 *Format: Closed Door Event*
 
-The Cyber Security Agency of Singapore (CSA) is the organiser of the 20th iteration of the ASEAN CERT Incident Drill (ACID) which will be held on 21 and 22 Oct 2025.  
-
-ACID is an annual drill hosted by Singapore since 2006. ACID tests incident response procedures and strengthens cybersecurity preparedness and cooperation among CERTs in ASEAN Member States and ASEAN Dialogue Partners. This year’s ACID will be held in-person at the ASEAN Regional CERT located at the ASEAN-Singapore Cybersecurity Centre of Excellence.
-
-CERT teams from the ASEAN Member States and Dialogue Partners will be participating in this year’s ACID.
+The Cyber Security Agency of Singapore (CSA) is the organiser of the 20th iteration of the ASEAN CERT Incident Drill (ACID) which will be held on 21 and 22 October 2025.  
+ 
+ACID is an annual drill hosted by Singapore since 2006. ACID aims to strengthen cybersecurity preparedness and cooperation among CERTs in ASEAN Member States and Regional Dialogue Partners. This year’s ACID will be held in-person at the ASEAN-Singapore Cybersecurity Centre of Excellence.  
+ 
+CERT teams from the ASEAN Member States and Regional Dialogue Partners will be participating in this year’s ACID.  
+ 
+The ACID Cyber Drill Platform is powered by HackTheBox. 
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
