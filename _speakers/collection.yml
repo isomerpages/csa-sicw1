@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Stanley Tsang.md
       - Speaker – Ms Shariffah Rashidah Syed Othman.md
       - Speaker – Mr Florian Schütz.md
       - Speaker – Mr Tan E Guang Eugene.md
