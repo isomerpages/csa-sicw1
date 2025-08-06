@@ -44,4 +44,4 @@ Event dates and timings below are in Singapore time (GMT +8).
 
 
 
-*Information is accurate at time of publication*
+*All information is accurate at time of publication and may be subject to changes.*
