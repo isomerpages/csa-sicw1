@@ -42,26 +42,7 @@ technologies, including the implementation of C2PA, to <strong>prevent misinform
 and provide transparent provenance in digital media.</p>
 </li>
 </ul>
-<p>|<strong>Speakers</strong> | | | <a href="/speakers/mr-stanley-tsang/" rel="noopener noreferrer nofollow" target="_blank">Mr Stanley Tsang</a> | <em>Distinguished Engineer and Senior Director (Special Projects)</em> 
-<br>Cyber Security Agency of Singapore
-<br>Singapore | | <a href="/speakers/dr-yang-yinping/" rel="noopener noreferrer nofollow" target="_blank">Dr Yang Yinping</a> | <em>Director</em>,
-Centre for Advanced Technologies in Online Safety (CATOS)
-<br><em>Lead Principal Investigator</em>, Online Trust and Safety (OTS) Research
-Programme
-<br><em>Senior Principal Scientist</em>, Institute of High Performance Computing
-(IHPC), A*STAR
-<br>Singapore | | <a href="/speakers/dr-soumik-mondal/" rel="noopener noreferrer nofollow" target="_blank">Dr Soumik Mondal</a> | <em>Work Package Lead, Audio-Visual Deepfake Detector and Automatic Fact Checker (WP4)</em>,
-Centre for Advanced Technologies in Online Safety (CATOS)
-<br><em>Principal Scientist</em>, Institute for Infocomm Research (I2R), A*STAR
-<br>Singapore | | <a href="/speakers/dr-wang-yunlong/" rel="noopener noreferrer nofollow" target="_blank">Dr Wang Yunlong</a> | <em>Work Package Lead, Emerging Technology Review and Evaluation (WP5)</em>,
-Centre for Advanced Technologies in Online Safety (CATOS)
-<br><em>Senior Scientist</em>, Institute of High Performance Computing (IHPC),
-A*STAR
-<br>Singapore | | <a href="/speakers/ms-therese-quieta/" rel="noopener noreferrer nofollow" target="_blank">Ms Therese Quieta</a> | <em>Head of Systems Engineering &amp; Work Package Lead, Integrated Engineering (WP8)</em>,
-Centre for Advanced Technologies in Online Safety (CATOS)
-<br><em>Principal Research Engineer</em>, Institute of High Performance Computing
-(IHPC), A*STAR
-<br>Singapore |</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
