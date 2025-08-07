@@ -7,7 +7,7 @@ description: ""
 #### **Dr Wang Yunlong**
 
 *Work Package Lead,  Emerging Technology Review and Evaluation (WP5), Centre for Advanced Technologies in Online Safety (CATOS)
-<br>Senior Scientist, Institute of High Performance Computing (IHPC), A*STAR
+<br>Senior Scientist, Institute of High Performance Computing (IHPC), A * STAR
 <br>Singapore*
 
 ##### **Biography**
