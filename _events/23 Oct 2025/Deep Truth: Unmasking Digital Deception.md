@@ -62,24 +62,26 @@ Centre for Advanced Technologies in Online Safety (CATOS)
 <br><em>Principal Research Engineer</em>, Institute of High Performance Computing
 (IHPC), A*STAR
 <br>Singapore |</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
+<th rowspan="1" colspan="5">
 <p>Speakers</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="/speakers/mr-stanley-tsang/" rel="noopener nofollow" target="_blank">Mr Stanley Tsang</a>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><em>Distinguished Engineer and Senior Director (Special Projects)</em>,
 <br>Cyber Security Agency of Singapore
 <br>Singapore</p>
@@ -89,6 +91,12 @@ Centre for Advanced Technologies in Online Safety (CATOS)
 <td rowspan="1" colspan="1">
 <p><a href="/speakers/dr-yang-yinping/" rel="noopener noreferrer nofollow" target="_blank">Dr Yang Yinping</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
 <p><em>Director</em>, Centre for Advanced Technologies in Online Safety (CATOS)
@@ -104,6 +112,12 @@ Programme
 <p><a href="/speakers/dr-soumik-mondal/" rel="noopener noreferrer nofollow" target="_blank">Dr Soumik Mondal</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="2">
 <p><em>Work Package Lead, Audio-Visual Deepfake Detector and Automatic Fact Checker (WP4)</em>,
 Centre for Advanced Technologies in Online Safety (CATOS)
@@ -115,6 +129,12 @@ Centre for Advanced Technologies in Online Safety (CATOS)
 <td rowspan="1" colspan="1">
 <p><a href="/speakers/dr-wang-yunlong/" rel="noopener noreferrer nofollow" target="_blank">Dr Wang Yunlong</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
 <p><em>Work Package Lead, Emerging Technology Review and Evaluation (WP5)</em>,
@@ -128,6 +148,12 @@ A*STAR
 <td rowspan="1" colspan="1">
 <p><a href="/speakers/ms-therese-quieta/" rel="noopener noreferrer nofollow" target="_blank">Ms Therese Quieta</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
 <p><em>Head of Systems Engineering &amp; Work Package Lead, Integrated Engineering (WP8)</em>,
