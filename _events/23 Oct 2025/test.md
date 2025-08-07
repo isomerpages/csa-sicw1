@@ -13,7 +13,7 @@ Senior Principal Scientist, Institute of High Performance Computing (IHPC), A\*S
 Singapore | | Dr Soumik Mondal | Work Package Lead, Audio-Visual Deepfake Detector and Automatic Fact Checker (WP4), Centre for Advanced Technologies in Online Safety (CATOS) 
 Principal Scientist, Institute for Infocomm Research (I2R), A*STAR 
 Singapore | | Dr Wang Yunlong | Work Package Lead, Emerging Technology Review and Evaluation (WP5), Centre for Advanced Technologies in Online Safety (CATOS) 
-Senior Scientist, Institute of High Performance Computing (IHPC), A*STAR 
+Senior Scientist, Institute of High Performance Computing (IHPC), A\*STAR 
 Singapore | | Ms Therese Quieta | Head of Systems Engineering & Work Package Lead, Integrated Engineering (WP8), Centre for Advanced Technologies in Online Safety (CATOS) 
 Principal Research Engineer, Institute of High Performance Computing (IHPC), A*STAR 
 Singapore |
