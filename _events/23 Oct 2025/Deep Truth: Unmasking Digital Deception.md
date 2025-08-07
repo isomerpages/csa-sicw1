@@ -78,8 +78,6 @@ Centre for Advanced Technologies in Online Safety (CATOS)
 <td rowspan="1" colspan="1">
 <p><a href="/speakers/mr-stanley-tsang/" rel="noopener nofollow" target="_blank">Mr Stanley Tsang</a>
 </p>
-<p>&lt;a href="<a href="https://www.govware.sg/govware/2024/event-info?utm_source=website&amp;amp;utm_medium=sicw-2024&quot;>GovWare" rel="noopener noreferrer nofollow" target="_blank">/speakers/mr-stanley-tsang/</a> Mr
-Stanley Tsang&lt;/a&gt;</p>
 </td>
 <td rowspan="1" colspan="2">
 <p><em>Distinguished Engineer and Senior Director (Special Projects)</em>,
