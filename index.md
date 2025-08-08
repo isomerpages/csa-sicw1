@@ -45,6 +45,7 @@ sections:
           description: SICW's Anchor Trade Conference & Exhibition.
           linktext: Learn more
           url: /events/21-oct/govware-conference-exhibition-2025/
+      description: <a target="blank" href="/events/">View all SICW 2025 Events</a>
   - infobar:
       title: Revisit SICW 2024
       id: infobar
