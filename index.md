@@ -29,23 +29,27 @@ sections:
       title: Event Highlights
       id: textcards
       cards:
-        - title: SICW Summit
-          description: Gala Dinner for Government Leaders and C-suites.
+        - title: SICW Opening Ceremony & High-Level Plenaries
+          description: Kick-off with SICW launch and key insights from global cyber leaders
           linktext: Learn more
-          url: /events/20-oct/sicw-summit/
+          url: /events/21-oct/sicw-opening-ceremony/
         - title: 10th AMCC
-          description: Ministerial-level Dialogues on Key Cyber Issues.
+          description: Ministerial-level Dialogues on Key Cyber Issues and Enhanced
+            Cooperation
           linktext: Learn more
           url: /events/22-oct/10th-asean-ministerial-conference-on-cybersecurity-amcc/
         - title: High-Level Panels
-          description: Panels on Diplomacy, Policy, Operations and Tech.
+          description: Government and Industry-helmed Panels on Diplomacy, Policy,
+            Operations and Tech
           linktext: Learn more
           url: /events/calendar-of-events-2025/
         - title: GovWare 2025
-          description: SICW's Anchor Trade Conference & Exhibition.
+          description: SICW’s Anchor Trade Conference and Exhibition Connecting Global
+            Cyber Leaders
           linktext: Learn more
           url: /events/21-oct/govware-conference-exhibition-2025/
-      description: <a target="blank" href="/events/">View all SICW 2025 Events</a>
+      description: <a target="blank" href="/events/calendar-of-events-2025/">View all
+        SICW 2025 Events</a>
   - infobar:
       title: Revisit SICW 2024
       id: infobar
