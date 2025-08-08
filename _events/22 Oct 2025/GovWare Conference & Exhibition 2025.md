@@ -18,7 +18,7 @@ The **GovWare Exhibition** showcases cutting-edge cybersecurity technologies fro
 
 Thought-leading programmes like the **GovWare Keynotes and specialised conference tracks**, **Government Closed Door Session** (exclusive to Singapore public service personnel), **Tech Talk**, as well as **executive roundtables** and **CII Forums** on FSI and Healthcare, will facilitate critical dialogues, foster collaborations, and provide a platform for attendees to connect with industry peers and learn from esteemed experts. 
 
-Please visit the <a href="https://www.govware.sg/govware/2025/event-info" target="blank">GovWare official website</a> to explore the GovWare 2025 agenda, speakers and exhibiting companies. A **GovWare Conference Pass** is required to access the GovWare conference sessions and **ASEAN Public Service personnel enjoy S$820 off the standard rate**!
+Please visit the <a href="https://www.govware.sg/" target="blank">GovWare official website</a> to explore the GovWare 2025 agenda, speakers and exhibiting companies. A **GovWare Conference Pass** is required to access the GovWare conference sessions and **ASEAN Public Service personnel enjoy S$820 off the standard rate**!
 
 **All SICW delegates have access to GovWare Exhibition and Tech Talk at Level 1.**
 
