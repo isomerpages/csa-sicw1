@@ -33,7 +33,7 @@ sections:
           description: Kick-off with SICW launch and key insights from global cyber leaders
           linktext: Learn more
           url: /events/21-oct/sicw-opening-ceremony/
-        - title: 10th AMCC
+        - title: ASEAN Ministerial Conference on Cybersecurity
           description: Ministerial-level Dialogues on Key Cyber Issues and Enhanced
             Cooperation
           linktext: Learn more
