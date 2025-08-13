@@ -48,7 +48,7 @@ sections:
             Cyber Leaders
           linktext: Learn more
           url: /events/21-oct/govware-conference-exhibition-2025/
-      description: <a target="blank" href="/events/calendar-of-events-2025/">View all
+      description: <a target="blank" href="/events/calendar-of-events-2025/">View All
         SICW 2025 Events</a>
   - infobar:
       title: Revisit SICW 2024
