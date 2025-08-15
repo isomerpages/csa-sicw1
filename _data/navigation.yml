@@ -1,13 +1,15 @@
 logo: /images/logo_sicw.png
 links:
-  - title: About SICW
+  - title: About SICW 2025
     url: /about-sicw
-  - title: 2024 Highlights
-    url: /sicw-2024-highlights/
   - title: Plan Your Visit
     collection: plan-your-visit
+  - title: Events
+    collection: events
   - title: Media
     collection: media
+  - title: 2024 Highlights
+    url: /sicw-2024-highlights/
   - title: Resources
     resource_room: true
   - title: Contact Us
@@ -17,5 +19,5 @@ links:
         url: /contact-us
       - title: FAQs
         url: /faq
-  - title: Register your interest
-    url: /register-your-interest/
+  - title: Registration
+    url: /registration/

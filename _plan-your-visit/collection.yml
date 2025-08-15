@@ -2,6 +2,7 @@ collections:
   plan-your-visit:
     output: true
     order:
+      - Book Your Hotel.md
       - About Singapore.md
       - Discovering Singapore.md
       - Entry Requirements for Singapore.md

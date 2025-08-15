@@ -9,47 +9,70 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/SICW2024_HeroBanner_v20241119.jpg
+      background: /images/hero_banner_aug_2025_2.jpg
       key_highlights:
-        - title: About SICW
+        - title: About<br>SICW 2025
           description: ""
           url: /about-sicw/
-        - title: SICW Resources
+        - title: Calendar<br>of Events
           description: ""
-          url: /resources/
-  - infobar:
-      title: About SICW
-      id: infobar
-      description: Organised by the Cyber Security Agency of Singapore, SICW gathers
-        global policymakers & experts to advance cooperation & knowledge
-        exchange on key cyber issues.
-  - infobar:
-      id: infobar
-      description: More information on SICW 2025 and its events will be available soon.
+          url: /events/calendar-of-events-2025/
+        - title: Register<br>Now
+          description: ""
+          url: /registration/
   - infopic:
-      title: SICW 2024 at a Glance
-      description: Themed “Trust and Security in the Digital Era”, SICW 2024 drove
-        critical conversations & partnerships to foster trust & enhance security
-        in the cyber domain.
-      button: RELIVE THE HIGHLIGHTS HERE
-      url: /sicw-2024-highlights/
-      image: /images/HighlightsStatsOverviewIcons.png
+      id: infopic
+      description: <img src="/images/HomePg_AboutTextv3.jpg">
+      image: /images/AboutSICWGIF4.gif
       alt: Image alt text
+  - textcards:
+      title: Event Highlights
+      id: textcards
+      cards:
+        - title: SICW Opening Ceremony & High-Level Plenaries
+          description: Kick-off with SICW Launch and Key Insights from Global Cyber Leaders
+          linktext: Learn more
+          url: /events/21-oct/sicw-opening-ceremony/
+        - title: ASEAN Ministerial Conference on Cybersecurity
+          description: Ministerial-level Dialogues on Key Cyber Issues and Enhanced
+            Cooperation
+          linktext: Learn more
+          url: /events/22-oct/10th-asean-ministerial-conference-on-cybersecurity-amcc/
+        - title: High-Level Panels
+          description: Government and Industry-helmed Panels on Diplomacy, Policy,
+            Operations and Tech
+          linktext: Learn more
+          url: /events/calendar-of-events-2025/
+        - title: GovWare 2025
+          description: SICW’s Anchor Trade Conference and Exhibition Connecting Global
+            Cyber Leaders
+          linktext: Learn more
+          url: /events/21-oct/govware-conference-exhibition-2025/
+      description: <a target="blank" href="/events/calendar-of-events-2025/">View All
+        SICW 2025 Events</a>
   - infobar:
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+      title: Revisit SICW 2024
+      id: infobar
+      description: <img
+        src="https://www.sicw.gov.sg/images/HighlightsStatsOverviewIcons.png"><br>
+        <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/uQY8cgmmCF8?si=1SddTXoSVNaU6Y2E"
-        height="315" width="100%"></iframe>
-      title: SICW 2024 Highlights
-  - infobar:
-      id: infobar
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="YouTube video player"
+        height="315" width="100%"></iframe> <br> <iframe allowfullscreen=""
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+        gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube
+        video player"
         src="https://www.youtube.com/embed/qzeSqFBSVco?si=WR8Rvrb97-TjIJCI"
         height="315" width="100%"></iframe>
-  - resources:
-      title: Past SICW Highlights
-      button: See All
+  - infobar:
+      title: Past Speakers
+      id: infobar
+      description: <br><img src="/images/Home_NotableSpeakers3.png">
+  - infobar:
+      title: Past SICW Resources
+      id: infobar
+      description: <img src="/images/ResourcesIcons3.png">
+      button: View All Resources
+      url: /resources/
 ---

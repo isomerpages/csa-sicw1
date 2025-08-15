@@ -4,17 +4,30 @@ permalink: /speakers/mr-teo-xiang-zheng/
 variant: markdown
 description: ""
 ---
-
-![](/images/2024%20speakers/Teo_Zheng_Xiang.png)
+![](/images/2025%20speakers/Xiang_Zheng_Teo.png)
 #### **Mr Teo Xiang Zheng**
 
-*Vice President of Advisory, <br> Ensign InfoSecurity*
+*VP, Head of Advisory, <br> Ensign Infosecurity<br>Singapore*
 
 ##### **Biography**
-Teo Xiang Zheng is the Vice President of Advisory at Ensign InfoSecurity (Ensign), one of Asia’s largest pure-play cybersecurity firms. 
+Teo Xiang Zheng is the VP, Head of Advisory at Ensign InfoSecurity (Ensign), one of Asia’s largest pure-play
+cybersecurity firms.
 
-He is responsible for leading the Advisory services, providing expert counsel and advisory to leaders and executives on cybersecurity strategy, enabling them to understand cybersecurity threats and advise approaches to manage the cyber risks, so that they can make informed risk management decisions. This helps the organisations he advises to improve their cyber readiness and resilience across operational and technological domains. He personally leads special and complex projects with multi-disciplinary teams to help his clients achieve their mission objectives.
+Xiang Zheng is responsible for leading advisory services, providing expert counsel and advisory to leaders on
+cyber security strategy, enabling them to make informed risk management decisions and improve their cyber readiness and resilience across operational and technological domains. He personally leads special and
+complex projects with multi-disciplinary teams, helping customers achieve their mission objectives.
 
-Xiang Zheng is a career consultant having gone through technology, management, and cybersecurity consulting. He currently advises multi-national organisations, critical information infrastructure operators, government agencies and industry associations in advancing their cybersecurity defence posture and promoting novel concepts.
+Prior to this role, Xiang Zheng was the Lead Technologist at a leading management and information
+technology consulting firm where his team of specialists provided strategic counsel on how organisations can
+manage and enhance their cyber security defence posture and resilience to cyber threats.
 
-Xiang Zheng is a Core Member of the Geneva Dialogue for Responsible Behaviour in Cyberspace and a Technical Representative for Ensign InfoSecurity’s interests with MITRE Engenuity Center for Threat Informed Defense as a Research Sponsor.  He graduated from the Nanyang Technological University with a Bachelor of Engineering in Computer Engineering. He received his Master of Laws in Commercial Law from the Singapore Management University. He has also attended the John F. Kenndy School of Government’s executive education programme for cybersecurity at Harvard University in the United States, and the Chief Information Security Officer (CISO) Certificate (executive education) Programme with the Heinz College at Carnegie Mellon University.
+Xiang Zheng previously worked at one of the Big Four advisory firms for nearly a decade. He was also a lead
+digital forensics investigator, and has seen some of Singapore’s important fraud cases and major cyber
+incidents.
+
+Xiang Zheng graduated from Nanyang Technology University with a Bachelor of Engineering in Engineer’s
+Degree in Computer Engineering. He received his Master of Laws, focusing on Commercial Law, from the
+Singapore Management University. He also attended the John F. Kennedy School of Government’s executive
+education programme for cybersecurity at Harvard University in the United States. Xiang Zheng has recently
+completed the Chief Information Security Officer (CISO) Certificate (Executive Education) Programme with the
+Carnegie Mellon University.
