@@ -5,11 +5,19 @@ variant: markdown
 description: ""
 third_nav_title: 22 Oct 2025
 ---
-#### **Workforce X Women in Cyber**
+#### **Women in Cyber Ask-Me-Anything**
 
 **22 October 2025 (Wednesday)**  
-*Time: 2.00pm to 5.00pm (GMT +8)*
+*Time: 1.00pm to 3.00pm (GMT +8)*
 
-The SICW Women in Cyber event aims to encourage more women to consider careers in cybersecurity, targeting both students and working professionals. Through sharings from established female professionals who have made their mark in this male-dominated field, the event provides practical insights for those considering entering the industry. As part of the CSA’s 10th anniversary, this year's programme includes an additional panel that extends beyond gender diversity to address general workforce development matters in cybersecurity.
+The cybersecurity industry continues to face talent shortage and a low female participation rate. We encourage more women and girls to consider cybersecurity as a career. 
+
+This year’s SICW Women in Cyber event will feature an Ask Me Anything session, bringing together accomplished women from government, industry, and academia for an open, candid exchange with the audience.
+
+Participants will hear personal stories and gain first-hand insights from experts working across a variety of roles — from industry practitioners and leaders to policymakers. Speakers will share how they navigated challenges, built expertise, and earned trust in this traditionally male-dominated field.
+
+This interactive format ensures attendees leave with practical tips, fresh perspectives, and the confidence to chart their own path in cybersecurity.
+
+Whether you are a student, early-career professional, or considering a mid-career switch, this session offers a unique opportunity to learn directly from those shaping the next chapter of the cyber landscape.
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
