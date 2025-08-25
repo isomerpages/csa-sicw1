@@ -29,7 +29,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.30am to 11.00am           | [High-Level Panel: Cyber Defence in the AI Era: Countering AI-Driven APTs and Cyber Scams](/events/22-oct/high-level-panel-cyber-defence-in-the-ai-era/)                               |
 | 10.00am to 11.30am           | [Securing Smart Cities](/events/22-oct/securing-smart-cities/)                               |
 | 10.30am to 12.00pm           | [Mobile Security Roundtable](/events/22-oct/mobile-security-roundtable/)                               |
-| 1.00pm to 3.00pm           | [Women in Cyber Ask-Me-Anything](/events/22-oct/workforce-x-women-in-cyber/)                               |
+| 1.00pm to 3.00pm           | [Women in Cyber: Ask-Me-Anything](/events/22-oct/workforce-x-women-in-cyber/)                               |
 | 1.45pm to 5.30pm           | [10th ASEAN Ministerial Conference on Cybersecurity (AMCC)](/events/22-oct/10th-asean-ministerial-conference-on-cybersecurity-amcc/)                               |
 | 2.00pm to 3.30pm           | [High-Level Panel: Cybersecurity Operations with Agentic AI](/events/22-oct/high-level-panel-cybersecurity-operations-with-agentic-ai/)                               |
 | 3.00pm to 5.00pm           | [Workforce Development Panel](/events/22-oct/workforce-development-panel/)                               |
