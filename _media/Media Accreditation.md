@@ -78,6 +78,8 @@ viii.	Accreditation does not guarantee access to all media events / press confer
 
 ix.	The Media Pass is **NON-TRANSFERABLE**. It may only be used by the person whose name and publication name appear on the badge.
 
+<a target="blank" href="https://www.gevme.com/78139197/registration/buy?tickets-419384=1">![](/images/Media_Registration.png)</a>
+
 **5. Media Centre**
 
 i.	There will be a Media Centre located at Sands Expo and Convention Centre, Level 3, with Wi-Fi Internet access and refreshments.
