@@ -86,19 +86,22 @@ ii.	Limited workstations will be available on a first-come-, first-served basis 
 
 iii.	A confirmed schedule of events will be available in the press kit, which will be provided to all accredited media personnel.
 
-iv.	Please note that the Media Centre will be open from 21-23 October 2025, 0830hrs to 1800hrs.
+iv.	Please note that the Media Centre will be open from **21-23 October 2025, 0830hrs to 1800hrs**.
 
-**5. Note to Photographers**
-<br>There will be no photo studio or technical assistance lab in the Media Centre.
+**6. Note to Photographers**
+<br>There will be no photo studio or technical assistance lab in the Media Centre. Please register for media crew access.
 
-**6. Note to Broadcasters**
-<br>There will not be a Broadcast Centre at SICW 2024, however please make any filming or interview requests through the PR representative at [**SICW2024-Press@edelman.com**](mailto:SICW2024-Press@edelman.com). 
+**7. Note to Broadcasters**
+<br>There will not be a Broadcast Centre at SICW 2025, however please make any filming or interview requests through the PR representative at [**SICW2025-Press@edelman.com**](mailto:SICW2025-Press@edelman.com). 
 
-**7. Dress Code**
-<br>The dress code is formal or smart casual business attire. Accredited media wearing inappropriate clothing, e.g., shorts, t-shirts, bermudas, three-quarter pants, and flip flops, will not be admitted to the events.
+Ports / plugs for video cameras to record audio feed from rostrums are available at selected halls and on a first-come, first-served basis. Video crews are encouraged to prepare adequate equipment where possible.  
 
-**8. For further queries, please contact:**
+**8. Dress Code**
+<br>The dress code is **formal or smart casual business attire**. All media personnel wearing inappropriate clothing, e.g. shorts, t-shirts, bermudas, three-quarter pants, and flip flops, will not be admitted to the events.
+
+**9. For Further Queries, Please Contact:**
 <br>Ethan Wong
 <br>Edelman
 <br>Contact: +65 9118 3960
-<br>Email: [SICW2024-Press@edelman.com](mailto:SICW2024-Press@edelman.com)
+
+Please contact [**SICW2025-Press@edelman.com**](mailto:SICW2025-Press@edelman.com) for more information.
