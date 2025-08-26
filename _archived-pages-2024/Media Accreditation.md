@@ -6,7 +6,7 @@ description: ""
 ---
 ### **Media Accreditation**
 
-**1.1 Media Accreditation Guidelines**
+**1. Media Accreditation Guidelines**
 
 Media personnel interested in covering the **Singapore International Cyber Week (SICW) 2025** must register as media, NOT as visitors. The media accreditation guidelines aim to facilitate maximum media access while ensuring safety and security for all SICW 2025 participants.
 
@@ -14,41 +14,71 @@ Successful applicants will have access to **all open sessions** at SICW and GovW
 
 Registration opens on **18 August 2025 and closes at 1200hrs (GMT +8) on 15 October 2025**. Applicants will need to complete an online form and submit all required documents for review. All applications are subject to organiser’s approval.
 
-**1.2 Accreditation Principles**
+**2. Accreditation Principles**
 
 Editors of publications and media agencies are requested to take note of the following principles to ensure that media accreditation is restricted to professional journalists, photographers, camera crew and bloggers:
-<br><br>i.	The organiser considers the media pass to be a working tool to be used only by bona fide members of the press. Marketing personnel, sub-editors, staff of the publication’s secretariat, etc. cannot be accredited as media.
-<br><br>ii.	The organiser will only accredit media personnel from publications and agencies, and professional bloggers:
+<br><br>i. The organiser considers the Media Pass to be a working tool to be used only by bona fide members of the press. Marketing personnel, sub-editors, staff of the publication’s secretariat, etc. <u>cannot</u> be accredited as media. 
+<br><br>ii. The organiser will only accredit media personnel from publications and agencies, and professional bloggers:
 * With a circulation size and quality that fulfil the criteria of the organiser.
 * With a format and quality that fulfil the criteria of the organiser.
+* With published content and expertise on cybersecurity, technology and other relevant topics that appeal to the intended audiences for the event.
 * With a sizeable following and sphere of influence, areas of interest and quality that fulfil the criteria of the organiser.
 
 iii.	Internal company publications cannot be accredited as media. However, at the sole discretion of the organiser, and where the quality and circulation criteria justify the organiser’s consideration, such publications may be eligible for accreditation on a case-by-case basis.
-<br><br>iv.	Under no circumstance will advertising and public relations agencies (or similar companies and organisations) be accredited as media, nor will the organiser issue any media accreditation to representatives (press officers or otherwise) of sponsors, suppliers, and exhibitors.
-<br><br>v.	It should be noted that no double accreditation is allowed (e.g., as media and as delegate).
+<br><br>iv.	Under no circumstance will advertising and public relations agencies (or similar companies and organisations) be accredited as media, nor will the organiser issue any media passes to representatives (press officers or otherwise) of sponsors, suppliers, and exhibitors.
+<br><br>v.	Double accreditation (registering as both media and visitor) is not permitted.
 
-**2. Criteria for Accreditation**
+**3. Criteria for Accreditation**
 
-i. Applications **MUST** be made online. Accreditation will only be granted upon presentation of valid press credentials including:
-* Completed online accreditation application form.
-* Photocopy or a scanned copy of the Press Accreditation Card (for Singapore-based media) issued by the Ministry of Digital Development and Information (MDDI) **OR** official national press card(s) of the representative who will be covering SICW 2024 **OR** letter of assignment on the official letterhead of a media organisation signed by the Publisher, Assignment Editor, Editor-in-chief or Bureau Chief, specifying the name and functional title of the journalist, and stating their role at SICW 2024, **OR** links to three (3) most recently published posts (500 words or more) relating to the relevant areas of interest of the events.
+i. All applications **MUST** be submitted online. Accreditation will only be granted upon presentation of valid press credentials including:
+* The online Media Registration form here<a href="https://www.gevme.com/78139197/registration/buy?tickets-419384=1" target="_blank"></a>
+
+ii.	If you are attending SICW for the first time, or are returning media personnel but have moved to a new publication since the last time you covered SICW, kindly enclose the following document when registering:
+* Photocopy or a scanned copy of the Press Accreditation Card (for Singapore-based media) issued by the Ministry of Digital Development and Information (MDDI) **OR** official national press card(s) of the representative who will be covering SICW 2025 **OR** letter of assignment on the official letterhead of a media organisation signed by the Publisher, Assignment Editor, Editor-in-chief or Bureau Chief, specifying the name and functional title of the journalist, and stating their role at SICW 2025.
+* Links to three (3) most recently published posts (500 words or more) relating to the relevant areas of interest of the events.
 * Professional blogs must be active in the most recent six (6) months, with a minimum of one (1) published post per month relating to the relevant areas of interest of the events.
-* Information on the media outlet (such as website, circulation, readership/viewership, frequency, etc.) (only to be supplied on request).
-* An original copy of the publication (only to be supplied on request).
 
-In addition, non-English publications must supply a certified English translation of the publications’ credits page.
+iii.	The organiser may request additional information to evaluate applications.
 
-ii.	Freelance journalists/photographers **MUST** provide clear credentials that they are on assignment from a specific news organisation/publication. A valid assignment letter from that news organisation/publication is required. Submissions by freelance online journalists will be reviewed on a case-by-case basis.
+iv.	Freelance journalists / photographers **MUST** provide clear credentials and assignment letters from a specific news organisation / publication. Submissions by freelance online journalists will be reviewed on a case-by-case basis.
 
-iii.	Online media (including websites, photography sites and online forum pages) must meet the following requirements, in addition to those above:
+v.	Online media (including websites, photography sites and online forum pages) must meet the following requirements, in addition to those above:
 * The web publication must belong to a registered company, such as a media organisation, and have a specific, verifiable non-web address and telephone number.
 * The online journal requesting accreditation for its correspondent(s) must have a substantial amount of original and topical news content or commentary or analysis on international issues.
-* If the website is new, the applicant seeking accreditation must provide the latest data on the site’s visitorship or other relevant material (press citations, etc.) about the outlet’s audience. The applicant must have an established record of having written extensively on international issues and present copies of three recently published articles, not more than six months old, with his/her byline.
+* If the website is new, the applicant seeking accreditation must provide the latest data on the site’s visitorship or other relevant material (press citations, etc.) about the outlet’s audience. 
+* The applicant must have an established record of having written extensively on international issues and present copies of three recently published articles, not more than six months old, with his / her byline.
 * Please note that online publications that are intended for the communications outreach or advocacy of non-governmental or non-profit organisations do not qualify for media accreditation.
 
-iv.	All applications must be received via the **Singapore International Cyber Week 2024** online accreditation portal before the closing date and time, **1200hrs (GMT +8), 8 October 2024**. Late applications will not be entertained. The organiser reserves the right to reject any incomplete application.
+vi.	All applications must be received via the **Singapore International Cyber Week 2025** Media Registration form here<a href="https://www.gevme.com/78139197/registration/buy?tickets-419384=1" target="_blank"></a> before it closes at **1200hrs (GMT +8), 15 October 2025**. Late applications will not be entertained. The organiser reserves the right to reject any incomplete application.
 
-**3. Accreditation Procedures and Access**
+**4. Accreditation Procedures and Access**
+
+i.	An auto-generated email acknowledgement will be sent to applicants upon submission of the online accreditation form.
+
+ii.	Applications typically require ten (10) working days for processing.
+
+iii.	If any change of representative(s) is(are) to be made, please notify the organiser as soon as possible. Any name changes after the stipulated deadline of 1200hrs (GMT +8), 15 October 2025 may be rejected.
+
+iv.	If the representative(s) is(are) not able to attend the event, the organiser must be notified as early as possible. Failure to inform the organisers of non-attendance may result in future accreditation requests being refused.
+
+v.	Successful applicants will receive email confirmation with terms and conditions. If an applicant does not receive an email within ten (10) working days after registration, he/she is requested to contact the Edelman personnel listed below.
+
+vi.	How to collect your Media Pass:
+
+**21 – 23 OCTOBER 2025
+0830hrs – 1700hrs**
+
+**VENUE**
+SICW Media Registration Counter<br>
+**<u>Level 3</u>**, Sands Expo and Convention Centre
+<br>10 Bayfront Ave, Singapore 018956
+
+vii.	The representative(s) must produce an email confirmation when collecting the media badge at the event. **NO MEDIA PASS WILL BE ISSUED WITHOUT PROPER DOCUMENTATION**. We also encourage you to present your name card when collecting your media badge.
+
+viii.	Accreditation does not guarantee access to all media events / press conferences. Journalists and photographers should refer to the press kit for more details.
+
+ix.	The Media Pass is **NON-TRANSFERABLE**. It may only be used by the person whose name and publication name appear on the badge.
+
 
 i.	An auto-generated email acknowledgement will be sent to applicants upon submission of the online accreditation form.
 <br><br>ii. Each application will take up to ten (10) working days to process.
