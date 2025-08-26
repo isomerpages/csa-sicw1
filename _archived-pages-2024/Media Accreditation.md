@@ -64,12 +64,11 @@ iv.	If the representative(s) is(are) not able to attend the event, the organiser
 v.	Successful applicants will receive email confirmation with terms and conditions. If an applicant does not receive an email within ten (10) working days after registration, he/she is requested to contact the Edelman personnel listed below.
 
 vi.	How to collect your Media Pass:
-
-**21 – 23 OCTOBER 2025
-0830hrs – 1700hrs**
+<br>**21 – 23 OCTOBER 2025
+<br>0830hrs – 1700hrs**
 
 **VENUE**
-SICW Media Registration Counter<br>
+<br>SICW Media Registration Counter<br>
 **<u>Level 3</u>**, Sands Expo and Convention Centre
 <br>10 Bayfront Ave, Singapore 018956
 
@@ -79,33 +78,15 @@ viii.	Accreditation does not guarantee access to all media events / press confer
 
 ix.	The Media Pass is **NON-TRANSFERABLE**. It may only be used by the person whose name and publication name appear on the badge.
 
+**5. Media Centre**
 
-i.	An auto-generated email acknowledgement will be sent to applicants upon submission of the online accreditation form.
-<br><br>ii. Each application will take up to ten (10) working days to process.
-<br><br>iii.	If any change of representative(s) is(are) to be made, please notify the organiser as soon as possible. Any name changes after the stipulated deadline of **1200hrs (GMT +8), 8 October 2024** may be rejected.
-<br><br>iv.	If the representative(s) is(are) not able to attend the event, the organiser must be notified as early as possible. Failure to inform the organisers of non-attendance may result in future accreditation requests being refused.
-<br><br>v.	All successful applicants will be issued an email confirmation with accompanying terms and conditions. If an applicant does not receive an email fifteen (15) working days after registration, he/she is requested to contact the representatives stated below.
-<br><br>vi.	Details for the collection of media passes are as follows:
-<br>**15-17 OCTOBER 2024**
-<br>0830hrs – 1700hrs
+i.	There will be a Media Centre located at Sands Expo and Convention Centre, Level 3, with Wi-Fi Internet access and refreshments.
 
-**VENUE**
-<br>SICW Registration Info Counter
-<br>Level 4, Sands Expo and Convention Centre
-<br>10 Bayfront Ave, Singapore 018956
+ii.	Limited workstations will be available on a first-come-, first-served basis for media personnel in the Media Centre.
 
-vii.	The representative(s) must produce an email confirmation as well as two copies of his/her name cards when collecting the media badge at the event. **NO MEDIA PASS WILL BE ISSUED WITHOUT PROPER DOCUMENTATION.**
+iii.	A confirmed schedule of events will be available in the press kit, which will be provided to all accredited media personnel.
 
-viii.	 Accreditation does not guarantee journalists, camera crew and photographers access to all media events/press conferences. Journalists and photographers should refer to the press kit for more details.
-
-ix.	The media pass is **NON-TRANSFERABLE**. It may only be used by the person whose name and publication name appear on the badge.
-
-**4. Media Centre**
-
-i.	There will be a Media Centre located at Sands Expo and Convention Centre, Level 4, with free Internet access.
-<br><br>ii.	Limited workstations will be available on a first-come-first-served basis to the media in the Media Centre.
-<br><br>iii.	A confirmed schedule of events will be available in the press kit, which will be provided to all accredited journalists.
-<br><br>iv.	Please note that the Media Centre will be open from **15-17 October 2024, 0830 to 1800hrs**.
+iv.	Please note that the Media Centre will be open from 21-23 October 2025, 0830hrs to 1800hrs.
 
 **5. Note to Photographers**
 <br>There will be no photo studio or technical assistance lab in the Media Centre.
