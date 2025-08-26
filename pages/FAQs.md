@@ -32,10 +32,10 @@ To access the GovWare Conference sessions, a valid GovWare Conference Pass is re
 Singapore is open to all travellers without quarantine or testing requirements. Find out more details on travel requirements to Singapore here<a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore" target="_blank"></a>.
 
 **6. How do journalists apply to attend SICW 2025?**
-<br>Media personnel are invited to register for a media pass to gain access to events that are open for media coverage. More info on media accreditation requirements can be found here.
+<br>Media personnel are invited to register for a media pass to gain access to events that are open for media coverage. More info on media accreditation requirements can be found here<a href="https://www.sicw.gov.sg/media-accreditation/" target="_blank"></a>.
 
 **7. What is the dress code for the event?**
 <br>The dress code for SICW 2025 is business attire.
 
 **8. Are there Official Hotel Partners I can book for my stay?**
-<br>Our Partner Hotels offer a range of options, from luxury to affordable, located strategically near the SICW venue and key city attractions, offering convenience, amenities, top-notch service and special rates for SICW attendees. You can choose from our Partner Hotels here<a href="https://www.sicw.gov.sg/book-your-hotel/" target="_blank"></a>. 
+<br>Our Partner Hotels offer a range of options, from luxury to affordable, located strategically near the SICW venue and key city attractions, offering convenience, amenities, top-notch service and special rates for SICW attendees. You can choose from our Partner Hotels here<a href="https://www.sicw.gov.sg/book-your-hotel/" target="_blank"></a>.
