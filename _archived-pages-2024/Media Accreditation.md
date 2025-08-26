@@ -8,11 +8,11 @@ description: ""
 
 **1.1 Media Accreditation Guidelines**
 
-Media personnel who are interested to cover the **Singapore International Cyber Week 2024** are required to register for media passes.  The media accreditation principles below are intended to give the media as much access as possible while ensuring the safety, security and comfort of all participants of SICW 2024.
+Media personnel interested in covering the **Singapore International Cyber Week (SICW) 2025** must register as media, NOT as visitors. The media accreditation guidelines aim to facilitate maximum media access while ensuring safety and security for all SICW 2025 participants.
 
-Media accreditation will commence on **19 August 2024 and close at 1200hrs (GMT +8), 8 October 2024**. Applicants will need to fill in an online form and submit all required documents for review as part of the accreditation process. All media accreditation applications will be subject to the approval of the organisers.
+Successful applicants will have access to **all open sessions** at SICW and GovWare 2025, as well as the exhibition show floor at Level 1 of the Sands Expo and Convention Centre. 
 
-Please contact [**SICW2024-Press@edelman.com**](mailto:SICW2024-Press@edelman.com)&nbsp;for online application access.
+Registration opens on **18 August 2025 and closes at 1200hrs (GMT +8) on 15 October 2025**. Applicants will need to complete an online form and submit all required documents for review. All applications are subject to organiser’s approval.
 
 **1.2 Accreditation Principles**
 
