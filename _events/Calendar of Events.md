@@ -29,12 +29,13 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.30am to 11.00am           | [High-Level Panel: Cyber Defence in the AI Era: Countering AI-Driven APTs and Cyber Scams](/events/22-oct/high-level-panel-cyber-defence-in-the-ai-era/)                               |
 | 10.00am to 11.30am           | [Securing Smart Cities](/events/22-oct/securing-smart-cities/)                               |
 | 10.30am to 12.00pm           | [Mobile Security Roundtable](/events/22-oct/mobile-security-roundtable/)                               |
-| 1.45pm to 5.30pm           | [10th ASEAN Ministerial Conference on Cybersecurity (AMCC)](/events/22-oct/10th-asean-ministerial-conference-on-cybersecurity-amcc/)                               |
-| 2.00pm to 5.00pm           | [Workforce X Women in Cyber](/events/22-oct/workforce-x-women-in-cyber/)                               |
+| 1.00pm to 3.00pm           | [Women in Cyber: Ask-Me-Anything](/events/22-oct/workforce-x-women-in-cyber/)                               |
 | 2.00pm to 3.30pm           | [High-Level Panel: Cybersecurity Operations with Agentic AI](/events/22-oct/high-level-panel-cybersecurity-operations-with-agentic-ai/)                               |
+| 2.00pm to 5.30pm           | [10th ASEAN Ministerial Conference on Cybersecurity (AMCC)](/events/22-oct/10th-asean-ministerial-conference-on-cybersecurity-amcc/)                               |
+| 3.00pm to 5.00pm           | [Workforce Development Panel](/events/22-oct/workforce-development-panel/)                               |
 | <br> **23 October 2025** <br>*(Thursday)*          |                                                                                           |
-| 9.00am to 5.00pm           | [ASEAN Senior Officials Roundtable on Cybercrime (SORC)](/event/23-oct/asean-senior-officials-roundtable-on-cybercrime-sorc/)                               |
 | 9.00am to 5.00pm           | [SPIRITCYBER Hackathon](/events/23-oct/spiritcyber-hackathon/)                               |
+| 9.00am to 5.15pm           | [ASEAN Senior Officials Roundtable on Cybercrime (SORC)](/event/23-oct/asean-senior-officials-roundtable-on-cybercrime-sorc/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/23-oct/govware-conference-exhibition-2025/)                               |
 | 9.30am to 11.00am           | [Deep Truth: Unmasking Digital Deception](/events/23-oct/deep-truth-unmasking-digital-deception/)                               |
 | 9.30am to 12.00pm           | [High-Level Panel: Diplomacy](/events/23-oct/high-level-panel-diplomacy/)                               |
