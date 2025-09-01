@@ -6,6 +6,8 @@ description: ""
 ---
 ### **Media Accreditation**
 
+![](/images/Media_Accreditation_Key_Dates.png)
+
 **1. Media Accreditation Guidelines**
 
 Media personnel interested in covering the **Singapore International Cyber Week (SICW) 2025** must register as media, NOT as visitors. The media accreditation guidelines aim to facilitate maximum media access while ensuring safety and security for all SICW 2025 participants.
