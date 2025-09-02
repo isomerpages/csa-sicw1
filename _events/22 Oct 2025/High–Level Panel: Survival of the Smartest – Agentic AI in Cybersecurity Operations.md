@@ -6,7 +6,7 @@ variant: markdown
 description: ""
 third_nav_title: 22 Oct 2025
 ---
-#### **Survival of the Smartest: Agentic AI in Cybersecurity Operations**
+#### **High-Level Panel: Survival of the Smartest — Agentic AI in Cybersecurity Operations**
 
 **22 October 2025 (Wednesday)**  
 *Time: 11.30am to 12.30pm (GMT +8)*
