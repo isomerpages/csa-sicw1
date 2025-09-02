@@ -6,7 +6,7 @@ variant: markdown
 description: ""
 third_nav_title: 22 Oct 2025
 ---
-#### **High-Level Panel: Cyber Defence in the AI Era —Countering AI-Driven APTs and Cyber Scams**
+#### **High-Level Panel: Cyber Defence in the AI Era — Countering AI-Driven APTs and Cyber Scams**
 
 **22 October 2025 (Wednesday)**  
 *Time: 9.30am to 11.00am (GMT +8)*
