@@ -4,7 +4,7 @@ title: Singapore International Cyber Week
 description: Singapore International Cyber Week (SICW) is Asia-Pacific’s most
   established cybersecurity event for global policy makers, thought leaders and
   industry experts.
-image: /images/logo_sicw.png
+image: /images/logos/SICW_2025_logo.png
 permalink: /
 notification: ""
 sections:
