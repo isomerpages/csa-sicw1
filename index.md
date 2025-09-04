@@ -30,7 +30,8 @@ sections:
       id: textcards
       cards:
         - title: SICW Opening Ceremony & High-Level Plenaries
-          description: Kick-off with SICW Launch and Key Insights from Global Cyber Leaders
+          description: Kick-off with the SICW Launch and Key Insights from Global Cyber
+            Leaders
           linktext: Learn more
           url: /events/21-oct/sicw-opening-ceremony/
         - title: ASEAN Ministerial Conference on Cybersecurity
