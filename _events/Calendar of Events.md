@@ -32,7 +32,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 12.00pm to 5.30pm           | [10th ASEAN Ministerial Conference on Cybersecurity (AMCC)](/events/22-oct/10th-asean-ministerial-conference-on-cybersecurity-amcc/)                               |
 | 1.00pm to 3.00pm           | [Women in Cyber: Ask-Me-Anything](/events/22-oct/women-in-cyber/)                               |
 | 3.00pm to 4.30pm           | [High-Level Panel: Insights into 2025’s Cyber Threats](/events/22-oct/high-level-panel-insights-into-2025-s-cyber-threats/)                               |
-| 3.00pm to 5.00pm           | [Workforce Development Panel](/events/22-oct/workforce-development-panel/)                               |
+| 3.00pm to 4.45pm           | [Workforce Development Panel](/events/22-oct/workforce-development-panel/)                               |
 | <br> **23 October 2025** <br>*(Thursday)*          |                                                                                           |
 | 9.00am to 5.00pm           | [SPIRITCYBER Hackathon](/events/23-oct/spiritcyber-hackathon/)                               |
 | 9.00am to 5.15pm           | [ASEAN Senior Officials Roundtable on Cybercrime (SORC)](/event/23-oct/asean-senior-officials-roundtable-on-cybercrime-sorc/)                               |
