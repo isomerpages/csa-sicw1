@@ -7,7 +7,7 @@ third_nav_title: 23 Oct 2025
 ---
 #### **Deep Truth: Unmasking Digital Deception**
 
-**23 October 2024 (Thursday)**  
+**23 October 2025 (Thursday)**  
 *Time: 9.30am to 11.00am (GMT +8)*
 
 As AI-generated content becomes increasingly sophisticated, the risk is that information threats will become all the more convincing, and pose a greater threat to societal trust and national security.
