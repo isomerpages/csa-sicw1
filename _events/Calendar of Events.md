@@ -16,23 +16,23 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 9.20am           | [SICW Opening Ceremony](/events/21-oct/sicw-opening-ceremony/)                               |
 | 9.00am to 5.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/21-oct/asean-cert-incident-drill-acid/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/21-oct/govware-conference-exhibition-2025/)                               |
-| 9.20am to 12.00pm           | [High-Level Panels: Opening Plenary](/events/21-oct/high-level-panels-opening-plenary/)                               |
+| 9.20am to 11.45am           | [High-Level Panels: Opening Plenary](/events/21-oct/high-level-panels-opening-plenary/)                               |
 | 12.00pm to 1.30pm           | [High-Level Panel: Policy](/events/21-oct/high-level-panel-policy/)                               |
 | 1.00pm to 3.00pm           | [Cyber Norms on the Ground: Who Is Responsible for Securing Critical Infrastructure?](/events/21-oct/cyber-norms-on-the-ground-who-is-responsible-for-securing-critical-infrastructure/)                               |
-| 2.00pm to 3.30pm           | [High-Level Panel: Insights into 2025’s Cyber Threats](/events/21-oct/high-level-panel-insights-into-2025-s-cyber-threats/)                               |
 | 2.30pm to 5.30pm           | [SG Cyber Safe for Enterprises](/events/21-oct/sg-cyber-safe-for-enterprises/)                               |
 | <br> **22 October 2025** <br>*(Wednesday)* |                                                                                                |
 | 9.00am to 12.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/22-oct/asean-cert-incident-drill-acid/)                               |
 | 9.00am to 5.00pm           | [ASEAN Cybercrime Prosecutors’ Roundtable Meeting (ACPRM)](/events/22-oct/asean-cybercrime-prosecutors-roundtable-meeting-acprm/)                               |
 | 9.00am to 5.00pm           | [SPIRITCYBER Hackathon](/events/22-oct/spiritcyber-hackathon/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/22-oct/govware-conference-exhibition-2025/)                               |
-| 9.30am to 11.00am           | [High-Level Panel: Cyber Defence in the AI Era: Countering AI-Driven APTs and Cyber Scams](/events/22-oct/high-level-panel-cyber-defence-in-the-ai-era/)                               |
+| 9.30am to 11.00am           | [High-Level Panel: Cyber Defence in the AI Era — Countering AI-Driven APTs and Cyber Scams](/events/22-oct/high-level-panel-cyber-defence-in-the-ai-era/)                               |
 | 10.00am to 11.30am           | [Securing Smart Cities](/events/22-oct/securing-smart-cities/)                               |
 | 10.30am to 12.00pm           | [Mobile Security Roundtable](/events/22-oct/mobile-security-roundtable/)                               |
-| 1.00pm to 3.00pm           | [Women in Cyber: Ask-Me-Anything](/events/22-oct/workforce-x-women-in-cyber/)                               |
-| 2.00pm to 3.30pm           | [High-Level Panel: Cybersecurity Operations with Agentic AI](/events/22-oct/high-level-panel-cybersecurity-operations-with-agentic-ai/)                               |
-| 2.00pm to 5.30pm           | [10th ASEAN Ministerial Conference on Cybersecurity (AMCC)](/events/22-oct/10th-asean-ministerial-conference-on-cybersecurity-amcc/)                               |
-| 3.00pm to 5.00pm           | [Workforce Development Panel](/events/22-oct/workforce-development-panel/)                               |
+| 11.30am to 12.30pm           | [High-Level Panel: Survival of the Smartest — Agentic AI in Cybersecurity Operations](/events/22-oct/survival-of-the-smartest-agentic-ai-in-cybersecurity-operations/)                               |
+| 12.00pm to 5.30pm           | [10th ASEAN Ministerial Conference on Cybersecurity (AMCC)](/events/22-oct/10th-asean-ministerial-conference-on-cybersecurity-amcc/)                               |
+| 1.00pm to 3.00pm           | [Women in Cyber: Ask-Me-Anything](/events/22-oct/women-in-cyber/)                               |
+| 3.00pm to 4.30pm           | [High-Level Panel: Insights into 2025’s Cyber Threats](/events/22-oct/high-level-panel-insights-into-2025-s-cyber-threats/)                               |
+| 3.00pm to 4.45pm           | [Workforce Development Panel](/events/22-oct/workforce-development-panel/)                               |
 | <br> **23 October 2025** <br>*(Thursday)*          |                                                                                           |
 | 9.00am to 5.00pm           | [SPIRITCYBER Hackathon](/events/23-oct/spiritcyber-hackathon/)                               |
 | 9.00am to 5.15pm           | [ASEAN Senior Officials Roundtable on Cybercrime (SORC)](/event/23-oct/asean-senior-officials-roundtable-on-cybercrime-sorc/)                               |
