@@ -39,6 +39,8 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/23-oct/govware-conference-exhibition-2025/)                               |
 | 9.30am to 11.00am           | [Deep Truth: Unmasking Digital Deception](/events/23-oct/deep-truth-unmasking-digital-deception/)                               |
 | 9.30am to 12.00pm           | [High-Level Panel: Diplomacy](/events/23-oct/high-level-panel-diplomacy/)                               |
+| 1.00pm to 2.00pm           | [Global Cybersecurity Labelling Initiative Ceremony](/events/23-oct/global-cybersecurity-labelling-initiative-ceremony/)                               |
+| 2.00pm to 5.00pm           | [Global Cybersecurity Labelling Initiative Workshop](/events/23-oct/global-cybersecurity-labelling-initiative-workshop/)                               |
 | 2.30pm to 4.00pm           | [High-Level Panel: Securing Tomorrow, Today – Bridging Awareness to Action through Quantum Readiness](/events/23-oct/high-level-panel-securing-tomorrow-today/)                               |
 | <br> **24 October 2025** <br>*(Friday)*          |                                                                                           |
 | 9.00am to 6.00pm           | [5th Counter Ransomware Initiative Summit – By Invitation Only](/events/24-oct/5th-counter-ransomware-initiative-summit/)                               |
