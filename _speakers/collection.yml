@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Dr Tan Teik Guan.md
       - Speaker – Dr Ong Chen Hui.md
       - Speaker – Dr Vikram Sharma.md
       - Speaker – Mr Michael Osborne.md
