@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Moderator – Mr Colin Soutar.md
       - Speaker – Dr Soumik Mondal.md
       - Speaker – Ms Shariffah Rashidah Syed Othman.md
       - Speaker – Ms Therese Quieta.md
