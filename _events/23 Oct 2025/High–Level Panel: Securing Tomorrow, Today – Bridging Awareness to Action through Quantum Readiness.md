@@ -15,7 +15,7 @@ As quantum computing rapidly advances, the conversation around quantum readiness
 
 |**Speakers**          |                                                              |
 | [Mr Michael Osborne](/speakers/mr-michael-osborne/)  | *Chief Technology Officer* <br>IBM Quantum Safe<br>Switzerland      |
-| [Dr Tan Teik Guan](/speakers/his-excellency-pengiran-dato-shamhary-mustapha/)  | *Designation* <br>pQCee.com<br>Singapore      |
+| [Dr Tan Teik Guan](/speakers/dr-tan-teik-guan/)  | *Designation* <br>pQCee.com<br>Singapore      |
 | [Dr Vikram Sharma](/speakers/dr-vikram-sharma/)  | *Founder and CEO* <br>QuintessenceLabs<br>Australia      |
 | [Dr Ong Chen Hui](/speakers/dr-ong-chen-hui/)  | *Assistant Chief Executive, Business and Technology* <br>Infocomm Media Development Authority<br>Singapore      |
 |<br>**Moderator**          |                                                              |
