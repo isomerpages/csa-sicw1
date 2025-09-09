@@ -15,9 +15,9 @@ As quantum computing rapidly advances, the conversation around quantum readiness
 
 |**Speakers**          |                                                              |
 | [Mr Michael Osborne](/speakers/mr-michael-osborne/)  | *Chief Technology Officer* <br>IBM Quantum Safe<br>Switzerland      |
-| [His Excellency Pengiran Dato Shamhary Mustapha](/speakers/his-excellency-pengiran-dato-shamhary-mustapha/)  | *Minister of Transport and Infocommunications* <br>Brunei      |
-| [Hon. Judith Collins KC](/speakers/hon-judith-collins-kc/)  | *Minister Responsible for the Government Communications Security Bureau* <br>New Zealand      |
-| [H.E. Anton Demokhin](/speakers/he-anton-demokhin/)  | *Deputy Minister for Foreign Affairs, Chief Digital Transformation Officer* <br>Ukraine      |
+| [Dr Tan Teik Guan](/speakers/his-excellency-pengiran-dato-shamhary-mustapha/)  | *Designation* <br>pQCee.com<br>Singapore      |
+| [Dr Vikram Sharma](/speakers/dr-vikram-sharma/)  | *Founder and CEO* <br>QuintessenceLabs<br>Australia      |
+| [Dr Ong Chen Hui](/speakers/dr-ong-chen-hui/)  | *Assistant Chief Executive, Business and Technology* <br>Infocomm Media Development Authority<br>Singapore      |
 |<br>**Moderator**          |                                                              |
 | [Dr Colin Soutar](/speakers/dr-colin-soutar/)  | *Global Quantum Cyber Readiness Leader* <br>Deloitte Risk &amp; Financial Advisory<br>United States      |
 
