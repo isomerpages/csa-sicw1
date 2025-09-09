@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Dr Ong Chen Hui.md
       - Speaker – Dr Vikram Sharma.md
       - Speaker – Mr Michael Osborne.md
       - Moderator – Dr Colin Soutar.md
