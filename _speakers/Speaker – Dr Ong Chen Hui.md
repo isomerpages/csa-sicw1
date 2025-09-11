@@ -4,7 +4,7 @@ permalink: /speakers/dr-ong-chen-hui/
 variant: markdown
 description: ""
 ---
-![](/images/2025%20speakers/Dr_Ong_Chen_Hui.png)
+![](/images/2025%20speakers/Dr_Ong_Chen_Hui_2.png)
 #### **Dr Ong Chen Hui**
 
 *Assistant Chief Executive, Business and Technology, <br>Infocomm Media Development Authority<br>Singapore*
