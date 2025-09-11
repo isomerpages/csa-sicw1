@@ -19,7 +19,7 @@ As quantum computing rapidly advances, the conversation around quantum readiness
 | [Dr Vikram Sharma](/speakers/dr-vikram-sharma/)  | *Founder and CEO* <br>QuintessenceLabs<br>Australia      |
 | [Dr Ong Chen Hui](/speakers/dr-ong-chen-hui/)  | *Assistant Chief Executive, Business and Technology* <br>Infocomm Media Development Authority<br>Singapore      |
 |<br>**Moderator**          |                                                              |
-| [Dr Colin Soutar](/speakers/dr-colin-soutar/)  | *Global Quantum Cyber Readiness Leader* <br>Deloitte Risk &amp; Financial Advisory<br>United States      |
+| [Dr Colin Soutar](/speakers/dr-colin-soutar/)  | *Managing Director, Global Quantum Cyber Readiness Leader,* <br>Deloitte &amp; Touche LLP<br>United States      |
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
