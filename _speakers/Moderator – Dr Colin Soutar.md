@@ -4,10 +4,10 @@ permalink: /speakers/dr-colin-soutar/
 variant: markdown
 description: ""
 ---
-![](/images/2025%20speakers/Dr_Colin_Soutar.png)
+![](/images/2025%20speakers/Colin_Soutar_2.png)
 #### **Dr Colin Soutar**
 
-*Global Quantum Cyber Readiness Leader, <br> Deloitte Risk &amp; Financial Advisory<br>United States*
+*Managing Director, Global Quantum Cyber Readiness Leader <br> Deloitte &amp; Touche LLP<br>United States*
 
 ##### **Biography**
-Dr. Colin Soutar is a Managing Director in Deloitte Risk and Financial Advisory based out of Arlington, VA. Colin is the Cyber &amp; Strategic Risk Products and Technology lead for the Government and Public Services practice. He helps organizations develop and execute their cybersecurity risk management strategies. In 2013, he helped develop the NIST Cybersecurity Framework, and has since helped many leading private and public sector organizations implement it. Prior to his current role, Colin served for more than 10 years as Chief Technology Officer for a Canadian-based biometric and identity management company. He began his career with a two-year post-doctorate fellowship at NASA’s Johnson Space Center, developing pattern recognition techniques for autonomous rendezvous and capture operations.
+Dr. Colin Soutar is a managing director with Deloitte &amp; Touche LLP. Colin serves as the Cyber lead for growth platforms within Deloitte’s U.S. Government &amp; Public Services business. He is also the Deloitte US and global Quantum Cyber Readiness leader. After finishing his studies in Scotland, Colin started his career with a two-year post-doctorate study at NASA’s Johnson Space Center, developing pattern recognition techniques for autonomous rendezvous and capture operations. He then applied these same techniques to biometric technologies as the CTO of a public company in Toronto, Canada. He has served in many national and international roles such as the World Economic Forum Global Future Council for Cybersecurity, as well as international standards committees for identity technologies, and he directly helped the National Institute of Standards and Technology (NIST) to develop the Cybersecurity Framework. He has over three decades of navigating public and private sector adoption of emerging security and privacy technologies.
