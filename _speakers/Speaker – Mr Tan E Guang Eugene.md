@@ -4,7 +4,7 @@ permalink: /speakers/mr-tan-e-guang-eugene/
 variant: markdown
 description: ""
 ---
-![](/images/2025%20speakers/Eugene_Tan.png)
+
 ![](/images/2025%20speakers/Eugene_Tan_2.png)
 #### **Mr Tan E Guang Eugene**
 
