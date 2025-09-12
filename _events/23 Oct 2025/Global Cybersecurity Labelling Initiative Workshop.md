@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 23 Oct 2025
 ---
-#### **Global Cybersecurity Labelling Initiative Workshop**
+#### **Global Cybersecurity Labelling Initiative Closed-Door Discussions**
 
 **23 October 2025 (Thursday)**  
 *Time: 2.00pm to 5.00pm (GMT +8)*
