@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 ---
 ![](/images/2025%20speakers/Eugene_Tan.png)
+![](/images/2025%20speakers/Eugene_Tan_2.png)
 #### **Mr Tan E Guang Eugene**
 
 *Associate Research Fellow at the Centre of Excellence for National Security, <br> S Rajaratnam School of International Studies, Nanyang Technological University<br>Singapore*
