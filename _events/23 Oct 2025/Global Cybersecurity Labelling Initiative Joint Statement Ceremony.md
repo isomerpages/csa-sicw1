@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 23 Oct 2025
 ---
-#### **Global Cybersecurity Labelling Initiative Ceremony**
+#### **Global Cybersecurity Labelling Initiative Joint Statement Ceremony**
 
 **23 October 2025 (Thursday)**  
 *Time: 1.00pm to 2.00pm (GMT +8)*
