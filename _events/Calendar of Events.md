@@ -24,7 +24,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 5.00pm           | [ASEAN Cybercrime Prosecutors’ Roundtable Meeting (ACPRM)](/events/22-oct/asean-cybercrime-prosecutors-roundtable-meeting-acprm/)                               |
 | 9.00am to 5.00pm           | [SPIRITCYBER Hackathon](/events/22-oct/spiritcyber-hackathon/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/22-oct/govware-conference-exhibition-2025/)                               |
-| 9.30am to 11.00am           | [High-Level Panel: Cyber Defence in the AI Era — Countering AI-Driven APTs and Cyber Scams](/events/22-oct/high-level-panel-cyber-defence-in-the-ai-era/)                               |
+| 9.30am to 10.30am           | [High–Level Panel: Infinite Actions, Finite Control – Securing Agentic AI](/events/22-oct/high-level-panel-infinite-actions-finite-control/)                               |
 | 10.00am to 11.30am           | [Securing Smart Cities](/events/22-oct/securing-smart-cities/)                               |
 | 10.30am to 11.30am           | [High-Level Panel: Uplifting Public-Private Partnership to Combat Scams in Southeast Asia](/events/22-oct/high-level-panel-uplifting-public-private-partnership/)                               |
 | 10.30am to 12.00pm           | [Mobile Security Roundtable](/events/22-oct/mobile-security-roundtable/)                               |
