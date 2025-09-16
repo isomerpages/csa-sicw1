@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 24 Oct 2025
 ---
-#### **5th International Counter Ransomware Initiative Summit***
+#### **5th International Counter Ransomware Initiative Summit – By Invitation Only**
 
 **24 October 2025 (Friday)**  
 *Time: 9.00am to 6.00pm (GMT +8)*
