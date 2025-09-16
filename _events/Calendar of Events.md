@@ -43,7 +43,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 2.00pm to 5.00pm           | [Global Cybersecurity Labelling Initiative Closed-Door Discussions](/events/23-oct/global-cybersecurity-labelling-initiative-workshop/)                               |
 | 2.30pm to 4.00pm           | [High-Level Panel: Securing Tomorrow, Today – Bridging Awareness to Action through Quantum Readiness](/events/23-oct/high-level-panel-securing-tomorrow-today/)                               |
 | <br> **24 October 2025** <br>*(Friday)*          |                                                                                           |
-| 9.00am to 6.00pm           | [5th International Counter Ransomware Initiative Summit](/events/24-oct/5th-counter-ransomware-initiative-summit/)                               |
+| 9.00am to 6.00pm           | [5th International Counter Ransomware Initiative Summit – By Invitation Only](/events/24-oct/5th-counter-ransomware-initiative-summit/)                               |
 
 
 
