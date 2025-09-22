@@ -2,17 +2,16 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Chang Sau Sheong.md
       - Speaker – Mr Ilya Dreytser.md
       - Speaker – Mr Sheran Gunasekera.md
-      - Speaker – Mr Chang Sau Sheong.md
       - Speaker – Mr Eugene Liderman.md
-      - Speaker – Mr Sven Schleier.md
-      - Moderator – Ms Kelly Shortridge.md
       - Speaker – Dr Soumik Mondal.md
       - Speaker – Dr Ong Chen Hui.md
       - Speaker – Mr Michael Osborne.md
       - Speaker – Ms Shariffah Rashidah Syed Othman.md
       - Speaker – Ms Therese Quieta.md
+      - Speaker – Mr Sven Schleier.md
       - Speaker – Mr Florian Schütz.md
       - Speaker – Dr Vikram Sharma.md
       - Speaker – Mr Tan E Guang Eugene.md
@@ -23,4 +22,5 @@ collections:
       - Speaker – Dr Wang Yunlong.md
       - Moderator – Ms Anastasiya Kazakova.md
       - Moderator – Mr Vladimir Radunović.md
+      - Moderator – Ms Kelly Shortridge.md
       - Moderator – Dr Colin Soutar.md
