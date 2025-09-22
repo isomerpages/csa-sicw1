@@ -26,6 +26,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 5.00pm           | [SPIRITCYBER Hackathon](/events/22-oct/spiritcyber-hackathon/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/22-oct/govware-conference-exhibition-2025/)                               |
 | 10.00am to 11.30am           | [Securing Smart Cities](/events/22-oct/securing-smart-cities/)                               |
+| 10.00am to 12.00pm           | [Cyber Accountability In Asia: Navigating Norms and Legal Frameworks](/events/22-oct/cyber-accountability-in-asia-navigating-norms-and-legal-frameworks/)                               |
 | 10.30am to 11.30am           | [High-Level Panel: Uplifting Public-Private Partnership to Combat Scams in Southeast Asia](/events/22-oct/high-level-panel-uplifting-public-private-partnership/)                               |
 | 10.30am to 12.00pm           | [Mobile Security Roundtable](/events/22-oct/mobile-security-roundtable/)                               |
 | 11.30am to 12.30pm           | [High-Level Panel: Survival of the Smartest — Agentic AI in Cybersecurity Operations](/events/22-oct/survival-of-the-smartest-agentic-ai-in-cybersecurity-operations/)                               |
@@ -39,7 +40,9 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 5.15pm           | [ASEAN Senior Officials Roundtable on Cybercrime (SORC)](/event/23-oct/asean-senior-officials-roundtable-on-cybercrime-sorc/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/23-oct/govware-conference-exhibition-2025/)                               |
 | 9.00am to 12.30pm           | [High-Level Panel: Diplomacy](/events/23-oct/high-level-panel-diplomacy/)                               |
+| 11.30am to 12.30pm           | [EU–ASEAN Cooperation on Cyber Fraud and Scams - Operationalising UN Norms and the New Cybercrime Convention](/events/23-oct/high-level-panel-diplomacy/)                               |
 | 1.00pm to 2.00pm           | [Global Cybersecurity Labelling Initiative Joint Statement Ceremony](/events/23-oct/global-cybersecurity-labelling-initiative-ceremony/)                               |
+| 1.00pm to 2.00pm           | [Governing Commercial Cyber Intrusion Capabilities: the Path Forward for the Pall Mall Process](/events/23-oct/governing-commercial-cyber-intrusion-capabilities/)                               |
 | 1.00pm to 2.15pm           | [Deep Truth: Unmasking Digital Deception](/events/23-oct/deep-truth-unmasking-digital-deception/)                               |
 | 2.00pm to 5.30pm           | [Global Cybersecurity Labelling Initiative Closed-Door Discussions](/events/23-oct/global-cybersecurity-labelling-initiative-workshop/)                               |
 | 2.30pm to 4.00pm           | [High-Level Panel: Securing Tomorrow, Today – Bridging Awareness to Action through Quantum Readiness](/events/23-oct/high-level-panel-securing-tomorrow-today/)                               |
