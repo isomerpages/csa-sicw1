@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Sheran Gunasekera.md
       - Speaker – Mr Chang Sau Sheong.md
       - Speaker – Mr Eugene Liderman.md
       - Speaker – Mr Sven Schleier.md
