@@ -6,7 +6,7 @@ description: ""
 ---
 ### **Media Accreditation**
 
-![](/images/Media_Accreditation_Key_Dates.png)
+![](/images/Media_Accreditation_Key_Dates_2.png)
 
 **1. Media Accreditation Guidelines**
 
