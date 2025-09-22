@@ -18,14 +18,16 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/21-oct/govware-conference-exhibition-2025/)                               |
 | 9.20am to 11.45am           | [High-Level Panels: Opening Plenary](/events/21-oct/high-level-panels-opening-plenary/)                               |
 | 1.00pm to 3.00pm           | [Cyber Norms on the Ground: Who Is Responsible for Securing Critical Infrastructure?](/events/21-oct/cyber-norms-on-the-ground-who-is-responsible-for-securing-critical-infrastructure/)                               |
+| 2.00pm to 3.00pm           | [Addressing Subsea Cable Security and Resilience](/events/21-oct/addressing-subsea-cable-security-and-resilience/)                               |
 | 2.30pm to 5.30pm           | [SG Cyber Safe for Enterprises](/events/21-oct/sg-cyber-safe-for-enterprises/)                               |
 | <br> **22 October 2025** <br>*(Wednesday)* |                                                                                                |
+| 9.00am to 10.30am           | [High–Level Panel: Infinite Actions, Finite Control – Securing Agentic AI](/events/22-oct/high-level-panel-infinite-actions-finite-control/)                               |
 | 9.00am to 12.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/22-oct/asean-cert-incident-drill-acid/)                               |
 | 9.00am to 5.00pm           | [ASEAN Cybercrime Prosecutors’ Roundtable Meeting (ACPRM)](/events/22-oct/asean-cybercrime-prosecutors-roundtable-meeting-acprm/)                               |
 | 9.00am to 5.00pm           | [SPIRITCYBER Hackathon](/events/22-oct/spiritcyber-hackathon/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/22-oct/govware-conference-exhibition-2025/)                               |
-| 9.30am to 10.30am           | [High–Level Panel: Infinite Actions, Finite Control – Securing Agentic AI](/events/22-oct/high-level-panel-infinite-actions-finite-control/)                               |
 | 10.00am to 11.30am           | [Securing Smart Cities](/events/22-oct/securing-smart-cities/)                               |
+| 10.00am to 12.00pm           | [Cyber Accountability In Asia: Navigating Norms and Legal Frameworks](/events/22-oct/cyber-accountability-in-asia-navigating-norms-and-legal-frameworks/)                               |
 | 10.30am to 11.30am           | [High-Level Panel: Uplifting Public-Private Partnership to Combat Scams in Southeast Asia](/events/22-oct/high-level-panel-uplifting-public-private-partnership/)                               |
 | 10.30am to 12.00pm           | [Mobile Security Roundtable](/events/22-oct/mobile-security-roundtable/)                               |
 | 11.30am to 12.30pm           | [High-Level Panel: Survival of the Smartest — Agentic AI in Cybersecurity Operations](/events/22-oct/survival-of-the-smartest-agentic-ai-in-cybersecurity-operations/)                               |
@@ -38,10 +40,11 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 5.00pm           | [SPIRITCYBER Hackathon](/events/23-oct/spiritcyber-hackathon/)                               |
 | 9.00am to 5.15pm           | [ASEAN Senior Officials Roundtable on Cybercrime (SORC)](/event/23-oct/asean-senior-officials-roundtable-on-cybercrime-sorc/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/23-oct/govware-conference-exhibition-2025/)                               |
-| 9.30am to 12.00pm           | [High-Level Panel: Diplomacy](/events/23-oct/high-level-panel-diplomacy/)                               |
+| 9.00am to 12.30pm           | [High-Level Panel: Diplomacy](/events/23-oct/high-level-panel-diplomacy/)                               |
 | 1.00pm to 2.00pm           | [Global Cybersecurity Labelling Initiative Joint Statement Ceremony](/events/23-oct/global-cybersecurity-labelling-initiative-ceremony/)                               |
+| 1.00pm to 2.00pm           | [Governing Commercial Cyber Intrusion Capabilities: the Path Forward for the Pall Mall Process](/events/23-oct/governing-commercial-cyber-intrusion-capabilities/)                               |
 | 1.00pm to 2.15pm           | [Deep Truth: Unmasking Digital Deception](/events/23-oct/deep-truth-unmasking-digital-deception/)                               |
-| 2.00pm to 5.00pm           | [Global Cybersecurity Labelling Initiative Closed-Door Discussions](/events/23-oct/global-cybersecurity-labelling-initiative-workshop/)                               |
+| 2.00pm to 5.30pm           | [Global Cybersecurity Labelling Initiative Closed-Door Discussions](/events/23-oct/global-cybersecurity-labelling-initiative-workshop/)                               |
 | 2.30pm to 4.00pm           | [High-Level Panel: Securing Tomorrow, Today – Bridging Awareness to Action through Quantum Readiness](/events/23-oct/high-level-panel-securing-tomorrow-today/)                               |
 | <br> **24 October 2025** <br>*(Friday)*          |                                                                                           |
 | 9.00am to 6.00pm           | [5th International Counter Ransomware Initiative Summit – By Invitation Only](/events/24-oct/5th-counter-ransomware-initiative-summit/)                               |
