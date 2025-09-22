@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Chang Sau Sheong.md
       - Speaker – Mr Eugene Liderman.md
       - Speaker – Mr Sven Schleier.md
       - Moderator – Ms Kelly Shortridge.md
