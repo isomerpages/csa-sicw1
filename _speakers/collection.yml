@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Moderator – Ms Kelly Shortridge.md
       - Speaker – Dr Soumik Mondal.md
       - Speaker – Dr Ong Chen Hui.md
       - Speaker – Mr Michael Osborne.md
