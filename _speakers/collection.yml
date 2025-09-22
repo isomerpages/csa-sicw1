@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Eugene Liderman.md
       - Speaker – Mr Sven Schleier.md
       - Moderator – Ms Kelly Shortridge.md
       - Speaker – Dr Soumik Mondal.md
