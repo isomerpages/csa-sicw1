@@ -14,14 +14,14 @@ Mobile phones are no longer just tools of convenience. They have become gateways
 
 The panel “**Can Cybersecurity and Development Teams Work Together to Achieve Secure Innovation?**” convenes leading developers, security strategists, and testing experts to examine the disconnect between cybersecurity and mobile application development. The discussion challenges entrenched assumptions and sheds light on how cross-disciplinary collaboration can drive secure innovation.
 
-|**Speakers**          |                                                              |
-| [Mr Florian Schütz](/speakers/mr-florian-schutz/)  | *Director* <br>Swiss National Cybersecurity Center<br>Switzerland      |
-| [Mr Tan E Guang Eugene](/speakers/mr-tan-e-guang-eugene/)  | *Associate Research Fellow at the Centre of Excellence for National Security* <br>S Rajaratnam School of International Studies, Nanyang Technological University<br>Singapore      |
-| [Mr Teo Xiang Zheng](/speakers/mr-teo-xiang-zheng/)  | *VP, Head of Advisory* <br>Ensign Infosecurity<br>Singapore      |
-| [Ms Shariffah Rashidah Syed Othman](/speakers/ms-shariffah-rashidah-syed-othman/)  | *Director, Cyber Security Policy and International Cooperation* <br>National Cyber Security Agency (NACSA)<br>Malaysia      |
+|**Panellists**          |                                                              |
+| [Mr Sven Schleier](/speakers/mr-sven-schleier/)  | *Project Leader for OWASP Mobile Application Security* <br>OWASP Foundation<br>Austria      |
+| [Mr Eugene Liderman](/speakers/mr-eugene-liderman/)  | *Founding member of the App Defense Alliance and Director of Android Security &amp; Privacy Product at Google* <br>App Defense Alliance and Google<br>United States      |
+| [Mr Chang Sau Sheong](/speakers/mr-chang-sau-sheong/)  | *Deputy Chief Executive and Chief Technology Officer* <br>Government Technology Agency of Singapore (GovTech Singapore)<br>Singapore      |
+| [Mr Sheran Gunasekera](/speakers/mr-sheran-gunasekera/)  | *Founder* <br>Madison Technologies<br>Singapore      |
+| [Mr Ilya Dreytser](/speakers/mr-ilya-dreytser/)  | *Head of Solutions Engineering* <br>Quokka<br>United States of America      |
 |<br>**Moderator**          |                                                              |
-| [Ms Anastasiya Kazakova](/speakers/ms-anastasiya-kazakova/)  | *Cyber Diplomacy Knowledge Fellow; Geneva Dialogue project coordinator* <br>DiploFoundation<br>Russian Federation      |
-| [Mr Vladimir Radunović](/speakers/mr-vladimir-radunovic/)  | *Director of Cybersecurity &amp; E-diplomacy, Diplo* <br>DiploFoundation<br>Serbia      |
+| [Ms Kelly Shortridge](/speakers/ms-kelly-shortridge/)  | *Author of Security Chaos Engineering: Sustaining Resilience in Software and Systems, and VP of Security Products at Fastly* <br>Fastly<br>New York, United States      |
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
