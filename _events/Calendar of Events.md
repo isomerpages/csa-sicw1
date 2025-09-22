@@ -40,7 +40,6 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 5.15pm           | [ASEAN Senior Officials Roundtable on Cybercrime (SORC)](/event/23-oct/asean-senior-officials-roundtable-on-cybercrime-sorc/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/23-oct/govware-conference-exhibition-2025/)                               |
 | 9.00am to 12.30pm           | [High-Level Panel: Diplomacy](/events/23-oct/high-level-panel-diplomacy/)                               |
-| 11.30am to 12.30pm           | [EU–ASEAN Cooperation on Cyber Fraud and Scams - Operationalising UN Norms and the New Cybercrime Convention](/events/23-oct/high-level-panel-diplomacy/)                               |
 | 1.00pm to 2.00pm           | [Global Cybersecurity Labelling Initiative Joint Statement Ceremony](/events/23-oct/global-cybersecurity-labelling-initiative-ceremony/)                               |
 | 1.00pm to 2.00pm           | [Governing Commercial Cyber Intrusion Capabilities: the Path Forward for the Pall Mall Process](/events/23-oct/governing-commercial-cyber-intrusion-capabilities/)                               |
 | 1.00pm to 2.15pm           | [Deep Truth: Unmasking Digital Deception](/events/23-oct/deep-truth-unmasking-digital-deception/)                               |
