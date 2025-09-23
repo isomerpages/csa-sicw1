@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Moderator – Mr Andre Shori.md
       - Speaker – Ms Shamane Tan.md
       - Speaker – Ms Beatriz Silveira.md
       - Speaker – Ms April Chin.md
