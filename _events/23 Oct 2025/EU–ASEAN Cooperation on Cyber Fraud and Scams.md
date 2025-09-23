@@ -5,7 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: 23 Oct 2025
 ---
-#### **EU–ASEAN Cooperation on Cyber Fraud and Scams - Operationalising UN Norms and the New Cybercrime Convention**
+#### **EU–ASEAN Cooperation on Cyber Fraud and Scams: Operationalising UN Norms and the UN Convention Against Cybercrime**
+*From principles to practice: protecting citizens, economies, and digital trust*
 
 **23 October 2025 (Thursday)**  
 *Time: 11.30am to 12.30pm (GMT +8)*
