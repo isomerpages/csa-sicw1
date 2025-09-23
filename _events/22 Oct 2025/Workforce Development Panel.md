@@ -21,5 +21,15 @@ Additionally, presentations on ongoing international cross-recognition efforts s
 Whether you are an employer, service provider, policymaker, or cybersecurity professional, this session offers fresh perspectives, practical approaches, and opportunities to connect with peers committed to raising the quality of the cybersecurity workforce.
 
 Join us and be part of the dialogue shaping the future of the global cybersecurity workforce!
+
+|**Panellists**          |                                                              |
+| [Mr Chang Sau Sheong](/speakers/mr-chang-sau-sheong/)  | *Deputy Chief Executive and Chief Technology Officer* <br>Government Technology Agency of Singapore<br>Singapore      |
+| [Mr Eugene Liderman](/speakers/mr-eugene-liderman/)  | *Founding member of the App Defense Alliance and Director of Android Security &amp; Privacy Product at Google* <br>United States of America      |
+| [Mr Ilya Dreytser](/speakers/mr-ilya-dreytser/)  | *Head of Solutions Engineering* <br>Quokka<br>United States of America      |
+| [Mr Sheran Gunasekera](/speakers/mr-sheran-gunasekera/)  | *Founder* <br>Madison Technologies<br>Singapore      |
+| [Mr Sven Schleier](/speakers/mr-sven-schleier/)  | *Project Leader for OWASP Mobile Application Security* <br>OWASP Foundation<br>Austria      |
+|<br>**Moderator**          |                                                              |
+| [Mr Andre Shori](/speakers/mr-andre-shori/)  | *Asia Pacific Cybersecurity Vice President and Chief Information Security Officer* <br>Schneider Electric<br>Singapore      |
+
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
