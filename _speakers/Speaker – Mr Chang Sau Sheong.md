@@ -7,7 +7,7 @@ description: ""
 ![](/images/2025%20speakers/Chang_Sau_Sheong.png)
 #### **Mr Chang Sau Sheong**
 
-*Deputy Chief Executive and Chief Technology Officer, <br> Government Technology Agency of Singapore (GovTech Singapore)<br>Singapore*
+*Deputy Chief Executive and Chief Technology Officer, <br> Government Technology Agency of Singapore<br>Singapore*
 
 ##### **Biography**
 Sau Sheong is the Deputy Chief Executive (Products) and Chief Technology Officer for GovTech Singapore.
