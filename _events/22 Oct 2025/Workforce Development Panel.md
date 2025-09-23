@@ -27,7 +27,7 @@ Join us and be part of the dialogue shaping the future of the global cybersecuri
 | [Ms Laura Fifield](/speakers/ms-laura-fifield/)  | *Supervisor of the Cyber Skills Development team*<br>Canadian Centre for Cyber Security<br>Canada      |
 | [Mr Rod Latham](/speakers/mr-rod-latham/)  | *Director for Cyber Security and Digital Identity* <br>Department for Science, Innovation and Technology (DSIT)<br>United States of America      |
 | [Dr Yulia Cherdantseva](/speakers/dr-yulia-cherdantseva/)  | *Director* <br>Cardiff University’s Academic Centre of Excellence in Cyber Security Education (ACE-CSE)<br>United Kingdom      |
-| [Mr Sven Schleier](/speakers/mr-sven-schleier/)  | *Project Leader for OWASP Mobile Application Security* <br>OWASP Foundation<br>Austria      |
+| [Professor Steven Wong](/speakers/professor-steven-wong/)  | *Director* <br>Centre of Digital Enablement (CoDE) at the Singapore Institute of Technology (SIT)<br>Singapore      |
 |<br>**Moderator**          |                                                              |
 | [Mr Andre Shori](/speakers/mr-andre-shori/)  | *Asia Pacific Cybersecurity Vice President and Chief Information Security Officer* <br>Schneider Electric<br>Singapore      |
 
