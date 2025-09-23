@@ -21,7 +21,7 @@ The panel “**Can Cybersecurity and Development Teams Work Together to Achieve 
 | [Mr Sheran Gunasekera](/speakers/mr-sheran-gunasekera/)  | *Founder* <br>Madison Technologies<br>Singapore      |
 | [Mr Sven Schleier](/speakers/mr-sven-schleier/)  | *Project Leader for OWASP Mobile Application Security* <br>OWASP Foundation<br>Austria      |
 |<br>**Moderator**          |                                                              |
-| [Ms Kelly Shortridge](/speakers/ms-kelly-shortridge/)  | *Author of Security Chaos Engineering: Sustaining Resilience in Software and Systems, and VP of Security Products at Fastly* <br>Fastly<br>New York, United States of America      |
+| [Ms Kelly Shortridge](/speakers/ms-kelly-shortridge/)  | *Author of Security Chaos Engineering: Sustaining Resilience in Software and Systems, and VP of Security Products at Fastly* <br>Fastly<br>United States of America      |
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
