@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Laura Fifield.md
       - Speaker – Dr Bushra Al Blooshi.md
       - Moderator – Mr Andre Shori.md
       - Speaker – Ms Shamane Tan.md
