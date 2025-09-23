@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Dr Yulia Cherdantseva.md
       - Speaker – Mr Rod Latham.md
       - Speaker – Ms Laura Fifield.md
       - Speaker – Dr Bushra Al Blooshi.md
