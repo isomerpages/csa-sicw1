@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms April Chin.md
       - Moderator – Dr Anuradha Rao.md
       - Speaker – Mr Chang Sau Sheong.md
       - Speaker – Mr Ilya Dreytser.md
