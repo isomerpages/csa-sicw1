@@ -22,11 +22,11 @@ Whether you are an employer, service provider, policymaker, or cybersecurity pro
 
 Join us and be part of the dialogue shaping the future of the global cybersecurity workforce!
 
-|**Panellists**          |                                                              |
-| [Mr Chang Sau Sheong](/speakers/mr-chang-sau-sheong/)  | *Deputy Chief Executive and Chief Technology Officer* <br>Government Technology Agency of Singapore<br>Singapore      |
-| [Mr Eugene Liderman](/speakers/mr-eugene-liderman/)  | *Founding member of the App Defense Alliance and Director of Android Security &amp; Privacy Product at Google* <br>United States of America      |
-| [Mr Ilya Dreytser](/speakers/mr-ilya-dreytser/)  | *Head of Solutions Engineering* <br>Quokka<br>United States of America      |
-| [Mr Sheran Gunasekera](/speakers/mr-sheran-gunasekera/)  | *Founder* <br>Madison Technologies<br>Singapore      |
+|**Speakers**          |                                                              |
+| [Dr Bushra Al Blooshi](/speakers/dr-bushra-al-blooshi/)  | *Director of Governance and Risk Management for Cybersecurity* <br>Dubai Cyber Security Center<br>Dubai      |
+| [Ms Laura Fifield](/speakers/ms-laura-fifield/)  | *Supervisor of the Cyber Skills Development team*<br>Canadian Centre for Cyber Security<br>Canada      |
+| [Mr Rod Latham](/speakers/mr-rod-latham/)  | *Director for Cyber Security and Digital Identity* <br>Department for Science, Innovation and Technology (DSIT)<br>United States of America      |
+| [Dr Yulia Cherdantseva](/speakers/dr-yulia-cherdantseva/)  | *Director* <br>Cardiff University’s Academic Centre of Excellence in Cyber Security Education (ACE-CSE)<br>United Kingdom      |
 | [Mr Sven Schleier](/speakers/mr-sven-schleier/)  | *Project Leader for OWASP Mobile Application Security* <br>OWASP Foundation<br>Austria      |
 |<br>**Moderator**          |                                                              |
 | [Mr Andre Shori](/speakers/mr-andre-shori/)  | *Asia Pacific Cybersecurity Vice President and Chief Information Security Officer* <br>Schneider Electric<br>Singapore      |
