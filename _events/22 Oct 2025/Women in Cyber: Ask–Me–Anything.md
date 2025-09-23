@@ -23,7 +23,7 @@ Whether you are a student, early-career professional, or considering a mid-caree
 |**Speakers**          |                                                              |
 | [Ms April Chin](/speakers/ms-april-chin/)  | *Co-CEO* <br>Resaro<br>Singapore      |
 | [Ms Beatriz Silveira](/speakers/ms-beatriz-silveira/)  | *Head of Global Security APAC*<br>Novartis<br>Singapore      |
-| [Ms Shamane Tan](/speakers/mr-ilya-dreytser/)  | *Chief Growth Officer* <br>Sekuro<br>Singapore      |
+| [Ms Shamane Tan](/speakers/ms-shamane-tan/)  | *Chief Growth Officer* <br>Sekuro<br>Singapore      |
 |<br>**Moderator**          |                                                              |
 | [Dr Anuradha Rao](/speakers/dr-anuradha-rao/)  | *Associate Faculty at the Public Safety and Security Programme (PSS)* <br>Singapore University of Social Sciences (SUSS)<br>Singapore      |
 
