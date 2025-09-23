@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Rod Latham.md
       - Speaker – Ms Laura Fifield.md
       - Speaker – Dr Bushra Al Blooshi.md
       - Moderator – Mr Andre Shori.md
