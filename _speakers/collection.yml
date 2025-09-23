@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Professor Steven Wong.md
       - Speaker – Dr Yulia Cherdantseva.md
       - Speaker – Mr Rod Latham.md
       - Speaker – Ms Laura Fifield.md
