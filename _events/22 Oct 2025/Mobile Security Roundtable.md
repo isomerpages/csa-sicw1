@@ -15,13 +15,13 @@ Mobile phones are no longer just tools of convenience. They have become gateways
 The panel “**Can Cybersecurity and Development Teams Work Together to Achieve Secure Innovation?**” convenes leading developers, security strategists, and testing experts to examine the disconnect between cybersecurity and mobile application development. The discussion challenges entrenched assumptions and sheds light on how cross-disciplinary collaboration can drive secure innovation.
 
 |**Panellists**          |                                                              |
-| [Mr Chang Sau Sheong](/speakers/mr-chang-sau-sheong/)  | *Deputy Chief Executive and Chief Technology Officer* <br>Government Technology Agency of Singapore (GovTech Singapore)<br>Singapore      |
-| [Mr Eugene Liderman](/speakers/mr-eugene-liderman/)  | *Founding member of the App Defense Alliance and Director of Android Security &amp; Privacy Product at Google* <br>App Defense Alliance and Google<br>United States of America      |
+| [Mr Chang Sau Sheong](/speakers/mr-chang-sau-sheong/)  | *Deputy Chief Executive and Chief Technology Officer* <br>Government Technology Agency of Singapore<br>Singapore      |
+| [Mr Eugene Liderman](/speakers/mr-eugene-liderman/)  | *Founding member of the App Defense Alliance and Director of Android Security &amp; Privacy Product at Google* <br>United States of America      |
 | [Mr Ilya Dreytser](/speakers/mr-ilya-dreytser/)  | *Head of Solutions Engineering* <br>Quokka<br>United States of America      |
 | [Mr Sheran Gunasekera](/speakers/mr-sheran-gunasekera/)  | *Founder* <br>Madison Technologies<br>Singapore      |
 | [Mr Sven Schleier](/speakers/mr-sven-schleier/)  | *Project Leader for OWASP Mobile Application Security* <br>OWASP Foundation<br>Austria      |
 |<br>**Moderator**          |                                                              |
-| [Ms Kelly Shortridge](/speakers/ms-kelly-shortridge/)  | *Author of Security Chaos Engineering: Sustaining Resilience in Software and Systems, and VP of Security Products at Fastly* <br>Fastly<br>United States of America      |
+| [Ms Kelly Shortridge](/speakers/ms-kelly-shortridge/)  | *Author of Security Chaos Engineering: Sustaining Resilience in Software and Systems, and VP of Security Products* <br>Fastly<br>United States of America      |
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
