@@ -21,6 +21,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 2.00pm to 3.00pm           | [Addressing Subsea Cable Security and Resilience](/events/21-oct/addressing-subsea-cable-security-and-resilience/)                               |
 | 2.30pm to 5.30pm           | [SG Cyber Safe for Enterprises](/events/21-oct/sg-cyber-safe-for-enterprises/)                               |
 | 3.00pm to 4.30pm           | [Meet GCF Singapore Chapter](/events/21-oct/meet-gcf-singapore-chapter/)                               |
+| 4.30pm to 5.30pm           | [Governing Commercial Cyber Intrusion Capabilities: the Path Forward for the Pall Mall Process](/events/21-oct/governing-commercial-cyber-intrusion-capabilities/)                               |
 | <br> **22 October 2025** <br>*(Wednesday)* |                                                                                                |
 | 9.00am to 10.30am           | [High–Level Panel: Infinite Actions, Finite Control – Securing Agentic AI](/events/22-oct/high-level-panel-infinite-actions-finite-control/)                               |
 | 9.00am to 12.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/22-oct/asean-cert-incident-drill-acid/)                               |
@@ -44,7 +45,6 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 12.30pm           | [High-Level Panel: Diplomacy](/events/23-oct/high-level-panel-diplomacy/)                               |
 | 11.30am to 12.30pm           | [EU–ASEAN Cooperation on Cyber Fraud and Scams: Operationalising UN Norms and the UN Convention Against Cybercrime](/events/23-oct/eu-asean-cooperation-on-cyber-fraud-and-scams/)                               |
 | 1.00pm to 2.00pm           | [Global Cybersecurity Labelling Initiative Joint Statement Ceremony](/events/23-oct/global-cybersecurity-labelling-initiative-ceremony/)                               |
-| 1.00pm to 2.00pm           | [Governing Commercial Cyber Intrusion Capabilities: the Path Forward for the Pall Mall Process](/events/23-oct/governing-commercial-cyber-intrusion-capabilities/)                               |
 | 1.00pm to 2.15pm           | [Deep Truth: Unmasking Digital Deception](/events/23-oct/deep-truth-unmasking-digital-deception/)                               |
 | 2.00pm to 5.30pm           | [Global Cybersecurity Labelling Initiative Closed-Door Discussions](/events/23-oct/global-cybersecurity-labelling-initiative-workshop/)                               |
 | 2.30pm to 4.00pm           | [High-Level Panel: Securing Tomorrow, Today – Bridging Awareness to Action through Quantum Readiness](/events/23-oct/high-level-panel-securing-tomorrow-today/)                               |
