@@ -12,7 +12,7 @@ third_nav_title: 22 Oct 2025
 
 The cybersecurity industry continues to face talent shortage and a low female participation rate. We encourage more women and girls to consider cybersecurity as a career. 
 
-This year’s SICW Women in Cyber event will feature an Ask Me Anything session, bringing together accomplished women from government, industry, and academia for an open, candid exchange with the audience.
+This year’s SICW Women in Cyber event will feature an Ask Me Anything session, bringing together accomplished women from government and industry for an open, candid exchange with the audience.
 
 Participants will hear personal stories and gain first-hand insights from experts working across a variety of roles — from industry practitioners and leaders to policymakers. Speakers will share how they navigated challenges, built expertise, and earned trust in this traditionally male-dominated field.
 
