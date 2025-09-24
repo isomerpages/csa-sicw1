@@ -7,7 +7,7 @@ description: ""
 ![](/images/2025%20speakers/Dr_Bushra.png)
 #### **Dr Bushra Al Blooshi**
 
-*Director of Governance and Risk Management for Cybersecurity, <br> Dubai Cyber Security Center<br>Dubai*
+*Director of Governance and Risk Management for Cybersecurity, <br> Dubai Electronic Security Center<br>Dubai*
 
 ##### **Biography**
 Dr. Bushra Al Blooshi is the Director of Governance and Risk Management for Cybersecurity at the Dubai Cyber Security Center. She is the first Arab woman to join the World Economic Forum's Global Future Councils on Cybersecurity and the first Arab woman to chair the World Bank's Cloud Computing Group.
