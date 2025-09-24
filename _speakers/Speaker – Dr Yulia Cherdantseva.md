@@ -7,7 +7,7 @@ description: ""
 ![](/images/2025%20speakers/Yulia_cherdantseva.png)
 #### **Dr Yulia Cherdantseva**
 
-*Director, <br>Cardiff University’s Academic Centre of Excellence in Cyber Security Education (ACE-CSE)<br>United Kingdom*
+*Director, <br>Academic Centre of Excellence in Cyber Security Education (ACE-CSE), Cardiff University<br>United Kingdom*
 
 ##### **Biography**
 Dr Yulia Cherdantseva is a Reader in the School of Computer Science &amp; Informatics at Cardiff University. She serves as the Director of Cardiff University’s Academic Centre of Excellence in Cyber Security Education (ACE-CSE), and is Co-Director of both the Digital Transformation Innovation Institute and the Hartree Centre Cardiff Hub. 
