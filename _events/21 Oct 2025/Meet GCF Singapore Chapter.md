@@ -10,9 +10,9 @@ third_nav_title: 21 Oct 2025
 21 October 2025 (Tuesday)  
 *Time: 3.00pm to 4.30pm (GMT +8)*
 
-MeetGCF is a series of events convening global stakeholders in major cities around the world; e.g. Geneva, Brussels, New York, to engage the global community on main topics/areas on collective action in Cyberspace.
+Meet GCF is a series of events convening global stakeholders in major cities around the world; e.g. Geneva, Brussels, New York, to engage the global community on main topics/areas on collective action in Cyberspace.
  
-The MeetGCF Singapore; showcases the GCF community’s activities, insights, and expertise, amplifying diverse voices and perspectives.
+The Meet GCF Singapore; showcases the GCF community’s activities, insights, and expertise, amplifying diverse voices and perspectives.
  
 The first panel discussion will explore how global shifts are redefining cyber economics – uncovering new risks, costs, and opportunities for nations and businesses to build secure, competitive ecosystems, and the growing need for coordinated, collective action for enhanced cyber resilience.
  
