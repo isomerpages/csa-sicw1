@@ -21,5 +21,16 @@ Additionally, presentations on ongoing international cross-recognition efforts s
 Whether you are an employer, service provider, policymaker, or cybersecurity professional, this session offers fresh perspectives, practical approaches, and opportunities to connect with peers committed to raising the quality of the cybersecurity workforce.
 
 Join us and be part of the dialogue shaping the future of the global cybersecurity workforce!
+
+|**Speakers**          |                                                              |
+| [Dr Bushra Al Blooshi](/speakers/dr-bushra-al-blooshi/)  | *Director of Governance and Risk Management for Cybersecurity* <br>Dubai Electronic Security Center<br>Dubai      |
+| [Ms Laura Fifield](/speakers/ms-laura-fifield/)  | *Supervisor of the Cyber Skills Development team*<br>Canadian Centre for Cyber Security<br>Canada      |
+| [Mr Rod Latham](/speakers/mr-rod-latham/)  | *Director for Cyber Security and Digital Identity* <br>Department for Science, Innovation and Technology (DSIT)<br>United Kingdom      |
+|<br>**Presenters**          |                                                              |
+| [Dr Yulia Cherdantseva](/speakers/dr-yulia-cherdantseva/)  | *Director* <br>Academic Centre of Excellence in Cyber Security Education (ACE-CSE), Cardiff University<br>United Kingdom      |
+| [Professor Steven Wong](/speakers/professor-steven-wong/)  | *Director* <br>Centre of Digital Enablement (CoDE) at the Singapore Institute of Technology (SIT)<br>Singapore      |
+|<br>**Moderator**          |                                                              |
+| [Mr Andre Shori](/speakers/mr-andre-shori/)  | *Asia Pacific Cybersecurity Vice President and Chief Information Security Officer* <br>Schneider Electric<br>Singapore      |
+
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*

@@ -6,7 +6,7 @@ description: ""
 ---
 ### **Media Accreditation**
 
-![](/images/Media_Accreditation_Key_Dates.png)
+![](/images/Media_Accreditation_Key_Dates_2.png)
 
 **1. Media Accreditation Guidelines**
 
@@ -67,7 +67,7 @@ v.	Successful applicants will receive email confirmation with terms and conditio
 
 vi.	How to collect your Media Pass:
 <br>**21 – 23 OCTOBER 2025
-<br>0830hrs – 1700hrs**
+<br>0800hrs – 1700hrs**
 
 **VENUE**
 <br>SICW Media Registration Counter<br>
@@ -90,7 +90,7 @@ ii.	Limited workstations will be available on a first-come-, first-served basis 
 
 iii.	A confirmed schedule of events will be available in the press kit, which will be provided to all accredited media personnel.
 
-iv.	Please note that the Media Centre will be open from **21-23 October 2025, 0830hrs to 1800hrs**.
+iv.	Please note that the Media Centre will be open from **21-23 October 2025, 0800hrs to 1800hrs**.
 
 **6. Note to Photographers**
 <br>There will be no photo studio or technical assistance lab in the Media Centre. Please register for media crew access.

@@ -13,6 +13,8 @@ A Complimentary Shuttle Service will be provided in the mornings of 21-23 Octobe
 * PARKROYAL COLLECTION Marina Bay, Singapore
 * Grand Park City Hall
 
+Reserve by 3 October 2025 to secure partner rates. Rooms and rates remain subject to availability until the cutoff date.
+
 *Disclaimer: All room categories are subject to availability upon time of reservation request.*
 
 **PARKROYAL COLLECTION Pickering, Singapore**

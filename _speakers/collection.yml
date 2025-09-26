@@ -2,19 +2,35 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Dr Bushra Al Blooshi.md
+      - Speaker – Mr Chang Sau Sheong.md
+      - Speaker – Dr Yulia Cherdantseva.md
+      - Speaker – Ms April Chin.md
+      - Speaker – Mr Ilya Dreytser.md
+      - Speaker – Ms Laura Fifield.md
+      - Speaker – Mr Sheran Gunasekera.md
+      - Speaker – Mr Rod Latham.md
+      - Speaker – Mr Eugene Liderman.md
       - Speaker – Dr Soumik Mondal.md
       - Speaker – Dr Ong Chen Hui.md
       - Speaker – Mr Michael Osborne.md
       - Speaker – Ms Shariffah Rashidah Syed Othman.md
       - Speaker – Ms Therese Quieta.md
+      - Speaker – Mr Sven Schleier.md
       - Speaker – Mr Florian Schütz.md
       - Speaker – Dr Vikram Sharma.md
+      - Speaker – Ms Beatriz Silveira.md
       - Speaker – Mr Tan E Guang Eugene.md
+      - Speaker – Ms Shamane Tan.md
       - Speaker – Dr Tan Teik Guan.md
       - Speaker – Mr Teo Xiang Zheng.md
       - Speaker – Mr Stanley Tsang.md
       - Speaker – Dr Yang Yinping.md
       - Speaker – Dr Wang Yunlong.md
+      - Speaker – Professor Steven Wong.md
       - Moderator – Ms Anastasiya Kazakova.md
       - Moderator – Mr Vladimir Radunović.md
+      - Moderator – Dr Anuradha Rao.md
+      - Moderator – Mr Andre Shori.md
+      - Moderator – Ms Kelly Shortridge.md
       - Moderator – Dr Colin Soutar.md
