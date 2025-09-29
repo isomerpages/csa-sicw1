@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Guest of Honour Mr Tan Kiat How.md
       - Speaker – Dr Bushra Al Blooshi.md
       - Speaker – Mr Chang Sau Sheong.md
       - Speaker – Dr Yulia Cherdantseva.md
