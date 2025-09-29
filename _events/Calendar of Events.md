@@ -11,7 +11,7 @@ Singapore International Cyber Week 2025 is taking place from 20 to 23 October 20
 Event dates and timings below are in Singapore time (GMT +8). 
 
 | <br> **20 October 2025** <br>*(Monday)* |                                                                                                |                            
-| 6.00pm to 9.30pm           | [SICW Summit](/events/20-oct/sicw-summit/)                               |
+| 6.00pm to 9.00pm           | [SICW Summit](/events/20-oct/sicw-summit/)                               |
 | <br> **21 October 2025** <br>*(Tuesday)* |                                                                                                |       
 | 9.00am to 9.20am           | [SICW Opening Ceremony](/events/21-oct/sicw-opening-ceremony/)                               |
 | 9.00am to 5.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/21-oct/asean-cert-incident-drill-acid/)                               |
