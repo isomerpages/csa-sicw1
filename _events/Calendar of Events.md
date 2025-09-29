@@ -40,7 +40,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 3.00pm to 4.45pm           | [Workforce Development Panel](/events/22-oct/workforce-development-panel/)                               |
 | <br> **23 October 2025** <br>*(Thursday)*          |                                                                                           |
 | 9.00am to 5.00pm           | [SPIRITCYBER Hackathon](/events/23-oct/spiritcyber-hackathon/)                               |
-| 9.00am to 5.15pm           | [ASEAN Senior Officials Roundtable on Cybercrime (SORC)](/event/23-oct/asean-senior-officials-roundtable-on-cybercrime-sorc/)                               |
+| 9.00am to 5.30pm           | [11th ASEAN Senior Officials Roundtable on Cybercrime (SORC)](/event/23-oct/11th-asean-senior-officials-roundtable-on-cybercrime-sorc/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/23-oct/govware-conference-exhibition-2025/)                               |
 | 9.00am to 12.30pm           | [High-Level Panels: Diplomacy](/events/23-oct/high-level-panels-diplomacy/)                               |
 | 11.30am to 12.30pm           | [EU–ASEAN Cooperation on Cyber Fraud and Scams: Operationalising UN Norms and the UN Convention Against Cybercrime](/events/23-oct/eu-asean-cooperation-on-cyber-fraud-and-scams/)                               |
