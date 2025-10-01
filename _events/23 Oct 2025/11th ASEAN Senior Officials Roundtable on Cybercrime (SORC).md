@@ -1,14 +1,14 @@
 ---
-title: ASEAN Senior Officials Roundtable on Cybercrime (SORC)
-permalink: /event/23-oct/asean-senior-officials-roundtable-on-cybercrime-sorc/
+title: 11th ASEAN Senior Officials Roundtable on Cybercrime (SORC)
+permalink: /event/23-oct/11th-asean-senior-officials-roundtable-on-cybercrime-sorc/
 variant: markdown
 description: ""
 third_nav_title: 23 Oct 2025
 ---
-#### **ASEAN Senior Officials Roundtable on Cybercrime (SORC)**
+#### **11th ASEAN Senior Officials Roundtable on Cybercrime (SORC)**
 
 **23 October 2025 (Thursday)**  
-*Time: 9.00am to 5.15pm (GMT +8)*
+*Time: 9.00am to 5.30pm (GMT +8)*
 
 *Format: Closed Door Event*
 

@@ -4,6 +4,7 @@ permalink: /speakers/mr-stanley-tsang/
 variant: markdown
 description: ""
 ---
+![](/images/2025%20speakers/Stanley_Tsang.png)
 #### **Mr Stanley Tsang**
 
 *Distinguished Engineer and Senior Director (Special Projects), <br> Cyber Security Agency of Singapore<br>Singapore*
