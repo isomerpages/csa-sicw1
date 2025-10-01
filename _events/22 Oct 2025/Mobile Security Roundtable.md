@@ -15,7 +15,7 @@ Mobile phones are no longer just tools of convenience. They have become gateways
 The panel “**Can Cybersecurity and Development Teams Work Together to Achieve Secure Innovation?**” convenes leading developers, security strategists, and testing experts to examine the disconnect between cybersecurity and mobile application development. The discussion challenges entrenched assumptions and sheds light on how cross-disciplinary collaboration can drive secure innovation.
 
 |**Guest of Honour**          |                                                              |
-| [Mr Tan Kiat How](/speakers/mr-tan-kiat-how/)  | *Senior Minister of State* <br>Ministry of Digital Development and Information<br>Singapore      |
+| [Mr Tan Kiat How](/speakers/mr-tan-kiat-how/)  | *Senior Minister of State* <br>Ministry of Digital Development and Information<br>Ministry of Health<br>Singapore      |
 |<br>**Panellists**          |                                                              |
 | [Mr Chang Sau Sheong](/speakers/mr-chang-sau-sheong/)  | *Deputy Chief Executive and Chief Technology Officer* <br>Government Technology Agency of Singapore<br>Singapore      |
 | [Mr Eugene Liderman](/speakers/mr-eugene-liderman/)  | *Founding member of the App Defense Alliance and Director of Android Security &amp; Privacy Product at Google* <br>United States of America      |
