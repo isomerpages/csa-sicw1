@@ -11,7 +11,7 @@ third_nav_title: 21 Oct 2025
 *Time: 9.20am to 11.45am (GMT +8)*
 
 |**Keynote Speaker**          |                                                              |
-| [Ms Izumi Nakamitsu](/speakers/mr-tan-kiat-how/)  | *Under-Secretary General and High Representative for Disarmament Affairs*<br>United Nations      |
+| [Ms Izumi Nakamitsu](/speakers/ms-izumi-nakamitsu/)  | *Under-Secretary General and High Representative for Disarmament Affairs*<br>United Nations      |
 
 **Panel 1: Not at War, Not at Peace: Making International Cyber Cooperation Work in an Uncertain Future**
 <br>In a world marked by geopolitical rivalry, military conflict, economic fragmentation, and pressures on the multilateral system and rules-based order, as well as the rapid democratisation of technology, can states collaborate to make international cyber cooperation work and collectively safeguard international peace and security before it is too late? This panel will examine how states are navigating this period of uncertainty and discuss how like-minded states can band together to uphold the multilateral rules-based order in cyberspace and preserve an open, secure, stable, accessible, peaceful and interoperable cyberspace.
