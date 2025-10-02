@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 ![](/images/2025%20speakers/Ed_Ratcliffe.png)
-#### **Mr Chua Kuan Seah**
+#### **Mr Ed Ratcliffe**
 
 *Executive Director, <br>Southeast Asia Public Policy Institute<br>Singapore*
 
