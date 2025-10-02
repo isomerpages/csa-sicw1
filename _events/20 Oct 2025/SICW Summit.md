@@ -20,5 +20,8 @@ Against the backdrop of uncertainty and rapid change, SICW will explore the impa
 
 The SICW Summit by-invitation only gala dinner will kick off the 10th Singapore International Cyber Week. It inaugurates discussions in the days to follow around this year’s SICW theme of “Shaping the Next Era of Global Cybersecurity”. International heads of country delegations, top senior officials, industry leaders and key cybersecurity personalities will attend the event.
 
+|**Speaker**          |                                                              |
+| [Mrs Josephine Teo](/speakers/mrs-josephine-teo/)  | *Minister for Digital Development and Information, Second Minister for Home Affairs, and Minister-in-charge of Smart Nation and Cybersecurity*<br>Singapore      |
+
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
