@@ -4,11 +4,10 @@ permalink: /speakers/mr-chua-kuan-seah/
 variant: markdown
 description: ""
 ---
-
 ![](/images/2025%20speakers/Chua_Kuan_Seah.png)
 #### **Mr Chua Kuan Seah**
 
-*Deputy Chief Executive, <br> Cyber Security Agency of Singapore<br>Singapore*
+*Deputy Chief Executive, <br>Cyber Security Agency of Singapore<br>Singapore*
 
 ##### **Biography**
 Mr Chua is the Deputy Chief Executive (Development) of CSA, where he leads the efforts in master-planning of cyber capability, research and industry development at the national level, and formulation and execution of our international cyber technical diplomacy strategy and collaboration. He is also the Deputy Commissioner of Cybersecurity, assisting the Commissioner in the discharge of his duties and functions under the Cybersecurity Act to protect critical information infrastructure, and prevent and respond to cybersecurity threats and incidents.  Mr Chua is member of the Global Future Council for Cybersecurity in the World Economic Forum.
