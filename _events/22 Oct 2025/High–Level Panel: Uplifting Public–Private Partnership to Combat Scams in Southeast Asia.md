@@ -22,9 +22,9 @@ This high-level panel convenes leaders and decision makers in the government and
 |<br>**Panellists**          |                                                              |
 | [Mr Zhang Weihan](/speakers/mr-zhang-weihan/)  | *Deputy Commissioner of Police (Investigations and Intelligence)* <br>Singapore Police Force<br>Singapore      |
 | [Dr Rafael Frankel](/speakers/dr-rafael-frankel/)  | *Director of Public Policy for Southeast and South Asia* <br>Meta<br>Singapore      |
-| [Ms Loretta Yuen](/speakers/ms-loretta-yuen/)  | *Minister of State* <br>Ministry of Home Affairs and Ministry of Social and Family Development<br>Singapore      |
-| [Ms Loretta Yuen](/speakers/ms-loretta-yuen/)  | *MD &amp; Head, Legal and Compliance*, OCBC <br>and *Chair of Standing Committee on Fraud (SCF)*, Association of Banks in Singapore (ABS)<br>Singapore      |
+| [Ms Loretta Yuen](/speakers/ms-loretta-yuen/)  | *MD &amp; Head, Legal and Compliance*, OCBC <br>*Chair of Standing Committee on Fraud (SCF)*, Association of Banks in Singapore (ABS)<br>Singapore      |
 |<br>**Moderator**          |                                                              |
 | [Mr Ed Ratcliffe](/speakers/mr-ed-ratcliffe/)  | *Executive Director* <br>Southeast Asia Public Policy Institute<br>Singapore      |
+
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
