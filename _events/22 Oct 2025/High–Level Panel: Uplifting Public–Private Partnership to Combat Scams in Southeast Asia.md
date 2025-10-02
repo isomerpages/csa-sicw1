@@ -18,14 +18,12 @@ However, the scam situation remains challenging; and it is critical that governm
 This high-level panel convenes leaders and decision makers in the government and industry to jointly examine the scams problem and discuss actionable areas for public-private partnership against scams. Together, the panel aims to map out practical pathways to advance and uplift protection against scams in Southeast Asia.
 
 |**Opening Remarks**          |                                                              |
-| [Mr Goh Pei Ming](/speakers/mr-chang-sau-sheong/)  | *Minister of State* <br>Government Technology Agency of Singapore<br>Singapore      |
+| [Mr Goh Pei Ming](/speakers/mr-goh-pei-ming/)  | *Minister of State* <br>Ministry of Home Affairs and Ministry of Social and Family Development<br>Singapore      |
 |<br>**Panellists**          |                                                              |
-| [Mr Chang Sau Sheong](/speakers/mr-chang-sau-sheong/)  | *Deputy Chief Executive and Chief Technology Officer* <br>Government Technology Agency of Singapore<br>Singapore      |
-| [Mr Eugene Liderman](/speakers/mr-eugene-liderman/)  | *Founding member of the App Defense Alliance and Director of Android Security &amp; Privacy Product at Google* <br>United States of America      |
-| [Mr Ilya Dreytser](/speakers/mr-ilya-dreytser/)  | *Head of Solutions Engineering* <br>Quokka<br>United States of America      |
-| [Mr Sheran Gunasekera](/speakers/mr-sheran-gunasekera/)  | *Founder* <br>Madison Technologies<br>Singapore      |
-| [Mr Sven Schleier](/speakers/mr-sven-schleier/)  | *Project Leader for OWASP Mobile Application Security* <br>OWASP Foundation<br>Austria      |
+| [Mr Zhang Weihan](/speakers/mr-zhang-weihan/)  | *Deputy Commissioner of Police (Investigations and Intelligence)* <br>Singapore Police Force<br>Singapore      |
+| [Dr Rafael Frankel](/speakers/dr-rafael-frankel/)  | *Director of Public Policy for Southeast and South Asia*<br>Meta<br>Singapore      |
+| [Ms Loretta Yuen](/speakers/ms-loretta-yuen/)  | *MD &amp; Head, Legal and Compliance*, OCBC <br>and *Chair of Standing Committee on Fraud (SCF)*, Association of Banks in Singapore (ABS)<br>Singapore      |
 |<br>**Moderator**          |                                                              |
-| [Ms Kelly Shortridge](/speakers/ms-kelly-shortridge/)  | *Author of Security Chaos Engineering: Sustaining Resilience in Software and Systems, and VP of Security Products* <br>Fastly<br>United States of America      |
+| [Mr Ed Ratcliffe](/speakers/mr-ed-ratcliffe/)  | *Executive Director* <br>Southeast Asia Public Policy Institute<br>Singapore      |
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
