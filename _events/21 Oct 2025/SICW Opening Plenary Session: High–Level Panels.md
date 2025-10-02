@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 21 Oct 2025
 ---
-#### **High-Level Panels: Opening Plenary**
+#### **SICW Opening Plenary Session: High-Level Panels**
 
 **21 October 2025 (Tuesday)**  
 *Time: 9.20am to 11.45am (GMT +8)*
