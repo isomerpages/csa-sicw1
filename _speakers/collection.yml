@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Izumi Nakamitsu.md
       - Speaker – Ms Loretta Yuen.md
       - Speaker – Dr Rafael Frankel.md
       - Speaker – Mr Zhang Weihan.md
