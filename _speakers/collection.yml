@@ -2,13 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Ms Izumi Nakamitsu.md
-      - Speaker – Ms Loretta Yuen.md
-      - Speaker – Dr Rafael Frankel.md
-      - Speaker – Mr Zhang Weihan.md
-      - Moderator – Mr Ed Ratcliffe.md
-      - Speaker – Mr Goh Pei Ming.md
-      - Speaker – Mr Chua Kuan Seah.md
       - Guest of Honour – Mr Tan Kiat How.md
       - Guest of Honour – Mrs Josephine Teo.md
       - Guest of Honour – Mr K Shanmugam.md
@@ -16,16 +9,21 @@ collections:
       - Speaker – Mr Chang Sau Sheong.md
       - Speaker – Dr Yulia Cherdantseva.md
       - Speaker – Ms April Chin.md
+      - Speaker – Mr Chua Kuan Seah.md
       - Speaker – Mr Ilya Dreytser.md
       - Speaker – Ms Laura Fifield.md
+      - Speaker – Dr Rafael Frankel.md
+      - Speaker – Mr Goh Pei Ming.md
       - Speaker – Mr Sheran Gunasekera.md
       - Speaker – Mr Rod Latham.md
       - Speaker – Mr Eugene Liderman.md
       - Speaker – Dr Soumik Mondal.md
+      - Speaker – Ms Izumi Nakamitsu.md
       - Speaker – Dr Ong Chen Hui.md
       - Speaker – Mr Michael Osborne.md
       - Speaker – Ms Shariffah Rashidah Syed Othman.md
       - Speaker – Ms Therese Quieta.md
+      - Moderator – Mr Ed Ratcliffe.md
       - Speaker – Mr Sven Schleier.md
       - Speaker – Mr Florian Schütz.md
       - Speaker – Dr Vikram Sharma.md
@@ -36,8 +34,10 @@ collections:
       - Speaker – Mr Teo Xiang Zheng.md
       - Speaker – Mr Stanley Tsang.md
       - Speaker – Dr Yang Yinping.md
+      - Speaker – Ms Loretta Yuen.md
       - Speaker – Dr Wang Yunlong.md
       - Speaker – Professor Steven Wong.md
+      - Speaker – Mr Zhang Weihan.md
       - Moderator – Ms Anastasiya Kazakova.md
       - Moderator – Mr Vladimir Radunović.md
       - Moderator – Dr Anuradha Rao.md
