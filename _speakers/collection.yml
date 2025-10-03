@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Manon Le Blanc.md
       - Speaker – Dr Tara Maria Davenport.md
       - Speaker – Mr John R Mills.md
       - Speaker – Mr Paul Vixie.md
