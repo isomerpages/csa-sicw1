@@ -7,7 +7,7 @@ description: ""
 ![](/images/2025%20speakers/Mr_K_Shanmugam.png)
 #### **Mr K Shanmugam**
 
-*Minister,<br>Ministry of Home Affairs<br> Coordinating Minister for National Security<br>Singapore*
+*Coordinating Minister for National Security<br>and Minister for Home Affairs<br>Singapore*
 
 ##### **Biography**
 Mr K Shanmugam is the Coordinating Minister for National Security, and concurrently, has been the Minister for Home Affairs since Oct 2015. He has also previously been the Minister for Law (2008–2025), and the Minister for Foreign Affairs (2011–2015).
