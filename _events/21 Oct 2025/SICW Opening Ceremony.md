@@ -14,7 +14,7 @@ The SICW Opening Ceremony features a keynote address by Singapore’s Coordinati
 
 |**Guest of Honour**    |                                                              |
 |------|------|
-| [Mr K Shanmugam](/speakers/mr-k-shanmugam/)  | *Minister, Ministry of Home Affairs, and Coordinating Minister for National Security* <br>Singapore                |
+| [Mr K Shanmugam](/speakers/mr-k-shanmugam/)  | *Coordinating Minister for National Security and Minister for Home Affairs* <br>Singapore                |
 
 **Guest of Honour**
 ![](/images/2025%20speakers/Mr_K_Shanmugam.png)
