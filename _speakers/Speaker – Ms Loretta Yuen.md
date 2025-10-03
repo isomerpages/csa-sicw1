@@ -4,6 +4,9 @@ permalink: /speakers/ms-loretta-yuen/
 variant: markdown
 description: ""
 ---
+
+
+![](/images/2025%20speakers/Loretta.png)
 #### **Ms Loretta Yuen**
 
 *MD &amp; Head, Legal and Compliance, OCBC<br>and Chair of Standing Committee on Fraud (SCF), Association of Banks in Singapore (ABS)<br>Singapore*
