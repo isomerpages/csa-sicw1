@@ -13,29 +13,23 @@ A Complimentary Shuttle Service will be provided in the mornings of 21-23 Octobe
 * PARKROYAL COLLECTION Marina Bay, Singapore
 * Grand Park City Hall
 
-Reserve by 3 October 2025 to secure partner rates. Rooms and rates remain subject to availability until the cutoff date.
-
 *Disclaimer: All room categories are subject to availability upon time of reservation request.*
 
 **PARKROYAL COLLECTION Pickering, Singapore**
-<br>Enjoy a unique stay with our eco-friendly garden concept hotel in Singapore, at PARKROYAL COLLECTION Pickering, Singapore. With Singapore's CBD and Chinatown at your doorstep, you can count on a warm welcome from our hotel-in-a-garden.
-
-Room rates start from S$380++ per night (rate inclusive of daily breakfast and COLLECTION Club benefits). Other benefits include: 
-* 10% discount when dining at LIME restaurant (excluding alcoholic beverages) 
-* Complimentary one-time minibar replenishment per stay. 
- 
-<a href="https://book.passkey.com/e/51043313" target="_blank">**Book Now**</a>
+<br>The partner rates at PARKROYAL COLLECTION Pickering no longer apply as of 6
+October 2025. Rooms may still be available, so if you would like to make a booking,
+please contact them directly <a href="https://www.panpacific.com/en/hotels-and-
+resorts/pr-collection-
+pickering.html?utm_source=google&amp;utm_medium=business_listing&amp;utm_campaign=
+googlemybusiness" target="blank">HERE</a>.
 
 **PARKROYAL COLLECTION Marina Bay, Singapore**
-<br>Sitting in the heart of the central business district and Marina Bay, with panoramic views of the Singapore city skyline, the 583-room PARKROYAL COLLECTION Marina Bay, Singapore is a champion of sustainability, environmental responsibility, and an advocate for green innovations in the hospitality industry, and is home to Southeast Asia’s largest indoor sky-lit atrium, containing over 2,400 plants, trees, shrubs and groundcovers from more than 60 varieties of flora. 
-
-Room rates start from S$380++ per night (rate inclusive of daily breakfast). Benefits include:
-* Peppermint Restaurant: 15% discount on buffet / ala-carte items 
-* Portman’s Bar &amp; Skyline Bar: 15% discount on regular-priced items
-
-*Note: Peppermint Restaurant is a Halal restaurant.*
-
-<a href="https://book.passkey.com/go/GovWare2025" target="_blank">**Book Now**</a>
+<br>The partner rates at PARKROYAL COLLECTION Marina Bay no longer apply as of 6
+October 2025. Rooms may still be available, so if you would like to make a booking,
+please contact them directly <a href="https://www.panpacific.com/en/hotels-
+and-resorts/pr-collection-marina-
+bay.html?utm_source=google&amp;utm_medium=business_listing&amp;utm_campaign=googl
+emybusiness" target="blank">HERE</a>.
 
 **Grand Park City Hall**
 <br>Located in a prime spot in Singapore’s Civic District and within the Central Business District, Grand Park City Hall stands as a top-notch 5-star hotel. Situated near major shopping malls like Raffles City and Capitol Piazza, offering a myriad of dining options. Suntec City and the Marina Bay entertainment and business district are minutes away by car. We look forward to welcoming you with our warm and loving hospitality.
