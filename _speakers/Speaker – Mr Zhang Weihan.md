@@ -4,6 +4,7 @@ permalink: /speakers/mr-zhang-weihan/
 variant: markdown
 description: ""
 ---
+![](/images/2025%20speakers/weihan.png)
 #### **Mr Zhang Weihan**
 
 *Deputy Commissioner of Police (Investigations and Intelligence), <br>Singapore Police Force<br>Singapore*
