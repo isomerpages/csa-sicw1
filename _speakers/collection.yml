@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Goh Eng Choon.md
       - Speaker – Mr Alex Stamos.md
       - Speaker – Ms Manon Le Blanc.md
       - Speaker – Dr Tara Maria Davenport.md
