@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Chan Tsan.md
       - Speaker – Mr Sim Feng–Ji.md
       - Guest of Honour – Mr Tan Kiat How.md
       - Guest of Honour – Mrs Josephine Teo.md
