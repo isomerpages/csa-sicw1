@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Moderator – Mr Alexander Botting.md
       - Speaker – Ms Kathryn Thornton.md
       - Speaker – Mr Mark du Plessis.md
       - Speaker – Mr Chan Tsan.md
