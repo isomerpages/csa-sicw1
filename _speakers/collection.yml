@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Charles Ng.md
       - Speaker – Ms Meerah Rajavel.md
       - Speaker – Mr Goh Eng Choon.md
       - Speaker – Mr Alex Stamos.md
