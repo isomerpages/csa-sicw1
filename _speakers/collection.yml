@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Simon Green.md
       - Speaker – Ms Mihoko Matsubara.md
       - Speaker – BG Edward Chen.md
       - Speaker – Mr Derek Manky.md
