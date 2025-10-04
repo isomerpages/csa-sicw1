@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Derek Manky.md
       - Speaker – Mr Charles Ng.md
       - Speaker – Ms Meerah Rajavel.md
       - Speaker – Mr Goh Eng Choon.md
