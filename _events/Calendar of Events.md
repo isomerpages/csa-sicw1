@@ -29,7 +29,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 5.00pm           | [SPIRITCYBER Hackathon](/events/22-oct/spiritcyber-hackathon/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/22-oct/govware-conference-exhibition-2025/)                               |
 | 10.00am to 11.30am           | [Securing Smart Cities](/events/22-oct/securing-smart-cities/)                               |
-| 10.00am to 12.00pm           | [Cyber Accountability In Asia: Navigating Norms and Legal Frameworks](/events/22-oct/cyber-accountability-in-asia-navigating-norms-and-legal-frameworks/)                               |
+| 10.00am to 12.00pm           | [Cyber Accountability in Asia: Navigating Norms and Legal Frameworks](/events/22-oct/cyber-accountability-in-asia-navigating-norms-and-legal-frameworks/)                               |
 | 10.30am to 11.40am           | [High-Level Panel: Uplifting Public-Private Partnership to Combat Scams in Southeast Asia](/events/22-oct/high-level-panel-uplifting-public-private-partnership/)                               |
 | 10.30am to 12.00pm           | [Mobile Security Roundtable](/events/22-oct/mobile-security-roundtable/)                               |
 | 11.40am to 12.40pm           | [High-Level Panel: Survival of the Smartest — Agentic AI in Cybersecurity Operations](/events/22-oct/survival-of-the-smartest-agentic-ai-in-cybersecurity-operations/)                               |
