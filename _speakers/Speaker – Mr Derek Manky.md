@@ -7,7 +7,7 @@ description: ""
 ![](/images/2025%20speakers/derek_manky.png)
 #### **Mr Derek Manky**
 
-*Chief Security Strategist &amp; Global VP Threat Intelligence, <br> FortiGuard Labs<br>Canada*
+*Chief Security Strategist &amp; Global VP Threat Intelligence, <br>Fortinet<br>Canada*
 
 ##### **Biography**
 Derek Manky brings more than twenty years of experience to a strategic and visionary cyber security role, working with FortiGuard Labs at Fortinet. Manky leads FortiGuard Labs’ global threat intelligence team which consults with leading CSOs/CISOs of Fortune 500 companies worldwide across multiple industries. Manky provides thought leadership to industry and has presented research and strategy worldwide at many premier security conferences. As a cyber security expert, his work has included meetings with leading political figures and key policy stakeholders globally, including law enforcement, which helps define the future of cyber security. In 2019, he was selected as one of six nationwide delegates to represent Canada as a Canadian leader from the field of cyber, through his leadership and expertise in Cyber Security. He is a contributing author to the World Economic Forum Partnership against Cybercrime Report. Manky has been recipient of his technical University’s honorable 2019 BCIT Distinguished Alumni Award.
