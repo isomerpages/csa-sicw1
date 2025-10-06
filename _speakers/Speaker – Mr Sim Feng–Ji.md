@@ -4,6 +4,8 @@ permalink: /speakers/mr-sim-feng-ji/
 variant: markdown
 description: ""
 ---
+
+![](/images/2025%20speakers/Mr_Sim_Feng_Ji.png)
 #### **Mr Sim Feng-Ji**
 
 *Deputy Secretary (Digital Government), <br> Ministry of Digital Development and Information<br>Singapore*
