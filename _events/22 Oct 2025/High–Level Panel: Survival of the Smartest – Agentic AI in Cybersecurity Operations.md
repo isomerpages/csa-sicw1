@@ -16,8 +16,8 @@ In today’s rapid evolving digital landscape, organisations face an unprecedent
 |**Speakers**          |                                                              |
 | [Mr Alex Stamos](/speakers/mr-alex-stamos/)  | *Advisor to CEO, former CISO* <br>SentinelOne<br>United States of America      |
 | [Mr Goh Eng Choon](/speakers/mr-goh-eng-choon/)  | *President, Cyber*<br>ST Engineering <br>Singapore      |
-| [Ms Meerah Rajavel](/speakers/ms-meerah-rajavel/)  | *Senior Vice President, Chief Information Oﬃcer* <br>Palo Alto Networks<br>Singapore      |
-| [Mr Paul Vixie](/speakers/mr-paul-vixie/)  | *Deputy CISO, VP &amp; Distinguished Engineer* <br> Amazon Web Services<br>United States of America      |
+| [Ms Meerah Rajavel](/speakers/ms-meerah-rajavel/)  | *Senior Vice President, Chief Information Oﬃcer* <br>Palo Alto Networks<br>United States of America      |
+| [Dr Paul Vixie](/speakers/mr-paul-vixie/)  | *Deputy CISO, VP &amp; Distinguished Engineer* <br> Amazon Web Services<br>United States of America      |
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
