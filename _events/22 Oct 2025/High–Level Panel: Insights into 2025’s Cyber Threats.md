@@ -14,7 +14,7 @@ As cyber threats evolve to be more sophisticated and prevalent, understanding th
 
 |**Speakers**          |                                                              |
 | [Mr Charles Ng](/speakers/mr-charles-ng/)  | *Chief Executive Officer* <br>Ensign InfoSecurity<br>Singapore      |
-| [Mr Derek Manky](/speakers/mr-derek-manky/)  | *Chief Security Strategist &amp; Global VP Threat Intelligence* <br>FortiGuard Labs<br>Canada      |
+| [Mr Derek Manky](/speakers/mr-derek-manky/)  | *Chief Security Strategist &amp; Global VP Threat Intelligence* <br>Fortinet<br>Canada      |
 | [BG Edward Chen](/speakers/bg-edward-chen/)  | *Deputy Chief Executive (National Cyber Resilience)* <br>Cyber Security Agency of Singapore<br>Singapore      |
 | [Ms Mihoko Matsubara](/speakers/ms-mihoko-matsubara/)  | *Chief Cybersecurity Strategist* <br>NTT, Inc.<br>Japan      |
 | [Mr Simon Green](/speakers/mr-simon-green/)  | *President, Asia Pacific &amp; Japan,* <br>Palo Alto Networks<br>United States of America      |
