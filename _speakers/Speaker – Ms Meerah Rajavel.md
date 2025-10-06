@@ -7,7 +7,7 @@ description: ""
 ![](/images/2025%20speakers/Meerah_Rajavel.png)
 #### **Ms Meerah Rajavel**
 
-*Senior Vice President, Chief Information Oﬃcer,<br>Palo Alto Networks<br>Singapore*
+*Senior Vice President, Chief Information Oﬃcer,<br>Palo Alto Networks<br>United States of America*
 
 ##### **Biography**
 As Chief Information Oﬃcer, Meerah is responsible for Palo Alto Networks’ global information technology functions, driving a comprehensive strategy to scale and rapidly deliver innovative solutions for our worldwide teams.
