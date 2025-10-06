@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 ![](/images/2025%20speakers/Paul_Vixie.png)
-#### **Mr Paul Vixie**
+#### **Dr Paul Vixie**
 
 *Deputy CISO, VP &amp; Distinguished Engineer, <br> Amazon Web Services<br>United States of America*
 
