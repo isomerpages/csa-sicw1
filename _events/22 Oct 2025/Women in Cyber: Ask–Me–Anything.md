@@ -9,6 +9,7 @@ third_nav_title: 22 Oct 2025
 
 **22 October 2025 (Wednesday)**  
 *Time: 1.00pm to 3.00pm (GMT +8)*
+<br>*Venue: SICW I*
 
 The cybersecurity industry continues to face talent shortage and a low female participation rate. We encourage more women and girls to consider cybersecurity as a career. 
 
