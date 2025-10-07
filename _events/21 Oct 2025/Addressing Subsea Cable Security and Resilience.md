@@ -9,6 +9,7 @@ third_nav_title: 21 Oct 2025
 
 **21 October 2025 (Tuesday)**  
 *Time: 2.00pm to 3.00pm (GMT +8)*
+<br>*Venue: SICW I*
 
 The resiliency of subsea cable infrastructure is gaining greater attention among policymakers. In September, 24 countries signed the New York Joint Statement on the Security and Resilience of Undersea Cables, a non-binding effort to secure global subsea infrastructure through increased supply chain and data security measures.
 
