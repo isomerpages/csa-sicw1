@@ -26,6 +26,8 @@ Join us and be part of the dialogue shaping the future of the global cybersecuri
 | [Dr Bushra Al Blooshi](/speakers/dr-bushra-al-blooshi/)  | *Director of Governance and Risk Management for Cybersecurity* <br>Dubai Electronic Security Center<br>Dubai      |
 | [Ms Laura Fifield](/speakers/ms-laura-fifield/)  | *Supervisor of the Cyber Skills Development team*<br>Canadian Centre for Cyber Security<br>Canada      |
 | [Mr Rod Latham](/speakers/mr-rod-latham/)  | *Director for Cyber Security and Digital Identity* <br>Department for Science, Innovation and Technology (DSIT)<br>United Kingdom      |
+| [Mr Sebastian Madden](/speakers/mr-sebastian-madden/)  | *Chief Product Officer* <br>CREST International<br>Middle East      |
+| [Mr Wong Choon Bong](/speakers/mr-wong-choon-bong/)  | *Director of Workforce and Strategic Partnership Division* <br>Cyber Security Agency of Singapore<br>Singapore      |
 |<br>**Presenters**          |                                                              |
 | [Dr Yulia Cherdantseva](/speakers/dr-yulia-cherdantseva/)  | *Director* <br>Academic Centre of Excellence in Cyber Security Education (ACE-CSE), Cardiff University<br>United Kingdom      |
 | [Professor Steven Wong](/speakers/professor-steven-wong/)  | *Director* <br>Centre of Digital Enablement (CoDE) at the Singapore Institute of Technology (SIT)<br>Singapore      |
