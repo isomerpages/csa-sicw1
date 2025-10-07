@@ -9,6 +9,7 @@ third_nav_title: 22 Oct 2025
 
 **22 October 2025 (Wednesday)**
 <br>*Time: 9.00am to 5.00pm (GMT+8)*
+<br>*Venue: SICW D*
 
 *Format: Closed Door Event*
 
