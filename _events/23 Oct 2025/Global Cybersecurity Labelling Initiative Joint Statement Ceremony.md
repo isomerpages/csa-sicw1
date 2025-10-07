@@ -9,6 +9,7 @@ third_nav_title: 23 Oct 2025
 
 **23 October 2025 (Thursday)**  
 *Time: 1.00pm to 2.00pm (GMT +8)*
+<br>*Venue: SICW I*
 
 The 3rd Global Cybersecurity Labelling Initiative (GCLI) convenes participating nations to shape the future of IoT security. As governments worldwide develop their own IoT security initiatives, nations will explore harmonised security standards, share successful implementation strategies, and forge pathways for international cooperation. The initiative's vision is to build a trusted global ecosystem of connected devices, built on harmonised security standards that empower consumers, support innovation, and strengthen digital resilience across borders.
 <br><br><br>
