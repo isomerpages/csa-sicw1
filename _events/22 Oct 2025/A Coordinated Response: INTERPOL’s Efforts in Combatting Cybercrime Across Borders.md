@@ -10,6 +10,7 @@ third_nav_title: 22 Oct 2025
 
 **22 October 2025 (Wednesday)**
 <br>*Time: 1.30pm to 3.30pm (GMT+8)*
+<br>*Venue: SICW B*
 
 Join us to explore how INTERPOL builds trusted operational partnerships across governments, law enforcement, the private sector, and international organizations to combat cybercrime, in Singapore, Asia, and worldwide. Drawing on INTERPOL’s experience supporting Asian countries’ efforts to fight cybercrime, this interactive session will showcase how cross-sector cooperation has led to arrests, takedowns, and the long-term strengthening of national investigative capacity. 
 
