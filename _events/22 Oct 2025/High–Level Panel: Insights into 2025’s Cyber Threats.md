@@ -12,5 +12,12 @@ third_nav_title: 22 Oct 2025
 
 As cyber threats evolve to be more sophisticated and prevalent, understanding the current trends, tactics and strategies employed by threat actors is crucial for businesses, government agencies, and individuals. Hear insights into the current cyber threat landscape and engage with a panel of leaders and cybersecurity professionals as they delve into the latest developments in cyber threats. 
 
+|**Speakers**          |                                                              |
+| [Mr Charles Ng](/speakers/mr-charles-ng/)  | *Chief Executive Officer* <br>Ensign InfoSecurity<br>Singapore      |
+| [Mr Derek Manky](/speakers/mr-derek-manky/)  | *Chief Security Strategist &amp; Global VP Threat Intelligence* <br>Fortinet<br>Canada      |
+| [BG Edward Chen](/speakers/bg-edward-chen/)  | *Deputy Chief Executive (National Cyber Resilience)* <br>Cyber Security Agency of Singapore<br>Singapore      |
+| [Ms Mihoko Matsubara](/speakers/ms-mihoko-matsubara/)  | *Chief Cybersecurity Strategist* <br>NTT, Inc.<br>Japan      |
+| [Mr Simon Green](/speakers/mr-simon-green/)  | *President, Asia Pacific &amp; Japan,* <br>Palo Alto Networks<br>United States of America      |
+
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*

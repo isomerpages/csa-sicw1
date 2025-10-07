@@ -1,11 +1,11 @@
 ---
-title: "Cyber Accountability In Asia: Navigating Norms and Legal Frameworks"
+title: "Cyber Accountability in Asia: Navigating Norms and Legal Frameworks"
 permalink: /events/22-oct/cyber-accountability-in-asia-navigating-norms-and-legal-frameworks/
 variant: markdown
 description: ""
 third_nav_title: 22 Oct 2025
 ---
-#### **Cyber Accountability In Asia: Navigating Norms and Legal Frameworks**
+#### **Cyber Accountability in Asia: Navigating Norms and Legal Frameworks**
 
 **22 October 2025 (Wednesday)**  
 *Time: 10.00am to 12.00pm (GMT +8)*
