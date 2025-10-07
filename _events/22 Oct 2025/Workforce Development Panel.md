@@ -9,6 +9,7 @@ third_nav_title: 22 Oct 2025
 
 **22 October 2025 (Wednesday)**  
 *Time: 3.00pm to 4.45pm (GMT +8)*
+<br>*Venue: SICW I*
 
 Talent attraction and development are a key success factor for a country’s cybersecurity strategy. Many countries share the desire to develop high-quality cybersecurity workforces which are capable to defend against global cyber threats that are growing in scale and sophistication. 
 
