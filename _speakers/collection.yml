@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Esteban Castaño.md
       - Speaker – Mr Andrew Whittaker.md
       - Speaker – Mr Vincent Strubel.md
       - Moderator – Ms Allison Pytlak.md
