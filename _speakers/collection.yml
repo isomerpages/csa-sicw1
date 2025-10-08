@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Moderator – Mr Benjamin Ang.md
       - Speaker – Mr Michael Karimian.md
       - Speaker – Engr Allan Salim Cabanlong.md
       - Speaker – Mr Ghislain de Salins.md
