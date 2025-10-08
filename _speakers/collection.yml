@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Moderator – Mr Keith Detros.md
       - Speaker – Ms Pua Hunter.md
       - Speaker – Mr Masao Shino.md
       - Speaker – Mr Norman Ng.md
