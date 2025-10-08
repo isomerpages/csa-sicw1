@@ -9,7 +9,7 @@ third_nav_title: 20 Oct 2025
 
 **20 October 2025 (Monday)**  
 *Time: 6.00pm to 9.00pm (GMT +8)*
-<br>*Venue: SICW A*
+<br>*Venue: SICW A, Level 3*
 
 *Format: Closed Door Event*
 
