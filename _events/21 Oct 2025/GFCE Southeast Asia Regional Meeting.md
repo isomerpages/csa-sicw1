@@ -17,13 +17,17 @@ With the theme “**Cybersecurity as a Shared Responsibility: The Role of Multi-
 
 The meeting will serve as a platform for knowledge sharing, trust building, and identifying actionable pathways to enhance cyber resilience in Southeast Asia.
 
-|**Panellists**          |                                                              |
+|**Speakers**          |                                                              |
+| [Engr. Allan Salim Cabanlong](/speakers/engr-allan-salim-cabanlong/)  | *Director* <br>Global Forum on Cyber Expertise, Southeast Asia Hub<br>Philippines      |
+| [Mr David van Duren](/speakers/mr-david-van-duren/)  | *Director, GFCE Secretariat* <br>Global Forum on Cyber Expertise <br>The Netherlands      |
+|<br>**Panellists**          |                                                              |
 | [Mr Masao Shino](/speakers/mr-masao-shino/)  | *Director, Office for Science Technology and Information, and Digital Transformation* <br>Japan International Cooperation Agency (JICA)<br>Japan      |
 | [Ms Pua Hunter](/speakers/ms-pua-hunter/)  | *Director* <br>Global Forum on Cyber Expertise (GFCE), Pacific Hub<br>Cook Islands      |
 | [Mr Ghislain de Salins](/speakers/mr-ghislain-de-salins/)  | *Global Lead, Cybersecurity* <br>World Bank<br>United States of America      |
-| [Engr. Allan Salim Cabanlong](/speakers/engr-allan-salim-cabanlong/)  | *Director* <br>Global Forum on Cyber Expertise, Southeast Asia Hub<br>Philippines      |
+| [Mr Michael Karimian](/speakers/mr-michael-karimian/)  | *Director, Digital Diplomacy* <br>Microsoft<br>Singapore      |
 |<br>**Moderator**          |                                                              |
 | [Mr Keith Detros](/speakers/mr-keith-detros/)  | *Programme Lead* <br>Tech for Good Institute<br>Singapore      |
+| [Mr Benjamin Ang](/speakers/mr-benjamin-ang/)  | *Head of Centre of Excellence for National Security; Future Issues in Technology, and Digital Impact Research* <br>RSIS<br>Singapore      |
 
 
 <br><br><br>
