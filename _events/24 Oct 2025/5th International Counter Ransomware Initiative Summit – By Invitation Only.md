@@ -9,7 +9,7 @@ third_nav_title: 24 Oct 2025
 
 **24 October 2025 (Friday)**  
 *Time: 9.00am to 6.00pm (GMT +8)*
-<br>*Venue: SICW G*
+<br>*Venue: Hibiscus Junior Ballroom, Level 3*
 
 *Format: Closed Door Event*
 
