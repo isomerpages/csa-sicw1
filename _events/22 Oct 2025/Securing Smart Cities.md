@@ -9,7 +9,7 @@ third_nav_title: 22 Oct 2025
 
 **22 October 2025 (Wednesday)**  
 *Time: 10.00am to 11.30am (GMT +8)*
-<br>*Venue: SICW I*
+<br>*Venue: SICW I, Level 3*
 
 Securing Smart Cities is a platform that promotes collaboration, the sharing of real-world case studies, and open discussions on unique cyber-physical challenges. 
 
