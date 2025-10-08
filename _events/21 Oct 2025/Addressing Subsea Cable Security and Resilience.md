@@ -19,7 +19,7 @@ This panel will convene senior government and industry leaders to discuss the th
 
 |**Panellists**          |                                                              |
 | [Ms Kathryn Thornton](/speakers/ms-kathryn-thornton/)  | *Head of Legal, Asia Pacific and Japan* <br>Ciena<br>Australia      |
-| [Mr Paul Vixie](/speakers/mr-paul-vixie/)  | *Deputy CISO, VP &amp; Distinguished Engineer* <br>Amazon Web Services<br>United States of America      |
+| [Dr Paul Vixie](/speakers/mr-paul-vixie/)  | *Deputy CISO, VP &amp; Distinguished Engineer* <br>Amazon Web Services<br>United States of America      |
 | [Mr John R. Mills](/speakers/mr-john-r-mills/)  | *Deputy Assistant Secretary, Bureau of Cyberspace and Digital Policy* <br>U.S. Department of State<br>United States of America      |
 | [Dr Tara Maria Davenport](/speakers/dr-tara-maria-davenport/)  | *Assistant Professor at the Faculty of Law* <br>National University of Singapore (NUS)<br>Singapore      |
 |<br>**Moderator**          |                                                              |
