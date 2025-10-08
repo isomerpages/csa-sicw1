@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr David van Duren.md
       - Moderator – Mr Benjamin Ang.md
       - Speaker – Mr Michael Karimian.md
       - Speaker – Engr Allan Salim Cabanlong.md
