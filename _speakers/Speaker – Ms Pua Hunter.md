@@ -7,7 +7,7 @@ description: ""
 ![](/images/2025%20speakers/Pua_Hunter.png)
 #### **Ms Pua Hunter**
 
-*Director, GFCE Pacific Hub,<br>Global Forum on Cyber Expertise (GFCE), Pacific Hub<br>Cook Islands*
+*Director,<br>Global Forum on Cyber Expertise (GFCE), Pacific Hub<br>Cook Islands*
 
 ##### **Biography**
 Pua brings over thirty years of experience working within the Government of the Cook Islands, primarily focused on ICT, with twenty-five years spent in leadership positions.
