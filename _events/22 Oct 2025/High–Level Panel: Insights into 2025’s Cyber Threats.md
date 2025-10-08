@@ -19,6 +19,7 @@ As cyber threats evolve to be more sophisticated and prevalent, understanding th
 | [Mr Charles Ng](/speakers/mr-charles-ng/)  | *Chief Executive Officer* <br>Ensign InfoSecurity<br>Singapore      |
 | [Mr Derek Manky](/speakers/mr-derek-manky/)  | *Chief Security Strategist &amp; Global VP Threat Intelligence* <br>Fortinet<br>Canada      |
 | [Ms Mihoko Matsubara](/speakers/ms-mihoko-matsubara/)  | *Chief Cybersecurity Strategist* <br>NTT, Inc.<br>Japan      |
+| [Mr Esteban Castaño](/speakers/mr-esteban-castano/)  | *CEO and co-founder* <br>TRM Labs<br>United States of America      |
 |<br>**Moderator**          |                                                              |
 | [BG Edward Chen](/speakers/bg-edward-chen/)  | *Deputy Chief Executive (National Cyber Resilience)* <br>Cyber Security Agency of Singapore<br>Singapore      |
 
