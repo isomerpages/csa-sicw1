@@ -18,8 +18,8 @@ With the theme “**Cybersecurity as a Shared Responsibility: The Role of Multi-
 The meeting will serve as a platform for knowledge sharing, trust building, and identifying actionable pathways to enhance cyber resilience in Southeast Asia.
 
 |**Panellists**          |                                                              |
-| [Ms Kathryn Thornton](/speakers/ms-kathryn-thornton/)  | *Head of Legal, Asia Pacific and Japan* <br>Ciena<br>Australia      |
-| [Dr Paul Vixie](/speakers/mr-paul-vixie/)  | *Deputy CISO, VP &amp; Distinguished Engineer* <br>Amazon Web Services<br>United States of America      |
+| [Mr Masao Shino](/speakers/mr-masao-shino/)  | *Director, Office for Science Technology and Information, and Digital Transformation* <br>Japan International Cooperation Agency (JICA)<br>Japan      |
+| [Ms Pua Hunter](/speakers/ms-pua-hunter/)  | *Director, GFCE Pacific Hub* <br>Global Forum on Cyber Expertise (GFCE), Pacific Hub<br>Cook Islands      |
 | [Mr John R. Mills](/speakers/mr-john-r-mills/)  | *Deputy Assistant Secretary, Bureau of Cyberspace and Digital Policy* <br>U.S. Department of State<br>United States of America      |
 | [Dr Tara Maria Davenport](/speakers/dr-tara-maria-davenport/)  | *Assistant Professor at the Faculty of Law* <br>National University of Singapore (NUS)<br>Singapore      |
 |<br>**Moderator**          |                                                              |
