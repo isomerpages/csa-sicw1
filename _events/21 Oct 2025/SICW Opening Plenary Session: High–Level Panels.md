@@ -9,7 +9,7 @@ third_nav_title: 21 Oct 2025
 
 **21 October 2025 (Tuesday)**  
 *Time: 9.20am to 11.45am (GMT +8)*
-<br>*Venue: SICW A*
+<br>*Venue: SICW A, Level 3*
 
 |**Keynote Speaker**          |                                                              |
 | [Ms Izumi Nakamitsu](/speakers/ms-izumi-nakamitsu/)  | *Under-Secretary General and High Representative for Disarmament Affairs*<br>United Nations      |
