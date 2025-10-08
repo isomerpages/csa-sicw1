@@ -19,11 +19,11 @@ The meeting will serve as a platform for knowledge sharing, trust building, and 
 
 |**Panellists**          |                                                              |
 | [Mr Masao Shino](/speakers/mr-masao-shino/)  | *Director, Office for Science Technology and Information, and Digital Transformation* <br>Japan International Cooperation Agency (JICA)<br>Japan      |
-| [Ms Pua Hunter](/speakers/ms-pua-hunter/)  | *Director, GFCE Pacific Hub* <br>Global Forum on Cyber Expertise (GFCE), Pacific Hub<br>Cook Islands      |
-| [Mr John R. Mills](/speakers/mr-john-r-mills/)  | *Deputy Assistant Secretary, Bureau of Cyberspace and Digital Policy* <br>U.S. Department of State<br>United States of America      |
-| [Dr Tara Maria Davenport](/speakers/dr-tara-maria-davenport/)  | *Assistant Professor at the Faculty of Law* <br>National University of Singapore (NUS)<br>Singapore      |
+| [Ms Pua Hunter](/speakers/ms-pua-hunter/)  | *Director* <br>Global Forum on Cyber Expertise (GFCE), Pacific Hub<br>Cook Islands      |
+| [Mr Ghislain de Salins](/speakers/mr-ghislain-de-salins/)  | *Global Lead, Cybersecurity* <br>World Bank<br>United States of America      |
+| [Engr. Allan Salim Cabanlong](/speakers/engr-allan-salim-cabanlong/)  | *Director* <br>Global Forum on Cyber Expertise, Southeast Asia Hub<br>Philippines      |
 |<br>**Moderator**          |                                                              |
-| [Mr Alexander Botting](/speakers/mr-alexander-botting/)  | *Senior Director* <br>Center for Cybersecurity Policy &amp; Law<br>United States of America      |
+| [Mr Keith Detros](/speakers/mr-keith-detros/)  | *Programme Lead* <br>Tech for Good Institute<br>Singapore      |
 
 
 <br><br><br>
