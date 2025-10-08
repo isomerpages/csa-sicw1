@@ -10,7 +10,7 @@ third_nav_title: 22 Oct 2025
 
 **22 October 2025 (Wednesday)**  
 *Time: 10.30am to 11.40am (GMT +8)*
-<br>*Venue: SICW A1*
+<br>*Venue: SICW A1, Level 3*
 
 Digital scams continue to threaten and severely harm individuals, businesses, and governments across Southeast Asia and beyond. Scam syndicates exploit technological advancements and societal digitalisation to enhance and scale their capabilities to effectively contact and scam victims – whose losses, which can be life-changing, are further used by scammers to perpetuate the vicious scam-cycle. Governments have invested significant resources and efforts into protective measures, operational enforcement, and public education; while the telecoms, banking/financial and digital industries have similarly leaned forward to implement technical and scam awareness measures to help protect and educate their consumers.
  
