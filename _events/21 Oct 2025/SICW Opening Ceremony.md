@@ -16,6 +16,9 @@ The SICW Opening Ceremony features a keynote address by Singapore’s Coordinati
 |**Guest of Honour**    |                                                              |
 |------|------|
 | [Mr K Shanmugam](/speakers/mr-k-shanmugam/)  | *Coordinating Minister for National Security and Minister for Home Affairs* <br>Singapore                |
+|<br>**Speaker**    |                                                              |
+| [Mr David Koh](/speakers/mr-david-koh/)  | *Commissioner of Cybersecurity &amp; Chief Executive (CE)*, Cyber Security Agency of Singapore (CSA)<br>*Chief (Digital Security &amp; Technology), Chief Quantum Advisor*, Ministry of Digital Development and Information<br>Singapore     |
+
 
 **Guest of Honour**
 ![](/images/2025%20speakers/Mr_K_Shanmugam.png)
