@@ -30,7 +30,7 @@ Through a multistakeholder interactive conversation, the session will highlight 
 | [Mr Florian Schütz](/speakers/mr-florian-schutz/)  | *Director* <br>Swiss National Cybersecurity Center<br>Switzerland      |
 | [Mr Tan E Guang Eugene](/speakers/mr-tan-e-guang-eugene/)  | *Associate Research Fellow at the Centre of Excellence for National Security* <br>S Rajaratnam School of International Studies, Nanyang Technological University<br>Singapore      |
 | [Mr Teo Xiang Zheng](/speakers/mr-teo-xiang-zheng/)  | *VP, Head of Advisory* <br>Ensign Infosecurity<br>Singapore      |
-| [Ms Shariffah Rashidah Syed Othman](/speakers/ms-shariffah-rashidah-syed-othman/)  | *Director, Cyber Security Policy and International Cooperation* <br>National Cyber Security Agency (NACSA)<br>Malaysia      |
+| [Ms Shariffah Rashidah Syed Othman](/speakers/ms-shariffah-rashidah-syed-othman/)  | *Deputy Director General, Personal Data Protection Department* <br>Ministry of Digital<br>Malaysia      |
 |<br>**Moderator**          |                                                              |
 | [Ms Anastasiya Kazakova](/speakers/ms-anastasiya-kazakova/)  | *Cyber Diplomacy Knowledge Fellow; Geneva Dialogue project coordinator* <br>DiploFoundation<br>Russian Federation      |
 | [Mr Vladimir Radunović](/speakers/mr-vladimir-radunovic/)  | *Director of Cybersecurity &amp; E-diplomacy, Diplo* <br>DiploFoundation<br>Serbia      |
