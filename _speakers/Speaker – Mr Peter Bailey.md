@@ -6,7 +6,7 @@ description: ""
 ---
 #### **Mr Peter Bailey**
 
-*Senior Vice-President, Security, <br>Cisco<br>United States of America*
+*Senior Vice-President, Security, <br>Cisco*
 
 ##### **Biography**
 Peter Bailey is the SVP and GM of Cisco’s Security business, where he leads efforts to accelerate the growth of our Security business by driving operational excellence in product strategy and go-to-market execution. With over 25 years of experience in cybersecurity, SaaS, and enterprise software, Peter specializes in operationalizing enterprise software product strategies and executing go-to-market strategies at scale. He has a proven track record of building high-performing teams, instilling a strong sense of mission, and delivering exceptional customer outcomes.
