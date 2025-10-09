@@ -25,8 +25,8 @@ Whether you are a student, early-career professional, or considering a mid-caree
 | [Ms April Chin](/speakers/ms-april-chin/)  | *Co-CEO* <br>Resaro<br>Singapore      |
 | [Ms Beatriz Silveira](/speakers/ms-beatriz-silveira/)  | *Head of Global Security APAC*<br>Novartis<br>Singapore      |
 | [Ms Shamane Tan](/speakers/ms-shamane-tan/)  | *Chief Growth Officer* <br>Sekuro<br>Singapore      |
-| [Ms Loke Hui Yi](/speakers/ms-loke-hui-yi/)  | *Vulnerability Management Head* <br>Ministry of Foreign Affairs<br>Singapore      |
-| [Ms Helen Popp](/speakers/ms-helen-popp/)  | *Ambassador-at-Large for Cyber Diplomacy* <br>TikTok<br>Estonia      |
+| [Ms Loke Hui Yi](/speakers/ms-loke-hui-yi/)  | *Vulnerability Management Head* <br>TikTok<br>Singapore      |
+| [Ms Helen Popp](/speakers/ms-helen-popp/)  | *Ambassador-at-Large for Cyber Diplomacy* <br>Ministry of Foreign Affairs<br>Estonia      |
 |<br>**Moderator**          |                                                              |
 | [Dr Anuradha Rao](/speakers/dr-anuradha-rao/)  | *Founder* <br>CyberCognizanz<br>Singapore      |
 
