@@ -7,7 +7,7 @@ description: ""
 ![](/images/2025%20speakers/Ken_Chan.png)
 #### **Mr Ken Chan**
 
-*Vice President (Business Development), <br> MooVita Pte Ltd<br>Singapore*
+*Vice President (Business Development), <br> MooVita Pte Ltd*
 
 ##### **Biography**
 Ken Chan is Vice President (Business Development) at MooVita Pte Ltd, an autonomous driving technology company with a mission to make people and goods mobility safe, inclusive and accessible through technologies.
