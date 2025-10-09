@@ -4,6 +4,8 @@ permalink: /speakers/mr-norman-ng/
 variant: markdown
 description: ""
 ---
+
+![](/images/2025%20speakers/Norman_Ng.png)
 #### **Mr Norman Ng**
 
 *Head, Trust &amp; Safety Global Engagement
