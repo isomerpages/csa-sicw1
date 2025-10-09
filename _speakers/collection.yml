@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Ken Chan.md
       - Moderator – HE Marta Pelechova.md
       - Speaker – Mr David Koh.md
       - Speaker – Mr Iida Yoichi.md
