@@ -17,6 +17,8 @@ Scams and cyber-enabled fraud are today among the most pervasive forms of cyberc
 
 |**Speaker**          |                                                              |
 | [Ms Manon Le Blanc](/speakers/ms-manon-le-blanc/)  | *Coordinator for Cyber Issues* <br>European External Action Service<br>Singapore      |
+|<br>**Moderator**          |                                                              |
+| [H.E. Marta Pelechova](/speakers/he-marta-pelechova/)  | *Special Envoy for Cyberspace, Cyber Ambassador* <br>Ministry of Foreign Affairs of the Czech Republic<br>Czech Republic      |
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
