@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Peter Bailey.md
       - Moderator – Mr Gaurav Keerthi.md
       - Speaker – Mr Richard Horne.md
       - Guest of Honour – Mr Tan Kiat How.md
