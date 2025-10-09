@@ -71,10 +71,6 @@ sections:
         src="https://www.youtube.com/embed/qzeSqFBSVco?si=WR8Rvrb97-TjIJCI"
         height="315" width="100%"></iframe>
   - infobar:
-      title: Past Speakers
-      id: infobar
-      description: <br><img src="/images/Home_NotableSpeakers3.png">
-  - infobar:
       title: Past SICW Resources
       id: infobar
       description: <img src="/images/ResourcesIcons3.png">
