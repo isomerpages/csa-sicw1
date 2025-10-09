@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr David Koh.md
       - Speaker – Mr Iida Yoichi.md
       - Speaker – Mr Richard LaTulip.md
       - Speaker – Mr Peter Bailey.md
