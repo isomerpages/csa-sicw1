@@ -25,6 +25,10 @@ sections:
       description: <img src="/images/HomePg_AboutTextv3.jpg">
       image: /images/AboutSICWGIF4.gif
       alt: Image alt text
+  - infobar:
+      id: infobar
+      description: <img src="/images/2025_Home_Page_GOH_Image_4x1.jpg"> <img
+        src="/images/2025_Home_Page_Distinguised_Speakers_Image_3x1_v4.jpg">
   - textcards:
       title: Event Highlights
       id: textcards
