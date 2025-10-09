@@ -9,7 +9,7 @@ third_nav_title: 21 Oct 2025
 
 **21 October 2025 (Tuesday)**  
 *Time: 9.00am to 9.20am (GMT +8)*
-<br>*Venue: SICW A*
+<br>*Venue: SICW A, Level 3*
 
 The SICW Opening Ceremony features a keynote address by Singapore’s Coordinating Minister for National Security and Minister for Home Affairs Mr K Shanmugam. 
 
