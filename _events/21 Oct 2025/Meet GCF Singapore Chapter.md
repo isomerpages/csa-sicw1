@@ -9,7 +9,7 @@ third_nav_title: 21 Oct 2025
 
 21 October 2025 (Tuesday)  
 *Time: 3.00pm to 4.30pm (GMT +8)*
-*Venue: Orchid Jr Ballroom, Level 4*
+<br>*Venue: Orchid Jr Ballroom, Level 4*
 
 Meet GCF is a series of events convening global stakeholders in major cities around the world; e.g. Geneva, Brussels, New York, to engage the global community on main topics/areas on collective action in Cyberspace.
  
