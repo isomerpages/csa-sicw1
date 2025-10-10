@@ -2,21 +2,15 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Mr Ken Chan.md
-      - Moderator – HE Marta Pelechova.md
-      - Speaker – Mr David Koh.md
-      - Speaker – Mr Iida Yoichi.md
-      - Speaker – Mr Richard LaTulip.md
-      - Speaker – Mr Peter Bailey.md
-      - Moderator – Mr Gaurav Keerthi.md
-      - Speaker – Mr Richard Horne.md
       - Guest of Honour – Mr Tan Kiat How.md
       - Guest of Honour – Mrs Josephine Teo.md
       - Guest of Honour – Mr K Shanmugam.md
+      - Speaker – Mr Peter Bailey.md
       - Speaker – Ms Manon Le Blanc.md
       - Speaker – Dr Bushra Al Blooshi.md
       - Speaker – Engr Allan Salim Cabanlong.md
       - Speaker – Mr Esteban Castaño.md
+      - Speaker – Mr Ken Chan.md
       - Speaker – Mr Chan Tsan.md
       - Speaker – Mr Chang Sau Sheong.md
       - Speaker – Dr Yulia Cherdantseva.md
@@ -31,9 +25,12 @@ collections:
       - Speaker – Mr Goh Pei Ming.md
       - Speaker – Mr Simon Green.md
       - Speaker – Mr Sheran Gunasekera.md
+      - Speaker – Mr Richard Horne.md
       - Speaker – Ms Pua Hunter.md
       - Speaker – Mr Michael Karimian.md
+      - Speaker – Mr David Koh.md
       - Speaker – Mr Rod Latham.md
+      - Speaker – Mr Richard LaTulip.md
       - Speaker – Mr Eugene Liderman.md
       - Speaker – Ms Loke Hui Yi.md
       - Speaker – Mr Sebastian Madden.md
@@ -70,6 +67,7 @@ collections:
       - Speaker – Dr Paul Vixie.md
       - Speaker – Mr Andrew Whittaker.md
       - Speaker – Dr Yang Yinping.md
+      - Speaker – Mr Iida Yoichi.md
       - Speaker – Ms Loretta Yuen.md
       - Speaker – Dr Wang Yunlong.md
       - Speaker – Mr Wong Choon Bong.md
@@ -80,6 +78,8 @@ collections:
       - Moderator – BG Edward Chen.md
       - Moderator – Mr Keith Detros.md
       - Moderator – Ms Anastasiya Kazakova.md
+      - Moderator – Mr Gaurav Keerthi.md
+      - Moderator – HE Marta Pelechova.md
       - Moderator – Ms Allison Pytlak.md
       - Moderator – Mr Vladimir Radunović.md
       - Moderator – Dr Anuradha Rao.md
