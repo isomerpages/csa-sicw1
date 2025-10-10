@@ -31,7 +31,7 @@ This panel invites government and industry leaders to confront hard questions of
 | [Mr Richard LaTulip](/speakers/mr-peter-bailey/)  | *Field Chief Information Security Officer*<br>Recorded Future      |
 | [Mr Iida Yoichi](/speakers/mr-iida-yoichi/)  | *National Cyber Director &amp; Deputy National Security Advisor*<br>National Cybersecurity Office<br>Japan      |
 |<br>**Moderator**          |                                                              |
-| [Mr Gaurav Keerthi](/speakers/mr-gaurav-keerthi/)  | *Chief Executive Officer*<br>StrongKeep<br>Singapore       |
+| [Mr Gaurav Keerthi](/speakers/mr-gaurav-keerthi/)  | *Chief Executive Officer*<br>StrongKeep       |
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
