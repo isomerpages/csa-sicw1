@@ -9,6 +9,7 @@ third_nav_title: 22 Oct 2025
 
 **22 October 2025 (Wednesday)**  
 *Time: 10.00am to 11.30am (GMT +8)*
+<br>*Venue: SICW I, Level 3*
 
 Securing Smart Cities is a platform that promotes collaboration, the sharing of real-world case studies, and open discussions on unique cyber-physical challenges. 
 
@@ -18,11 +19,12 @@ Government agencies, industry and technology leaders, and ecosystem partners wil
 
 The event will also feature a panel discussion exploring how different stakeholders can collaborate in cyberspace to strike a balance between convenience, safety, and security.
 
-|**Speakers**          |                                                              |
+|**Opening Address &amp; Moderator**          |                                                              |
 | [Mr Sim Feng-Ji](/speakers/mr-sim-feng-ji/)  | *Deputy Secretary (Digital Government)* <br>Ministry of Digital Development and Information<br>Singapore      |
+|<br>**Panellists**          |                                                              |
 | [Mr Chan Tsan](/speakers/mr-chan-tsan/)  | *Chief Executive*<br>HTX (Home Team Science and Technology Agency) &amp; Deputy Secretary (Development)<br>Singapore      |
-| [Mr Mark du Plessis](/speakers/mr-mark-du-plessis/)  | *Cyber Partner* <br>Deloitte SEA<br>Singapore      |
-
+| [Mr Ken Chan](/speakers/mr-ken-chan/)  | *Vice President (Business Development)* <br>MooVita Pte Ltd      |
+| [Mr Mark du Plessis](/speakers/mr-mark-du-plessis/)  | *Cyber Partner* <br>Deloitte SEA      |
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*

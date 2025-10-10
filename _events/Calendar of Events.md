@@ -18,6 +18,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/21-oct/govware-conference-exhibition-2025/)                               |
 | 9.20am to 11.45am           | [SICW Opening Plenary Session: High-Level Panels](/events/21-oct/high-level-panels-opening-plenary/)                               |
 | 1.00pm to 3.00pm           | [Cyber Norms on the Ground: Who Is Responsible for Securing Critical Infrastructure?](/events/21-oct/cyber-norms-on-the-ground-who-is-responsible-for-securing-critical-infrastructure/)                               |
+| 1.00pm to 4.00pm           | [GFCE Southeast Asia Regional Meeting](/events/21-oct/gfce-southeast-asia-regional-meeting/)                               |
 | 2.00pm to 3.00pm           | [Addressing Subsea Cable Security and Resilience](/events/21-oct/addressing-subsea-cable-security-and-resilience/)                               |
 | 2.30pm to 5.30pm           | [SG Cyber Safe for Enterprises](/events/21-oct/sg-cyber-safe-for-enterprises/)                               |
 | 3.00pm to 4.30pm           | [Meet GCF Singapore Chapter](/events/21-oct/meet-gcf-singapore-chapter/)                               |

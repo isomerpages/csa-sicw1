@@ -8,6 +8,7 @@ third_nav_title: 23 Oct 2025
 #### **EU–ASEAN Cooperation on Cyber Fraud and Scams: Operationalising UN Norms and the UN Convention Against Cybercrime**
 *From principles to practice: protecting citizens, economies, and digital trust
 <br> Organised by the European Union and the Czech Republic*
+<br>*Venue: SICW D, Level 3*
 
 **23 October 2025 (Thursday)**  
 *Time: 11.30am to 12.30pm (GMT +8)*
@@ -16,6 +17,8 @@ Scams and cyber-enabled fraud are today among the most pervasive forms of cyberc
 
 |**Speaker**          |                                                              |
 | [Ms Manon Le Blanc](/speakers/ms-manon-le-blanc/)  | *Coordinator for Cyber Issues* <br>European External Action Service<br>Singapore      |
+|<br>**Moderator**          |                                                              |
+| [H.E. Marta Pelechova](/speakers/he-marta-pelechova/)  | *Special Envoy for Cyberspace, Cyber Ambassador* <br>Ministry of Foreign Affairs of the Czech Republic<br>Czech Republic      |
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*

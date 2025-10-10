@@ -10,7 +10,7 @@ description: ""
 *Director, <br> Swiss National Cybersecurity Center<br>Japan*
 
 ##### **Biography**
-As Director of the National Cyber Security Centre, Florian Schütz is responsible for coordinating the implementation of the Swiss cyberstrategy (NCS) and managing the Federal Office. He further acts as the contact person for the cantons, the economy, scientific communities and the population.
+As Director of the National Cyber Security Center, Florian Schütz is responsible for coordinating the implementation of the Swiss cyberstrategy (NCS) and managing the Federal Office. He further acts as the contact person for the cantons, the economy, scientific communities and the population.
 
 Florian Schütz was appointed Federal Delegate for Cybersecurity by the Federal Council on June 14, 2019. In
 this role, he was responsible for setting up the National Cybersecurity Center and headed it from July 1, 2020

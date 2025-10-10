@@ -9,6 +9,7 @@ third_nav_title: 21 Oct 2025
 
 **21 October 2025 (Tuesday)**  
 *Time: 9.00am to 5.30pm (GMT +8)*
+<br>*Venue: Exhibition at Level 1, Conference at Level 3*
 
 **GovWare** is Asia’s premier cybersecurity platform and anchor trade event of the Singapore International Cyber Week. 
 

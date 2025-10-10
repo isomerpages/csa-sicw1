@@ -25,6 +25,10 @@ sections:
       description: <img src="/images/HomePg_AboutTextv3.jpg">
       image: /images/AboutSICWGIF4.gif
       alt: Image alt text
+  - infobar:
+      id: infobar
+      description: <img src="/images/2025_Home_Page_GOH_Image_4x1_v2.jpg"> <img
+        src="/images/2025_Home_Page_Distinguished_Guests_Image_3x1_v6.jpg">
   - textcards:
       title: Event Highlights
       id: textcards
@@ -66,10 +70,6 @@ sections:
         video player"
         src="https://www.youtube.com/embed/qzeSqFBSVco?si=WR8Rvrb97-TjIJCI"
         height="315" width="100%"></iframe>
-  - infobar:
-      title: Past Speakers
-      id: infobar
-      description: <br><img src="/images/Home_NotableSpeakers3.png">
   - infobar:
       title: Past SICW Resources
       id: infobar

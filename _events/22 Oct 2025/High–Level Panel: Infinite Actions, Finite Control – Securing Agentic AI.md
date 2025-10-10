@@ -9,6 +9,7 @@ third_nav_title: 22 Oct 2025
 
 **22 October 2025 (Wednesday)**  
 *Time: 9.00am to 10.30am (GMT +8)*
+<br>*Venue: SICW A1, Level 3*
 
 Agentic AI tools and services are growing more sophisticated. These tools can take autonomous actions, execute more open-ended goals, and interact dynamically with their environment. There can be new and unpredictable risks: agentic AI challenges our current security paradigm and existing assumptions about control, containment and accountability.
  

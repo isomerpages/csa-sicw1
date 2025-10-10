@@ -1,5 +1,5 @@
 ---
-title: Speaker – BG Edward Chen
+title: Moderator – BG Edward Chen
 permalink: /speakers/bg-edward-chen/
 variant: markdown
 description: ""

@@ -9,6 +9,7 @@ third_nav_title: 21 Oct 2025
 
 **21 October 2025 (Tuesday)**  
 *Time: 9.20am to 11.45am (GMT +8)*
+<br>*Venue: SICW A, Level 3*
 
 |**Keynote Speaker**          |                                                              |
 | [Ms Izumi Nakamitsu](/speakers/ms-izumi-nakamitsu/)  | *Under-Secretary General and High Representative for Disarmament Affairs*<br>United Nations      |
@@ -24,6 +25,13 @@ third_nav_title: 21 Oct 2025
 
 This panel invites government and industry leaders to confront hard questions of accountability, with lessons from around the world. Looking beyond blame, it will explore how countries are experimenting with new models of public-private partnerships – blending state resources with private innovation, to strengthen collective action against evolving threats.
 
+|**Panellists**          |                                                              |
+| [Mr Richard Horne](/speakers/mr-richard-horne/)  | *Chief Executive Officer*<br>National Cyber Security Centre<br>United Kingdom      |
+| [Mr Peter Bailey](/speakers/mr-peter-bailey/)  | *Senior Vice-President, Security*<br>Cisco      |
+| [Mr Richard LaTulip](/speakers/mr-peter-bailey/)  | *Field Chief Information Security Officer*<br>Recorded Future      |
+| [Mr Iida Yoichi](/speakers/mr-iida-yoichi/)  | *National Cyber Director &amp; Deputy National Security Advisor*<br>National Cybersecurity Office<br>Japan      |
+|<br>**Moderator**          |                                                              |
+| [Mr Gaurav Keerthi](/speakers/mr-gaurav-keerthi/)  | *Chief Executive Officer*<br>StrongKeep       |
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*

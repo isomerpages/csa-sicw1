@@ -6,7 +6,7 @@ description: ""
 ---
 #### **Ms Shariffah Rashidah Syed Othman**
 
-*Director, Cyber Security Policy and International Cooperation, <br> National Cyber Security Agency (NACSA)<br>Malaysia*
+*Deputy Director General, Personal Data Protection Department, <br>Ministry of Digital<br>Malaysia*
 
 ##### **Biography**
 Shariffah Rashidah has been serving the Government of Malaysia as an Administrative and Diplomatic Officer

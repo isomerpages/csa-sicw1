@@ -9,6 +9,7 @@ third_nav_title: 23 Oct 2025
 
 **23 October 2025 (Thursday)**  
 *Time: 1.00pm to 2.15pm (GMT +8)*
+<br>*Venue: SICW B, Level 3*
 
 As AI-generated content becomes increasingly sophisticated, the risk is that information threats will become all the more convincing, and pose a greater threat to societal trust and national security.
 

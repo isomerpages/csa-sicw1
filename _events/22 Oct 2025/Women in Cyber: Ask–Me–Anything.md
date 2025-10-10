@@ -9,6 +9,7 @@ third_nav_title: 22 Oct 2025
 
 **22 October 2025 (Wednesday)**  
 *Time: 1.00pm to 3.00pm (GMT +8)*
+<br>*Venue: SICW I, Level 3*
 
 The cybersecurity industry continues to face talent shortage and a low female participation rate. We encourage more women and girls to consider cybersecurity as a career. 
 
@@ -24,8 +25,10 @@ Whether you are a student, early-career professional, or considering a mid-caree
 | [Ms April Chin](/speakers/ms-april-chin/)  | *Co-CEO* <br>Resaro<br>Singapore      |
 | [Ms Beatriz Silveira](/speakers/ms-beatriz-silveira/)  | *Head of Global Security APAC*<br>Novartis<br>Singapore      |
 | [Ms Shamane Tan](/speakers/ms-shamane-tan/)  | *Chief Growth Officer* <br>Sekuro<br>Singapore      |
+| [Ms Loke Hui Yi](/speakers/ms-loke-hui-yi/)  | *Vulnerability Management Head* <br>TikTok<br>Singapore      |
+| [Ms Helen Popp](/speakers/ms-helen-popp/)  | *Ambassador-at-Large for Cyber Diplomacy* <br>Ministry of Foreign Affairs<br>Estonia      |
 |<br>**Moderator**          |                                                              |
-| [Dr Anuradha Rao](/speakers/dr-anuradha-rao/)  | *Associate Faculty at the Public Safety and Security Programme (PSS)* <br>Singapore University of Social Sciences (SUSS)<br>Singapore      |
+| [Dr Anuradha Rao](/speakers/dr-anuradha-rao/)  | *Founder* <br>CyberCognizanz<br>Singapore      |
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
