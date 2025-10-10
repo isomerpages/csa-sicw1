@@ -6,7 +6,7 @@ description: ""
 ---
 #### **Mr Gaurav Keerthi**
 
-*Chief Executive Officer, <br> StrongKeep<br>Singapore*
+*Chief Executive Officer, <br> StrongKeep*
 
 ##### **Biography**
 BG(NS) Gaurav Keerthi is the Chief Executive Officer of StrongKeep Cybersecurity, a Singapore-based start-up focused on simplifying cybersecurity for small businesses and charities. He is the former Deputy Commissioner of Cybersecurity / Deputy Chief Executive of the Cyber Security Agency of Singapore, where he shaped national regulations, participated as a cyber expert at the United Nations, and secured the development of critical tools like SingPass and TraceTogether. 
