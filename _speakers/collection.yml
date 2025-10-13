@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Farhanah Bagharib.md
       - Speaker – Mr Raman Jit Singh Chima.md
       - Speaker – Mr Ian Bartlett.md
       - Speaker – Mr Doug Browne.md
