@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Danny Jaspers.md
       - Moderator – LTG Stephen Fogarty.md
       - Speaker – Mr James Kay.md
       - Speaker – Ms Mary Bischoping.md
