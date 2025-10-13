@@ -9,6 +9,9 @@ third_nav_title: 23 Oct 2025
 
 **23 October 2025 (Thursday)**  
 
+**Opening Address**
+<br>*Time: 9.00am to 9.20am (GMT +8)*
+
 **Panel I: Making Consensus Work: The UN and the Future of International Cyber Cooperation**
 <br>*Time: 9.20am to 10.10am (GMT +8)*
 <br>The recently concluded United Nations Open Ended Working Group on security of and in the use of information and communications technologies (2021 to 2025) has agreed to establish a permanent Global Mechanism on developments in the field of ICTs in the context of international security and advancing responsible State behaviour in the use of ICTs (“UN Global Mechanism on ICTs Security”) by consensus. 
