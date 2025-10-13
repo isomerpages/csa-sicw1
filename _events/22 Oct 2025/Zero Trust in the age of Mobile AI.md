@@ -9,7 +9,7 @@ third_nav_title: 22 Oct 2025
 
 **22 October 2025 (Wednesday)**  
 *Time: 10.00am to 11.30am (GMT +8)*
-<br>*Venue: SICW I, Level 3*
+<br>*Venue: Angsana 3E, Level 3*
 
 With rapid technological advancements and the growing adoption of AI and mobile devices in enterprise environments, it is essential for organisations and critical infrastructure operations to continuously reassess and strengthen their zero trust strategies. The dynamic nature of digital threats means that relying on outdated approaches can leave organisations vulnerable. Proactive zero trust measures must be embedded from the outset, ensuring that critical sectors remain resilient against evolving attacks.
 
