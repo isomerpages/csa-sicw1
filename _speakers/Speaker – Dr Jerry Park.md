@@ -11,7 +11,6 @@ description: ""
 *Executive Vice President of Global B2B/B2G Team, Mobile eXperience Business <br>
 Samsung Electronics<br>South Korea*
 
-
 ##### **Biography**
 Dr Jerry Park is the Executive Vice President of Global B2B/B2G Team, Mobile eXperience Business at Samsung Electronics. 
 
