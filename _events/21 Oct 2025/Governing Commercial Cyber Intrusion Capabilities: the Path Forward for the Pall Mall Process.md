@@ -17,6 +17,7 @@ In today’s global cyber threat landscape, the rapidly-growing market enabling 
 |**Panellists**          |                                                              |
 | [Mr Vincent Strubel](/speakers/mr-vincent-strubel/)  | *Director General* <br>National Cybersecurity Agency (ANSSI)<br>France      |
 | [Mr Andrew Whittaker](/speakers/mr-andrew-whittaker/)  | *Cyber Policy Director*<br>Foreign, Commonwealth and Development Office<br>United Kingdom      |
+| [Mr Raman Jit Singh Chima](/speakers/mr-raman-jit-singh-chima/)  | *Senior International Counsel and Asia Pacific Policy Director*<br>Access Now<br>India      |
 |<br>**Moderator**          |                                                              |
 | [Ms Allison Pytlak](/speakers/ms-allison-pytlak/)  | *Senior Fellow and Director of the Cyber Program* <br>Stimson Center<br>United States of America      |
 
