@@ -29,6 +29,7 @@ The meeting will serve as a platform for knowledge sharing, trust building, and 
 | [Mr Michael Karimian](/speakers/mr-michael-karimian/)  | *Director, Digital Diplomacy* <br>Microsoft<br>Singapore      |
 | [Mr Filipe Beato](/speakers/mr-filipe-beato/)  | *Manager, Cyber Resilience, Centre for Cybersecurity* <br>World Economic Forum<br>Switzerland      |
 | [Ms Atsuko Okuda](/speakers/ms-atsuko-okuda/)  | *Regional Director* <br>International Telecommunication Union (ITU)<br>Thailand      |
+| [Ms Farhanah Bagharib ](/speakers/ms-farhanah-bagharib/)  | *Assistant Director, International Cyber Policy Office* <br>Cyber Security Agency of Singapore (CSA)<br>Singapore      |
 |<br>**Moderator**          |                                                              |
 | [Mr Keith Detros](/speakers/mr-keith-detros/)  | *Programme Lead* <br>Tech for Good Institute<br>Singapore      |
 | [Mr Benjamin Ang](/speakers/mr-benjamin-ang/)  | *Head of Centre of Excellence for National Security; Future Issues in Technology, and Digital Impact Research* <br>RSIS<br>Singapore      |
