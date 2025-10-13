@@ -20,8 +20,7 @@ In today’s rapid evolving digital landscape, organisations face an unprecedent
 | [Mr Alex Stamos](/speakers/mr-alex-stamos/)  | *Advisor to CEO, former CISO* <br>SentinelOne<br>United States of America      |
 | [Mr Goh Eng Choon](/speakers/mr-goh-eng-choon/)  | *President, Cyber*<br>ST Engineering <br>Singapore      |
 | [Ms Meerah Rajavel](/speakers/ms-meerah-rajavel/)  | *Senior Vice President, Chief Information Oﬃcer* <br>Palo Alto Networks<br>United States of America      |
-| [Mr James Kay](/speakers/mr-james-kay/)  | *Assistant Director‐General for Standards,
-Technical Advice, and Research* <br>Australian Signals Directorate’s Australian Cyber Security Centre<br>Australia      |
+| [Mr James Kay](/speakers/mr-james-kay/)  | *Assistant Director‐General for Standards, Technical Advice, and Research* <br>Australian Signals Directorate’s Australian Cyber Security Centre<br>Australia      |
 |<br>**Moderator**          |                                                              |
 | [LTG Stephen Fogarty](/speakers/ltg-stephen-fogarty/)  | *Senior Executive Advisor* <br>Booz Allen<br>United States of America      |
 
