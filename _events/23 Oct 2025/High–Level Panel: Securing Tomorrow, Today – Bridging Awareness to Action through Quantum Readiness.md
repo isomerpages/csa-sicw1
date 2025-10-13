@@ -16,6 +16,8 @@ As quantum computing rapidly advances, the conversation around quantum readiness
 
 |**Opening Remarks**          |                                                              |
 | [Mr Chua Kuan Seah](/speakers/mr-chua-kuan-seah/)  | *Deputy Chief Executive* <br>Cyber Security Agency of Singapore<br>Singapore      |
+|<br>**Keynote Speech**          |                                                              |
+| [Ms Mary Bischoping](/speakers/ms-mary-bischoping/)  | *Deputy Assistant Secretary* <br>Bureau of Emerging Threats<br>United States of America      |
 |<br>**Panellists**          |                                                              |
 | [Mr Michael Osborne](/speakers/mr-michael-osborne/)  | *Chief Technology Officer* <br>IBM Quantum Safe<br>Switzerland      |
 | [Dr Tan Teik Guan](/speakers/dr-tan-teik-guan/)  | *Co-founder &amp; CEO* <br>pQCee<br>Singapore      |

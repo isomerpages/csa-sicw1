@@ -20,11 +20,16 @@ The meeting will serve as a platform for knowledge sharing, trust building, and 
 |**Speakers**          |                                                              |
 | [Engr. Allan Salim Cabanlong](/speakers/engr-allan-salim-cabanlong/)  | *Director* <br>Global Forum on Cyber Expertise, Southeast Asia Hub<br>Philippines      |
 | [Mr David van Duren](/speakers/mr-david-van-duren/)  | *Director, GFCE Secretariat* <br>Global Forum on Cyber Expertise <br>The Netherlands      |
+| [Mr Danny Jaspers](/speakers/mr-danny-jaspers/)  | *Programme Manager for Cyber Capacity Building* <br>National Cyber Security Centre<br>The Netherlands      |
+| [Dr Giacomo Persi Paoli](/speakers/dr-giacomo-persi-paoli/)  | *Head of the Security and Technology Programme* <br>United Nations Institute for Disarmament Research (UNIDIR)<br>United States of America      |
 |<br>**Panellists**          |                                                              |
 | [Mr Masao Shino](/speakers/mr-masao-shino/)  | *Director, Office for Science Technology and Information, and Digital Transformation* <br>Japan International Cooperation Agency (JICA)<br>Japan      |
 | [Ms Pua Hunter](/speakers/ms-pua-hunter/)  | *Director* <br>Global Forum on Cyber Expertise (GFCE), Pacific Hub<br>Cook Islands      |
 | [Mr Ghislain de Salins](/speakers/mr-ghislain-de-salins/)  | *Global Lead, Cybersecurity* <br>World Bank<br>United States of America      |
 | [Mr Michael Karimian](/speakers/mr-michael-karimian/)  | *Director, Digital Diplomacy* <br>Microsoft<br>Singapore      |
+| [Mr Filipe Beato](/speakers/mr-filipe-beato/)  | *Manager, Cyber Resilience, Centre for Cybersecurity* <br>World Economic Forum<br>Switzerland      |
+| [Ms Atsuko Okuda](/speakers/ms-atsuko-okuda/)  | *Regional Director* <br>International Telecommunication Union (ITU)<br>Thailand      |
+| [Ms Farhanah Bagharib ](/speakers/ms-farhanah-bagharib/)  | *Assistant Director, International Cyber Policy Office* <br>Cyber Security Agency of Singapore (CSA)<br>Singapore      |
 |<br>**Moderator**          |                                                              |
 | [Mr Keith Detros](/speakers/mr-keith-detros/)  | *Programme Lead* <br>Tech for Good Institute<br>Singapore      |
 | [Mr Benjamin Ang](/speakers/mr-benjamin-ang/)  | *Head of Centre of Excellence for National Security; Future Issues in Technology, and Digital Impact Research* <br>RSIS<br>Singapore      |
