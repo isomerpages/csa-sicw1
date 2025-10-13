@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Dr Jerry Park.md
       - Speaker – Ms Atsuko Okuda.md
       - Speaker – Dr Giacomo Persi Paoli.md
       - Speaker – Mr Filipe Beato.md
