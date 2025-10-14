@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 ![](/images/2025%20speakers/Stephen_Fogarty.png)
-#### **LTG Stephen Fogarty**
+#### **Mr Stephen Fogarty**
 
 *Senior Executive Advisor,<br>Booz Allen<br>United States of America*
 
