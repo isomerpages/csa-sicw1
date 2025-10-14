@@ -17,6 +17,8 @@ With the theme “**Cybersecurity as a Shared Responsibility: The Role of Multi-
 
 The meeting will serve as a platform for knowledge sharing, trust building, and identifying actionable pathways to enhance cyber resilience in Southeast Asia.
 
+<a href="https://south-east-asia-regional-meeting-2025.gfce-events.com/" target="blank">https://south-east-asia-regional-meeting-2025.gfce-events.com/</a>
+
 |**Speakers**          |                                                              |
 | [Engr. Allan Salim Cabanlong](/speakers/engr-allan-salim-cabanlong/)  | *Director* <br>Global Forum on Cyber Expertise, Southeast Asia Hub<br>Philippines      |
 | [Mr David van Duren](/speakers/mr-david-van-duren/)  | *Director, GFCE Secretariat* <br>Global Forum on Cyber Expertise <br>The Netherlands      |
