@@ -23,6 +23,8 @@ The SICW Summit by-invitation only gala dinner will kick off the 10th Singapore 
 
 |**Speaker**          |                                                              |
 | [Mrs Josephine Teo](/speakers/mrs-josephine-teo/)  | *Minister, Ministry of Digital Development and Information, <br>Minister-in-charge of Cybersecurity &amp; Smart Nation Group*<br>Singapore      |
+| [Mr David Koh](/speakers/mr-david-koh/)  | *Commissioner of Cybersecurity<br>Chief Executive, Cyber Security Agency of Singapore<br>Chief (Digital Security &amp; Technology), Chief Quantum Advisor,<br>Ministry of Digital Development and Information*<br>Singapore      |
+| [Lieutenant General Michelle McGuinness](/speakers/lieutenant-general-michelle-mcguinness/)  | *National Cyber Security Coordinator*<br>Department of Home Affairs<br>Australia      |
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
