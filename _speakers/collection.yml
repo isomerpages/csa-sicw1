@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Royal Hansen.md
       - Moderator – Professor Yaacob Ibrahim.md
       - Moderator – Mr Ashok Kumar Mirpuri.md
       - Speaker – Ms Claudia Plattner.md
