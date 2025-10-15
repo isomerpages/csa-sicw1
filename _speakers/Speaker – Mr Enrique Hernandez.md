@@ -7,7 +7,7 @@ description: ""
 ![](/images/2025%20speakers/Enrique_Hernandez.png)
 #### **Mr Enrique Hernandez**
 
-*Assistant Director of Cybercrime Operations, Cybercrime Directorate,<br>INTERPOL<br>Spain*
+*Assistant Director of Cybercrime Operations, Cybercrime Directorate,<br>INTERPOL<br>Singapore*
 
 ##### **Biography**
 Enrique Hernandez is an official of the Spanish National Police, currently serving as the Assistant Director of Cybercrime Operations at INTERPOL’s Cybercrime Directorate.
