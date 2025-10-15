@@ -27,7 +27,7 @@ sections:
       alt: Image alt text
   - infobar:
       id: infobar
-      description: <img src="/images/2025_Home_Page_GOH_Image_4x1_v2.jpg"> <img
+      description: <img src="/images/2025_Home_Page_5_GOH_Image_3x1_v1.jpg"> <img
         src="/images/2025_Home_Page_Distinguished_Guests_Image_3x1_v6.jpg">
   - textcards:
       title: Event Highlights
