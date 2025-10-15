@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Mahdi Alaei.md
       - Speaker – Mr Paolo Pellegrino.md
       - Speaker – Mr Ryan Flores.md
       - Speaker – Mr Christian Heggen.md
