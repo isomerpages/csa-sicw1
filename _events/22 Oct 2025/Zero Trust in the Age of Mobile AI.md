@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 22 Oct 2025
 ---
-#### **Zero Trust in the age of Mobile AI**
+#### **Zero Trust in the Age of Mobile AI**
 
 **22 October 2025 (Wednesday)**  
 *Time: 10.00am to 11.30am (GMT +8)*
