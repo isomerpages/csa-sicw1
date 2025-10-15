@@ -23,7 +23,6 @@ The meeting will serve as a platform for knowledge sharing, trust building, and 
 | [Engr. Allan Salim Cabanlong](/speakers/engr-allan-salim-cabanlong/)  | *Director* <br>Global Forum on Cyber Expertise, Southeast Asia Hub<br>Philippines      |
 | [Mr Craig Jones](/speakers/mr-craig-jones/)  | *Foundation Board Member* <br>Global Forum on Cyber Expertise<br>United Kingdom      |
 | [Mr Danny Jaspers](/speakers/mr-danny-jaspers/)  | *Programme Manager for Cyber Capacity Building* <br>National Cyber Security Centre<br>The Netherlands      |
-| [Dr Giacomo Persi Paoli](/speakers/dr-giacomo-persi-paoli/)  | *Head of the Security and Technology Programme* <br>United Nations Institute for Disarmament Research (UNIDIR)<br>United States of America      |
 | [Mr Eugene Chew](/speakers/mr-eugene-chew/)  | *Deputy Director, International Cyber Policy Office* <br>Cyber Security Agency of Singapore (CSA)<br>Singapore      |
 |<br>**Panellists**          |                                                              |
 | [Mr Masao Shino](/speakers/mr-masao-shino/)  | *Director, Office for Science Technology and Information, and Digital Transformation* <br>Japan International Cooperation Agency (JICA)<br>Japan      |
@@ -31,6 +30,7 @@ The meeting will serve as a platform for knowledge sharing, trust building, and 
 | [Mr Ghislain de Salins](/speakers/mr-ghislain-de-salins/)  | *Global Lead, Cybersecurity* <br>World Bank<br>United States of America      |
 | [Mr Michael Karimian](/speakers/mr-michael-karimian/)  | *Director, Digital Diplomacy* <br>Microsoft<br>Singapore      |
 | [Mr Filipe Beato](/speakers/mr-filipe-beato/)  | *Manager, Cyber Resilience, Centre for Cybersecurity* <br>World Economic Forum<br>Switzerland      |
+| [Dr Giacomo Persi Paoli](/speakers/dr-giacomo-persi-paoli/)  | *Head of the Security and Technology Programme* <br>United Nations Institute for Disarmament Research (UNIDIR)<br>United States of America      |
 | [Ms Atsuko Okuda](/speakers/ms-atsuko-okuda/)  | *Regional Director* <br>International Telecommunication Union (ITU)<br>Thailand      |
 | [Ms Farhanah Bagharib](/speakers/ms-farhanah-bagharib/)  | *Assistant Director, International Cyber Policy Office* <br>Cyber Security Agency of Singapore (CSA)<br>Singapore      |
 |<br>**Moderator**          |                                                              |
