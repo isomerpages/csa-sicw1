@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Moderator – Mr Marcus Tan.md
       - Speaker – Mr Mahdi Alaei.md
       - Moderator – Mr Paolo Pellegrino.md
       - Speaker – Mr Ryan Flores.md
