@@ -19,8 +19,7 @@ Heartened by the roaring participating from over 1,600 local and international p
 This year's challenge will feature unique AI security challenges developed in-house. Solve these cross-domain challenges to collect all the 'flags' in the form of hidden files or information and stand to win up to SGD 10,000.
 
 |**Guest of Honour**          |                                                              |
-| [Mr Tan Kiat How](/speakers/mr-tan-kiat-how/)  | *Senior Minister of State* <br>Ministry of Digital Development and Information<br>Ministry of Health
-<br>Singapore      |
+| [Mr Tan Kiat How](/speakers/mr-tan-kiat-how/)  | *Senior Minister of State* <br>Ministry of Digital Development and Information<br>Ministry of Health<br>Singapore      |
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
