@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Moderator – Professor Yaacob Ibrahim.md
       - Moderator – Mr Ashok Kumar Mirpuri.md
       - Speaker – Ms Claudia Plattner.md
       - Speaker – Dr Ekapong Rimcharone.md
