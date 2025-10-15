@@ -25,6 +25,7 @@ This high-level panel convenes leaders and decision makers in the government and
 | [Dr Rafael Frankel](/speakers/dr-rafael-frankel/)  | *Director of Public Policy for Southeast and South Asia* <br>Meta<br>Singapore      |
 | [Ms Loretta Yuen](/speakers/ms-loretta-yuen/)  | *MD &amp; Head, Legal and Compliance*, OCBC <br>*Chair of Standing Committee on Fraud (SCF)*, Association of Banks in Singapore (ABS)<br>Singapore      |
 | [Mr Norman Ng](/speakers/mr-norman-ng/)  | *Head, Trust &amp; Safety Global Engagement (APAC)*<br>Google<br>Singapore      |
+| [Mr James Babbage](/speakers/mr-james-babbage/)  | *Director General Threats*<br>National Crime Agency<br>United Kingdom      |
 |<br>**Moderator**          |                                                              |
 | [Mr Ed Ratcliffe](/speakers/mr-ed-ratcliffe/)  | *Executive Director* <br>Southeast Asia Public Policy Institute<br>Singapore      |
 
