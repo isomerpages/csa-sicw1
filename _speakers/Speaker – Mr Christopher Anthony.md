@@ -7,4 +7,4 @@ description: ""
 ![](/images/2024%20speakers/Mr__Christopher_Anthony.png)
 #### **Mr Christopher Anthony**
 
-*Director of Critical Information Infrastructure Division, <br> Cyber Security Agency of Singapore (CSA)*
+*Director in the Critical Information Infrastructure (CII), <br>Cyber Security Agency of Singapore<br>Singapore*
