@@ -23,7 +23,7 @@ In today’s rapid evolving digital landscape, organisations face an unprecedent
 | [Mr James Kay](/speakers/mr-james-kay/)  | *Assistant Director‐General for Standards, Technical Advice, and Research* <br>Australian Signals Directorate’s Australian Cyber Security Centre<br>Australia      |
 | [Mr Rajiv Gupta](/speakers/mr-rajiv-gupta/)  | *Canadian Centre for Cyber Security* <br>Communications Security Establishment Canada (CSE)<br>Canada      |
 |<br>**Moderator**          |                                                              |
-| [Mr Stephen Fogarty](/speakers/mr-stephen-fogarty/)  | *Senior Executive Advisor* <br>Booz Allen<br>United States of America      |
+| [Mr Stephen Fogarty](/speakers/mr-stephen-fogarty/)  | *Senior Executive Advisor* <br>Booz Allen Hamilton<br>United States of America      |
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
