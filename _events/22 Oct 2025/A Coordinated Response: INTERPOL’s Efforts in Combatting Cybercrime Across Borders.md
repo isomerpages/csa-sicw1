@@ -19,14 +19,15 @@ Moderated by INTERPOL’s Cybercrime Director Neal Jetton, the session will feat
 Be part of the discussion and contribute to strengthening the future of combatting cybercrime around the globe.
 
 |**Speakers**          |                                                              |
-| [Mr Neal Jetton](/speakers/mr-neal-jetton/)  | *Cybercrime Director* <br>INTERPOL <br>United States of America      |
-| [Mr Enrique Hernandez](/speakers/mr-enrique-hernandez/)  | *Assistant Director of Cybercrime Operations, Cybercrime Directorate*<br>INTERPOL<br>Spain      |
+| [Mr Neal Jetton](/speakers/mr-neal-jetton/)  | *Cybercrime Director* <br>INTERPOL <br>Singapore      |
+| [Mr Enrique Hernandez](/speakers/mr-enrique-hernandez/)  | *Assistant Director of Cybercrime Operations, Cybercrime Directorate*<br>INTERPOL<br>Singapore      |
 | [Mr Edmund Goh](/speakers/mr-edmund-goh/)  | *Head of the Asia &amp; South Pacific (ASP) Cybercrime Operations Desk, Cybercrime Directorate* <br>INTERPOL<br>Singapore      |
 | [Mr Christian Heggen](/speakers/mr-christian-heggen/)  | *Cybercrime Intelligence Coordinator* <br>INTERPOL<br>Singapore      |
 | [Mr Ryan Flores](/speakers/mr-ryan-flores/)  | *Data and Technology Research Leader* <br>Trend Micro<br>Singapore      |
 | [Mr Filipe Beato](/speakers/mr-filipe-beato/)  | *Manager, Cyber Resilience* <br>Centre for Cybersecurity<br>Switzerland      |
-| [Mr Paolo Pellegrino](/speakers/mr-paolo-pellegrino/)  | *Cybercrime Officer. Cyber Strategy &amp; Capabilities Development Sub-Directorate* <br>INTERPOL<br>Singapore      |
 | [Mr Mahdi Alaei](/speakers/mr-mahdi-alaei/)  | *Head of Cyber Strategy and Capabilities Development, Cybercrime Directorate* <br>INTERPOL<br>Singapore      |
+|<br>**Moderator**          |                                                              |
+| [Mr Paolo Pellegrino](/speakers/mr-paolo-pellegrino/)  | *Cybercrime Officer. Cyber Strategy &amp; Capabilities Development Sub-Directorate* <br>INTERPOL<br>Singapore      |
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
