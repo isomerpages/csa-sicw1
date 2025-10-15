@@ -4,7 +4,7 @@ permalink: /speakers/dr-jerry-park/
 variant: markdown
 description: ""
 ---
-![](/images/2024%20speakers/Jerry_Park.png)
+![](/images/2025%20speakers/Jerry_Park.png)
 
 #### **Dr Jerry Park**
 
