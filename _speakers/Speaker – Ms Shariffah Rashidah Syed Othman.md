@@ -4,6 +4,7 @@ permalink: /speakers/ms-shariffah-rashidah-syed-othman/
 variant: markdown
 description: ""
 ---
+![](/images/2025%20speakers/Shariffah_Rashidah.png)
 #### **Ms Shariffah Rashidah Syed Othman**
 
 *Deputy Director General, Personal Data Protection Department, <br>Ministry of Digital<br>Malaysia*
