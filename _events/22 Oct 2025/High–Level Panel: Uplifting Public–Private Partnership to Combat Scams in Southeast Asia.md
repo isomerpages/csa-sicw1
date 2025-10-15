@@ -26,6 +26,7 @@ This high-level panel convenes leaders and decision makers in the government and
 | [Ms Loretta Yuen](/speakers/ms-loretta-yuen/)  | *MD &amp; Head, Legal and Compliance*, OCBC <br>*Chair of Standing Committee on Fraud (SCF)*, Association of Banks in Singapore (ABS)<br>Singapore      |
 | [Mr Norman Ng](/speakers/mr-norman-ng/)  | *Head, Trust &amp; Safety Global Engagement (APAC)*<br>Google<br>Singapore      |
 | [Mr James Babbage](/speakers/mr-james-babbage/)  | *Director General Threats*<br>National Crime Agency<br>United Kingdom      |
+| [Dr Ekapong Rimcharone](/speakers/dr-ekapong-rimcharone/)  | *Director*, National Statistical Office<br>*Director*, Anti-Online Scam Operation Center (AOC)<br>Thailand      |
 |<br>**Moderator**          |                                                              |
 | [Mr Ed Ratcliffe](/speakers/mr-ed-ratcliffe/)  | *Executive Director* <br>Southeast Asia Public Policy Institute<br>Singapore      |
 
