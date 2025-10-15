@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Mandy Andress.md
       - Speaker – Mr Zheng Wei.md
       - Moderator – Mr Marcus Tan.md
       - Speaker – Mr Mahdi Alaei.md
