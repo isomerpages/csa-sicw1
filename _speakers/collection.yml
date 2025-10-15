@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Christian Heggen.md
       - Speaker – Mr Edmund Goh.md
       - Speaker – Mr Enrique Hernandez.md
       - Speaker – Mr Neal Jetton.md
