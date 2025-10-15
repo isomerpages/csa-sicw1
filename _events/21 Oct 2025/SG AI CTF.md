@@ -9,7 +9,7 @@ third_nav_title: 21 Oct 2025
 
 **21 October 2025 (Tuesday)**  
 *Time: 12.30pm to 6.00pm (GMT +8)*
-<br>*Venue: SICW B, Level 3*
+<br>*Venue: SICW F, Level 3*
 
 **Singapore AI CTF by GovTech Singapore**
 <br>Singapore's only jeopardy-style AI Capture-the-Flag (CTF) is back with its second edition!
