@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 ---
 
+![](/images/2025%20speakers/Ian_Bartlett.png)
 #### **Mr Ian Bartlett**
 
 *Principal PM Manager, Asia Pacific, India &amp; Japan Lead Customer Experience Engineering,<br>Microsoft<br>Australia*
