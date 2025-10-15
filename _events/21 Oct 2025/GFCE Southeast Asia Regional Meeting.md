@@ -21,7 +21,7 @@ The meeting will serve as a platform for knowledge sharing, trust building, and 
 
 |**Speakers**          |                                                              |
 | [Engr. Allan Salim Cabanlong](/speakers/engr-allan-salim-cabanlong/)  | *Director* <br>Global Forum on Cyber Expertise, Southeast Asia Hub<br>Philippines      |
-| [Mr David van Duren](/speakers/mr-david-van-duren/)  | *Director, GFCE Secretariat* <br>Global Forum on Cyber Expertise <br>The Netherlands      |
+| [Mr Craig Jones](/speakers/mr-craig-jones/)  | *Foundation Board Member* <br>Global Forum on Cyber Expertise<br>United Kingdom      |
 | [Mr Danny Jaspers](/speakers/mr-danny-jaspers/)  | *Programme Manager for Cyber Capacity Building* <br>National Cyber Security Centre<br>The Netherlands      |
 | [Dr Giacomo Persi Paoli](/speakers/dr-giacomo-persi-paoli/)  | *Head of the Security and Technology Programme* <br>United Nations Institute for Disarmament Research (UNIDIR)<br>United States of America      |
 | [Mr Eugene Chew](/speakers/mr-eugene-chew/)  | *Deputy Director, International Cyber Policy Office* <br>Cyber Security Agency of Singapore (CSA)<br>Singapore      |
