@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Neal Jetton.md
       - Speaker – Mr Royal Hansen.md
       - Moderator – Professor Yaacob Ibrahim.md
       - Moderator – Mr Ashok Kumar Mirpuri.md
