@@ -4,6 +4,8 @@ permalink: /speakers/ms-farhanah-bagharib/
 variant: markdown
 description: ""
 ---
+
+![](/images/2025%20speakers/Farhanah_Bagharib.png)
 #### **Ms Farhanah Bagharib**
 
 *Assistant Director, International Cyber Policy Office,<br>Cyber Security Agency of Singapore (CSA)<br>Singapore*
