@@ -4,6 +4,8 @@ permalink: /speakers/mr-iida-yoichi/
 variant: markdown
 description: ""
 ---
+
+![](/images/2025%20speakers/Yoichi_IIDA.png)
 #### **Mr Iida Yoichi**
 
 *National Cyber Director &amp; Deputy National Security Advisor, <br>National Cybersecurity Office<br>Japan*
