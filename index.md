@@ -28,7 +28,7 @@ sections:
   - infobar:
       id: infobar
       description: <img src="/images/2025_Home_Page_5_GOH_Image_3x1_v1.jpg"> <img
-        src="/images/2025_Home_Page_Distinguished_Guests_Image_3x1_v7.jpg">
+        src="/images/2025_Home_Page_Distinguished_Guests_Image_3x1_v8.jpg">
   - textcards:
       title: Event Highlights
       id: textcards
