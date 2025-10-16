@@ -7,7 +7,7 @@ description: ""
 ![](/images/2025%20speakers/Mr_Chan_Tsan.png)
 #### **Mr Chan Tsan**
 
-*Chief Executive, HTX (Home Team Science and Technology Agency) <br>and Deputy Secretary (Development), Ministry of Home Affairs<br>Singapore*
+*Chief Executive, HTX (Home Team Science and Technology Agency) and<br>Deputy Secretary (Development), Ministry of Home Affairs<br>Singapore*
 
 ##### **Biography**
 Mr Chan Tsan is the Chief Executive of HTX (Home Team Science and Technology Agency) and concurrently the Deputy Secretary (Development) in the Ministry of Home Affairs (MHA).&nbsp;&nbsp;
