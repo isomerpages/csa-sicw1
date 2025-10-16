@@ -22,7 +22,7 @@ The event will also feature a panel discussion exploring how different stakehold
 |**Opening Address &amp; Moderator**          |                                                              |
 | [Mr Sim Feng-Ji](/speakers/mr-sim-feng-ji/)  | *Deputy Secretary (Digital Government)* <br>Ministry of Digital Development and Information<br>Singapore      |
 |<br>**Panellists**          |                                                              |
-| [Mr Chan Tsan](/speakers/mr-chan-tsan/)  | *Chief Executive*<br>HTX (Home Team Science and Technology Agency) &amp; Deputy Secretary (Development)<br>Singapore      |
+| [Mr Chan Tsan](/speakers/mr-chan-tsan/)  | *Chief Executive*, HTX (Home Team Science and Technology Agency)<br>and *Deputy Secretary (Development)*, Ministry of Home Affairs<br>Singapore      |
 | [Mr Ken Chan](/speakers/mr-ken-chan/)  | *Vice President (Business Development)* <br>MooVita Pte Ltd      |
 | [Mr Mark du Plessis](/speakers/mr-mark-du-plessis/)  | *Cyber Partner* <br>Deloitte SEA      |
 
