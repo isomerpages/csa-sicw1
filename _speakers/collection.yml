@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Dr Camino Kavanagh.md
       - Speaker – Mr Dan Yock Hau.md
       - Speaker – Mr Artis Bertulis.md
       - Speaker – HE Mr Veikko Kala.md
