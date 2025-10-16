@@ -7,7 +7,7 @@ description: ""
 ![](/images/2025%20speakers/Paolo.png)
 #### **Mr Paolo Pellegrino**
 
-*Cybercrime Officer. Cyber Strategy &amp; Capabilities Development Sub-Directorate, <br>INTERPOL<br>Singapore*
+*Cybercrime Officer, Cyber Strategy &amp; Capabilities Development Sub-Directorate, <br>INTERPOL<br>Singapore*
 
 ##### **Biography**
 Paolo Pellegrino is a Cybercrime Officer at INTERPOL’s Cyber Strategy &amp; Capabilities Development Sub-Directorate, where he supports the strategic development of the Cybercrime Directorate and leads engagement with trusted private sector partners under INTERPOL’s global cooperation frameworks. 
