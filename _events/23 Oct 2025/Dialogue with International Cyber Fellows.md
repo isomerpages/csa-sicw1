@@ -9,7 +9,7 @@ third_nav_title: 23 Oct 2025
 
 **23 October 2025 (Thursday)**  
 *Time: 3.30pm to 5.00pm (GMT +8)*
-<br>*Venue: SICW A1, Level 3*
+<br>*Venue: SICW F, Level 3*
 
 This alumnus gathering aims to bring together alumnus from the **Tallinn Cyber Diplomacy Summer School** and **United Nations-Singapore Cyber Fellowship** for a substantial and interactive exchange of ideas. Leveraging the diverse experiences of its members, the event will feature scenario-based discussions designed to foster dialogue on current challenges and strategies related to the implementation of international cyber stability frameworks. 
 
