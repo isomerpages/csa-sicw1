@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 ![](/images/2025%20speakers/Dan_Yock_Hau.png)
-#### **Mr Mahdi Alaei**
+#### **Mr Dan Yock Hau**
 
 *Assistant Chief Executive, National Cyber Resilience, <br>Cyber Security Agency of Singapore (CSA)<br>Singapore*
 
