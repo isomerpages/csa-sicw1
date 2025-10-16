@@ -7,7 +7,7 @@ description: ""
 ![](/images/2025%20speakers/Prof_Yaacob.png)
 #### **Professor Yaacob Ibrahim**
 
-*Adjunct Professor, <br>Lee Kuan Yew School of Public Policy<br>Singapore*
+*Adjunct Professor, <br>Lee Kuan Yew School of Public Policy*
 
 ##### **Biography**
 Professor Yaacob Ibrahim is currently Adjunct Professor at the Lee Kuan Yew School of Public Policy at the National University of Singapore. He is also an Advisor to the Office of the President of the Singapore Institute of Technology (SIT) and the founding Director of the Community Leadership and Social Innovation Centre (CLASIC) at SIT.
