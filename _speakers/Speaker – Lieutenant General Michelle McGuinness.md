@@ -7,7 +7,7 @@ description: ""
 ![](/images/2025%20speakers/MICHELLE_McGUINNESS.png)
 #### **Lieutenant General Michelle McGuinness**
 
-*National Cyber Security Coordinator, <br>Department of Home Affairs<br>Australia*
+*National Cyber Security Coordinator, <br>National Office of Cyber Security<br>Australia*
 
 ##### **Biography**
 Lieutenant General Michelle McGuinness, CSC was appointed as Australia’s National Cyber Security Coordinator (the Coordinator) on 26 February 2024.
