@@ -27,7 +27,3 @@ He served as Foreign Affairs Adviser to the Prime Minister of Latvia in 1994 and
 Ambassador Bertulis began his diplomatic career in 1991 as a member of the Foreign Affairs Committee of the newly independent Latvian Parliament. In 1992, he served as a research assistant at the North Atlantic Assembly in Brussels, and the following year joined the Latvian Foreign Service.
 
 He has a Master’s degree in Physics. He completed postgraduate studies in international affairs at the University of Latvia and the Royal College of Defence Studies in London.
-
-Ambassador Bertulis is fluent in English, Italian, Swedish, Portuguese and Russian, and has a working knowledge of French. 
-
-He is married to Esmeralda, and they have two adult children.
