@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Moderator – Mr Justiin Ang.md
       - Speaker – Mr Arthur Langellier.md
       - Speaker – HE Artis Bertulis.md
       - Speaker – Mr Ang Leong Boon.md
