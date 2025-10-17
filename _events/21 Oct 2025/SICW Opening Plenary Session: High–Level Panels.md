@@ -28,8 +28,8 @@ third_nav_title: 21 Oct 2025
 |**Keynote Speaker**          |                                                              |
 | [Mr Chen Jixue](/speakers/mr-chen-jixue/)  | Cyberspace Administration of China      |
 |<br>**Panellists**          |                                                              |
-| [Mr Royal Hansen](/speakers/mr-royal-hansen/)  | *VP of Engineering*<br>Google      |
 | [Mr Vincent Strubel](/speakers/mr-vincent-strubel/)  | *Director General*<br>National Information Systems Security Agency<br>France      |
+| [Mr Royal Hansen](/speakers/mr-royal-hansen/)  | *VP of Engineering*<br>Google      |
 |<br>**Moderator**          |                                                              |
 | [Professor Yaacob Ibrahim](/speakers/professor-yaacob-ibrahim/)  | *Adjunct Professor*<br>Lee Kuan Yew School of Public Policy      |
 
@@ -38,11 +38,12 @@ third_nav_title: 21 Oct 2025
 
 This panel invites government and industry leaders to confront hard questions of accountability, with lessons from around the world. Looking beyond blame, it will explore how countries are experimenting with new models of public-private partnerships – blending state resources with private innovation, to strengthen collective action against evolving threats.
 
-|**Panellists**          |                                                              |
+|**Keynote Speaker**          |                                                              |
 | [Mr Richard Horne](/speakers/mr-richard-horne/)  | *Chief Executive Officer*<br>National Cyber Security Centre<br>United Kingdom      |
+|<br>**Panellists**          |                                                              |
+| [Mr Saita Yukio](/speakers/mr-saita-yukio/)  | *Global Strategy Lead*<br>National Cybersecurity Office, Government of Japan<br>Japan      |
 | [Mr Peter Bailey](/speakers/mr-peter-bailey/)  | *Senior Vice-President, Security*<br>Cisco      |
 | [Mr Richard LaTulip](/speakers/mr-richard-latulip/)  | *Field Chief Information Security Officer*<br>Recorded Future      |
-| [Mr Saita Yukio](/speakers/mr-saita-yukio/)  | *Global Strategy Lead*<br>National Cybersecurity Office, Government of Japan<br>Japan      |
 |<br>**Moderator**          |                                                              |
 | [Mr Gaurav Keerthi](/speakers/mr-gaurav-keerthi/)  | *Chief Executive Officer*<br>StrongKeep       |
 
