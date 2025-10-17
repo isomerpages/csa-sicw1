@@ -19,7 +19,10 @@ Scams and cyber-enabled fraud are today among the most pervasive forms of cyberc
 | [H.E. Artis Bertulis](/speakers/he-artis-bertulis/)  | *Ambassador-designate of the European Union to Singapore*<br>European Union      |
 | [Ms Manon Le Blanc](/speakers/ms-manon-le-blanc/)  | *Coordinator for Cyber Issues* <br>European External Action Service<br>European Union      |
 | [Mr Arthur Langellier](/speakers/mr-arthur-langellier/)  | *Cyber Strategy Officer, Cybercrime Directorate* <br>INTERPOL<br>Singapore      |
-| [Mr Justiin Ang](/speakers/mr-arthur-langellier/)  | *Cyber Strategy Officer, Cybercrime Directorate* <br>INTERPOL<br>Singapore      |
+| [Mr Justiin Ang](/speakers/mr-justiin-ang/)  | *Senior Director of CSA’s National Cyber Incident Response Centre (NCIRC)<br>Director of MCI’s Security and Resilience Division*      |
+| [Pol. Maj. Gen. Niwate Arpawasin](/speakers/pol-maj-gen-niwate-arpawasin/)  | *Deputy Commissioner, Cyber Crime Investigation Bureau* <br>Royal Thai Police<br>Thailand      |
+| [Mr Gaurav Keerthi](/speakers/mr-gaurav-keerthi/)  | *Chief Executive Officer* <br>StrongKeep      |
+| [Mr Ernst Noorman](/speakers/mr-ernst-noorman/)  | *Ambassador at Large for Cyber Affairs* <br>Kingdom of the Netherlands      |
 |<br>**Moderator**          |                                                              |
 | [H.E. Marta Pelechova](/speakers/he-marta-pelechova/)  | *Special Envoy for Cyberspace, Cyber Ambassador* <br>Ministry of Foreign Affairs of the Czech Republic<br>Czech Republic      |
 
