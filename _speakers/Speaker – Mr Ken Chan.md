@@ -4,7 +4,7 @@ permalink: /speakers/mr-ken-chan/
 variant: markdown
 description: ""
 ---
-![](/images/2025%20speakers/Ken_Chan.png)
+![](/images/2025%20speakers/ken__revised_.png)
 #### **Mr Ken Chan**
 
 *Vice President (Business Development), <br> MooVita Pte Ltd*

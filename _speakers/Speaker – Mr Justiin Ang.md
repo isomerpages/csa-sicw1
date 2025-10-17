@@ -1,7 +1,8 @@
 ---
-title: Moderator – Mr Justiin Ang
+title: Speaker – Mr Justiin Ang
 permalink: /speakers/mr-justiin-ang/
 description: ""
+variant: markdown
 ---
 ![](/images/2023%20Speakers/justiin%20ang.png)
 

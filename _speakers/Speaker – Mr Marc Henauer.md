@@ -7,7 +7,7 @@ description: ""
 ![](/images/2024%20speakers/Marc_Henauer.png)
 #### **Mr Marc Henauer**
 
-*Senior Political and International Affairs Officer, <br> Federal Office for Cyber Security (NCSC)<br>Switzerland*
+*Senior Political and International Affairs Officer, <br>Swiss National Cyber Security Centre<br>Switzerland*
 
 ##### **Biography**
 Marc Henauer is the Senior Political and International Affairs Officer of the newly created Federal Office for Cyber Security NCSC, since April 2024.

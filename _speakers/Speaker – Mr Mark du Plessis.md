@@ -4,7 +4,7 @@ permalink: /speakers/mr-mark-du-plessis/
 variant: markdown
 description: ""
 ---
-![](/images/2025%20speakers/Mark_du_Plessis.png)
+![](/images/2025%20speakers/mark__revised_.png)
 #### **Mr Mark du Plessis**
 
 *Cyber Partner, <br> Deloitte SEA*

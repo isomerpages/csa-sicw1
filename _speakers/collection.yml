@@ -2,14 +2,32 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mrs Friederike Dahns.md
+      - Speaker – Mr Saita Yukio.md
+      - Speaker – Mr Andrew Elliot.md
+      - Speaker – Mr Chen Jixue.md
+      - Speaker – Ambassador Burhan Gafoor.md
+      - Speaker – Mr Ernst Noorman.md
+      - Speaker – Pol Maj Gen Niwate Arpawasin.md
+      - Speaker – Mr Justiin Ang.md
+      - Speaker – Mr Arthur Langellier.md
+      - Speaker – HE Artis Bertulis.md
+      - Speaker – Mr Ang Leong Boon.md
+      - Speaker – Dr Camino Kavanagh.md
+      - Speaker – Mr Dan Yock Hau.md
+      - Speaker – Mr Artis Bertulis.md
+      - Speaker – HE Mr Veikko Kala.md
       - Guest of Honour – Mr Tan Kiat How.md
       - Guest of Honour – Mrs Josephine Teo.md
       - Guest of Honour – Mr K Shanmugam.md
+      - Speaker – Mr Mahdi Alaei.md
+      - Speaker – Ms Mandy Andress.md
+      - Speaker – Mr Christopher Anthony.md
+      - Speaker – Mr James Babbage.md
       - Speaker – Ms Farhanah Bagharib.md
       - Speaker – Mr Peter Bailey.md
       - Speaker – Mr Ian Bartlett.md
       - Speaker – Mr Filipe Beato.md
-      - Speaker – Ms Mary Bischoping.md
       - Speaker – Ms Manon Le Blanc.md
       - Speaker – Dr Bushra Al Blooshi.md
       - Speaker – Mr Doug Browne.md
@@ -19,6 +37,7 @@ collections:
       - Speaker – Mr Chan Tsan.md
       - Speaker – Mr Chang Sau Sheong.md
       - Speaker – Dr Yulia Cherdantseva.md
+      - Speaker – Mr Eugene Chew.md
       - Speaker – Mr Raman Jit Singh Chima.md
       - Speaker – Ms April Chin.md
       - Speaker – Mr Chua Kuan Seah.md
@@ -26,16 +45,27 @@ collections:
       - Speaker – Mr Ilya Dreytser.md
       - Speaker – Mr David van Duren.md
       - Speaker – Ms Laura Fifield.md
+      - Speaker – Mr Ryan Flores.md
       - Speaker – Dr Rafael Frankel.md
+      - Speaker – Mr Roy Friedman.md
+      - Speaker – Mr Edmund Goh.md
       - Speaker – Mr Goh Eng Choon.md
       - Speaker – Mr Goh Pei Ming.md
       - Speaker – Mr Simon Green.md
       - Speaker – Mr Sheran Gunasekera.md
+      - Speaker – Mr Rajiv Gupta.md
+      - Speaker – Mr Royal Hansen.md
+      - Speaker – Mr Christian Heggen.md
+      - Speaker – Mr Enrique Hernandez.md
       - Speaker – Mr Richard Horne.md
+      - Speaker – Mr Marc Henauer.md
       - Speaker – Ms Pua Hunter.md
       - Speaker – Mr Danny Jaspers.md
+      - Speaker – Mr Neal Jetton.md
+      - Speaker – Mr Craig Jones.md
       - Speaker – Mr Michael Karimian.md
       - Speaker – Mr James Kay.md
+      - Speaker – Mr Daniel Klingele.md
       - Speaker – Mr David Koh.md
       - Speaker – Mr Rod Latham.md
       - Speaker – Mr Richard LaTulip.md
@@ -44,6 +74,7 @@ collections:
       - Speaker – Mr Sebastian Madden.md
       - Speaker – Mr Derek Manky.md
       - Speaker – Ms Mihoko Matsubara.md
+      - Speaker – Lieutenant General Michelle McGuinness.md
       - Speaker – Dr Soumik Mondal.md
       - Speaker – Ms Izumi Nakamitsu.md
       - Speaker – Mr Charles Ng.md
@@ -54,11 +85,12 @@ collections:
       - Speaker – Ms Shariffah Rashidah Syed Othman.md
       - Speaker – Dr Giacomo Persi Paoli.md
       - Speaker – Dr Jerry Park.md
+      - Speaker – Ms Claudia Plattner.md
       - Speaker – Mr Mark du Plessis.md
       - Speaker – Ms Helen Popp.md
       - Speaker – Ms Therese Quieta.md
       - Speaker – Ms Meerah Rajavel.md
-      - Moderator – Mr Ed Ratcliffe.md
+      - Speaker – Dr Ekapong Rimcharone.md
       - Speaker – Mr Ghislain de Salins.md
       - Speaker – Mr Sven Schleier.md
       - Speaker – Mr Florian Schütz.md
@@ -83,17 +115,23 @@ collections:
       - Speaker – Mr Wong Choon Bong.md
       - Speaker – Professor Steven Wong.md
       - Speaker – Mr Zhang Weihan.md
+      - Speaker – Mr Zheng Wei.md
       - Moderator – Mr Benjamin Ang.md
       - Moderator – Mr Alexander Botting.md
       - Moderator – BG Edward Chen.md
       - Moderator – Mr Keith Detros.md
-      - Moderator – LTG Stephen Fogarty.md
+      - Moderator – Mr Stephen Fogarty.md
+      - Moderator – Professor Yaacob Ibrahim.md
       - Moderator – Ms Anastasiya Kazakova.md
       - Moderator – Mr Gaurav Keerthi.md
+      - Moderator – Mr Ashok Kumar Mirpuri.md
       - Moderator – HE Marta Pelechova.md
+      - Moderator – Mr Paolo Pellegrino.md
       - Moderator – Ms Allison Pytlak.md
       - Moderator – Mr Vladimir Radunović.md
       - Moderator – Dr Anuradha Rao.md
+      - Moderator – Mr Ed Ratcliffe.md
       - Moderator – Mr Andre Shori.md
       - Moderator – Ms Kelly Shortridge.md
       - Moderator – Dr Colin Soutar.md
+      - Moderator – Mr Marcus Tan.md

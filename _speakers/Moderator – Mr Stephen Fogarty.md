@@ -1,13 +1,13 @@
 ---
-title: Moderator – LTG Stephen Fogarty
-permalink: /speakers/ltg-stephen-fogarty/
+title: Moderator – Mr Stephen Fogarty
+permalink: /speakers/mr-stephen-fogarty/
 variant: markdown
 description: ""
 ---
 ![](/images/2025%20speakers/Stephen_Fogarty.png)
-#### **LTG Stephen Fogarty**
+#### **Mr Stephen Fogarty**
 
-*Senior Executive Advisor,<br>Booz Allen<br>United States of America*
+*Senior Executive Advisor,<br>Booz Allen Hamilton<br>United States of America*
 
 ##### **Biography**
 Stephen Fogarty is a senior leader with Booz Allen’s National Cyber account. With extensive cyber, intelligence, and information technology (IT) experience, Stephen helps lead the development of threat-informed defensive and offensive cyber strategies and solutions to support our U.S. government and international mission partners.

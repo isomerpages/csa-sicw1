@@ -27,10 +27,13 @@ Through a multistakeholder interactive conversation, the session will highlight 
 *The session is organised by the Geneva Dialogue on Responsible Behaviour in Cyberspace, an initiative launched in 2018 by the Swiss Federal Department of Foreign Affairs (FDFA) and implemented by DiploFoundation, with the support of the Republic and State of Geneva, C4DT, and UBS. It aims to map the roles and responsibilities of various actors in cyberspace and to promote the framework for responsible behaviour.*
 
 |**Speakers**          |                                                              |
-| [Mr Florian Schütz](/speakers/mr-florian-schutz/)  | *Director* <br>Swiss National Cybersecurity Center<br>Switzerland      |
-| [Mr Tan E Guang Eugene](/speakers/mr-tan-e-guang-eugene/)  | *Associate Research Fellow at the Centre of Excellence for National Security* <br>S Rajaratnam School of International Studies, Nanyang Technological University<br>Singapore      |
+| [Mr Christopher Anthony](/speakers/mr-christopher-anthony/)  | *Director in the Critical Information Infrastructure (CII)* <br>Cyber Security Agency of Singapore<br>Singapore      |
+| [Mr Marc Henauer](/speakers/mr-marc-henauer/)  | *Senior Political and International Affairs Officer* <br>Swiss National Cyber Security Centre<br>Switzerland      |
+| [Mr Daniel Klingele](/speakers/mr-daniel-klingele/)  | *Senior Advisor, International Security Division* <br>Swiss Federal Department of Foreign Affairs<br>Switzerland      |
+| [Ms Shariffah Rashidah Syed Othman](/speakers/ms-shariffah-rashidah-syed-othman/)  | *Commissioner, Personal Data Protection, Personal Data Protection Department* <br>Ministry of Digital<br>Malaysia      |
 | [Mr Teo Xiang Zheng](/speakers/mr-teo-xiang-zheng/)  | *VP, Head of Advisory* <br>Ensign Infosecurity<br>Singapore      |
-| [Ms Shariffah Rashidah Syed Othman](/speakers/ms-shariffah-rashidah-syed-othman/)  | *Deputy Director General, Personal Data Protection Department* <br>Ministry of Digital<br>Malaysia      |
+| [Mr Tan E Guang Eugene](/speakers/mr-tan-e-guang-eugene/)  | *Associate Research Fellow at the Centre of Excellence for National Security* <br>S Rajaratnam School of International Studies, Nanyang Technological University<br>Singapore      |
+| [Dr Bushra Al Blooshi](/speakers/dr-bushra-al-blooshi/)  | *Director of Governance and Risk Management for Cybersecurity* <br>Dubai Electronic Security Center<br>Dubai      |
 |<br>**Moderator**          |                                                              |
 | [Ms Anastasiya Kazakova](/speakers/ms-anastasiya-kazakova/)  | *Cyber Diplomacy Knowledge Fellow; Geneva Dialogue project coordinator* <br>DiploFoundation<br>Russian Federation      |
 | [Mr Vladimir Radunović](/speakers/mr-vladimir-radunovic/)  | *Director of Cybersecurity &amp; E-diplomacy, Diplo* <br>DiploFoundation<br>Serbia      |

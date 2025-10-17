@@ -4,7 +4,7 @@ permalink: /speakers/ms-loke-hui-yi/
 variant: markdown
 description: ""
 ---
-![](/images/2025%20speakers/Loke_Huiyi.png)
+
 #### **Ms Loke Hui Yi**
 
 *Vulnerability Management Head,<br>TikTok<br>Singapore*

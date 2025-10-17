@@ -4,6 +4,7 @@ permalink: /speakers/mr-richard-latulip/
 variant: markdown
 description: ""
 ---
+![](/images/2025%20speakers/Richard_LaTulip.png)
 #### **Mr Richard LaTulip**
 
 *Field Chief Information Security Officer, <br> Recorded Future*
