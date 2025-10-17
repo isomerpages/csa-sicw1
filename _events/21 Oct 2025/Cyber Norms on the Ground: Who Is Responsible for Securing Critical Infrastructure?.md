@@ -33,6 +33,7 @@ Through a multistakeholder interactive conversation, the session will highlight 
 | [Ms Shariffah Rashidah Syed Othman](/speakers/ms-shariffah-rashidah-syed-othman/)  | *Deputy Director General, Personal Data Protection Department* <br>Ministry of Digital<br>Malaysia      |
 | [Mr Teo Xiang Zheng](/speakers/mr-teo-xiang-zheng/)  | *VP, Head of Advisory* <br>Ensign Infosecurity<br>Singapore      |
 | [Mr Tan E Guang Eugene](/speakers/mr-tan-e-guang-eugene/)  | *Associate Research Fellow at the Centre of Excellence for National Security* <br>S Rajaratnam School of International Studies, Nanyang Technological University<br>Singapore      |
+| [Dr Bushra Al Blooshi](/speakers/dr-bushra-al-blooshi/)  | *Director of Governance and Risk Management for Cybersecurity* <br>Dubai Electronic Security Center<br>Dubai      |
 |<br>**Moderator**          |                                                              |
 | [Ms Anastasiya Kazakova](/speakers/ms-anastasiya-kazakova/)  | *Cyber Diplomacy Knowledge Fellow; Geneva Dialogue project coordinator* <br>DiploFoundation<br>Russian Federation      |
 | [Mr Vladimir Radunović](/speakers/mr-vladimir-radunovic/)  | *Director of Cybersecurity &amp; E-diplomacy, Diplo* <br>DiploFoundation<br>Serbia      |
