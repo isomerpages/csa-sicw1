@@ -14,7 +14,7 @@ third_nav_title: 23 Oct 2025
 The Global Cybersecurity Labelling Initiative (GCLI) convenes participating nations to shape the future of IoT security. As governments worldwide develop their own IoT security initiatives, nations will explore harmonised security standards, share successful implementation strategies, and forge pathways for international cooperation. The initiative's vision is to build a trusted global ecosystem of connected devices, built on harmonised security standards that empower consumers, support innovation, and strengthen digital resilience across borders.
 
 |**Speaker**          |                                                              |
-| [Mr Chua Kuan Seah](/speakers/mr-chua-kuan-seah/)  | *Deputy Cybersecurity Commissioner &amp; Deputy Chief Executive (Development)* <br>Cyber Security Agency of Singapore<br>Singapore      |
+| [Mr Chua Kuan Seah](/speakers/mr-chua-kuan-seah/)  | *Deputy Commissioner of Cybersecurity; Deputy Chief Executive (Development)* <br>Cyber Security Agency of Singapore<br>Singapore      |
 | [Ms Claudia Plattner](/speakers/ms-claudia-plattner/)  | *President* <br>German Federal Office for Information Security (BSI)<br>Germany      |
 
 <br><br><br>
