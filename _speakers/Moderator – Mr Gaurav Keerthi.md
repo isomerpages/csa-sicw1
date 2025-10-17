@@ -4,6 +4,8 @@ permalink: /speakers/mr-gaurav-keerthi/
 variant: markdown
 description: ""
 ---
+
+![](/images/2025%20speakers/Gaurav_Keerthi.png)
 #### **Mr Gaurav Keerthi**
 
 *Chief Executive Officer, <br> StrongKeep*
