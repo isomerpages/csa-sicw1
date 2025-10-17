@@ -6,4 +6,4 @@ description: ""
 ---
 #### **Mr Chen Jixue**
 
-*Level-II Counsel, <br>Cyberspace Administration of China*
+*Cyberspace Administration of China*
