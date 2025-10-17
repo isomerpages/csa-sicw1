@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ambassador Burhan Gafoor.md
       - Speaker – Mr Ernst Noorman.md
       - Speaker – Pol Maj Gen Niwate Arpawasin.md
       - Speaker – Mr Justiin Ang.md
