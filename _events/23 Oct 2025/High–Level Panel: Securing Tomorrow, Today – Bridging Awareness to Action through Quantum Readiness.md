@@ -15,7 +15,7 @@ third_nav_title: 23 Oct 2025
 As quantum computing rapidly advances, the conversation around quantum readiness has shifted from awareness to action. Nations, industries, and technology leaders need to plan ahead to embed quantum resilience at the foundation and design of digital systems. This year’s High-Level Panel on “Securing Tomorrow, Today — Bridging Awareness to Action through Quantum Readiness” highlights the impetus to respond to the growing quantum threat without delay. As quantum computers edge closer to practical capabilities, systems relying on classical cryptography can become vulnerable, endangering the confidentiality, integrity, and availability of digital systems worldwide. This High-Level Panel brings together global leaders to chart a pragmatic and collaborative approach towards quantum readiness and safety.
 
 |**Opening Remarks**          |                                                              |
-| [Mr Chua Kuan Seah](/speakers/mr-chua-kuan-seah/)  | *Deputy Cybersecurity Commissioner &amp; Deputy Chief Executive (Development)* <br>Cyber Security Agency of Singapore<br>Singapore      |
+| [Mr Chua Kuan Seah](/speakers/mr-chua-kuan-seah/)  | *Deputy Commissioner of Cybersecurity; Deputy Chief Executive (Development)* <br>Cyber Security Agency of Singapore<br>Singapore      |
 |<br>**Panellists**          |                                                              |
 | [Mr Michael Osborne](/speakers/mr-michael-osborne/)  | *Chief Technology Officer* <br>IBM Quantum Safe<br>Switzerland      |
 | [Dr Tan Teik Guan](/speakers/dr-tan-teik-guan/)  | *Co-founder &amp; CEO* <br>pQCee<br>Singapore      |
