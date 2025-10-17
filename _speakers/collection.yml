@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mrs Friederike Dahns.md
       - Speaker – Mr Saita Yukio.md
       - Speaker – Mr Andrew Elliot.md
       - Speaker – Mr Chen Jixue.md
