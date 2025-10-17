@@ -4,6 +4,8 @@ permalink: /speakers/mr-peter-bailey/
 variant: markdown
 description: ""
 ---
+
+![](/images/2025%20speakers/Peter_Bailey.png)
 #### **Mr Peter Bailey**
 
 *Senior Vice-President, Security, <br>Cisco*
