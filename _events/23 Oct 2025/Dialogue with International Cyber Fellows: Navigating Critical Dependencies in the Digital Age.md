@@ -6,7 +6,7 @@ variant: markdown
 description: ""
 third_nav_title: 23 Oct 2025
 ---
-#### **Dialogue with International Cyber Fellows**
+#### **Dialogue with International Cyber Fellows: Navigating Critical Dependencies in the Digital Age**
 
 **23 October 2025 (Thursday)**  
 *Time: 3.30pm to 5.00pm (GMT +8)*
