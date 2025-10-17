@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Pol Maj Gen Niwate Arpawasin.md
       - Speaker – Mr Justiin Ang.md
       - Speaker – Mr Arthur Langellier.md
       - Speaker – HE Artis Bertulis.md
