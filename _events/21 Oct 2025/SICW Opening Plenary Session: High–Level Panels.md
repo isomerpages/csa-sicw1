@@ -26,6 +26,7 @@ third_nav_title: 21 Oct 2025
 <br>Nation-states have traditionally been the dominant players in global affairs, shaping and directing the conduct of geopolitics, economics, and social development. However, in an era where much of government, business, media, and society depend heavily on the underlying digital infrastructure of Big Tech, what are the implications when companies have the resources and reach to influence political, economic, and social development of nation states? Have global power dynamics undergone a fundamental shift? How can Big Tech and governments work together to act responsibly in the service of the global public good? This panel explores the underlying forces that drive governmental and industry interests, that shape the digital world we live in today. It also examines how we can collectively work together to manage the new realities of the future.
 
 |**Panellists**          |                                                              |
+| [Mr Chen Jixue](/speakers/mr-chen-jixue/)  | *Level-II Counsel*<br>Cyberspace Administration of China      |
 | [Mr Royal Hansen](/speakers/mr-royal-hansen/)  | *VP of Engineering*<br>Google      |
 | [Mr Vincent Strubel](/speakers/mr-vincent-strubel/)  | *Director General*<br>National Information Systems Security Agency<br>France      |
 |<br>**Moderator**          |                                                              |
