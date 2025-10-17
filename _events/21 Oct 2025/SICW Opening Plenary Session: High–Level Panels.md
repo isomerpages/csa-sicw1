@@ -17,7 +17,9 @@ third_nav_title: 21 Oct 2025
 **Panel 1: Not at War, Not at Peace: Making International Cyber Cooperation Work in an Uncertain Future**
 <br>In a world marked by geopolitical rivalry, military conflict, economic fragmentation, and pressures on the multilateral system and rules-based order, as well as the rapid democratisation of technology, can states collaborate to make international cyber cooperation work and collectively safeguard international peace and security before it is too late? This panel will examine how states are navigating this period of uncertainty and discuss how like-minded states can band together to uphold the multilateral rules-based order in cyberspace and preserve an open, secure, stable, accessible, peaceful and interoperable cyberspace.
 
-|**Moderator**          |                                                              |
+|**Panellist**          |                                                              |
+| [Ambassador Burhan Gafoor](/speakers/ambassador-burhan-gafoor/)  | *Permanent Representative of Singapore to the United Nations*      |
+|<br>**Moderator**          |                                                              |
 | [Mr Ashok Kumar Mirpuri](/speakers/mr-ashok-kumar-mirpuri/)  | *Head, International Policy &amp; Governance*<br>Temasek International Pte Ltd      |
 
 **Panel 2: Power Struggle in a Technopolar World: Big Tech and State Power**
