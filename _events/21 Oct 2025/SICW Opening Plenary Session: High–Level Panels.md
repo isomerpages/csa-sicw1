@@ -29,6 +29,7 @@ third_nav_title: 21 Oct 2025
 | [Mr Chen Jixue](/speakers/mr-chen-jixue/)  | Cyberspace Administration of China      |
 |<br>**Panellists**          |                                                              |
 | [Mr Vincent Strubel](/speakers/mr-vincent-strubel/)  | *Director General*<br>National Information Systems Security Agency<br>France      |
+| [Mrs Friederike Dahns](/speakers/mrs-friederike-dahns/)  | *Director General*<br>Cyber and Information Security, Ministry of Interior<br>Germany      |
 | [Mr Royal Hansen](/speakers/mr-royal-hansen/)  | *VP of Engineering*<br>Google      |
 |<br>**Moderator**          |                                                              |
 | [Professor Yaacob Ibrahim](/speakers/professor-yaacob-ibrahim/)  | *Adjunct Professor*<br>Lee Kuan Yew School of Public Policy      |
