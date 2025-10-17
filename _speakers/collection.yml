@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Andrew Elliot.md
       - Speaker – Mr Chen Jixue.md
       - Speaker – Ambassador Burhan Gafoor.md
       - Speaker – Mr Ernst Noorman.md
