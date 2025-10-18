@@ -17,7 +17,10 @@ third_nav_title: 21 Oct 2025
 **Panel 1: Not at War, Not at Peace: Making International Cyber Cooperation Work in an Uncertain Future**
 <br>In a world marked by geopolitical rivalry, military conflict, economic fragmentation, and pressures on the multilateral system and rules-based order, as well as the rapid democratisation of technology, can states collaborate to make international cyber cooperation work and collectively safeguard international peace and security before it is too late? This panel will examine how states are navigating this period of uncertainty and discuss how like-minded states can band together to uphold the multilateral rules-based order in cyberspace and preserve an open, secure, stable, accessible, peaceful and interoperable cyberspace.
 
-|**Panellist**          |                                                              |
+|**Keynote Speaker &amp; Panellist**          |                                                              |
+| [Mr Jiří Kozák](/speakers/mr-jiri-kozak/)  | *Deputy Minister of Foreign Affairs*<br>Czech Republic      |
+|<br>**Panellist**          |                                                              |
+| [Ms Manon Le Blanc](/speakers/ms-manon-le-blanc/)  | *Head of Cyber Policy, Security and Defence Policy Division*<br>European External Action Service      |
 | [Ambassador Burhan Gafoor](/speakers/ambassador-burhan-gafoor/)  | *Permanent Representative of Singapore to the United Nations*      |
 |<br>**Moderator**          |                                                              |
 | [Mr Ashok Kumar Mirpuri](/speakers/mr-ashok-kumar-mirpuri/)  | *Head, International Policy &amp; Governance*<br>Temasek International Pte Ltd      |
@@ -28,8 +31,9 @@ third_nav_title: 21 Oct 2025
 |**Keynote Speaker**          |                                                              |
 | [Mr Chen Jixue](/speakers/mr-chen-jixue/)  | Cyberspace Administration of China      |
 |<br>**Panellists**          |                                                              |
+| [Pengiran Dato Shamhary Mustapha](/speakers/pengiran-dato-shamhary-mustapha/)  | *Minister of Transport and Infocommunications*<br>Brunei      |
 | [Mr Vincent Strubel](/speakers/mr-vincent-strubel/)  | *Director General*<br>National Information Systems Security Agency<br>France      |
-| [Mrs Friederike Dahns](/speakers/mrs-friederike-dahns/)  | *Director General*<br>Cyber and Information Security, Ministry of Interior<br>Germany      |
+| [Ms Claudia Plattner](/speakers/ms-claudia-plattner/)  | *President*<br>German Federal Office for Information Security (BSI)<br>Germany      |
 | [Mr Royal Hansen](/speakers/mr-royal-hansen/)  | *VP of Engineering*<br>Google      |
 |<br>**Moderator**          |                                                              |
 | [Professor Yaacob Ibrahim](/speakers/professor-yaacob-ibrahim/)  | *Adjunct Professor*<br>Lee Kuan Yew School of Public Policy      |
