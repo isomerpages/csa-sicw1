@@ -25,11 +25,11 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 3.00pm to 4.30pm           | [Meet GCF Singapore Chapter](/events/21-oct/meet-gcf-singapore-chapter/)                               |
 | 4.30pm to 5.30pm           | [Governing Commercial Cyber Intrusion Capabilities: the Path Forward for the Pall Mall Process](/events/21-oct/governing-commercial-cyber-intrusion-capabilities/)                               |
 | <br> **22 October 2025** <br>*(Wednesday)* |                                                                                                |
-| 9.15am to 10.05am           | [High–Level Panel: Infinite Actions, Finite Control – Securing Agentic AI](/events/22-oct/high-level-panel-infinite-actions-finite-control/)                               |
 | 9.00am to 12.00pm           | [ASEAN CERT Incident Drill (ACID)](/events/22-oct/asean-cert-incident-drill-acid/)                               |
 | 9.00am to 5.00pm           | [ASEAN Cybercrime Prosecutors’ Roundtable Meeting (ACPRM)](/events/22-oct/asean-cybercrime-prosecutors-roundtable-meeting-acprm/)                               |
 | 9.00am to 5.00pm           | [SPIRITCYBER Hackathon](/events/22-oct/spiritcyber-hackathon/)                               |
 | 9.00am to 5.30pm           | [GovWare Conference &amp; Exhibition 2025](/events/22-oct/govware-conference-exhibition-2025/)                               |
+| 9.15am to 10.05am           | [High–Level Panel: Infinite Actions, Finite Control – Securing Agentic AI](/events/22-oct/high-level-panel-infinite-actions-finite-control/)                               |
 | 10.00am to 11.30am           | [Securing Smart Cities](/events/22-oct/securing-smart-cities/)                               |
 | 10.00am to 11.30am           | [Zero Trust in the Age of Mobile AI](/events/22-oct/zero-trust-in-the-age-of-mobile-ai/)                               |
 | 10.00am to 12.00pm           | [Cyber Accountability in Asia: Navigating Norms and Legal Frameworks](/events/22-oct/cyber-accountability-in-asia-navigating-norms-and-legal-frameworks/)                               |
