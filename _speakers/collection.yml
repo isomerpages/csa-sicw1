@@ -2,30 +2,21 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Mrs Friederike Dahns.md
-      - Speaker – Mr Saita Yukio.md
-      - Speaker – Mr Andrew Elliot.md
-      - Speaker – Mr Chen Jixue.md
-      - Speaker – Ambassador Burhan Gafoor.md
-      - Speaker – Mr Ernst Noorman.md
-      - Speaker – Pol Maj Gen Niwate Arpawasin.md
-      - Speaker – Mr Justiin Ang.md
-      - Speaker – Mr Arthur Langellier.md
-      - Speaker – HE Artis Bertulis.md
-      - Speaker – Mr Ang Leong Boon.md
-      - Speaker – Dr Camino Kavanagh.md
-      - Speaker – Mr Dan Yock Hau.md
       - Guest of Honour – Mr Tan Kiat How.md
       - Guest of Honour – Mrs Josephine Teo.md
       - Guest of Honour – Mr K Shanmugam.md
       - Speaker – Mr Mahdi Alaei.md
       - Speaker – Ms Mandy Andress.md
+      - Speaker – Mr Justiin Ang.md
+      - Speaker – Mr Ang Leong Boon.md
       - Speaker – Mr Christopher Anthony.md
+      - Speaker – Pol Maj Gen Niwate Arpawasin.md
       - Speaker – Mr James Babbage.md
       - Speaker – Ms Farhanah Bagharib.md
       - Speaker – Mr Peter Bailey.md
       - Speaker – Mr Ian Bartlett.md
       - Speaker – Mr Filipe Beato.md
+      - Speaker – HE Artis Bertulis.md
       - Speaker – Mr Artis Bertulis.md
       - Speaker – Ms Manon Le Blanc.md
       - Speaker – Dr Bushra Al Blooshi.md
@@ -35,18 +26,23 @@ collections:
       - Speaker – Mr Ken Chan.md
       - Speaker – Mr Chan Tsan.md
       - Speaker – Mr Chang Sau Sheong.md
+      - Speaker – Mr Chen Jixue.md
       - Speaker – Dr Yulia Cherdantseva.md
       - Speaker – Mr Eugene Chew.md
       - Speaker – Mr Raman Jit Singh Chima.md
       - Speaker – Ms April Chin.md
       - Speaker – Mr Chua Kuan Seah.md
+      - Speaker – Mrs Friederike Dahns.md
+      - Speaker – Mr Dan Yock Hau.md
       - Speaker – Dr Tara Maria Davenport.md
       - Speaker – Mr Ilya Dreytser.md
       - Speaker – Mr David van Duren.md
+      - Speaker – Mr Andrew Elliot.md
       - Speaker – Ms Laura Fifield.md
       - Speaker – Mr Ryan Flores.md
       - Speaker – Dr Rafael Frankel.md
       - Speaker – Mr Roy Friedman.md
+      - Speaker – Ambassador Burhan Gafoor.md
       - Speaker – Mr Edmund Goh.md
       - Speaker – Mr Goh Eng Choon.md
       - Speaker – Mr Goh Pei Ming.md
@@ -64,9 +60,11 @@ collections:
       - Speaker – Mr Craig Jones.md
       - Speaker – HE Mr Veikko Kala.md
       - Speaker – Mr Michael Karimian.md
+      - Speaker – Dr Camino Kavanagh.md
       - Speaker – Mr James Kay.md
       - Speaker – Mr Daniel Klingele.md
       - Speaker – Mr David Koh.md
+      - Speaker – Mr Arthur Langellier.md
       - Speaker – Mr Rod Latham.md
       - Speaker – Mr Richard LaTulip.md
       - Speaker – Mr Eugene Liderman.md
@@ -79,6 +77,7 @@ collections:
       - Speaker – Ms Izumi Nakamitsu.md
       - Speaker – Mr Charles Ng.md
       - Speaker – Mr Norman Ng.md
+      - Speaker – Mr Ernst Noorman.md
       - Speaker – Ms Atsuko Okuda.md
       - Speaker – Dr Ong Chen Hui.md
       - Speaker – Mr Michael Osborne.md
@@ -112,6 +111,7 @@ collections:
       - Speaker – Mr Iida Yoichi.md
       - Speaker – Ms Loretta Yuen.md
       - Speaker – Dr Wang Yunlong.md
+      - Speaker – Mr Saita Yukio.md
       - Speaker – Mr Wong Choon Bong.md
       - Speaker – Professor Steven Wong.md
       - Speaker – Mr Zhang Weihan.md
