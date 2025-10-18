@@ -9,7 +9,7 @@ third_nav_title: 22 Oct 2025
 #### **High-Level Panel: Survival of the Smartest — Agentic AI in Cybersecurity Operations**
 
 **22 October 2025 (Wednesday)**  
-*Time: 11.40am to 12.40pm (GMT +8)*
+*Time: 11.05am to 11.55am (GMT +8)*
 <br>*Venue: SICW A1, Level 3*
 
 In today’s rapid evolving digital landscape, organisations face an unprecedented barrage of sophisticated cyber threats. Traditional security operations, reliant on manual analysis and reactive responses, are increasingly struggling to keep pace. The future of cybersecurity demands a shift in approach — one powered by intelligence, autonomy and proactive defence. Hear from a panel of leaders and experts on how agentic AI can be leveraged and potentially revolutionise how organisations detect, respond and mitigate cyber risks. 
