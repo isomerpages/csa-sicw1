@@ -6,7 +6,7 @@ variant: markdown
 description: ""
 third_nav_title: 21 Oct 2025
 ---
-#### **Cyber Norms on the Ground: Who Is Responsible for Securing Critical Infrastructure?**
+#### **Cyber Norms on the Ground: Who is Responsible for Securing Critical Infrastructure?**
 
 **21 October 2025 (Tuesday)**  
 *Time: 1.00pm to 3.00pm (GMT +8)*
