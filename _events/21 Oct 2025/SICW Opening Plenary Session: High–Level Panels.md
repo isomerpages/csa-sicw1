@@ -45,7 +45,7 @@ third_nav_title: 21 Oct 2025
 This panel invites government and industry leaders to confront hard questions of accountability, with lessons from around the world. Looking beyond blame, it will explore how countries are experimenting with new models of public-private partnerships – blending state resources with private innovation, to strengthen collective action against evolving threats.
 
 |**Keynote Speaker &amp; Panellist**          |                                                              |
-| [Mr Richard Horne](/speakers/mr-richard-horne/)  | *Chief Executive Officer*<br>National Cyber Security Centre<br>United Kingdom      |
+| [Dr Richard Horne](/speakers/dr-richard-horne/)  | *Chief Executive Officer*<br>National Cyber Security Centre<br>United Kingdom      |
 |<br>**Panellists**          |                                                              |
 | [Mr Saita Yukio](/speakers/mr-saita-yukio/)  | *Global Strategy Lead*<br>National Cybersecurity Office, Government of Japan<br>Japan      |
 | [Mr Peter Bailey](/speakers/mr-peter-bailey/)  | *Senior Vice-President, Security*<br>Cisco      |
