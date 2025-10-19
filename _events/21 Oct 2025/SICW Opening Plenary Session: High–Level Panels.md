@@ -33,7 +33,7 @@ third_nav_title: 21 Oct 2025
 | [Mr Chen Jixue](/speakers/mr-chen-jixue/)  | Cyberspace Administration of China      |
 | [Mr Vitaly Balashov](/speakers/mr-vitaly-balashov/)  | *Deputy Minister*<br>Ministry of Digital Transformation of Ukraine      |
 |<br>**Panellists**          |                                                              |
-| [Pengiran Dato Shamhary Mustapha](/speakers/pengiran-dato-shamhary-mustapha/)  | *Minister of Transport and Infocommunications*<br>Brunei      |
+| [H.E. Pengiran Dato Shamhary Mustapha](/speakers/pengiran-dato-shamhary-mustapha/)  | *Minister of Transport and Infocommunications*<br>Brunei      |
 | [Mr Vincent Strubel](/speakers/mr-vincent-strubel/)  | *Director General*<br>National Information Systems Security Agency<br>France      |
 | [Ms Claudia Plattner](/speakers/ms-claudia-plattner/)  | *President*<br>German Federal Office for Information Security (BSI)<br>Germany      |
 | [Mr Royal Hansen](/speakers/mr-royal-hansen/)  | *VP of Engineering*<br>Google      |
