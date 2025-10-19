@@ -12,7 +12,6 @@ Join international policy makers, industry leaders and top academics from across
 <a target="blank" href="https://www.gevme.com/sicw-govware2025">![](/images/Registration%202025/Register_button_2025.png)</a>
 
 **Notes:**
-* Online registration for Trade Visitor pass will close on 15 October, 2359hrs. On site registration will be available from 21 October, 0800hrs.
 * All prices are in Singapore Dollars (SGD / S$).
 * The **SG Public Service Rate** is for attendees currently employed in a **Singapore public sector office or organisation**. Proof of employment, such as the Public Service Card or Civil Service Card, must be presented during badge collection. Registrants who fail to present this may be rejected at the discretion of the Organisers.
 * The **ASEAN Public Service Rate** is for individuals currently employed in a **public sector office or organisation in ASEAN countries**. Proof of employment, including a .gov domain email, is required during registration. Registrants using non-government email addresses for this rate may be rejected at the discretion of the Organisers. Proof of employment must be presented for verification during pass collection.
