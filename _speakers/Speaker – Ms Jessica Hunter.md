@@ -4,6 +4,8 @@ permalink: /speakers/ms-jessica-hunter/
 variant: markdown
 description: ""
 ---
+
+![](/images/2025%20speakers/Jess_Hunter.png)
 #### **Ms Jessica Hunter**
 
 *Ambassador for Cyber Affairs and Critical Technology, <br>Australia*
