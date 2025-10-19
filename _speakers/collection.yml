@@ -2,12 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Ms Jessica Hunter.md
-      - Speaker – Mr Vitaly Balashov.md
-      - Speaker – HE Pengiran Dato Shamhary Mustapha.md
-      - Speaker – Mr Jiří Kozák.md
-      - Speaker – Ms Tupou’tuah Baravilala.md
-      - Speaker – Ms Larissa Schneider Calza.md
       - Guest of Honour – Mr Tan Kiat How.md
       - Guest of Honour – Mrs Josephine Teo.md
       - Guest of Honour – Mr K Shanmugam.md
@@ -20,6 +14,8 @@ collections:
       - Speaker – Mr James Babbage.md
       - Speaker – Ms Farhanah Bagharib.md
       - Speaker – Mr Peter Bailey.md
+      - Speaker – Mr Vitaly Balashov.md
+      - Speaker – Ms Tupou’tuah Baravilala.md
       - Speaker – Mr Ian Bartlett.md
       - Speaker – Mr Filipe Beato.md
       - Speaker – HE Artis Bertulis.md
@@ -28,6 +24,7 @@ collections:
       - Speaker – Dr Bushra Al Blooshi.md
       - Speaker – Mr Doug Browne.md
       - Speaker – Engr Allan Salim Cabanlong.md
+      - Speaker – Ms Larissa Schneider Calza.md
       - Speaker – Mr Esteban Castaño.md
       - Speaker – Mr Ken Chan.md
       - Speaker – Mr Chan Tsan.md
@@ -58,8 +55,9 @@ collections:
       - Speaker – Mr Royal Hansen.md
       - Speaker – Mr Christian Heggen.md
       - Speaker – Mr Enrique Hernandez.md
-      - Speaker – Dr Richard Horne.md
       - Speaker – Mr Marc Henauer.md
+      - Speaker – Dr Richard Horne.md
+      - Speaker – Ms Jessica Hunter.md
       - Speaker – Ms Pua Hunter.md
       - Speaker – Mr Danny Jaspers.md
       - Speaker – Mr Neal Jetton.md
@@ -70,6 +68,7 @@ collections:
       - Speaker – Mr James Kay.md
       - Speaker – Mr Daniel Klingele.md
       - Speaker – Mr David Koh.md
+      - Speaker – Mr Jiří Kozák.md
       - Speaker – Mr Arthur Langellier.md
       - Speaker – Mr Rod Latham.md
       - Speaker – Mr Richard LaTulip.md
@@ -80,6 +79,7 @@ collections:
       - Speaker – Ms Mihoko Matsubara.md
       - Speaker – Lieutenant General Michelle McGuinness.md
       - Speaker – Dr Soumik Mondal.md
+      - Speaker – HE Pengiran Dato Shamhary Mustapha.md
       - Speaker – Ms Izumi Nakamitsu.md
       - Speaker – Mr Charles Ng.md
       - Speaker – Mr Norman Ng.md
