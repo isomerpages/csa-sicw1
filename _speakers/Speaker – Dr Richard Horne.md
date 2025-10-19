@@ -1,12 +1,11 @@
 ---
-title: Speaker – Mr Richard Horne
-permalink: /speakers/mr-richard-horne/
+title: Speaker – Dr Richard Horne
+permalink: /speakers/dr-richard-horne/
 variant: markdown
 description: ""
 ---
-
 ![](/images/2025%20speakers/Richard_Horne.png)
-#### **Mr Richard Horne**
+#### **Dr Richard Horne**
 
 *Chief Executive Officer, <br>National Cyber Security Centre<br>United Kingdom*
 

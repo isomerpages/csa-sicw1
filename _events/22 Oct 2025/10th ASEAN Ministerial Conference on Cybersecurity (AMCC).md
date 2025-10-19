@@ -8,7 +8,7 @@ third_nav_title: 22 Oct 2025
 #### **10th ASEAN Ministerial Conference on Cybersecurity (AMCC)**
 
 **22 October 2025 (Wednesday)**  
-*Time: 12.45pm to 5.45pm (GMT +8)*
+*Time: 12.45pm to 5.50pm (GMT +8)*
 <br>*Venue: SICW H &amp; G, Level 3*
 
 *Format: Closed Door Event*

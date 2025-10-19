@@ -2,52 +2,50 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – Mrs Friederike Dahns.md
-      - Speaker – Mr Saita Yukio.md
-      - Speaker – Mr Andrew Elliot.md
-      - Speaker – Mr Chen Jixue.md
-      - Speaker – Ambassador Burhan Gafoor.md
-      - Speaker – Mr Ernst Noorman.md
-      - Speaker – Pol Maj Gen Niwate Arpawasin.md
-      - Speaker – Mr Justiin Ang.md
-      - Speaker – Mr Arthur Langellier.md
-      - Speaker – HE Artis Bertulis.md
-      - Speaker – Mr Ang Leong Boon.md
-      - Speaker – Dr Camino Kavanagh.md
-      - Speaker – Mr Dan Yock Hau.md
-      - Speaker – Mr Artis Bertulis.md
-      - Speaker – HE Mr Veikko Kala.md
       - Guest of Honour – Mr Tan Kiat How.md
       - Guest of Honour – Mrs Josephine Teo.md
       - Guest of Honour – Mr K Shanmugam.md
       - Speaker – Mr Mahdi Alaei.md
       - Speaker – Ms Mandy Andress.md
+      - Speaker – Mr Justiin Ang.md
+      - Speaker – Mr Ang Leong Boon.md
       - Speaker – Mr Christopher Anthony.md
+      - Speaker – Pol Maj Gen Niwate Arpawasin.md
       - Speaker – Mr James Babbage.md
       - Speaker – Ms Farhanah Bagharib.md
       - Speaker – Mr Peter Bailey.md
+      - Speaker – Mr Vitaly Balashov.md
+      - Speaker – Ms Tupou’tuah Baravilala.md
       - Speaker – Mr Ian Bartlett.md
       - Speaker – Mr Filipe Beato.md
+      - Speaker – HE Artis Bertulis.md
+      - Speaker – Mr Artis Bertulis.md
       - Speaker – Ms Manon Le Blanc.md
       - Speaker – Dr Bushra Al Blooshi.md
       - Speaker – Mr Doug Browne.md
       - Speaker – Engr Allan Salim Cabanlong.md
+      - Speaker – Ms Larissa Schneider Calza.md
       - Speaker – Mr Esteban Castaño.md
       - Speaker – Mr Ken Chan.md
       - Speaker – Mr Chan Tsan.md
       - Speaker – Mr Chang Sau Sheong.md
+      - Speaker – Mr Chen Jixue.md
       - Speaker – Dr Yulia Cherdantseva.md
       - Speaker – Mr Eugene Chew.md
       - Speaker – Mr Raman Jit Singh Chima.md
       - Speaker – Ms April Chin.md
       - Speaker – Mr Chua Kuan Seah.md
+      - Speaker – Mrs Friederike Dahns.md
+      - Speaker – Mr Dan Yock Hau.md
       - Speaker – Dr Tara Maria Davenport.md
       - Speaker – Mr Ilya Dreytser.md
       - Speaker – Mr David van Duren.md
+      - Speaker – Mr Andrew Elliot.md
       - Speaker – Ms Laura Fifield.md
       - Speaker – Mr Ryan Flores.md
       - Speaker – Dr Rafael Frankel.md
       - Speaker – Mr Roy Friedman.md
+      - Speaker – Ambassador Burhan Gafoor.md
       - Speaker – Mr Edmund Goh.md
       - Speaker – Mr Goh Eng Choon.md
       - Speaker – Mr Goh Pei Ming.md
@@ -57,16 +55,21 @@ collections:
       - Speaker – Mr Royal Hansen.md
       - Speaker – Mr Christian Heggen.md
       - Speaker – Mr Enrique Hernandez.md
-      - Speaker – Mr Richard Horne.md
       - Speaker – Mr Marc Henauer.md
+      - Speaker – Dr Richard Horne.md
+      - Speaker – Ms Jessica Hunter.md
       - Speaker – Ms Pua Hunter.md
       - Speaker – Mr Danny Jaspers.md
       - Speaker – Mr Neal Jetton.md
       - Speaker – Mr Craig Jones.md
+      - Speaker – HE Mr Veikko Kala.md
       - Speaker – Mr Michael Karimian.md
+      - Speaker – Dr Camino Kavanagh.md
       - Speaker – Mr James Kay.md
       - Speaker – Mr Daniel Klingele.md
       - Speaker – Mr David Koh.md
+      - Speaker – Mr Jiří Kozák.md
+      - Speaker – Mr Arthur Langellier.md
       - Speaker – Mr Rod Latham.md
       - Speaker – Mr Richard LaTulip.md
       - Speaker – Mr Eugene Liderman.md
@@ -76,9 +79,11 @@ collections:
       - Speaker – Ms Mihoko Matsubara.md
       - Speaker – Lieutenant General Michelle McGuinness.md
       - Speaker – Dr Soumik Mondal.md
+      - Speaker – HE Pengiran Dato Shamhary Mustapha.md
       - Speaker – Ms Izumi Nakamitsu.md
       - Speaker – Mr Charles Ng.md
       - Speaker – Mr Norman Ng.md
+      - Speaker – Mr Ernst Noorman.md
       - Speaker – Ms Atsuko Okuda.md
       - Speaker – Dr Ong Chen Hui.md
       - Speaker – Mr Michael Osborne.md
@@ -112,6 +117,7 @@ collections:
       - Speaker – Mr Iida Yoichi.md
       - Speaker – Ms Loretta Yuen.md
       - Speaker – Dr Wang Yunlong.md
+      - Speaker – Mr Saita Yukio.md
       - Speaker – Mr Wong Choon Bong.md
       - Speaker – Professor Steven Wong.md
       - Speaker – Mr Zhang Weihan.md

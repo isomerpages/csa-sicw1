@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 ![](/images/2025%20speakers/Artis_Bertulis.png)
-#### **HE Artis Bertulis**
+#### **H.E. Artis Bertulis**
 
 *Ambassador-designate of the European Union to Singapore<br>European Union*
 
