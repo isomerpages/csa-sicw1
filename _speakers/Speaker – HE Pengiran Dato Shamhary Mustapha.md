@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 ![](/images/2025%20speakers/Pengiran_Dato_Shamhary_Mustapha.png)
-#### **Pengiran Dato Shamhary Mustapha**
+#### **H.E. Pengiran Dato Shamhary Mustapha**
 
 *Minister of Transport and Infocommunications, <br>Brunei*
 
