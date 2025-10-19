@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Vitaly Balashov.md
       - Speaker – Pengiran Dato Shamhary Mustapha.md
       - Speaker – Mr Jiří Kozák.md
       - Speaker – Ms Tupou’tuah Baravilala.md
