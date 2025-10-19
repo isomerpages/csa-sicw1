@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 ![](/images/2025%20speakers/Richard_Horne.png)
-#### **Mr Richard Horne**
+#### **Dr Richard Horne**
 
 *Chief Executive Officer, <br>National Cyber Security Centre<br>United Kingdom*
 
