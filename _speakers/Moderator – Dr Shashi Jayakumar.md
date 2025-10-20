@@ -4,6 +4,8 @@ permalink: /speakers/dr-shashi-jayakumar/
 variant: markdown
 description: ""
 ---
+
+![](/images/2025%20speakers/Shashi_Jayakumar.png)
 #### **Dr Shashi Jayakumar**
 
 *Executive Director,<br>SJK Geostrategic Advisory*
