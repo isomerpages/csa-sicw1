@@ -21,7 +21,7 @@ third_nav_title: 21 Oct 2025
 | [Mr Jiří Kozák](/speakers/mr-jiri-kozak/)  | *Deputy Minister of Foreign Affairs*<br>Czech Republic      |
 |<br>**Panellist**          |                                                              |
 | [Ms Jessica Hunter](/speakers/ms-jessica-hunter/)  | *Ambassador for Cyber Affairs and Critical Technology*<br>Australia      |
-| [Ms Manon Le Blanc](/speakers/ms-manon-le-blanc/)  | *Head of Cyber Policy, Security and Defence Policy Division*<br>European External Action Service      |
+| [Ms Manon Le Blanc](/speakers/ms-manon-le-blanc/)  | *Coordinator for Cyber Issues and Deputy Head of the Hybrid Threats and Cyber Division*<br>European External Action Service      |
 | [Ambassador Burhan Gafoor](/speakers/ambassador-burhan-gafoor/)  | *Permanent Representative of Singapore to the United Nations*      |
 |<br>**Moderator**          |                                                              |
 | [Mr Ashok Kumar Mirpuri](/speakers/mr-ashok-kumar-mirpuri/)  | *Head, International Policy &amp; Governance*<br>Temasek International Pte Ltd      |
@@ -34,7 +34,7 @@ third_nav_title: 21 Oct 2025
 | [Mr Vitaly Balashov](/speakers/mr-vitaly-balashov/)  | *Deputy Minister*<br>Ministry of Digital Transformation of Ukraine      |
 |<br>**Panellists**          |                                                              |
 | [H.E. Pengiran Dato Shamhary Mustapha](/speakers/pengiran-dato-shamhary-mustapha/)  | *Minister of Transport and Infocommunications*<br>Brunei      |
-| [Mr Vincent Strubel](/speakers/mr-vincent-strubel/)  | *Director General*<br>National Information Systems Security Agency<br>France      |
+| [Mr Vincent Strubel](/speakers/mr-vincent-strubel/)  | *Director General*<br>French Cybersecurity Agency (ANSSI)      |
 | [Ms Claudia Plattner](/speakers/ms-claudia-plattner/)  | *President*<br>German Federal Office for Information Security (BSI)<br>Germany      |
 | [Mr Royal Hansen](/speakers/mr-royal-hansen/)  | *VP of Engineering*<br>Google      |
 |<br>**Moderator**          |                                                              |

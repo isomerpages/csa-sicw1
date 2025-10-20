@@ -2,6 +2,14 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – HE Alexandre Vital da Cruz Araújo Tilman.md
+      - Speaker – HE Gobind Singh Deo.md
+      - Speaker – AVM Amorn Chomchoey.md
+      - Speaker – Mr Miguel Ángel Cañada.md
+      - Moderator – Dr Tobias Feakin.md
+      - Speaker – Mr Nicholas Butts.md
+      - Guest of Honour – Dr Vivian Balakrishnan.md
+      - Moderator – Dr Shashi Jayakumar.md
       - Guest of Honour – Mr Tan Kiat How.md
       - Guest of Honour – Mrs Josephine Teo.md
       - Guest of Honour – Mr K Shanmugam.md
@@ -98,7 +106,6 @@ collections:
       - Speaker – Dr Ekapong Rimcharone.md
       - Speaker – Mr Ghislain de Salins.md
       - Speaker – Mr Sven Schleier.md
-      - Speaker – Mr Florian Schütz.md
       - Speaker – Dr Vikram Sharma.md
       - Speaker – Mr Masao Shino.md
       - Speaker – Ms Beatriz Silveira.md
