@@ -4,6 +4,8 @@ permalink: /speakers/he-gobind-singh-deo/
 variant: markdown
 description: ""
 ---
+
+![](/images/2025%20speakers/Gobind_Singh_Deo.png)
 #### **H.E. Gobind Singh Deo**
 
 *Minister of Digital, <br>Malaysia*
