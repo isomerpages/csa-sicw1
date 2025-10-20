@@ -4,6 +4,8 @@ permalink: /speakers/ms-tupou-tuah-baravilala/
 variant: markdown
 description: ""
 ---
+
+![](/images/2025%20speakers/tupou_tuah_baravilala.png)
 #### **Ms Tupou’tuah Baravilala**
 
 *Director-General for Digital Government Transformation, Cybersecurity and Communications, <br>Ministry of Communications<br>Fiji*
