@@ -13,7 +13,7 @@ third_nav_title: 23 Oct 2025
 **Opening Address**
 <br>*Time: 9.00am to 9.20am (GMT +8)*
 
-|**Keynote Speaker**          |                                                              |
+|**Opening Remarks**          |                                                              |
 | [Dr Vivian Balakrishnan](/speakers/dr-vivian-balakrishnan/)  | *Minister of Foreign Affairs*<br>Singapore      |
 
 **Panel I: Multilateral, Multipolar - Cyber Diplomacy in a Digital Age**
