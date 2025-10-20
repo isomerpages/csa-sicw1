@@ -13,6 +13,9 @@ third_nav_title: 23 Oct 2025
 **Opening Address**
 <br>*Time: 9.00am to 9.20am (GMT +8)*
 
+|**Keynote Speaker**          |                                                              |
+| [Dr Vivian Balakrishnan](/speakers/dr-vivian-balakrishnan/)  | *Minister of Foreign Affairs*<br>Singapore      |
+
 **Panel I: Multilateral, Multipolar - Cyber Diplomacy in a Digital Age**
 <br>*Time: 9.20am to 10.10am (GMT +8)*
 <br>The rapid spread and adoption of transboundary digital technologies and the policy, legislative and diplomatic pressures on States to keep pace with them have strained the bases of State power, and at the same time, State-State relations that underpin the existing multilateral framework.
