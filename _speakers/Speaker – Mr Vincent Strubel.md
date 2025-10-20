@@ -7,7 +7,7 @@ description: ""
 ![](/images/2025%20speakers/Vincent_Strubel.png)
 #### **Mr Vincent Strubel**
 
-*Director General,<br>National Cybersecurity Agency (ANSSI)<br>France*
+*Director General,<br>French Cybersecurity Agency (ANSSI)<br>France*
 
 ##### **Biography**
 Vincent Strubel is a graduate from Ecole Polytechnique (class of 2000) and of Telecom ParisTech. 
