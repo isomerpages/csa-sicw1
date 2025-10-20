@@ -4,6 +4,8 @@ permalink: /speakers/dr-tobias-feakin/
 variant: markdown
 description: ""
 ---
+
+![](/images/2025%20speakers/Toby_Feakin.png)
 #### **Dr Tobias Feakin**
 
 *Founder, <br>Protostar Strategy*
