@@ -4,6 +4,8 @@ permalink: /speakers/avm-amorn-chomchoey/
 variant: markdown
 description: ""
 ---
+
+![](/images/2025%20speakers/AVM_Amorn_Chomchoey.png)
 #### **AVM Amorn Chomchoey**
 
 *Secretary General, <br>National Cybersecurity Agency of Thailand*
