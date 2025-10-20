@@ -12,7 +12,7 @@ third_nav_title: 23 Oct 2025
 **Opening Address**
 <br>*Time: 9.00am to 9.20am (GMT +8)*
 
-**Panel I: Multilateral, Multipolar: Cyber Diplomacy in a Digital Age**
+**Panel I: Multilateral, Multipolar - Cyber Diplomacy in a Digital Age**
 <br>*Time: 9.20am to 10.10am (GMT +8)*
 <br>The rapid spread and adoption of transboundary digital technologies and the policy, legislative and diplomatic pressures on States to keep pace with them have strained the bases of State power, and at the same time, State-State relations that underpin the existing multilateral framework.
 
@@ -30,7 +30,7 @@ When technology threatens the very foundations of sovereignty, jurisdiction, and
 |<br>**Moderator**          |                                                              |
 | [Dr Shashi Jayakumar](/speakers/dr-shashi-jayakumar/)  | *Executive Director* <br>SJK Geostrategic Advisory      |
 
-**Panel II: A World Apart: The Pursuit of Interoperability**
+**Panel II: A World Apart - The Pursuit of Interoperability**
 <br>*Time: 10.10am to 11.00am (GMT +8)*
 <br>In a world increasingly shaped by fragmenting multilateralism, tech competition and diverging cyber standards, how can States ensure secure, cohesive, and resilient ecosystems?
 
