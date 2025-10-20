@@ -34,7 +34,7 @@ third_nav_title: 21 Oct 2025
 | [Mr Vitaly Balashov](/speakers/mr-vitaly-balashov/)  | *Deputy Minister*<br>Ministry of Digital Transformation of Ukraine      |
 |<br>**Panellists**          |                                                              |
 | [H.E. Pengiran Dato Shamhary Mustapha](/speakers/pengiran-dato-shamhary-mustapha/)  | *Minister of Transport and Infocommunications*<br>Brunei      |
-| [Mr Vincent Strubel](/speakers/mr-vincent-strubel/)  | *Director General*<br>National Information Systems Security Agency<br>France      |
+| [Mr Vincent Strubel](/speakers/mr-vincent-strubel/)  | *Director General*<br>French Cybersecurity Agency (ANSSI)      |
 | [Ms Claudia Plattner](/speakers/ms-claudia-plattner/)  | *President*<br>German Federal Office for Information Security (BSI)<br>Germany      |
 | [Mr Royal Hansen](/speakers/mr-royal-hansen/)  | *VP of Engineering*<br>Google      |
 |<br>**Moderator**          |                                                              |
