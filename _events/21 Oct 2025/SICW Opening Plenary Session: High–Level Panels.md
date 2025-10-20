@@ -21,7 +21,7 @@ third_nav_title: 21 Oct 2025
 | [Mr Jiří Kozák](/speakers/mr-jiri-kozak/)  | *Deputy Minister of Foreign Affairs*<br>Czech Republic      |
 |<br>**Panellist**          |                                                              |
 | [Ms Jessica Hunter](/speakers/ms-jessica-hunter/)  | *Ambassador for Cyber Affairs and Critical Technology*<br>Australia      |
-| [Ms Manon Le Blanc](/speakers/ms-manon-le-blanc/)  | *Head of Cyber Policy, Security and Defence Policy Division*<br>European External Action Service      |
+| [Ms Manon Le Blanc](/speakers/ms-manon-le-blanc/)  | *Coordinator for Cyber Issues and Deputy Head of the Hybrid and Cyber Division*<br>European External Action Service      |
 | [Ambassador Burhan Gafoor](/speakers/ambassador-burhan-gafoor/)  | *Permanent Representative of Singapore to the United Nations*      |
 |<br>**Moderator**          |                                                              |
 | [Mr Ashok Kumar Mirpuri](/speakers/mr-ashok-kumar-mirpuri/)  | *Head, International Policy &amp; Governance*<br>Temasek International Pte Ltd      |
