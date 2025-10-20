@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – HE Gobind Singh Deo.md
       - Speaker – AVM Amorn Chomchoey.md
       - Speaker – Mr Miguel Ángel Cañada.md
       - Moderator – Dr Tobias Feakin.md
