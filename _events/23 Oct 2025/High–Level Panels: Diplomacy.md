@@ -8,10 +8,10 @@ third_nav_title: 23 Oct 2025
 #### **High-Level Panels: Diplomacy**
 
 **23 October 2025 (Thursday)**  
+*Venue: SICW A1, Level 3*
 
 **Opening Address**
 <br>*Time: 9.00am to 9.20am (GMT +8)*
-<br>*Venue: SICW A1, Level 3*
 
 **Panel I: Multilateral, Multipolar - Cyber Diplomacy in a Digital Age**
 <br>*Time: 9.20am to 10.10am (GMT +8)*
