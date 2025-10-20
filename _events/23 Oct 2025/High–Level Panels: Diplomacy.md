@@ -28,13 +28,24 @@ When technology threatens the very foundations of sovereignty, jurisdiction, and
 | [Dr Vivian Balakrishnan](/speakers/dr-vivian-balakrishnan/)  | *Minister of Foreign Affairs*<br>Singapore      |
 | [Mr Nicholas Butts](/speakers/mr-nicholas-butts/)  | *Director, Global AI and Cybersecurity Policy* <br>Microsoft      |
 |<br>**Moderator**          |                                                              |
-| [Dr Shashi Jayakumar](/speakers/dr-shashi-jayakumar/)  | *Executive Director*, <br>SJK Geostrategic Advisory      |
+| [Dr Shashi Jayakumar](/speakers/dr-shashi-jayakumar/)  | *Executive Director* <br>SJK Geostrategic Advisory      |
 
-**Panel II: Cyber Diplomacy: Who Else Should Sit at the Table?**
-<br>*Time: 10.10am to 11.05am (GMT +8)*
-<br>Cyber diplomacy has traditionally been viewed as the domain of States. Yet, as digital technologies continue to shape every aspect of society, industry players, civil society groups and other non-traditional stakeholders are increasingly seeking to exert influence over the shaping of global cyber outcomes. Some of these companies are so plugged into providing services considered essential to the digital economy that their resources and heft often make them difficult to ignore. 
+**Panel II: A World Apart: The Pursuit of Interoperability**
+<br>*Time: 10.10am to 11.00am (GMT +8)*
+<br>In a world increasingly shaped by fragmenting multilateralism, tech competition and diverging cyber standards, how can States ensure secure, cohesive, and resilient ecosystems?
 
-The panel will explore the growing call to broaden participation to non-government stakeholders in cyber discussions so as to foster more inclusive, effective, and representative governance. It will consider whether governments remain best placed to lead decision-making on rules, norms, and standards, and if so, how industry, civil society, and other non-traditional stakeholders can contribute to these evolving and crucial discussions.
+There is a growing concern that the international community is now standing at digital crossroads where our next steps could either strengthen our collective defence and the global digital economy through the establishment of interoperable standards, or potentially widen the digital divide amongst States, especially small and developing ones, by taking decisions that would encourage tech bifurcation.
+
+This panel will examine the roadblocks and opportunities in the pursuit of interoperable frameworks, rules, norms, and standards in cyberspace, and the role of international organisations such as the UN and ASEAN in promoting collaboration and cooperation.
+
+|**Keynote Speaker**          |                                                              |
+| [Ms Claudia Plattner](/speakers/ms-claudia-plattner/)  | *President*<br>Federal Office of Information Security<br>Germany      |
+|<br>**Panellists**          |                                                              |
+| [Mr Miguel Ángel Cañada](/speakers/mr-miguel-angel-canada/)  | *Head of Cabinet and National Coordination Center (NCC-ES)*<br>Spanish National Cybersecurity Institute (INCIBE)<br>Spain      |
+| [AVM Amorn Chomchoey](/speakers/avm-amorn-chomchoey/)  | *Secretary General*<br>National Cybersecurity Agency of Thailand      |
+| [Ms Atsuko Okuda](/speakers/ms-atsuko-okuda/)  | *Regional Director*<br>ITU Regional Office for Asia &amp; the Pacific, International Telecommunications Union      |
+|<br>**Moderator**          |                                                              |
+| [Dr Tobias Feakin](/speakers/dr-tobias-feakin/)  | *Founder* <br>Protostar Strategy      |
 
 **Panel III: A World Apart: The Pursuit of Interoperability**
 <br>*Time: 11.05am to 11.55am (GMT +8)*
