@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – HE Alexandre Vital da Cruz Araújo Tilman.md
       - Speaker – HE Gobind Singh Deo.md
       - Speaker – AVM Amorn Chomchoey.md
       - Speaker – Mr Miguel Ángel Cañada.md
