@@ -24,9 +24,8 @@ As technology continues to operate seamlessly across a borderless cyberspace, qu
 
 When technology threatens the very foundations of sovereignty, jurisdiction, and consensus-based cooperation, has multilateralism reached its limit? This panel aims to consider how cyber diplomacy should adapt in order to stay relevant and effectively govern a borderless global cyberspace, while ensuring that all voices, big and small, are heard.
 
-|**Keynote Speaker**          |                                                              |
+|**Panellists**          |                                                              |
 | [Mr Jiří Kozák](/speakers/mr-jiri-kozak/)  | *First Deputy Minister of Foreign Affairs of the Czech Republic*      |
-|<br>**Panellists**          |                                                              |
 | [Ms Helen Popp](/speakers/ms-helen-popp/)  | *Ambassador at Large for Cyber Diplomacy* <br>Estonia      |
 | [Mr Ernst Noorman](/speakers/mr-ernst-noorman/)  | *Ambassador-at-Large for Cyber Affairs*<br>the Kingdom of the Netherlands      |
 | [Dr Vivian Balakrishnan](/speakers/dr-vivian-balakrishnan/)  | *Minister of Foreign Affairs*<br>Singapore      |
@@ -42,7 +41,7 @@ There is a growing concern that the international community is now standing at d
 
 This panel will examine the roadblocks and opportunities in the pursuit of interoperable frameworks, rules, norms, and standards in cyberspace, and the role of international organisations such as the UN and ASEAN in promoting collaboration and cooperation.
 
-|**Keynote Speaker**          |                                                              |
+|**Keynote Speaker &amp; Panellist**          |                                                              |
 | [Ms Claudia Plattner](/speakers/ms-claudia-plattner/)  | *President*<br>Federal Office of Information Security<br>Germany      |
 |<br>**Panellists**          |                                                              |
 | [Mr Miguel Ángel Cañada](/speakers/mr-miguel-angel-canada/)  | *Head of Cabinet and National Coordination Center (NCC-ES)*<br>Spanish National Cybersecurity Institute (INCIBE)<br>Spain      |
