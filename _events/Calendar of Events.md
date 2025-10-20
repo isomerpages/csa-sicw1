@@ -37,7 +37,7 @@ Event dates and timings below are in Singapore time (GMT +8).
 | 10.30am to 12.00pm           | [Mobile Security Roundtable](/events/22-oct/mobile-security-roundtable/)                               |
 | 11.05am to 11.55am           | [High-Level Panel: Survival of the Smartest — Agentic AI in Cybersecurity Operations](/events/22-oct/survival-of-the-smartest-agentic-ai-in-cybersecurity-operations/)                               |
 | 11.55am to 12.25pm           | [High-Level Panel: The New UN Processes - Possibilities and Challenges](/events/22-oct/high-level-panel-the-new-un-processes-possibilities-and-challenges/)                               |
-| 12.45pm to 5.50pm           | [10th ASEAN Ministerial Conference on Cybersecurity (AMCC)](/events/22-oct/10th-asean-ministerial-conference-on-cybersecurity-amcc/)                               |
+| 12.45pm to 5.45pm           | [10th ASEAN Ministerial Conference on Cybersecurity (AMCC)](/events/22-oct/10th-asean-ministerial-conference-on-cybersecurity-amcc/)                               |
 | 1.00pm to 3.00pm           | [Women in Cyber: Ask-Me-Anything](/events/22-oct/women-in-cyber/)                               |
 | 1.30pm to 3.30pm           | [A Coordinated Response: INTERPOL’s Efforts in Combatting Cybercrime Across Borders](/events/22-oct/a-coordinated-response-interpols-efforts-in-combatting-cybercrime-across-borders/)                               |
 | 3.00pm to 4.30pm           | [High-Level Panel: Insights into 2025’s Cyber Threats](/events/22-oct/high-level-panel-insights-into-2025-s-cyber-threats/)                               |
