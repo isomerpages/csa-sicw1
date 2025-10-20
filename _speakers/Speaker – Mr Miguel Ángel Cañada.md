@@ -4,6 +4,8 @@ permalink: /speakers/mr-miguel-angel-canada/
 variant: markdown
 description: ""
 ---
+
+![](/images/2025%20speakers/Miguel_Angel.png)
 #### **Mr Miguel Ángel Cañada**
 
 *Head of Cabinet and National Coordination Center (NCC-ES), <br>Spanish National Cybersecurity Institute (INCIBE)<br>Spain*
