@@ -4,6 +4,8 @@ permalink: /speakers/mr-nicholas-butts/
 variant: markdown
 description: ""
 ---
+
+![](/images/2025%20speakers/Nicholas_Butts.png)
 #### **Mr Nicholas Butts**
 
 *Director, Global AI and Cybersecurity Policy, <br>Microsoft*
