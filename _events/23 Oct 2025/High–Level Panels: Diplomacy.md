@@ -47,7 +47,7 @@ This panel will examine the roadblocks and opportunities in the pursuit of inter
 |<br>**Moderator**          |                                                              |
 | [Dr Tobias Feakin](/speakers/dr-tobias-feakin/)  | *Founder* <br>Protostar Strategy      |
 
-**Panel III: Making Consensus Work: The UN and the Future of International Cyber Cooperation**
+**Panel III: Making Consensus Work - The UN and the Future of International Cyber Cooperation**
 <br>*Time: 11.00am to 11.40am (GMT +8)*
 <br>The recently concluded United Nations Open Ended Working Group on security of and in the use of information and communications technologies (2021 to 2025) has agreed to establish a permanent Global Mechanism on developments in the field of ICTs in the context of international security and advancing responsible State behaviour in the use of ICTs (“UN Global Mechanism on ICTs Security”) by consensus.
 
