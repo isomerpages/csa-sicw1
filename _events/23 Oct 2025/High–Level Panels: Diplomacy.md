@@ -47,13 +47,21 @@ This panel will examine the roadblocks and opportunities in the pursuit of inter
 |<br>**Moderator**          |                                                              |
 | [Dr Tobias Feakin](/speakers/dr-tobias-feakin/)  | *Founder* <br>Protostar Strategy      |
 
-**Panel III: A World Apart: The Pursuit of Interoperability**
-<br>*Time: 11.05am to 11.55am (GMT +8)*
-<br>In a world increasingly shaped by fragmenting multilateralism, tech competition and diverging cyber standards, how can States ensure secure, cohesive, and resilient ecosystems? 
+**Panel III: Making Consensus Work: The UN and the Future of International Cyber Cooperation**
+<br>*Time: 11.00am to 11.40am (GMT +8)*
+<br>The recently concluded United Nations Open Ended Working Group on security of and in the use of information and communications technologies (2021 to 2025) has agreed to establish a permanent Global Mechanism on developments in the field of ICTs in the context of international security and advancing responsible State behaviour in the use of ICTs (“UN Global Mechanism on ICTs Security”) by consensus.
 
-There is a growing concern that the international community is now standing at digital crossroads where our next steps could either strengthen our collective defense and the global digital economy through the establishment of interoperable standards, or potentially widen the digital divide amongst States, especially small and developing ones, by taking decisions that would encourage tech bifurcation. 
+It is expected that when it is established next year,  the UN Global Mechanism on ICTs Security will serve as a structured, permanent forum that will provide both continuity and progress to discussions on the rules, norms, and principles of advancing responsible state behaviour as well as help foster international cooperation in cyberspace.
 
-This panel will examine the roadblocks and opportunities in the pursuit of interoperable frameworks, rules, norms, and standards in cyberspace, and the role of international organisations such as the UN and ASEAN in promoting collaboration and cooperation.
+However, there are also views that cyber discussions at the UN have not moved far enough to truly advance an effective rules-based multilateral order in cyberspace. Will the new permanent UN Global Mechanism on ICTs Security be effective in dealing with cyber issues of the day? How can the UN continue to move the needle on international cyber discussions?
+
+|**Panellists**          |                                                              |
+| [Ms Larissa Schneider Calza](/speakers/ms-larissa-schneider-calza/)  | *Head, Cyber Defense and Security Division*<br>Ministry of Foreign Affairs<br>Brazil      |
+| [Ms Tupou’tuah Baravilala](/speakers/ms-tupou-tuah-baravilala/)  | *Director-General for Digital Government Transformation, Cybersecurity and Communications*<br>Ministry of Communications<br>Fiji      |
+| [H.E. Gobind Singh Deo](/speakers/he-gobind-singh-deo/)  | *Minister of Digital*<br>Malaysia      |
+| [Mr Andrew Whittaker](/speakers/mr-andrew-whittaker/)  | *Cyber Policy Director, Foreign*<br>Commonwealth and Development Office<br>United Kingdom      |
+|<br>**Moderator**          |                                                              |
+| [Mr David Koh](/speakers/mr-david-koh/)  | *Commissioner of Cybersecurity, Chief Executive*<br>Cyber Security Agency of Singapore      |
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
