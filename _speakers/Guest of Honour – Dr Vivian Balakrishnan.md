@@ -4,6 +4,8 @@ permalink: /speakers/dr-vivian-balakrishnan/
 variant: markdown
 description: ""
 ---
+
+![](/images/2025%20speakers/Minister_Vivian_Balakrishnan.png)
 #### **Dr Vivian Balakrishnan**
 
 *Minister of Foreign Affairs,<br>Singapore*
