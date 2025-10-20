@@ -12,13 +12,23 @@ third_nav_title: 23 Oct 2025
 **Opening Address**
 <br>*Time: 9.00am to 9.20am (GMT +8)*
 
-**Panel I: Making Consensus Work: The UN and the Future of International Cyber Cooperation**
+**Panel I: Multilateral, Multipolar: Cyber Diplomacy in a Digital Age**
 <br>*Time: 9.20am to 10.10am (GMT +8)*
-<br>The recently concluded United Nations Open Ended Working Group on security of and in the use of information and communications technologies (2021 to 2025) has agreed to establish a permanent Global Mechanism on developments in the field of ICTs in the context of international security and advancing responsible State behaviour in the use of ICTs (“UN Global Mechanism on ICTs Security”) by consensus. 
+<br>The rapid spread and adoption of transboundary digital technologies and the policy, legislative and diplomatic pressures on States to keep pace with them have strained the bases of State power, and at the same time, State-State relations that underpin the existing multilateral framework.
 
-It is expected that when it is established next year,  the UN Global Mechanism on ICTs Security will serve as a structured, permanent forum that will provide both continuity and progress to discussions on the rules, norms and principles of advancing responsible state behaviour as well as help foster international cooperation in cyberspace. 
+As technology continues to operate seamlessly across a borderless cyberspace, questions are increasingly being asked if the multilateral system built over the last eighty years will be able to preserve its relevance in the face of new and emerging technologies such as AI, which has the potential to erode the power and influence previously enjoyed by States alone, and distribute to it to other, non-State actors.
 
-However, there are also views that cyber discussions at the UN have not moved far enough to truly advance an effective rules-based multilateral order in cyberspace. Will the new permanent UN Global Mechanism on ICTs Security be effective in dealing with cyber issues of the day? How can the UN continue to move the needle on international cyber discussions?
+When technology threatens the very foundations of sovereignty, jurisdiction, and consensus-based cooperation, has multilateralism reached its limit? This panel aims to consider how cyber diplomacy should adapt in order to stay relevant and effectively govern a borderless global cyberspace, while ensuring that all voices, big and small, are heard.
+
+|**Keynote Speaker**          |                                                              |
+| [Mr Jiří Kozák](/speakers/mr-jiri-kozak/)  | *First Deputy Minister of Foreign Affairs of the Czech Republic*      |
+|<br>**Panellists**          |                                                              |
+| [Ms Helen Popp](/speakers/ms-helen-popp/)  | *Ambassador at Large for Cyber Diplomacy* <br>Estonia      |
+| [Mr Ernst Noorman](/speakers/mr-ernst-noorman/)  | *Ambassador-at-Large for Cyber Affairs*<br>the Kingdom of the Netherlands      |
+| [Dr Vivian Balakrishnan](/speakers/dr-vivian-balakrishnan/)  | *Minister of Foreign Affairs*<br>Singapore      |
+| [Mr Nicholas Butts](/speakers/mr-nicholas-butts/)  | *Director, Global AI and Cybersecurity Policy* <br>Microsoft      |
+|<br>**Moderator**          |                                                              |
+| [Dr Shashi Jayakumar](/speakers/dr-shashi-jayakumar/)  | *Executive Director*, <br>SJK Geostrategic Advisory      |
 
 **Panel II: Cyber Diplomacy: Who Else Should Sit at the Table?**
 <br>*Time: 10.10am to 11.05am (GMT +8)*
