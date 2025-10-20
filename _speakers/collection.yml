@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Mr Nicholas Butts.md
       - Guest of Honour – Dr Vivian Balakrishnan.md
       - Moderator – Dr Shashi Jayakumar.md
       - Guest of Honour – Mr Tan Kiat How.md
