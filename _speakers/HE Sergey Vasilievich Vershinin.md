@@ -10,7 +10,7 @@ description: ""
 
 ##### **Biography**
 Born in 1954.
-
+<br>
 1976 – Graduated from the USSR Ministry of Foreign Affairs’ Moscow State Institute of International Relations (MGIMO University).<br>
 1991 – Graduated from the Diplomatic Academy of the Ministry of Foreign Affairs of Russia.  Has command of Arabic, French and English.<br>
 1976-1991 – worked at the Ministry’s HQ and diplomatic missions in Morocco (1976-1981) and Algeria (1984-1991).
