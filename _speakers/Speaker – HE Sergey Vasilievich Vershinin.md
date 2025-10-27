@@ -4,6 +4,8 @@ permalink: /speakers/he-sergey-vasilievich-vershinin/
 variant: markdown
 description: ""
 ---
+
+![](/images/2025%20speakers/HE_Sergey.png)
 #### **H.E. Sergey Vasilievich Vershinin**
 
 *Deputy Minister of Foreign Affairs, <br>Russia*
