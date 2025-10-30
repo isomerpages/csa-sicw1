@@ -9,7 +9,7 @@ variant: markdown
 #### **Ms Veronika Kolek Netolicka**
 
 *Cyber Attaché for the Indo-Pacific <br>
-NÚKIB*
+NÚKIB<br>Czech Republic*
 
 
 ##### **Biography**
