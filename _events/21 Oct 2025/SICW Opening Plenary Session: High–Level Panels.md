@@ -35,7 +35,7 @@ third_nav_title: 21 Oct 2025
 |<br>**Panellists**          |                                                              |
 | [H.E. Pengiran Dato Shamhary Mustapha](/speakers/pengiran-dato-shamhary-mustapha/)  | *Minister of Transport and Infocommunications*<br>Brunei      |
 | [Mr Vincent Strubel](/speakers/mr-vincent-strubel/)  | *Director General*<br>French Cybersecurity Agency (ANSSI)      |
-| [Ms Claudia Plattner](/speakers/ms-claudia-plattner/)  | *President*<br>German Federal Office for Information Security (BSI)<br>Germany      |
+| [Ms Claudia Plattner](/speakers/ms-claudia-plattner/)  | *President*<br>Federal Office for Information Security<br>Germany      |
 | [Mr Royal Hansen](/speakers/mr-royal-hansen/)  | *VP of Engineering*<br>Google      |
 |<br>**Moderator**          |                                                              |
 | [Professor Yaacob Ibrahim](/speakers/professor-yaacob-ibrahim/)  | *Adjunct Professor*<br>Lee Kuan Yew School of Public Policy      |
