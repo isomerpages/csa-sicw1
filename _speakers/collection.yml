@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker – Ms Miriam Howe.md
       - Speaker – Ms Heli Tiirmaa–Klaar.md
       - Guest of Honour – Dr Vivian Balakrishnan.md
       - Guest of Honour – Mr Tan Kiat How.md
