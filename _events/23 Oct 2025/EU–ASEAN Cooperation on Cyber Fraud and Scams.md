@@ -24,7 +24,7 @@ Scams and cyber-enabled fraud are today among the most pervasive forms of cyberc
 | [Mr Gaurav Keerthi](/speakers/mr-gaurav-keerthi/)  | *Chief Executive Officer* <br>StrongKeep      |
 | [Mr Ernst Noorman](/speakers/mr-ernst-noorman/)  | *Ambassador at Large for Cyber Affairs* <br>Kingdom of the Netherlands      |
 |<br>**Moderator**          |                                                              |
-| [H.E. Marta Pelechova](/speakers/he-marta-pelechova/)  | *Special Envoy for Cyberspace, Cyber Ambassador* <br>Ministry of Foreign Affairs of the Czech Republic<br>Czech Republic      |
+| [Ms Veronika Kolek Netolicka](/speakers/ms-veronika-kolek-netolicka/)  | *Cyber Attaché for the Indo-Pacific* <br>NÚKIB<br>Czech Republic      |
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
