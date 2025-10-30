@@ -15,7 +15,7 @@ The Global Cybersecurity Labelling Initiative (GCLI) convenes participating nati
 
 |**Speaker**          |                                                              |
 | [Mr Chua Kuan Seah](/speakers/mr-chua-kuan-seah/)  | *Deputy Commissioner of Cybersecurity, <br>Deputy Chief Executive (Development) of Cyber Security Agency of Singapore (CSA)*      |
-| [Ms Claudia Plattner](/speakers/ms-claudia-plattner/)  | *President* <br>German Federal Office for Information Security (BSI)<br>Germany      |
+| [Ms Claudia Plattner](/speakers/ms-claudia-plattner/)  | *President* <br>Federal Office for Information Security<br>Germany      |
 
 <br><br><br>
 *All information is accurate at time of publication and may be subject to changes.*
