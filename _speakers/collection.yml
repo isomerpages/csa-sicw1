@@ -2,14 +2,10 @@ collections:
   speakers:
     output: true
     order:
-      - Speaker – HE Alexandre Vital da Cruz Araújo Tilman.md
-      - Speaker – HE Gobind Singh Deo.md
-      - Speaker – AVM Amorn Chomchoey.md
-      - Speaker – Mr Miguel Ángel Cañada.md
-      - Moderator – Dr Tobias Feakin.md
-      - Speaker – Mr Nicholas Butts.md
+      - Moderator – Ms Veronika Kolek Netolicka.md
+      - Speaker – Ms Miriam Howe.md
+      - Speaker – Ms Heli Tiirmaa–Klaar.md
       - Guest of Honour – Dr Vivian Balakrishnan.md
-      - Moderator – Dr Shashi Jayakumar.md
       - Guest of Honour – Mr Tan Kiat How.md
       - Guest of Honour – Mrs Josephine Teo.md
       - Guest of Honour – Mr K Shanmugam.md
@@ -31,8 +27,10 @@ collections:
       - Speaker – Ms Manon Le Blanc.md
       - Speaker – Dr Bushra Al Blooshi.md
       - Speaker – Mr Doug Browne.md
+      - Speaker – Mr Nicholas Butts.md
       - Speaker – Engr Allan Salim Cabanlong.md
       - Speaker – Ms Larissa Schneider Calza.md
+      - Speaker – Mr Miguel Ángel Cañada.md
       - Speaker – Mr Esteban Castaño.md
       - Speaker – Mr Ken Chan.md
       - Speaker – Mr Chan Tsan.md
@@ -42,10 +40,12 @@ collections:
       - Speaker – Mr Eugene Chew.md
       - Speaker – Mr Raman Jit Singh Chima.md
       - Speaker – Ms April Chin.md
+      - Speaker – AVM Amorn Chomchoey.md
       - Speaker – Mr Chua Kuan Seah.md
       - Speaker – Mrs Friederike Dahns.md
       - Speaker – Mr Dan Yock Hau.md
       - Speaker – Dr Tara Maria Davenport.md
+      - Speaker – HE Gobind Singh Deo.md
       - Speaker – Mr Ilya Dreytser.md
       - Speaker – Mr David van Duren.md
       - Speaker – Mr Andrew Elliot.md
@@ -117,7 +117,9 @@ collections:
       - Speaker – Dr Tan Teik Guan.md
       - Speaker – Mr Teo Xiang Zheng.md
       - Speaker – Ms Kathryn Thornton.md
+      - Speaker – HE Alexandre Vital da Cruz Araújo Tilman.md
       - Speaker – Mr Stanley Tsang.md
+      - Speaker – HE Sergey Vasilievich Vershinin.md
       - Speaker – Dr Paul Vixie.md
       - Speaker – Mr Andrew Whittaker.md
       - Speaker – Dr Yang Yinping.md
@@ -133,8 +135,10 @@ collections:
       - Moderator – Mr Alexander Botting.md
       - Moderator – BG Edward Chen.md
       - Moderator – Mr Keith Detros.md
+      - Moderator – Dr Tobias Feakin.md
       - Moderator – Mr Stephen Fogarty.md
       - Moderator – Professor Yaacob Ibrahim.md
+      - Moderator – Dr Shashi Jayakumar.md
       - Moderator – Ms Anastasiya Kazakova.md
       - Moderator – Mr Gaurav Keerthi.md
       - Moderator – Mr Ashok Kumar Mirpuri.md

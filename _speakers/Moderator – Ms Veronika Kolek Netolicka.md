@@ -1,14 +1,15 @@
 ---
-title: Speaker – Ms Veronika Kolek Netolicka
+title: Moderator – Ms Veronika Kolek Netolicka
 permalink: /speakers/ms-veronika-kolek-netolicka/
 description: ""
+variant: markdown
 ---
 ![](/images/2023%20Speakers/veronika%20kolek%20netolicka.png)
 
 #### **Ms Veronika Kolek Netolicka**
 
 *Cyber Attaché for the Indo-Pacific <br>
-NÚKIB*
+NÚKIB<br>Czech Republic*
 
 
 ##### **Biography**

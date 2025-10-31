@@ -21,6 +21,7 @@ This panel will convene senior government and industry leaders to discuss the th
 | [Ms Kathryn Thornton](/speakers/ms-kathryn-thornton/)  | *Head of Legal, Asia Pacific and Japan* <br>Ciena<br>Australia      |
 | [Dr Paul Vixie](/speakers/mr-paul-vixie/)  | *Deputy CISO, VP &amp; Distinguished Engineer* <br>Amazon Web Services<br>United States of America      |
 | [Dr Tara Maria Davenport](/speakers/dr-tara-maria-davenport/)  | *Assistant Professor at the Faculty of Law* <br>National University of Singapore (NUS)<br>Singapore      |
+| [Ms Heli Tiirmaa-Klaar](/speakers/ms-heli-tiirmaa-klaar/)  | *Chair of the UDCG IT Coalition Steering Group* <br>Estonian Ministry of Defence<br>Estonia      |
 |<br>**Moderator**          |                                                              |
 | [Mr Alexander Botting](/speakers/mr-alexander-botting/)  | *Senior Director* <br>Center for Cybersecurity Policy &amp; Law<br>United States of America      |
 

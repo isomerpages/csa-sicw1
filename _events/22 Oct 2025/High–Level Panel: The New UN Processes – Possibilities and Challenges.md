@@ -16,6 +16,7 @@ The successful conclusion of the 2nd UN Open-Ended Working Group (OEWG) on ICTs 
 |**Panellists**          |                                                              |
 | [Ms Larissa Schneider Calza](/speakers/ms-larissa-schneider-calza/)  | *Head of the Cyber Defense and Security Division*<br>Ministry of Foreign Affairs<br>Brazil      |
 | [Ms Tupou’tuah Baravilala](/speakers/ms-tupou-tuah-baravilala/)  | *Director-General for Digital Government Transformation, Cybersecurity and Communications* <br>Ministry of Communications<br>Fiji      |
+| [H.E. Sergey Vasilievich Vershinin](/speakers/he-sergey-vasilievich-vershinin/)  | *Deputy Minister of Foreign Affairs* <br>Russia      |
 | [H.E. Alexandre Vital da Cruz Araújo Tilman](/speakers/he-alexandre-vital-da-cruz-ara-jo-tilman/)  | *Ambassador to Singapore* <br>Democratic Republic of Timor-Leste      |
 | [Dr Giacomo Persi Paoli](/speakers/dr-giacomo-persi-paoli/)  | *Head of the Security and Technology Programme* <br>United Nations Institute for Disarmament Research (UNIDIR)      |
 |<br>**Moderator**          |                                                              |
