@@ -28,7 +28,7 @@ sections:
   - infobar:
       title: SICW 2025 at a Glance
       id: infobar
-      description: <img src="/images/HighlightsStatsOverviewIcons_2025_v2.jpg">
+      description: <img src="/images/HighlightsStatsOverviewIcons_2025_v2.png">
   - infobar:
       title: SICW 2025 highlights + videos
       subtitle: Add informational text
