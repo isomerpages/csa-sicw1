@@ -17,9 +17,9 @@ sections:
         - title: Calendar<br>of Events
           description: ""
           url: /events/calendar-of-events-2025/
-        - title: Register<br>Now
+        - title: Register<br>Interest
           description: ""
-          url: /registration/
+          url: /register-your-interest/
   - infopic:
       id: infopic
       description: <img src="/images/HomePg_AboutTextv3.jpg">
