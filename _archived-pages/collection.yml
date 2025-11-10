@@ -1,5 +1,5 @@
 collections:
-  archived-pages-2024:
+  archived-pages:
     output: true
     order:
       - 2024 Registration.md
