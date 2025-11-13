@@ -4,7 +4,8 @@ permalink: /about-sicw/
 description: ""
 variant: markdown
 ---
-![](/images/logos/About_SICW_logo_2025.png)
+
+![](/images/logos/SICW_logo_FULL_COLOUR__Purple.png)
 
 ![SICW](/images/AboutPgTitle_Blue.png)
 
