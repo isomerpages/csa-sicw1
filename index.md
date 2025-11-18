@@ -45,7 +45,7 @@ sections:
       button: View All Resources
       url: /resources/
   - textcards:
-      title: Event Highlights
+      title: Event Highlights (to be removed)
       id: textcards
       cards:
         - title: SICW Opening Ceremony & High-Level Plenaries
@@ -71,7 +71,7 @@ sections:
       description: <a target="blank" href="/events/calendar-of-events-2025/">View All
         SICW 2025 Events</a>
   - infobar:
-      title: Revisit SICW 2024
+      title: Revisit SICW 2024 (to be removed)
       id: infobar
       description: <img
         src="https://www.sicw.gov.sg/images/HighlightsStatsOverviewIcons.png"><br>
