@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/250904_SICW_2025_Hero_Banner_WEB.jpg
+      background: /images/251118_SICW_2026_Save_the_date_Hero_Banner_WEB.jpg
       key_highlights:
         - title: About<br>SICW 2025
           description: ""
@@ -41,7 +41,7 @@ sections:
   - infobar:
       title: Past SICW Resources
       id: infobar
-      description: <img src="/images/ResourcesIcons3.png">
+      description: <img src="/images/ResourcesIcons4.png">
       button: View All Resources
       url: /resources/
   - textcards:
