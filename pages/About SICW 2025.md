@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/logos/SICW_logo_FULL_COLOUR_2.png">
+<img style="width: 62%;" height="auto" width="100%" alt="" src="/images/logos/Logos__no_year_191125_01.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
