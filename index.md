@@ -14,9 +14,6 @@ sections:
         - title: About<br>SICW 2025
           description: ""
           url: /about-sicw/
-        - title: Calendar<br>of Events
-          description: ""
-          url: /events/calendar-of-events-2025/
         - title: Register<br>Interest
           description: ""
           url: /register-your-interest/
