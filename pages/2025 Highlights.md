@@ -22,4 +22,4 @@ Under the theme of ‘Shaping the Next Era of Global Cybersecurity’, SICW 2025
 
 ![](/images/2025_Home_Page_6_GOH_Image_3x1_v3.jpg)
 
-![](/images/2025_Home_Page_11_Distinguished_Guests_Image_3x1_v4.jpg)
+![](/images/updated_2025_Home_Page_11_Distinguished_Guests_Image_3x1.jpg)
