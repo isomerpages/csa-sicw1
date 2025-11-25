@@ -34,7 +34,7 @@ sections:
   - infobar:
       id: infobar
       description: <img src="/images/2025_Home_Page_6_GOH_Image_3x1_v3.jpg"> <img
-        src="/images/2025_Home_Page_11_Distinguished_Guests_Image_3x1_v4.jpg">
+        src="/images/updated_2025_Home_Page_11_Distinguished_Guests_Image_3x1.jpg">
   - infobar:
       title: Past SICW Resources
       id: infobar
