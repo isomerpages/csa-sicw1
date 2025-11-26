@@ -2,9 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Moderator – Ms Veronika Kolek Netolicka.md
-      - Speaker – Ms Miriam Howe.md
-      - Speaker – Ms Heli Tiirmaa–Klaar.md
       - Guest of Honour – Dr Vivian Balakrishnan.md
       - Guest of Honour – Mr Tan Kiat How.md
       - Guest of Honour – Mrs Josephine Teo.md
@@ -65,6 +62,7 @@ collections:
       - Speaker – Mr Enrique Hernandez.md
       - Speaker – Mr Marc Henauer.md
       - Speaker – Dr Richard Horne.md
+      - Speaker – Ms Miriam Howe.md
       - Speaker – Ms Jessica Hunter.md
       - Speaker – Ms Pua Hunter.md
       - Speaker – Mr Danny Jaspers.md
@@ -117,6 +115,7 @@ collections:
       - Speaker – Dr Tan Teik Guan.md
       - Speaker – Mr Teo Xiang Zheng.md
       - Speaker – Ms Kathryn Thornton.md
+      - Speaker – Ms Heli Tiirmaa–Klaar.md
       - Speaker – HE Alexandre Vital da Cruz Araújo Tilman.md
       - Speaker – Mr Stanley Tsang.md
       - Speaker – HE Sergey Vasilievich Vershinin.md
@@ -142,6 +141,7 @@ collections:
       - Moderator – Ms Anastasiya Kazakova.md
       - Moderator – Mr Gaurav Keerthi.md
       - Moderator – Mr Ashok Kumar Mirpuri.md
+      - Moderator – Ms Veronika Kolek Netolicka.md
       - Moderator – HE Marta Pelechova.md
       - Moderator – Mr Paolo Pellegrino.md
       - Moderator – Ms Allison Pytlak.md
