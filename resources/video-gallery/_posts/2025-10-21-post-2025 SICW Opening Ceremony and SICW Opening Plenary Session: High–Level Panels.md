@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### **SICW Opening Ceremony and SICW Opening Plenary Session: High-Level Panels**
+#### **2025 SICW Opening Ceremony and SICW Opening Plenary Session: High-Level Panels**
 
 The SICW Opening Ceremony featured a keynote address by Singapore’s Coordinating Minister for National Security and Minister for Home Affairs, Mr K Shanmugam.
 
