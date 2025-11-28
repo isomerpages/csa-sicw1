@@ -11,7 +11,7 @@ Under the theme of ‘Shaping the Next Era of Global Cybersecurity’, SICW 2025
 **SICW 2025 HIGHLIGHTS**
 ![](/images/HighlightsStatsOverviewIcons_2025_v2.png)
 
-![](/images/2025_highlights_montage.png)
+![](/images/2025_highlights_montage_v2.png)
 
 **RELIVE THE KEY MOMENTS AT SICW 2025**
 <br>[Bloomberg Vid 1]
