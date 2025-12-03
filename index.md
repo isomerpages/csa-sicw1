@@ -30,9 +30,7 @@ sections:
       title: SICW 2025 highlights + videos
       subtitle: Add informational text
       id: infobar
-      description: pending  <img
-        src="https://www.sicw.gov.sg/images/HighlightsStatsOverviewIcons.png"><br>
-        <iframe allowfullscreen="" allow="accelerometer; autoplay;
+      description: pending  <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/uQY8cgmmCF8?si=1SddTXoSVNaU6Y2E"
