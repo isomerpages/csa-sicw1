@@ -30,15 +30,15 @@ sections:
       title: SICW 2025 highlights + videos
       subtitle: Add informational text
       id: infobar
-      description: pending  <iframe allowfullscreen="" allow="accelerometer; autoplay;
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/uQY8cgmmCF8?si=1SddTXoSVNaU6Y2E"
+        src="https://www.youtube.com/embed/cXs8pmXHlgE?si=N5vwPgFwYF-3i3gg"
         height="315" width="100%"></iframe> <br> <iframe allowfullscreen=""
         allow="accelerometer; autoplay; clipboard-write; encrypted-media;
         gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube
         video player"
-        src="https://www.youtube.com/embed/qzeSqFBSVco?si=WR8Rvrb97-TjIJCI"
+        src="https://www.youtube.com/embed/iyq7UWisMXU?si=36JQ66-REPkbzruI"
         height="315" width="100%"></iframe>
   - infobar:
       id: infobar
