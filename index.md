@@ -27,8 +27,7 @@ sections:
       id: infobar
       description: <img src="/images/HighlightsStatsOverviewIcons_2025_v2.png">
   - infobar:
-      title: SICW 2025 highlights + videos
-      subtitle: Add informational text
+      title: Revisit SICW 2025
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
