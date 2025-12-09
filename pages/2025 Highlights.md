@@ -14,11 +14,11 @@ Under the theme of ‘Shaping the Next Era of Global Cybersecurity’, SICW 2025
 ![](/images/2025_highlights_montage_v2.png)
 
 **RELIVE THE KEY MOMENTS AT SICW 2025**
-<br>[Bloomberg Vid 1]
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/uQY8cgmmCF8?si=1SddTXoSVNaU6Y2E" height="415" width="100%"></iframe>
 <br>
-[Bloomberg Vid 2]
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qzeSqFBSVco?si=h7lfuvdeG94tAR7e" height="415" width="100%"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/cXs8pmXHlgE?si=N5vwPgFwYF-3i3gg" height="415" width="100%"></iframe>
+<br>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/iyq7UWisMXU?si=36JQ66-REPkbzruI" height="415" width="100%"></iframe>
 
 ![](/images/2025_Home_Page_6_GOH_Image_3x1_v3.jpg)
 
