@@ -55,4 +55,4 @@ Whether you are an employer, service provider, policymaker, or cybersecurity pro
 **Moderator**
 <br>Mr Andre Shori, Asia Pacific Cybersecurity Vice President and Chief Information Security Officer, Schneider Electric, Singapore
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BpfOmUB1uec?si=xVjHiGMntWT2cZke" width="100%" height="445"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SV0tHlrIT5M?si=IGO3uQRE9Y8WIHYj" width="100%" height="445"></iframe>
