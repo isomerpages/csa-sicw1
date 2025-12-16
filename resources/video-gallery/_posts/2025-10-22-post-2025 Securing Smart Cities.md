@@ -26,4 +26,4 @@ The event also featured a panel discussion exploring how different stakeholders 
 * Mr Mark du Plessis, Cyber Partner, Deloitte SEA
 
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BpfOmUB1uec?si=xVjHiGMntWT2cZke" width="100%" height="445"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Q1CS2zLn9HA?si=cGrR8xfudTkjeXdz" width="100%" height="445"></iframe>
