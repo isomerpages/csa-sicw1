@@ -22,4 +22,4 @@ The scenario-based discussion centred around Navigating Critical Dependencies in
 * Dr Camino Kavanagh, Visiting Senior Fellow, Department of War Studies, King’s College London, United Kingdom
 * Mr Ang Leong Boon, Programme Co-Director (UNSCF) and Head of IT Security, National University of Singapore (NUS), Singapore
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BpfOmUB1uec?si=xVjHiGMntWT2cZke" width="100%" height="445"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/84UTxpdaH4I?si=CyLt17vopfFfGmpS" width="100%" height="445"></iframe>
