@@ -32,12 +32,12 @@ sections:
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/cXs8pmXHlgE?si=N5vwPgFwYF-3i3gg"
+        src="https://www.youtube.com/embed/GjoaHw2tBe8?si=CEt2dFIKXhhOMwfE"
         height="315" width="100%"></iframe> <br> <iframe allowfullscreen=""
         allow="accelerometer; autoplay; clipboard-write; encrypted-media;
         gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube
         video player"
-        src="https://www.youtube.com/embed/iyq7UWisMXU?si=36JQ66-REPkbzruI"
+        src="https://www.youtube.com/embed/99KzMpla28U?si=DBBZqzu-Zs_tC2LX"
         height="315" width="100%"></iframe>
   - infobar:
       id: infobar
