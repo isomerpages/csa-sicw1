@@ -31,4 +31,4 @@ This high-level panel convened leaders and decision makers in the government and
 <br>Mr Ed Ratcliffe, Executive Director, Southeast Asia Public Policy Institute, Singapore
 
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BpfOmUB1uec?si=xVjHiGMntWT2cZke" width="100%" height="445"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1tyquawmYPo?si=DFyROx-PTLz0yrlY" width="100%" height="445"></iframe>
