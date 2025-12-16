@@ -23,4 +23,4 @@ The SICW Summit by-invitation only gala dinner kicked off the 10th Singapore Int
 <br>Chief (Digital Security &amp; Technology), Chief Quantum Advisor, Ministry of Digital Development and Information, Singapore
 * Lieutenant General Michelle McGuinness, National Cyber Security Coordinator, National Office of Cyber Security, Australia
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BpfOmUB1uec?si=xVjHiGMntWT2cZke" width="100%" height="445"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Fd-_E4EZWVw?si=9N8INgRnd3ZtSeBH" width="100%" height="445"></iframe>
