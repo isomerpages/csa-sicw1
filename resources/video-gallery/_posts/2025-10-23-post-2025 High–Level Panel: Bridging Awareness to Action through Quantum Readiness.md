@@ -23,4 +23,4 @@ As quantum computing rapidly advances, the conversation around quantum readiness
 **Moderator**
 <br>Dr Colin Soutar, Managing Director, Global Quantum Cyber Readiness Leader, Deloitte &amp; Touche LLP, United States of America
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BpfOmUB1uec?si=xVjHiGMntWT2cZke" width="100%" height="445"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OUQG71aKksw?si=gC1_dTlTz87Zg7mT" width="100%" height="445"></iframe>
