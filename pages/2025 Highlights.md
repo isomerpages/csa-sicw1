@@ -15,10 +15,10 @@ Under the theme of ‘Shaping the Next Era of Global Cybersecurity’, SICW 2025
 
 **RELIVE THE KEY MOMENTS AT SICW 2025**
 <br>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/cXs8pmXHlgE?si=N5vwPgFwYF-3i3gg" height="415" width="100%"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GjoaHw2tBe8?si=CEt2dFIKXhhOMwfE" height="415" width="100%"></iframe>
 <br>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/iyq7UWisMXU?si=36JQ66-REPkbzruI" height="415" width="100%"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/99KzMpla28U?si=DBBZqzu-Zs_tC2LX" height="415" width="100%"></iframe>
 
 ![](/images/2025_Home_Page_6_GOH_Image_3x1_v3.jpg)
 
