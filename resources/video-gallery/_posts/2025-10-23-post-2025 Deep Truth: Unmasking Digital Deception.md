@@ -28,4 +28,4 @@ Finally, Ms. Therese Quieta demonstrated the use of content authenticity technol
 * Ms Therese Quieta, Head of Systems Engineering &amp; Work Package Lead, Integrated Engineering (WP8), Centre for Advanced Technologies in Online Safety (CATOS), Principal Research Engineer, Institute of High Performance Computing (IHPC), A*STAR, Singapore
 
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BpfOmUB1uec?si=xVjHiGMntWT2cZke" width="100%" height="445"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Qco9FB1FU_g?si=sksTMKusiUWOBhyc" width="100%" height="445"></iframe>
