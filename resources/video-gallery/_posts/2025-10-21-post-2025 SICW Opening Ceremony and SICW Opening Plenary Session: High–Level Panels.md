@@ -61,4 +61,4 @@ This panel invited government and industry leaders to confront hard questions of
 **Moderator**
 <br>Mr Gaurav Keerthi, Chief Executive Officer, Strongkeep
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BpfOmUB1uec?si=xVjHiGMntWT2cZke" width="100%" height="445"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Km4nKS3akYQ?si=TiHEgMG_smfMCadz" width="100%" height="445"></iframe>
