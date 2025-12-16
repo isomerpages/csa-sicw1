@@ -27,4 +27,4 @@ The panel “Can Cybersecurity and Development Teams Work Together to Achieve Se
 <br>Ms Kelly Shortridge, Author of Security Chaos Engineering: Sustaining Resilience in Software and Systems, and VP of Security Products, Fastly, United States of America
 
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BpfOmUB1uec?si=xVjHiGMntWT2cZke" width="100%" height="445"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/HZcR26-FO_Q?si=mTFpoY7C-DwIqUjp" width="100%" height="445"></iframe>
