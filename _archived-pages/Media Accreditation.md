@@ -1,6 +1,6 @@
 ---
 title: Media Accreditation
-permalink: /media-accreditation/
+permalink: /archive/media-accreditation/
 variant: markdown
 description: ""
 ---

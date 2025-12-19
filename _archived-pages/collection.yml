@@ -1,5 +1,6 @@
 collections:
-  archived-pages-2024:
+  archived-pages:
     output: true
     order:
+      - Media Accreditation.md
       - 2024 Registration.md

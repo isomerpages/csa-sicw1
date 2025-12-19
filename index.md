@@ -4,76 +4,49 @@ title: Singapore International Cyber Week
 description: Singapore International Cyber Week (SICW) is Asia-Pacific’s most
   established cybersecurity event for global policy makers, thought leaders and
   industry experts.
-image: /images/logos/SICW_2025_logo.png
+image: /images/logos/Logos__no_year_191125_01.png
 permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/250904_SICW_2025_Hero_Banner_WEB.jpg
+      background: /images/251118_SICW_2026_Save_the_date_Hero_Banner_WEB.jpg
       key_highlights:
         - title: About<br>SICW 2025
           description: ""
           url: /about-sicw/
-        - title: Calendar<br>of Events
+        - title: Register<br>Interest
           description: ""
-          url: /events/calendar-of-events-2025/
-        - title: Register<br>Now
-          description: ""
-          url: /registration/
+          url: /register-your-interest/
   - infopic:
       id: infopic
       description: <img src="/images/HomePg_AboutTextv3.jpg">
       image: /images/AboutSICWGIF4.gif
       alt: Image alt text
   - infobar:
+      title: SICW 2025 at a Glance
       id: infobar
-      description: <img src="/images/2025_Home_Page_6_GOH_Image_3x1_v3.jpg"> <img
-        src="/images/2025_Home_Page_11_Distinguished_Guests_Image_3x1_v4.jpg">
-  - textcards:
-      title: Event Highlights
-      id: textcards
-      cards:
-        - title: SICW Opening Ceremony & High-Level Plenaries
-          description: Kick-off with the SICW Launch and Key Insights from Global Cyber
-            Leaders
-          linktext: Learn more
-          url: /events/21-oct/sicw-opening-ceremony/
-        - title: ASEAN Ministerial Conference on Cybersecurity
-          description: Ministerial-level Dialogues on Key Cyber Issues and Enhanced
-            Cooperation
-          linktext: Learn more
-          url: /events/22-oct/10th-asean-ministerial-conference-on-cybersecurity-amcc/
-        - title: High-Level Panels
-          description: Government and Industry-helmed Panels on Diplomacy, Policy,
-            Operations and Tech
-          linktext: Learn more
-          url: /events/calendar-of-events-2025/
-        - title: GovWare 2025
-          description: SICW’s Anchor Trade Conference and Exhibition Connecting Global
-            Cyber Leaders
-          linktext: Learn more
-          url: /events/21-oct/govware-conference-exhibition-2025/
-      description: <a target="blank" href="/events/calendar-of-events-2025/">View All
-        SICW 2025 Events</a>
+      description: <img src="/images/HighlightsStatsOverviewIcons_2025_v2.png">
   - infobar:
-      title: Revisit SICW 2024
+      title: Revisit SICW 2025
       id: infobar
-      description: <img
-        src="https://www.sicw.gov.sg/images/HighlightsStatsOverviewIcons.png"><br>
-        <iframe allowfullscreen="" allow="accelerometer; autoplay;
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/uQY8cgmmCF8?si=1SddTXoSVNaU6Y2E"
+        src="https://www.youtube.com/embed/GjoaHw2tBe8?si=CEt2dFIKXhhOMwfE"
         height="315" width="100%"></iframe> <br> <iframe allowfullscreen=""
         allow="accelerometer; autoplay; clipboard-write; encrypted-media;
         gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube
         video player"
-        src="https://www.youtube.com/embed/qzeSqFBSVco?si=WR8Rvrb97-TjIJCI"
+        src="https://www.youtube.com/embed/99KzMpla28U?si=DBBZqzu-Zs_tC2LX"
         height="315" width="100%"></iframe>
+  - infobar:
+      id: infobar
+      description: <img src="/images/2025_Home_Page_6_GOH_Image_3x1_v3.jpg"> <img
+        src="/images/updated_2025_Home_Page_11_Distinguished_Guests_Image_3x1.jpg">
   - infobar:
       title: Past SICW Resources
       id: infobar
-      description: <img src="/images/ResourcesIcons3.png">
+      description: <img src="/images/ResourcesIcons4.png">
       button: View All Resources
       url: /resources/
 ---
